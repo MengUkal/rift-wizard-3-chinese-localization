@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+diag*.txt
+diag_out.txt
+sweep_words.txt
+sweep2.txt
+repair_keys.json
+repair_mixed.json
+test_run_backup/

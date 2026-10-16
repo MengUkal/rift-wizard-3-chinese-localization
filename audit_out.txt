@@ -1,0 +1,421 @@
+=== A. 保留原文（与英文相同）: 414 条 ===
+  '\n\t\\[\n\t\t(?P<m_name>[^\\]:]+)\n\t\t(?::(?P<m_tag>[^\\]]+))?\n\t\\]\n\t(?P<m_punc>[.,:;!?]+(?=\\s|$))?\n\t'   <- RiftWizard3.py:634
+  '\nCast %s on shot targets'   <- Spells.py:2148
+  '\nGenerating level for %d'   <- LevelGen.py:480
+  ' has size '   <- RiftWizard3.py:960
+  ' is unsupported.'   <- RiftWizard3.py:713
+  ' missing anim '   <- RiftWizard3.py:992
+  ' not divisible by frame_size '   <- RiftWizard3.py:960
+  ' x%d'   <- RiftWizard3.py:7194
+  '##~.....PP..3..~##'   <- Vaults.py:425
+  '##~..3..PP.....~##'   <- Vaults.py:418
+  '#....#O.44.O#....#'   <- Vaults.py:659
+  '#.O#..........#O.#'   <- Vaults.py:458
+  '#O.#..........#.O#'   <- Vaults.py:459
+  '#O.#..5....7..#.O#'   <- Vaults.py:461
+  '#Status_Fight'   <- SteamAdapter.py:228
+  '#Status_FightTrial'   <- SteamAdapter.py:228
+  '#Status_Level'   <- SteamAdapter.py:229
+  '#Status_LevelTrial'   <- SteamAdapter.py:229
+  '#~#3H3.#..#.3H3#~#'   <- Vaults.py:495
+  '#~#P..6#..#6..P#~#'   <- Vaults.py:494
+  '#~~.#..3HH3..#.~~#'   <- Vaults.py:504
+  '%(asctime)s: %(message)s'   <- SteamAdapter.py:15
+  '%d/%d'   <- RiftWizard3.py:8544
+  '+%d %s'   <- Equipment.py:9694
+  '+%d%% %s'   <- Equipment.py:9695
+  '...#3~2.~P.O.3....'   <- Vaults.py:586
+  '...#O~#~3P.~#.#...'   <- Vaults.py:573
+  '......#P..X#......'   <- Vaults.py:743
+  '...~##P####P##~...'   <- Vaults.py:452
+  './cheat_save'   <- RiftWizard3.py:3012
+  '.A..##########..B.'   <- Vaults.py:736
+  '.O..##.####.##..O.'   <- Vaults.py:376
+  '.O..##......##..O.'   <- Vaults.py:379
+  '.mp3'   <- RiftWizard3.py:112
+  '7#######OO#######7'   <- Vaults.py:612
+  '; using placeholder.'   <- RiftWizard3.py:992
+  '<<<< PGUP'   <- RiftWizard3.py:8959
+  '<<<< PGUP {prv}/{nxt} PGDN >>>>'   <- RiftWizard3.py:7303
+  '<Color %d %d %d>'   <- Level.py:417
+  '<invalid>'   <- RiftWizard3.py:9466
+  'ALL_EQUIPMENT_LEARNED'   <- SteamAdapter.py:304
+  'ALL_EQUIPMENT_VICTORIED'   <- SteamAdapter.py:310
+  'ALL_LEVEL_20_BOSSES'   <- SteamAdapter.py:434
+  'ALL_SPELLS_LEARNED'   <- SteamAdapter.py:301
+  'ALL_SPELLS_VICTORIED'   <- SteamAdapter.py:307
+  'ALL_VAULTS'   <- Mutators.py:690
+  'AMARU'   <- FinalBosses.py:2124
+  'ANGEL_TAMER'   <- Mutators.py:644
+  'ARCHANGEL_SET'   <- Mutators.py:627
+  'ARCHMAGE'   <- SteamAdapter.py:369
+  'AgjpqyWMÅÄÖ水你'   <- RiftWizard3.py:6627
+  'Alcoves: attempts=%d depth=%d'   <- LevelGenHelpers.py:875
+  'Anim'   <- Level.py:2030
+  'ArmageddonBlade'   <- Level.py:4798
+  'AssassinBlade'   <- Level.py:4803
+  'BAFFLEMENT'   <- FinalBosses.py:2121
+  'BIG_DAMAGE_TURN'   <- SteamAdapter.py:409
+  'BODY_ELECTRIC'   <- FinalBosses.py:2123
+  'BRISK_GAME'   <- SteamAdapter.py:412
+  'Banded: %s %d doors=%d thick=%d'   <- LevelGenHelpers.py:1057
+  'Bisymmetry (%s, %s)'   <- LevelGenHelpers.py:261
+  'Border: %d (%s, %s)'   <- LevelGenHelpers.py:177
+  'BridgeStitch: %d'   <- LevelGenHelpers.py:901
+  'Buff_Apply'   <- Level.py:4785
+  'BurstConeParams'   <- Level.py:340
+  'CAST_CHAIN_CAP'   <- Mutators.py:693
+  'CHESS_SET'   <- Mutators.py:642
+  'CHRONOMANCER'   <- Mutators.py:613
+  'CL'   <- RiftWizard3.py:104
+  'CRIMSON_SET'   <- Mutators.py:628
+  'CRYOMANCER'   <- Mutators.py:606
+  "Can't get asset for "   <- RiftWizard3.py:713
+  'Cannot add %s at %s, already has %s'   <- Level.py:4113
+  'Cannot find asset for '   <- RiftWizard3.py:775
+  'CastAction'   <- Level.py:1002
+  'CastContext'   <- Level.py:200
+  'CavernPockets: n=%d r=%d-%d links=%d'   <- LevelGenHelpers.py:809
+  'Chasmify'   <- LevelGenHelpers.py:65
+  'Checker3: c=%d flip=%.2f bias=%.2f (%s)'   <- LevelGenHelpers.py:613
+  'Chokes: n=%d len=%d'   <- LevelGenHelpers.py:939
+  'CommonContent.MonsterSpawner'   <- Vaults.py:438
+  'Components.DevilsBlood'   <- Vaults.py:600
+  'Components.HeartFragment'   <- Vaults.py:724
+  'Components.IronbarkPlate'   <- Vaults.py:401
+  'Components.OozingOculite'   <- Vaults.py:644
+  'Components.WatcherStone'   <- Vaults.py:559
+  'Craters: %d'   <- LevelGenHelpers.py:508
+  'DENIED_ASCENDANCE'   <- FinalBosses.py:172
+  'DISCORD'   <- RiftWizard3.py:8125
+  'DRAGON_SET'   <- Mutators.py:629
+  'DREAMING_SET'   <- Mutators.py:638
+  'Deals %d %s damage to a random enemy in your line of sight %s'   <- Spells.py:2136
+  'Debuff_Apply'   <- Level.py:4786
+  'DeepWalk: r=%d digs=%d steps=%d %.2f'   <- LevelGenHelpers.py:1213
+  'Detail mutators:'   <- LevelGen.py:780
+  'DiagWallCuts: %d cuts=%d passes=%d'   <- LevelGenHelpers.py:1324
+  'Diagonal: %d %d %s'   <- LevelGenHelpers.py:495
+  'Duplicate vault id: %s'   <- Vaults.py:57
+  'ELDRITCH_SET'   <- Mutators.py:636
+  'ELECTROMANCER'   <- Mutators.py:605
+  'ENCHANTER_SET'   <- Mutators.py:639
+  'Each turn, summon %s %s'   <- Spells.py:10271
+  'EdgeBays: n=%d d=%d w=%d (%s)'   <- LevelGenHelpers.py:1010
+  'EdgeBreach: n=%d steps=%d w=%.2f'   <- LevelGenHelpers.py:1298
+  'Error loading image %s'   <- RiftWizard3.py:606
+  'EventOnAwakened'   <- CommonContent.py:837
+  'EventOnBuffApply'   <- Level.py:189
+  'EventOnBuffAttemptApply'   <- Level.py:188
+  'EventOnBuffRemove'   <- Level.py:190
+  'EventOnDamaged'   <- Level.py:185
+  'EventOnDeath'   <- Level.py:182
+  'EventOnHealed'   <- Level.py:186
+  'EventOnItemPickup'   <- Level.py:187
+  'EventOnLevelComplete'   <- Level.py:197
+  'EventOnMoved'   <- Level.py:191
+  'EventOnPass'   <- Level.py:194
+  'EventOnPreDamaged'   <- Level.py:184
+  'EventOnPropEnter'   <- Level.py:183
+  'EventOnReroll'   <- Level.py:198
+  'EventOnRitualComplete'   <- Level.py:181
+  'EventOnShieldRemoved'   <- Level.py:196
+  'EventOnSpellCast'   <- Level.py:180
+  'EventOnSpendHP'   <- Level.py:195
+  'EventOnUnfrozen'   <- CommonContent.py:804
+  'EventOnUnitAdded'   <- Level.py:192
+  'EventOnUnitPreAdded'   <- Level.py:193
+  'EveryXTurnsBuff'   <- Mutators.py:72
+  'FAST_GAME'   <- SteamAdapter.py:413
+  'FERROMANCER'   <- Mutators.py:611
+  'FLESH_COLOSSUS'   <- Mutators.py:668
+  'FRIENDSHIP'   <- Mutators.py:687
+  'Factory required in metadata entry'   <- Vaults.py:209
+  'Failed 25 times to generate an acceptable level'   <- LevelGen.py:498
+  'Faults: n=%d steps=%d w=%d (%s)'   <- LevelGenHelpers.py:849
+  'Filling with %s'   <- LevelGen.py:719
+  'Final layout:'   <- LevelGen.py:503
+  'Floor Exp: %.1f'   <- LevelGenHelpers.py:25
+  'FlyingDagger'   <- Level.py:4804
+  'Fortress: n=%d %d-%d'   <- LevelGenHelpers.py:777
+  'Foundation mutators:'   <- LevelGen.py:774
+  'GAIA'   <- FinalBosses.py:2120
+  'GALVANIC_SET'   <- Mutators.py:630
+  'GAMBLING_WIZARD'   <- Mutators.py:689
+  'GARDENER'   <- FinalBosses.py:2119
+  'GAZING_SET'   <- Mutators.py:640
+  'GalvanicBlade'   <- Level.py:4800
+  'Game of life: %d'   <- LevelGenHelpers.py:429
+  'Generating level %d'   <- LevelGen.py:1119
+  'Grid: %d, %.2f, (%s)'   <- LevelGenHelpers.py:107
+  'HAETAE'   <- Mutators.py:663
+  'HELLFIRE_SET'   <- Mutators.py:631
+  'HEMOMANCER'   <- Mutators.py:612
+  'I'   <- attr_label:i
+  'IMPROVISER_STREAK_TEN'   <- Mutators.py:694
+  'INSANITY_QUEEN'   <- FinalBosses.py:2115
+  'INSTANT_WIN'   <- SteamAdapter.py:406
+  'JORMUNGANDR'   <- FinalBosses.py:2116
+  'KEY_BIND_'   <- RiftWizard3.py:1542
+  'KEY_BIND_MAX'   <- RiftWizard3.py:1542
+  'L'   <- attr_label:l
+  'LANGUAGE'   <- RiftWizard3.py:2096
+  'LEVEL_SIZE'   <- Vaults.py:182
+  'Level generated in %d tries'   <- LevelGen.py:501
+  'Level id: %d'   <- LevelGen.py:481
+  'Level.HeartDot'   <- Vaults.py:520
+  'Level.MemoryOrb'   <- Vaults.py:327
+  'LevelRewards.IdolChest'   <- Vaults.py:756
+  'LevelRewards.ShrineOfPerfection'   <- Vaults.py:434
+  'LevelRewards.SoulShrine'   <- Vaults.py:679
+  'LevelRewards.SpiderShrine'   <- Vaults.py:390
+  'LevelRewards.slime_shelf'   <- Vaults.py:647
+  'Lumps: %d %d (%s)'   <- LevelGenHelpers.py:300
+  'MANAMANCER'   <- Mutators.py:609
+  'MOLTEN_DEVOURER'   <- Mutators.py:671
+  'MORDREDS_VENGEANCE'   <- Mutators.py:614
+  'MOTHGOD'   <- Mutators.py:670
+  'MUTUAL_DESTRUCTION'   <- Mutators.py:686
+  'Missing asset for '   <- RiftWizard3.py:771
+  'Missing sprite asset '   <- RiftWizard3.py:949
+  'Monsters.ArchFiend'   <- Vaults.py:719
+  'Monsters.ArmoredPolarBear'   <- Vaults.py:514
+  'Monsters.Banshee'   <- Vaults.py:686
+  'Monsters.BloodSlime'   <- Vaults.py:641
+  'Monsters.BoneKnight'   <- Vaults.py:685
+  'Monsters.Dryder'   <- Vaults.py:396
+  'Monsters.ElectricSlime'   <- Vaults.py:640
+  'Monsters.FireDrake'   <- Vaults.py:437
+  'Monsters.FireWyrm'   <- Vaults.py:439
+  'Monsters.FleshFiend'   <- Vaults.py:592
+  'Monsters.FurnaceFiend'   <- Vaults.py:593
+  'Monsters.GiantSpiderQueen'   <- Vaults.py:393
+  'Monsters.Goblin'   <- Vaults.py:473
+  'Monsters.GoblinShaman'   <- Vaults.py:475
+  'Monsters.GreenSlime'   <- Vaults.py:633
+  'Monsters.IceBelcher'   <- Vaults.py:513
+  'Monsters.IceRift'   <- Vaults.py:515
+  'Monsters.IceSlime'   <- Vaults.py:636
+  'Monsters.ImpCollector'   <- Vaults.py:594
+  'Monsters.Kobold'   <- Vaults.py:474
+  'Monsters.KoboldHedgeMage'   <- Vaults.py:476
+  'Monsters.PhaseSpiderQueen'   <- Vaults.py:395
+  'Monsters.RedSlime'   <- Vaults.py:634
+  'Monsters.SlimeMage'   <- Vaults.py:635
+  'Monsters.SteelSpiderQueen'   <- Vaults.py:394
+  'Monsters.StormDrake'   <- Vaults.py:553
+  'Monsters.Thunderbird'   <- Vaults.py:554
+  'MoveAction'   <- Level.py:1001
+  'NECROMANCER'   <- Mutators.py:607
+  'NIGHTMARE_TURTLE'   <- Mutators.py:669
+  'NUM '   <- RiftWizard3.py:1341
+  'No effect found for %s'   <- RiftWizard3.py:2716
+  'No vault specification available'   <- Vaults.py:95
+  'OOZING_SET'   <- Mutators.py:641
+  'OPHAN'   <- FinalBosses.py:2114
+  'P################P'   <- Vaults.py:658
+  'P..##0BO##OB0##..P'   <- Vaults.py:369
+  'PERFECTED_BLOOD_BULLET'   <- Mutators.py:646
+  'PERFECTED_CARNIVAL'   <- Mutators.py:651
+  'PERFECTED_DEATH_BOLT'   <- Mutators.py:647
+  'PERFECTED_GOLDEN_SKULL'   <- Mutators.py:648
+  'PERFECTED_IMMOLATE'   <- Mutators.py:655
+  'PERFECTED_LEGHEAD'   <- Mutators.py:649
+  'PERFECTED_PRISMATIC_BEAM'   <- Mutators.py:656
+  'PERFECTED_PRISON_OF_THORNS'   <- Mutators.py:650
+  'PERFECTED_SPIKEBALL_FACTORY'   <- Mutators.py:657
+  'PERFECTED_STARWHALE'   <- Mutators.py:652
+  'PERFECTED_TORRENT'   <- Mutators.py:653
+  'PERFECTED_WHEEL_OF_DEATH'   <- Mutators.py:654
+  'PGDN >>>>'   <- RiftWizard3.py:8961
+  'PHYTOMANCER'   <- Mutators.py:608
+  'PLAGUE_SET'   <- Mutators.py:632
+  'POPE'   <- FinalBosses.py:2117
+  'PUMPKING'   <- Mutators.py:662
+  'PYGAME_HIDE_SUPPORT_PROMPT'   <- RiftWizard3.py:3
+  'PYROMANCER'   <- Mutators.py:604
+  'PassAction'   <- Level.py:1003
+  'Paths: %d, %.2f, %s'   <- LevelGenHelpers.py:385
+  'PathsFloor: %d, %.2f'   <- LevelGenHelpers.py:1175
+  'Pillars: %.2f (%d)'   <- LevelGenHelpers.py:522
+  'Pockets: n=%d size=%d r=%d g=%.2f'   <- LevelGenHelpers.py:1267
+  'Quadrants'   <- LevelGenHelpers.py:325
+  'R'   <- attr_label:r
+  'REMEMBERER'   <- Mutators.py:692
+  'RIFT_OF_FLYING_DAGGERS'   <- Mutators.py:660
+  'RUINOUS_SET'   <- Mutators.py:637
+  'Radial Quadrants'   <- LevelGenHelpers.py:346
+  'RareMonsters.Animikii'   <- Vaults.py:556
+  'RareMonsters.ChainedCyclops'   <- Vaults.py:479
+  'RareMonsters.Cindervein'   <- Vaults.py:440
+  'RareMonsters.CrucibleOfPain'   <- Vaults.py:595
+  'RareMonsters.GiantSoulJar'   <- Vaults.py:682
+  'RareMonsters.GoblinCave'   <- Vaults.py:477
+  'RareMonsters.GreatFaeryGiant'   <- Vaults.py:721
+  'RareMonsters.IceWizard'   <- Vaults.py:512
+  'RareMonsters.IdolOfFiends'   <- Vaults.py:720
+  'RareMonsters.IdolOfFrost'   <- Vaults.py:517
+  'RareMonsters.IdolOfLife'   <- Vaults.py:759
+  'RareMonsters.IdolOfPiety'   <- Vaults.py:764
+  'RareMonsters.IdolOfPoison'   <- Vaults.py:398
+  'RareMonsters.IdolOfRebirth'   <- Vaults.py:762
+  'RareMonsters.IdolOfSorcery'   <- Vaults.py:478
+  'RareMonsters.IdolOfUndeath'   <- Vaults.py:683
+  'RareMonsters.InfernoKing'   <- Vaults.py:596
+  'RareMonsters.MotherOfSpiders'   <- Vaults.py:397
+  'RareMonsters.Sculptor'   <- Vaults.py:765
+  'RareMonsters.SkullSentry'   <- Vaults.py:684
+  'RareMonsters.Watcher'   <- Vaults.py:555
+  'Ribs: %s %d %d %.2f'   <- LevelGenHelpers.py:541
+  'Ring+Spokes: ring=%d spokes=%d'   <- LevelGenHelpers.py:1133
+  'River: n=%d w=%d b=%d (%s)'   <- LevelGenHelpers.py:685
+  'Rooms+Corridors: %d %d-%d'   <- LevelGenHelpers.py:1080
+  'Ruins: %d %d-%d %.2f'   <- LevelGenHelpers.py:554
+  'S'   <- attr_label:s
+  'SANCTUMANCER'   <- Mutators.py:610
+  'SANGUINE_HIEROPHANT'   <- FinalBosses.py:2125
+  'SDL_RENDER_SCALE_QUALITY'   <- RiftWizard3.py:6
+  'SDL_VIDEO_MINIMIZE_ON_FOCUS_LOSS'   <- RiftWizard3.py:4
+  'SDL_VIDEO_WINDOW_POS'   <- RiftWizard3.py:5
+  'SEARCH_INPUT_TARGET'   <- RiftWizard3.py:282
+  'SKULL_QUEEN'   <- Mutators.py:665
+  'SNOW_QUEEN'   <- FinalBosses.py:2122
+  'SP {num}'   <- RiftWizard3.py:6970
+  'Section: %s, %s, %s, %s'   <- LevelGenHelpers.py:473
+  'Seeding levelgen with %f'   <- LevelGen.py:163
+  'Setting %s to %s'   <- SteamAdapter.py:195
+  'Shield_Apply'   <- Level.py:4787
+  'Shield_Expire'   <- Level.py:4788
+  'Sound_Effect'   <- Level.py:4789
+  'Speckle: p=%d r=%d c=%.2f'   <- LevelGenHelpers.py:1250
+  'Spiral: step=%d branch=%.2f'   <- LevelGenHelpers.py:740
+  'Squares: s%d n%d (%s)'   <- LevelGenHelpers.py:224
+  'Stalagmites: %d %d'   <- LevelGenHelpers.py:571
+  'Steam rich presence unavailable: %s'   <- SteamAdapter.py:148
+  'Steam rich presence unavailable: SteamAPI_Init failed'   <- SteamAdapter.py:114
+  'Steam rich presence unavailable: SteamFriends interface missing'   <- SteamAdapter.py:140
+  'Steam rich presence unavailable: no SteamFriends flat API export'   <- SteamAdapter.py:124
+  'SteamAPI_SteamFriends_v015'   <- SteamAdapter.py:118
+  'SteamAPI_SteamFriends_v016'   <- SteamAdapter.py:118
+  'SteamAPI_SteamFriends_v017'   <- SteamAdapter.py:118
+  'Steamworks failed to initialize or connect: %s'   <- SteamAdapter.py:88
+  'Steamworks initialized and connect'   <- SteamAdapter.py:85
+  'StunnedAction'   <- Level.py:1004
+  'SymBreak: x=%d-%d y=%d-%d'   <- LevelGenHelpers.py:977
+  'TAUROKELEVEE'   <- Mutators.py:664
+  'TILES %s : floors = %d walls=%d chasms=%d'   <- LevelGen.py:528
+  'TURBO_DAMAGE'   <- SteamAdapter.py:448
+  'TURBO_GAME'   <- SteamAdapter.py:414
+  'TWILIGHT_SET'   <- Mutators.py:633
+  'Transform_Anim'   <- Level.py:2031
+  'Trying to fix floor amounts:'   <- LevelGen.py:835
+  'Trying to render frame %d of anim %d on %s, impossible'   <- RiftWizard3.py:1231
+  'UI'   <- Level.py:998
+  'ULTIMATE_TROUBLER'   <- Mutators.py:666
+  'Unknown glow mode '   <- RiftWizard3.py:838
+  'Unknown vault id %s'   <- Vaults.py:93
+  'Unsupported factory definition: %r'   <- Vaults.py:216
+  'VAULT_%s'   <- SteamAdapter.py:440
+  'VAULT_FAERY_PRISON'   <- Mutators.py:623
+  'VAULT_GOBLIN_VAULT'   <- Mutators.py:616
+  'VAULT_ICE_VAULT'   <- Mutators.py:619
+  'VAULT_LAVA_CROSSROADS'   <- Mutators.py:620
+  'VAULT_SCULPTORS_WORKSHOP'   <- Mutators.py:624
+  'VAULT_SLIME_RIVER'   <- Mutators.py:618
+  'VAULT_SPIDERS_LAIR'   <- Mutators.py:617
+  'VAULT_TEMPEST_SPIRE'   <- Mutators.py:622
+  'VAULT_VAULT_OF_SOULS'   <- Mutators.py:621
+  'VAULT_VAULT_OF_TORMENT'   <- Mutators.py:625
+  'VIRTUOUS_SET'   <- Mutators.py:634
+  'Voronoi: seeds=%d'   <- LevelGenHelpers.py:646
+  'W'   <- attr_label:w
+  'WARLORD_SET'   <- Mutators.py:635
+  'WEEKLY'   <- SteamAdapter.py:362
+  'WalkCorridor: %d thick=%d'   <- LevelGenHelpers.py:1108
+  'WallClusters: %d'   <- LevelGenHelpers.py:1155
+  'Wallchasms: %d'   <- LevelGenHelpers.py:43
+  'Wallify'   <- LevelGenHelpers.py:80
+  'Warning: Asset '   <- RiftWizard3.py:960
+  'Weave: %d %.2f'   <- LevelGenHelpers.py:597
+  'White Noise: %.2f (%s)'   <- LevelGenHelpers.py:199
+  'Workshop item %s is not installed yet (state=%s)'   <- SteamAdapter.py:261
+  'Workshop item %s returned invalid folder %s'   <- SteamAdapter.py:266
+  'Workshop item enumeration failed: %s'   <- SteamAdapter.py:243
+  'Workshop item install query failed for %s: %s'   <- SteamAdapter.py:257
+  'Workshop item state query failed for %s: %s'   <- SteamAdapter.py:252
+  'YALDABAOTH'   <- FinalBosses.py:2118
+  'YGGDRASIL'   <- Mutators.py:667
+  'Z1111111~~~~~~~11Z'   <- Vaults.py:620
+  'Z1~~~~~~~1111111.Z'   <- Vaults.py:621
+  '_MEIPASS'   <- SteamAdapter.py:31
+  'battle_%d'   <- RiftWizard3.py:2332
+  'buff duration'   <- Level.py:1004
+  'buff duration unit'   <- Level.py:188
+  'buff unit'   <- Level.py:189
+  'caster is not of type unit, is %s'   <- Level.py:3302
+  'crafting ui'   <- RiftWizard3.py:1854
+  'draw time ms: %f'   <- RiftWizard3.py:11125
+  'draw_profile.stats'   <- RiftWizard3.py:11128
+  'every %d turns'   <- Spells.py:2135
+  'failed to get bounds for display %d'   <- RiftWizard3.py:1987
+  'failed to get scaled renderer'   <- RiftWizard3.py:1980
+  'failed to get scaled window'   <- RiftWizard3.py:1971
+  'failed to set fractional renderer scale'   <- RiftWizard3.py:1981
+  'failed to set logical renderer size'   <- RiftWizard3.py:1982
+  'floor_%d'   <- RiftWizard3.py:2559
+  'frame time ms: %f'   <- Game.py:791
+  'game.dat.tmp'   <- Game.py:102
+  'https://discord.gg/NngFZ7B'   <- RiftWizard3.py:8206
+  'https://steamcommunity.com/app/4366330/workshop/'   <- RiftWizard3.py:8787
+  'name channel base_volume'   <- RiftWizard3.py:520
+  'num start points: %d'   <- LevelGen.py:482
+  'num_start_points: %d'   <- LevelGen.py:453
+  'profile.stats'   <- Game.py:789
+  'reconnect chance: %.2f'   <- LevelGen.py:483
+  'reconnect_chance: %.2f'   <- LevelGen.py:454
+  'remove_prop desync'   <- Level.py:4212
+  'remove_prop tile mismatch'   <- Level.py:4215
+  'slime drakes'   <- Monsters.py:1112
+  'soundFX'   <- RiftWizard3.py:2277
+  'spawn_options entry has no tags: %s'   <- Monsters.py:9457
+  'spell caster x y pay_costs'   <- Level.py:180
+  'spell caster x y pay_costs cast_kwargs'   <- Level.py:200
+  'spell skill icons'   <- Level.py:998
+  'spell x y'   <- Level.py:1002
+  'spell, caster, channel_buff'   <- Level.py:181
+  'target angle'   <- Level.py:340
+  'target masks'   <- RiftWizard3.py:5842
+  'unit buff'   <- CommonContent.py:837
+  'unit damage damage_type source'   <- Level.py:185
+  'unit damage unresisted_damage damage_type source'   <- Level.py:184
+  'unit damage_event'   <- Level.py:182
+  'unit dtype buff'   <- CommonContent.py:804
+  'unit heal source'   <- Level.py:186
+  'unit hp'   <- Level.py:195
+  'unit prop'   <- Level.py:183
+  'unit source'   <- Level.py:196
+  'unit x y teleport old_x old_y'   <- Level.py:191
+  'utf-8'   <- Game.py:343
+  'vault id required'   <- Vaults.py:179
+  'wall_%d'   <- RiftWizard3.py:2546
+  'x y'   <- Level.py:16
+  '{num} HP'   <- RiftWizard3.py:7937
+  '~..#O##1##2#B#~..~'   <- Vaults.py:585
+  '~...###H.H###....~'   <- Vaults.py:705
+  '~..B..#..~..#.B..~'   <- Vaults.py:582
+  '~.~#.O~..5..O..2.~'   <- Vaults.py:580
+  '~P..............P~'   <- Vaults.py:699
+  '~P.~.1......3O~P.~'   <- Vaults.py:574
+  '~P~#.B#.~1.6#..~P~'   <- Vaults.py:584
+  '~~#W..121121..W#~~'   <- Vaults.py:537
+  '~~W#P........P#W~~'   <- Vaults.py:541
+  '~~~###.D..C.###~~~'   <- Vaults.py:749
+  '~~~###.F..E.###~~~'   <- Vaults.py:738
+  '~~~~~3W.##.W3~~~~~'   <- Vaults.py:548
+  '~~~~~3W....W3~~~~~'   <- Vaults.py:534
+
+=== B. 译文无汉字: 0 条 ===
+
+=== C. .name/.description 字面量未入典: 2 条 ===
+  RiftWizard3.py:890 name = 'look'
+  RiftWizard3.py:913 name = 'walk'

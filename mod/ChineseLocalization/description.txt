@@ -1,0 +1,4 @@
+简体中文完整汉化 ChineseLocalization
+全文本汉化：UI、法术/强化/装备/组件、怪物图鉴、变异项、剧情文本、战斗日志等。
+内置思源黑体（Source Han Sans CN，SIL OFL 授权），自动应用中文字体。
+在游戏 OPTIONS → LANGUAGE 里可随时切回 English。
