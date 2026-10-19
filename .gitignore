@@ -7,3 +7,5 @@ sweep2.txt
 repair_keys.json
 repair_mixed.json
 test_run_backup/
+*.log
+ChineseLocalization_发布包.zip

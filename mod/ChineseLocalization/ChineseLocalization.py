@@ -18,6 +18,16 @@ try:
 except NameError:
 	MOD_ROOT = os.path.abspath(os.path.join('mods', 'ChineseLocalization'))
 
+# 黑匣子：任何加载问题都写进 load_debug.log，便于诊断
+def _dbg(msg):
+	try:
+		with open(os.path.join(MOD_ROOT, 'load_debug.log'), 'a', encoding='utf-8') as f:
+			f.write(msg + '\n')
+	except Exception:
+		pass
+
+_dbg('=== entry start, python %s ===' % sys.version.split()[0])
+
 import Localisation as loc
 
 # ---- 1) 把 zh 注册进语言列表（语言菜单用 available_locales() ∩ LANG_DISPLAY_NAME）----
@@ -32,7 +42,9 @@ def _available_locales_with_zh():
 	return sorted(codes)
 
 loc.available_locales = _available_locales_with_zh
-loc.LANG_DISPLAY_NAME[LANG] = '简体中文'
+# 显示名用 "Chinese"：切到英文后菜单字体（SpecialElite）没有中文字形，
+# 「简体中文」会整行隐形；拉丁名两种字体都能正常显示
+loc.LANG_DISPLAY_NAME[LANG] = 'Chinese'
 
 # ---- 2) 译文加载：优先读 MOD 自带的 text_zh.json ----
 _data_cache = None
@@ -54,6 +66,7 @@ def _load_translations(lang):
 
 _load_translations.cache_clear = getattr(_orig_load, 'cache_clear', lambda: None)
 loc.load = _load_translations
+_dbg('sections 1-2 ok (locale registered, loader patched)')
 
 # ---- 3) 默认语言：MOD 加载时先切到 zh。
 # 游戏主界面初始化时会用 options 里的 lang 覆盖这里（玩家在菜单里选过别的语言就听玩家的）。----
@@ -263,4 +276,11 @@ def _patch_shop_filter_tooltips():
 
 	_patch_draw_message()
 
-_patch_shop_filter_tooltips()
+try:
+	_patch_text_module()
+	_dbg('section5 ok (text module patched)')
+	_patch_shop_filter_tooltips()
+	_dbg('entry complete OK')
+except Exception:
+	import traceback
+	_dbg('ENTRY CRASH:\n' + traceback.format_exc())
