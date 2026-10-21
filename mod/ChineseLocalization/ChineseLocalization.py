@@ -276,6 +276,32 @@ def _patch_shop_filter_tooltips():
 
 	_patch_draw_message()
 
+# ---- 9) 中文换行：游戏 TOKEN_RE 把连续 \w（含中文）当成一个“单词”，
+# 无空格的中文整句进 draw_wrapped_string 无法断行，长句被面板右缘裁掉。
+# 包装 tokenize：含中文且长度 > 2 的词按单字拆开，让换行可落在任意字边界。----
+def _patch_tokenize_cjk():
+	main = sys.modules.get('__main__')
+	cls = getattr(main, 'PyGameView', None)
+	if cls is None or not hasattr(cls, 'tokenize'):
+		return
+	_orig_tokenize = cls.tokenize
+	_cjk_re = re.compile(r'[\u3400-\u9fff\uf900-\ufaff]')
+
+	def tokenize(self, txt):
+		for tok in _orig_tokenize(self, txt):
+			try:
+				if tok[0] == 'word' and len(tok[1]) > 2 and _cjk_re.search(tok[1]):
+					for ch in tok[1]:
+						yield ('word', ch)
+				else:
+					yield tok
+			except Exception:
+				yield tok
+	cls.tokenize = tokenize
+
+_patch_tokenize_cjk()
+_dbg('section9 ok (cjk wrap patch)')
+
 try:
 	_patch_text_module()
 	_dbg('section5 ok (text module patched)')

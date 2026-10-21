@@ -12,6 +12,7 @@ overrides = {
     # 标准名本身改成句子/语境里更顺的写法
     "Beam": "光束",
     "Wyrm": "蛟龙",
+    "Spider Queen": "蜘蛛女王",
     "Faeries": "仙灵",
     "Channeling": "引导",
     "Pain": "痛苦魔",
@@ -79,10 +80,10 @@ rules = [
     R(r"Drains a spell charge", (r"吸取 1 个法术充能", "吸取一个法术充能"), (r"消耗 1 个法术充能", "吸取一个法术充能")),
     R(r"\bSpreads\b", (r"传染", "蔓延")),
     R(r"Summon Blizzards, Storm Clouds", (r"雷云", "风暴云")),
-    R(r"\bGhost\b", (r"幽灵", "幽魂")),
+    R(r"(?i)ghos", (r"幽灵", "幽魂")),  # 兼容 Ghosts 与截断别名 Ghos..
     R(r"Summon Death instead of a Ghost", (r"死神", "死亡")),
     R(r"\bShared Pain\b", (r"共痛", "痛苦共享"), (r"共同痛苦", "痛苦共享")),
-    R(r"\bBlood Knight\b", (r"(?<!鲜)血骑士", "鲜血骑士")),
+    R(r"(?i)blood knight", (r"(?<!鲜)血骑士", "鲜血骑士")),
     R(r"\bDeath Chill\b", (r"死亡寒息", "死亡冻寒")),
     R(r"\bWinterbringer\b", (r"携冬者", "凛冬使者")),
     R(r"\bOrochi\b", (r"(?<!八岐)大蛇", "八岐大蛇")),
@@ -142,6 +143,20 @@ rules = [
     R(None, (r"痛苦魔魔", "痛苦魔")),
     R(r"Armored", (r"装甲北极熊", "披甲北极熊")),  # 兼容复数与截断别名
     R(r"\bEquipment Chest", (r"装备宝箱", "装备箱")),
+    R(r"\bSpider Queen", (r"蛛类女王", "蜘蛛女王")),
+    R(r"\bMinotaur", (r"米诺陶", "牛头人")),
+    R(None, (r"毒素:poison", "中毒:poison")),  # 前缀式标记（[100% 毒素:poison] 等）
+    # —— 全局兜底：截断别名 key（如 "Summons a Green Sl.."）与复数漏匹配的残留 ——
+    R(None, (r"蛛类女王", "蜘蛛女王")),
+    R(None, (r"毒液熊", "毒熊")),
+    R(None, (r"绿色黏液(?!怪)", "绿色黏液怪"), (r"绿黏液怪", "绿色黏液怪")),
+    R(None, (r"电黏液怪", "闪电黏液怪"), (r"冰黏液怪", "冰霜黏液怪")),
+    R(None, (r"腿头怪", "腿首怪")),
+    R(None, (r"黄金骷髅(?!头)", "黄金骷髅头"), (r"黄金头骨", "黄金骷髅头")),
+    R(None, (r"骸骨蹒跚者", "骨蹒跚怪"), (r"白骨蹒跚者", "骨蹒跚怪")),
+    R(None, (r"血肉恶鬼", "血肉魔鬼")),
+    R(None, (r"(?<!尖)刺球", "尖刺球")),
+    R(r"Summon Death inste", (r"死神", "死亡"), (r"幽灵", "幽魂")),  # 截断别名 Summon Death inste..
     # 毒素伤害标记统一为 中毒（与抗性标签/状态名一致；不影响 以太毒素 等普通词）
     R(None, (r"\[毒素:poison\]", "[中毒:poison]")),
 ]
