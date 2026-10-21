@@ -1,4 +1,4 @@
-=== A. 保留原文（与英文相同）: 414 条 ===
+=== A. 保留原文（与英文相同）: 412 条 ===
   '\n\t\\[\n\t\t(?P<m_name>[^\\]:]+)\n\t\t(?::(?P<m_tag>[^\\]]+))?\n\t\\]\n\t(?P<m_punc>[.,:;!?]+(?=\\s|$))?\n\t'   <- RiftWizard3.py:634
   '\nCast %s on shot targets'   <- Spells.py:2148
   '\nGenerating level for %d'   <- LevelGen.py:480
@@ -159,7 +159,6 @@
   'KEY_BIND_'   <- RiftWizard3.py:1542
   'KEY_BIND_MAX'   <- RiftWizard3.py:1542
   'L'   <- attr_label:l
-  'LANGUAGE'   <- RiftWizard3.py:2096
   'LEVEL_SIZE'   <- Vaults.py:182
   'Level generated in %d tries'   <- LevelGen.py:501
   'Level id: %d'   <- LevelGen.py:481
@@ -399,7 +398,6 @@
   'vault id required'   <- Vaults.py:179
   'wall_%d'   <- RiftWizard3.py:2546
   'x y'   <- Level.py:16
-  '{num} HP'   <- RiftWizard3.py:7937
   '~..#O##1##2#B#~..~'   <- Vaults.py:585
   '~...###H.H###....~'   <- Vaults.py:705
   '~..B..#..~..#.B..~'   <- Vaults.py:582

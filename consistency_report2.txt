@@ -1,103 +1,79 @@
-真实不一致名词: 37  受影响条目: 74  可自动修复: 3
+真实不一致名词: 38  受影响条目: 75  可自动修复: 3
 
 === 'Heal' -> '治疗' （16 处）===
+  [missing] key: 'Heal [{val}:dark] HP each turn'
+        val: '每回合回复 [{val}:dark] 点生命'
   [missing] key: 'Each turn, eat adjacent walls\nHeal [10 HP:heal] for each wall you eat'
         val: '每回合吃掉相邻墙壁\n每吃掉一面墙回复[10 HP:heal]'
-  [missing] key: 'On Pickup:\nHeal for an amount equal to your [Dark] mastery each turn until the end of the level'
-        val: '拾取时：\n在本层余下时间内，每回合回复等同于你[黑暗:dark]精通的生命'
-  [missing] key: 'Heal for half of all damage dealt to you'
-        val: '回复等同于你所受全部伤害一半的生命'
-  [missing] key: 'Heal yourself and other [Living] units to full health\nDeal [{damage}:damage] [Lightning] damage to ['
-        val: '为你和其他[活物:living]单位恢复全部生命\n以 [{damage}:damage] 点[闪电:lightning]伤害打击[黑暗:dark]、[恶魔:demon]和[不死:undead]单位\n[奥术:arcane]单位被[眩晕:stunned] [{duration}:du'
   [missing] key: 'Heal for damage dealt by this spell'
         val: '回复此法术所造成伤害等量的生命'
-  [missing] key: 'Heal {heal} HP each turn while Frozen'
-        val: '冰冻期间，每回合回复 {heal} 点生命值'
-  [missing] key: 'Each turn, deal [Physical] damage equal to your [Blood] mastery to an adjacent unit\nHeal for the dam'
-        val: '每回合，对一名相邻单位造成[物理:physical]伤害，数值等同于你的[血:blood]精通值\n回复等同于所造成伤害的 HP'
-  [missing] key: 'On Pickup:\nHeal 10 HP per turn for the next 12 turns'
-        val: '拾取时：\n接下来 12 回合，每回合回复 10 HP'
+  [missing] key: 'Heal yourself and other [Living] units to full health\nDeal [{damage}:damage] [Lightning] damage to ['
+        val: '为你和其他[活物:living]单位恢复全部生命\n以 [{damage}:damage] 点[闪电:lightning]伤害打击[黑暗:dark]、[恶魔:demon]和[不死:undead]单位\n[奥术:arcane]单位被[眩晕:stunned] [{duration}:du'
+  [missing] key: 'Deal 1 [Dark] damage to other [Living] units in line of sight\nHeal for damage dealt this way'
+        val: '以 1 点[黑暗:dark]伤害命中视线内其他[活物:living]单位\n按由此造成的伤害回复生命'
+  [missing] key: '\nHeal for damage dealt\nShot cooldown: [{cooldown}:cooldown] turns'
+        val: '\n回复等同于所造成伤害的生命\n射击冷却：[{cooldown}:cooldown] 回合'
+  [missing] key: 'On Pickup:\nHeal for an amount equal to your [Dark] mastery each turn until the end of the level'
+        val: '拾取时：\n在本层余下时间内，每回合回复等同于你[黑暗:dark]精通的生命'
+  [missing] key: 'On Pickup:\nDeal 1 [Dark] damage to all other [Living] units in line of sight\nHeal for damage dealt t'
+        val: '拾取时：\n以 1 点[黑暗:dark]伤害命中视线内所有其他[活物:living]单位\n按由此造成的伤害回复生命\n此效果每回合重复一次，直至本层结束'
   ... 还有 8 处
 
 === 'Any' -> '任意' （5 处）===
-  [missing] key: 'Any non-[Spider] unit entering the web is immobilized for 1 turn\nThis destroys the web\n[Fire] damage'
-        val: '任何非[蛛类:spider]单位进入蛛网时会被定身 1 回合\n这会摧毁蛛网\n[火:fire]伤害会摧毁蛛网'
-  [missing] key: 'When you manually cast a [Sorcery] spell targeting a giant, cast it again\nAny unit that occupies mor'
-        val: '你手动施放以巨人为目标的[巫术:sorcery]法术时，将其再次施放\n占据多于一格的单位视为巨人'
-  [missing] key: 'On Craft:\nIf the crafted equipment has the [Nature] tag, it gains the [Chaos] tag\nAny attribute bonu'
-        val: '制作时：\n若制作的装备带有[自然:nature]标签，则其获得[混沌:chaos]标签\n该装备提供给[自然:nature]法术和装备的任何属性加成，也同样提供给[混沌:chaos]法术和装备\n任何专门由[自然:nature]法术触发的效果，也会由[混沌:chaos]法术触发'
-  [missing] key: 'On Craft:\nIf the crafted equipment has the [Nature] tag, it gains the [Chaos] tag\nAny attribute bonu'
-        val: '制作时：\n若制作的装备带有[自然:nature]标签，则其获得[混沌:chaos]标签\n该装备提供给[自然:nature]法术和装备的任何属性加成，也同样提供给[混沌:chaos]法术和装备\n任何专门由[自然:nature]法术触发的效果，也会由[混沌:chaos]法术触发'
   [missing] key: 'Any healing is redirected to the inflictor'
         val: '任何治疗都被重定向给施加者'
+  [missing] key: 'Any non-[Spider] unit entering the web is immobilized for 1 turn\nThis destroys the web\n[Fire] damage'
+        val: '任何非[蛛类:spider]单位进入蛛网时会被定身 1 回合\n这会摧毁蛛网\n[火:fire]伤害会摧毁蛛网'
+  [missing] key: 'On Craft:\nIf the crafted equipment has the [Nature] tag, it gains the [Chaos] tag\nAny attribute bonu'
+        val: '制作时：\n若制作的装备带有[自然:nature]标签，则其获得[混沌:chaos]标签\n该装备提供给[自然:nature]法术和装备的任何属性加成，也同样提供给[混沌:chaos]法术和装备\n任何专门由[自然:nature]法术触发的效果，也会由[混沌:chaos]法术触发'
+  [missing] key: 'On Craft:\nIf the crafted equipment has the [Nature] tag, it gains the [Chaos] tag\nAny attribute bonu'
+        val: '制作时：\n若制作的装备带有[自然:nature]标签，则其获得[混沌:chaos]标签\n该装备提供给[自然:nature]法术和装备的任何属性加成，也同样提供给[混沌:chaos]法术和装备\n任何专门由[自然:nature]法术触发的效果，也会由[混沌:chaos]法术触发'
+  [missing] key: 'When you manually cast a [Sorcery] spell targeting a giant, cast it again\nAny unit that occupies mor'
+        val: '你手动施放以巨人为目标的[巫术:sorcery]法术时，将其再次施放\n占据多于一格的单位视为巨人'
 
 === 'Shoot' -> '射击' （4 处）===
   [missing] key: 'Shoot a projectile that deals [{damage}:damage] [Physical] damage to the first unit in its path'
         val: '发射一枚投射物，对路径上第一个单位造成 [{damage}:damage] 点[物理:physical]伤害'
+  [missing] key: 'Shoot up to [{num_targets}:num_targets] bolts of chaotic energy at units in a cone\nEach bolt deals ['
+        val: '向锥形范围内的单位射出至多 [{num_targets}:num_targets] 道混沌能量箭\n每道箭造成 [{damage}:damage] 点[火:fire]、[闪电:lightning]或[物理:physical]伤害'
   [missing] key: 'Shoot a bolt of each damage type at random enemies'
         val: '向随机敌人发射每种伤害类型各一道弹矢'
   [missing] key: 'Shoot [{num_targets}:num_targets] bullets instead of one'
         val: '改为发射 [{num_targets}:num_targets] 发子弹，而非一发'
-  [missing] key: 'Shoot up to [{num_targets}:num_targets] bolts of chaotic energy at units in a cone\nEach bolt deals ['
-        val: '向锥形范围内的单位射出至多 [{num_targets}:num_targets] 道混沌能量箭\n每道箭造成 [{damage}:damage] 点[火:fire]、[闪电:lightning]或[物理:physical]伤害'
 
 === 'Flame' -> '火焰' （4 处）===
-  [missing] key: 'Casting Flame Burst consumes all remaining charges\nFor each charge consumed, it gets +1 [radius]\nSla'
-        val: '施放烈焰爆发会消耗所有剩余充能\n每消耗一层充能，半径 +1 [半径:radius]\n被击杀的单位会引发额外爆炸，半径和伤害减半\n不会伤害施法者'
+  [missing] key: 'Summoning an [Orb] ally grants them a spell you know on a 3 turn cooldown\nSpells are chosen from: Da'
+        val: '召唤[宝珠:orb]友军时，赋予其一个你知道的法术，冷却 3 回合\n法术从以下选择: 黑暗、吸取脉冲、地震、烈焰爆发和风暴爆发'
   [missing] key: 'On the 9th turn of each level, cast Earthquake, Flame Burst, and Storm Burst [{num_targets}:num_targ'
         val: '每层第 9 回合，施放地震、烈焰爆发和风暴爆发 [{num_targets}:num_targets] 次'
   [missing] key: 'The furnace can cast your Flame Burst on a 5 turn cooldown'
         val: '熔炉可以施放你的烈焰爆发，冷却 5 回合'
-  [missing] key: 'Summoning an [Orb] ally grants them a spell you know on a 3 turn cooldown\nSpells are chosen from: Da'
-        val: '召唤[宝珠:orb]友军时，赋予其一个你知道的法术，冷却 3 回合\n法术从以下选择: 黑暗、吸取脉冲、地震、烈焰爆发和风暴爆发'
+  [missing] key: 'Casting Flame Burst consumes all remaining charges\nFor each charge consumed, it gets +1 [radius]\nSla'
+        val: '施放烈焰爆发会消耗所有剩余充能\n每消耗一层充能，半径 +1 [半径:radius]\n被击杀的单位会引发额外爆炸，半径和伤害减半\n不会伤害施法者'
 
 === 'Snow Queen' -> '冰雪女王' （3 处）===
-  [missing] key: 'Snow Queen, Enthroned'
-        val: '雪后·登位'
   [missing] key: 'At 0 HP, transform into Snow Queen, Dethroned and summon Frost Saber'
         val: '生命为 0 时，变身为雪后·失位，并召唤霜牙剑齿虎'
+  [missing] key: 'Snow Queen, Enthroned'
+        val: '雪后·登位'
   [missing] key: 'Snow Queen, Dethroned'
         val: '雪后·失位'
 
-=== 'Living' -> '活物' （3 处）===
-  [missing] key: 'When Lightning Bolt kills a unit, summon a Living Lightning Scroll that can cast your Lightning Bolt'
-        val: '闪电弹击杀单位时，召唤一个可施放一次你的闪电弹的闪电活卷轴\n它施放该法术时便会死亡'
-  [missing] key: 'Summons 2-4 Living Fireball or Living Lightning Scrolls'
-        val: '召唤 2-4 个火球活卷轴或闪电活卷轴'
-  [missing] key: 'Summons 2-4 Living Fireball or Living Lightning Scrolls'
-        val: '召唤 2-4 个火球活卷轴或闪电活卷轴'
-
 === 'Worm' -> '蠕虫' （3 处）===
-  [missing] key: 'Also summon a Toxic Worm Ball'
-        val: '同时召唤毒性虫球'
-  [missing] key: 'Also summon an Iron Worm Ball'
-        val: '同时召唤钢铁虫球'
   [missing] key: 'Also summon a Ghost Worm Ball'
         val: '同时召唤幽魂虫球'
+  [missing] key: 'Also summon an Iron Worm Ball'
+        val: '同时召唤钢铁虫球'
+  [missing] key: 'Also summon a Toxic Worm Ball'
+        val: '同时召唤毒性虫球'
 
-=== 'Gate' -> '门扉' （2 处）===
-  [missing] key: 'The Gate and the Key'
-        val: '门与钥'
-  [missing] key: 'The Gate And The Key'
-        val: '门与钥'
-
-=== 'Winter' -> '寒冬' （2 处）===
-  [missing] key: 'Summon Winter Faeries instead\nWinter Faeries can cast your Freeze spell on a 5 turn cooldown'
-        val: '改为召唤冬之仙灵\n冬之仙灵可以施放你的冰冻术，冷却 5 回合'
-  [missing] key: 'Summon Winter Faeries instead\nWinter Faeries can cast your Freeze spell on a 5 turn cooldown'
-        val: '改为召唤冬之仙灵\n冬之仙灵可以施放你的冰冻术，冷却 5 回合'
-
-=== 'Ward' -> '守护' （2 处）===
-  [missing] key: 'Arcane Ward deals twice as much damage as the blocked hit'
-        val: '奥术守卫造成的伤害为被挡打击的两倍'
-  [missing] key: 'If Arcane Ward kills a unit, it extends its remaining duration by 3'
-        val: '若奥术守卫击杀一个单位，其剩余持续延长 3'
-
-=== 'Look' -> '窥视' （2 处）===
-  [missing] key: '\n[L:shields]: Show line of sight\n[T:shields]: Show threatened tiles\n[Y:shields]: Show threatening en'
-        val: '\n[L:shields]：显示视线\n[T:shields]：显示受威胁格\n[Y:shields]：显示有威胁的敌人\n\n[I:shields]：高亮敌人\n[U:shields]：高亮友军\n[O:shields]：高亮物件\n\n[Tab:shields]：下一个目标\n[M:shield'
-  [missing] key: 'Look closely and you might see the glimmer of distant worlds'
-        val: '仔细看，你或许能瞥见遥远世界的微光'
+=== 'Living' -> '活物' （3 处）===
+  [missing] key: 'Summons 2-4 Living Fireball or Living Lightning Scrolls'
+        val: '召唤 2-4 个火球活卷轴或闪电活卷轴'
+  [missing] key: 'Summons 2-4 Living Fireball or Living Lightning Scrolls'
+        val: '召唤 2-4 个火球活卷轴或闪电活卷轴'
+  [missing] key: 'When Lightning Bolt kills a unit, summon a Living Lightning Scroll that can cast your Lightning Bolt'
+        val: '闪电弹击杀单位时，召唤一个可施放一次你的闪电弹的闪电活卷轴\n它施放该法术时便会死亡'
 
 === 'Holy' -> '神圣' （2 处）===
   [missing] key: 'Slain enemies are raised as temporary Holy Ghosts'
@@ -105,15 +81,122 @@
   [missing] key: 'Holy Blast deals double damage to enemies at full health'
         val: '天堂轰击对满生命值的敌人造成双倍伤害'
 
+=== 'Look' -> '窥视' （2 处）===
+  [missing] key: '\n[L:shields]: Show line of sight\n[T:shields]: Show threatened tiles\n[Y:shields]: Show threatening en'
+        val: '\n[L:shields]：显示视线\n[T:shields]：显示受威胁格\n[Y:shields]：显示有威胁的敌人\n\n[I:shields]：高亮敌人\n[U:shields]：高亮友军\n[O:shields]：高亮物件\n\n[Tab:shields]：下一个目标\n[M:shield'
+  [missing] key: 'Look closely and you might see the glimmer of distant worlds'
+        val: '仔细看，你或许能瞥见遥远世界的微光'
+
 === 'Curse' -> '诅咒' （2 处）===
   [missing] key: '%s Curse Doll'
         val: '%s 咒术人偶'
   [missing] key: 'Curse {num_targets} random enemies with [Shared Pain:blood]'
         val: '使 {num_targets} 个随机敌人感染[痛苦共享:blood]'
 
+=== 'Ward' -> '守护' （2 处）===
+  [missing] key: 'Arcane Ward deals twice as much damage as the blocked hit'
+        val: '奥术守卫造成的伤害为被挡打击的两倍'
+  [missing] key: 'If Arcane Ward kills a unit, it extends its remaining duration by 3'
+        val: '若奥术守卫击杀一个单位，其剩余持续延长 3'
+
+=== 'Winter' -> '寒冬' （2 处）===
+  [missing] key: 'Summon Winter Faeries instead\nWinter Faeries can cast your Freeze spell on a 5 turn cooldown'
+        val: '改为召唤冬之仙灵\n冬之仙灵可以施放你的冰冻术，冷却 5 回合'
+  [missing] key: 'Summon Winter Faeries instead\nWinter Faeries can cast your Freeze spell on a 5 turn cooldown'
+        val: '改为召唤冬之仙灵\n冬之仙灵可以施放你的冰冻术，冷却 5 回合'
+
+=== 'Gate' -> '门扉' （2 处）===
+  [missing] key: 'The Gate And The Key'
+        val: '门与钥'
+  [missing] key: 'The Gate and the Key'
+        val: '门与钥'
+
+=== 'Lightning' -> '闪电' （1 处）===
+  [missing] key: 'The Spawners summon Aelf Lightning Artists instead'
+        val: '生成器改为召唤精灵雷舞者'
+
+=== 'Interact' -> '互动' （1 处）===
+  [missing] key: '\n[L:shields]: Show line of sight\n[T:shields]: Show threatened tiles\n[Y:shields]: Show threatening en'
+        val: '\n[L:shields]：显示视线\n[T:shields]：显示受威胁格\n[Y:shields]：显示有威胁的敌人\n\n[I:shields]：高亮敌人\n[U:shields]：高亮友军\n[O:shields]：高亮物件\n\n[Tab:shields]：下一个目标\n[M:shield'
+
+=== 'Arcane Storm' -> '奥术风暴' （1 处）===
+  [lcs] key: 'Summon a {knight_name}\nThe summoned knight will match the spell school you have spent the most SP on'
+        val: '召唤一个 {knight_name}\n召唤出的骑士与你花费 SP 最多的法术学派一致\n虚空骑士：[奥术:arcane]\n风暴骑士：[闪电:lightning] 或 [冰:ice]\n混沌骑士：[混沌:chaos]\n鲜血骑士：[血:blood]\n骑士死亡时，施法者受到 [40 神圣:'
+
 === 'Deal Fire' -> '造成火焰' （1 处）===
   [lcs] key: 'Consume all [poison] on enemies\nDeal [Fire] damage in a [{radius}:radius] tile burst around each aff'
         val: '消耗敌人身上的所有 [中毒:poison]\n对每个受影响的敌人造成 [火:fire] 伤害，在其周围半径 [{radius}:radius] 格的范围内爆发，数值等于被消耗 [中毒:poison] 的剩余持续时间'
+
+=== 'Cursed' -> '受诅咒' （1 处）===
+  [lcs] key: 'Curse enemies in a [{radius} tile:radius] radius with the Shadow Hex for [{duration}:duration] turns'
+        val: '对 [{radius} 格:radius] 半径内的敌人施加暗影诅咒，持续 [{duration}:duration] 回合\n被诅咒的目标每回合受到 [{damage}:damage] 点[黑暗:dark]伤害'
+
+=== 'Deal Lightning' -> '造成闪电' （1 处）===
+  [lcs] key: 'Casting Ice Vortex targeting a unit with a cloud over it improves the spell\n[Blizzard:ice] : +2 [rad'
+        val: '对身上有云的单位施放冰霜漩涡可强化法术\n[暴风雪:ice]：+2 [半径:radius]\n[风暴云:lightning]：造成[闪电:lightning]伤害，以及[冰:ice]和[奥术:arcane]伤害\n[雨云:nature]：造成伤害前先施加 [{duration}:dur'
+
+=== 'Unnamed' -> '未命名' （1 处）===
+  [missing] key: 'Orrery of the Unnamed One'
+        val: '无名者星象仪'
+
+=== 'Blades' -> '利刃' （1 处）===
+  [missing] key: 'Summon Swords of Light instead of Dancing Blades'
+        val: '改为召唤光之剑，而非舞刃'
+
+=== 'Demon' -> '恶魔' （1 处）===
+  [missing] key: 'Bafflement, Demon King'
+        val: '困惑·魔王'
+
+=== 'Pain' -> '痛苦魔' （1 处）===
+  [stem] key: "Pain Mirror's outgoing damage is based on pre-resistance values, rather than actual damage taken"
+        val: '痛苦镜像的输出伤害基于抗性减免前的数值，而非实际受到的伤害'
+        建议: '痛苦魔镜像的输出伤害基于抗性减免前的数值，而非实际受到的伤害'
+
+=== 'Play' -> '开始游戏' （1 处）===
+  [lcs] key: 'How to Play ({key})'
+        val: '游戏玩法 ({key})'
+
+=== 'Fireball' -> '火球术' （1 处）===
+  [stem] key: 'Summons 2-4 Living Fireball or Living Lightning Scrolls'
+        val: '召唤 2-4 个火球活卷轴或闪电活卷轴'
+        建议: '召唤 2-4 个火球术活卷轴或闪电活卷轴'
+
+=== 'White' -> '白色' （1 处）===
+  [missing] key: 'CREDITS\n\nDylan White - Design and Programming\nJacob Martinez - Design and Programming\nK.Hoops - Art,'
+        val: '制作人员\n\nDylan White - 设计与程序\nJacob Martinez - 设计与程序\nK.Hoops - 美术、音效与音乐\n\n特别感谢：\nSean Conrad - 扬琴、吉他、钢琴\nSeth Pulver - 鼓\n\n感谢我们的测试玩家：\nFlameberger\nra'
+
+=== 'Box' -> '方形' （1 处）===
+  [missing] key: 'CREDITS\n\nDylan White - Design and Programming\nJacob Martinez - Design and Programming\nK.Hoops - Art,'
+        val: '制作人员\n\nDylan White - 设计与程序\nJacob Martinez - 设计与程序\nK.Hoops - 美术、音效与音乐\n\n特别感谢：\nSean Conrad - 扬琴、吉他、钢琴\nSeth Pulver - 鼓\n\n感谢我们的测试玩家：\nFlameberger\nra'
+
+=== 'Eye' -> '眼魔' （1 处）===
+  [missing] key: 'Ritual of the Opening Eye'
+        val: '开眼仪式'
+
+=== 'Spider' -> '蛛类' （1 处）===
+  [missing] key: 'Also summon a pair of Dryders near the Spider Queen'
+        val: '同时在蜘蛛女王附近召唤一对德莱德'
+
+=== 'Armored' -> '装甲' （1 处）===
+  [missing] key: 'At the beginning of each level, summon [{num_summons}:num_summons] Armored Polar Bears'
+        val: '每层开始时，召唤 [{num_summons}:num_summons] 只披甲北极熊'
+
+=== 'Aesir' -> '阿萨神族' （1 处）===
+  [stem] key: 'Odin, Aesir Immortal'
+        val: '不朽阿萨神·奥丁'
+        建议: '不朽阿萨神族·奥丁'
+
+=== 'Cannot walk' -> '无法移动' （1 处）===
+  [lcs] key: '\n[asseticon:stun] Stunned: Cannot act\n[asseticon:petrified] Petrified: Cannot act. Gain 100 Ice and '
+        val: '\n[asseticon:stun] 眩晕：无法行动\n[asseticon:petrified] 石化：无法行动。获得 100 冰和闪电抗性。获得 75 物理和火焰抗性\n[asseticon:glassed] 玻璃化：无法行动。获得 100 冰和闪电抗性。获得 75 火焰抗性。失去'
+
+=== 'Toxic' -> '剧毒' （1 处）===
+  [missing] key: 'Also summon a Toxic Worm Ball'
+        val: '同时召唤毒性虫球'
+
+=== 'Winter Fae' -> '寒冬妖精' （1 处）===
+  [missing] key: 'Summon a Fae Queen in addition to the Faeries\nIf you have the Winter Faery upgrade as well, summons '
+        val: '除仙灵外额外召唤一只仙灵女王\n若你还拥有冬之仙灵强化，则改为召唤冬之仙灵女王，其可以施放你的暴风雪法术，冷却 15 回合'
 
 === 'Bat' -> '蝙蝠' （1 处）===
   [missing] key: 'Bat an enemy to a random tile in line of sight'
@@ -123,60 +206,6 @@
   [missing] key: 'Open the Steam Workshop page.'
         val: '打开 Steam 创意工坊页面。'
 
-=== 'Arcane Storm' -> '奥术风暴' （1 处）===
-  [lcs] key: 'Summon a {knight_name}\nThe summoned knight will match the spell school you have spent the most SP on'
-        val: '召唤一个 {knight_name}\n召唤出的骑士与你花费 SP 最多的法术学派一致\n虚空骑士：[奥术:arcane]\n风暴骑士：[闪电:lightning] 或 [冰:ice]\n混沌骑士：[混沌:chaos]\n鲜血骑士：[血:blood]\n骑士死亡时，施法者受到 [40 神圣:'
-
-=== 'Blades' -> '利刃' （1 处）===
-  [missing] key: 'Summon Swords of Light instead of Dancing Blades'
-        val: '改为召唤光之剑，而非舞刃'
-
-=== 'Play' -> '开始游戏' （1 处）===
-  [lcs] key: 'How to Play ({key})'
-        val: '游戏玩法 ({key})'
-
-=== 'Unnamed' -> '未命名' （1 处）===
-  [missing] key: 'Orrery of the Unnamed One'
-        val: '无名者星象仪'
-
-=== 'Toxic' -> '剧毒' （1 处）===
-  [missing] key: 'Also summon a Toxic Worm Ball'
-        val: '同时召唤毒性虫球'
-
-=== 'Interact' -> '互动' （1 处）===
-  [missing] key: '\n[L:shields]: Show line of sight\n[T:shields]: Show threatened tiles\n[Y:shields]: Show threatening en'
-        val: '\n[L:shields]：显示视线\n[T:shields]：显示受威胁格\n[Y:shields]：显示有威胁的敌人\n\n[I:shields]：高亮敌人\n[U:shields]：高亮友军\n[O:shields]：高亮物件\n\n[Tab:shields]：下一个目标\n[M:shield'
-
-=== 'Aesir' -> '阿萨神族' （1 处）===
-  [stem] key: 'Odin, Aesir Immortal'
-        val: '不朽阿萨神·奥丁'
-        建议: '不朽阿萨神族·奥丁'
-
-=== 'Demon' -> '恶魔' （1 处）===
-  [missing] key: 'Bafflement, Demon King'
-        val: '困惑·魔王'
-
-=== 'Cannot walk' -> '无法移动' （1 处）===
-  [lcs] key: '\n[asseticon:stun] Stunned: Cannot act\n[asseticon:petrified] Petrified: Cannot act. Gain 100 Ice and '
-        val: '\n[asseticon:stun] 眩晕：无法行动\n[asseticon:petrified] 石化：无法行动。获得 100 冰和闪电抗性。获得 75 物理和火焰抗性\n[asseticon:glassed] 玻璃化：无法行动。获得 100 冰和闪电抗性。获得 75 火焰抗性。失去'
-
-=== 'Deal Lightning' -> '造成闪电' （1 处）===
-  [lcs] key: 'Casting Ice Vortex targeting a unit with a cloud over it improves the spell\n[Blizzard:ice] : +2 [rad'
-        val: '对身上有云的单位施放冰霜漩涡可强化法术\n[暴风雪:ice]：+2 [半径:radius]\n[风暴云:lightning]：造成[闪电:lightning]伤害，以及[冰:ice]和[奥术:arcane]伤害\n[雨云:nature]：造成伤害前先施加 [{duration}:dur'
-
-=== 'Winter Fae' -> '寒冬妖精' （1 处）===
-  [missing] key: 'Summon a Fae Queen in addition to the Faeries\nIf you have the Winter Faery upgrade as well, summons '
-        val: '除仙灵外额外召唤一只仙灵女王\n若你还拥有冬之仙灵强化，则改为召唤冬之仙灵女王，其可以施放你的暴风雪法术，冷却 15 回合'
-
-=== 'Fireball' -> '火球术' （1 处）===
-  [stem] key: 'Summons 2-4 Living Fireball or Living Lightning Scrolls'
-        val: '召唤 2-4 个火球活卷轴或闪电活卷轴'
-        建议: '召唤 2-4 个火球术活卷轴或闪电活卷轴'
-
-=== 'Eye' -> '眼魔' （1 处）===
-  [missing] key: 'Ritual of the Opening Eye'
-        val: '开眼仪式'
-
 === 'Wall' -> '墙壁' （1 处）===
   [missing] key: "Wall of Flames' remaining duration increases by 1 when it kills a unit"
         val: '烈焰之墙击杀单位时，其剩余持续增加 1'
@@ -184,28 +213,3 @@
 === 'Flames' -> '火焰' （1 处）===
   [missing] key: "Wall of Flames' remaining duration increases by 1 when it kills a unit"
         val: '烈焰之墙击杀单位时，其剩余持续增加 1'
-
-=== 'Lightning' -> '闪电' （1 处）===
-  [missing] key: 'The Spawners summon Aelf Lightning Artists instead'
-        val: '生成器改为召唤精灵雷舞者'
-
-=== 'Cursed' -> '受诅咒' （1 处）===
-  [lcs] key: 'Curse enemies in a [{radius} tile:radius] radius with the Shadow Hex for [{duration}:duration] turns'
-        val: '对 [{radius} 格:radius] 半径内的敌人施加暗影诅咒，持续 [{duration}:duration] 回合\n被诅咒的目标每回合受到 [{damage}:damage] 点[黑暗:dark]伤害'
-
-=== 'Armored' -> '装甲' （1 处）===
-  [missing] key: 'At the beginning of each level, summon [{num_summons}:num_summons] Armored Polar Bears'
-        val: '每层开始时，召唤 [{num_summons}:num_summons] 只披甲北极熊'
-
-=== 'Pain' -> '痛苦魔' （1 处）===
-  [stem] key: "Pain Mirror's outgoing damage is based on pre-resistance values, rather than actual damage taken"
-        val: '痛苦镜像的输出伤害基于抗性减免前的数值，而非实际受到的伤害'
-        建议: '痛苦魔镜像的输出伤害基于抗性减免前的数值，而非实际受到的伤害'
-
-=== 'White' -> '白色' （1 处）===
-  [missing] key: 'CREDITS\n\nDylan White - Design and Programming\nJacob Martinez - Design and Programming\nK.Hoops - Art,'
-        val: '制作人员\n\nDylan White - 设计与程序\nJacob Martinez - 设计与程序\nK.Hoops - 美术、音效与音乐\n\n特别感谢：\nSean Conrad - 扬琴、吉他、钢琴\nSeth Pulver - 鼓\n\n感谢我们的测试玩家：\nFlameberger\nra'
-
-=== 'Box' -> '方形' （1 处）===
-  [missing] key: 'CREDITS\n\nDylan White - Design and Programming\nJacob Martinez - Design and Programming\nK.Hoops - Art,'
-        val: '制作人员\n\nDylan White - 设计与程序\nJacob Martinez - 设计与程序\nK.Hoops - 美术、音效与音乐\n\n特别感谢：\nSean Conrad - 扬琴、吉他、钢琴\nSeth Pulver - 鼓\n\n感谢我们的测试玩家：\nFlameberger\nra'

@@ -299,8 +299,12 @@ def _patch_tokenize_cjk():
 				yield tok
 	cls.tokenize = tokenize
 
-_patch_tokenize_cjk()
-_dbg('section9 ok (cjk wrap patch)')
+try:
+	_patch_tokenize_cjk()
+	_dbg('section9 ok (cjk wrap patch)')
+except Exception:
+	import traceback
+	_dbg('section9 CRASH:\n' + traceback.format_exc())
 
 try:
 	_patch_text_module()
