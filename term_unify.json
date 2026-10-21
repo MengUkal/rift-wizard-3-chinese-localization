@@ -1,0 +1,1009 @@
+{
+ "overrides": {
+  "Beam": "光束",
+  "Wyrm": "蛟龙",
+  "Faeries": "仙灵",
+  "Channeling": "引导",
+  "Pain": "痛苦魔",
+  "Pale Rider": "苍白骑士",
+  "Castellan Clogs": "城主木屐",
+  "Hag's Eye": "夜巫婆之眼",
+  "Seal of Searing": "灼热封印",
+  "Bafflement, Demon King": "困惑·魔王",
+  "Mordred, Unbound": "莫德雷德·未绑定",
+  "%s Frenzy": "%s 狂乱",
+  "%s Frenzy Mask": "%s 狂乱面具",
+  "%s Curse Doll": "%s 咒术人偶"
+ },
+ "rules": [
+  {
+   "pairs": [
+    [
+     "绿色黏液(?!怪)",
+     "绿色黏液怪"
+    ],
+    [
+     "绿黏液怪",
+     "绿色黏液怪"
+    ]
+   ],
+   "scope": "\\bGreen Slime\\b"
+  },
+  {
+   "pairs": [
+    [
+     "虚空黏液(?!怪)",
+     "虚空黏液怪"
+    ]
+   ],
+   "scope": "\\bVoid Slimes?\\b"
+  },
+  {
+   "pairs": [
+    [
+     "(?<!鲜)血黏液",
+     "鲜血黏液"
+    ]
+   ],
+   "scope": "\\bBlood Slimes?\\b"
+  },
+  {
+   "pairs": [
+    [
+     "电黏液怪",
+     "闪电黏液怪"
+    ],
+    [
+     "冰黏液怪",
+     "冰霜黏液怪"
+    ]
+   ],
+   "scope": "turned into slimes of matching types"
+  },
+  {
+   "pairs": [
+    [
+     "雷击",
+     "雷霆打击"
+    ],
+    [
+     "雷袭",
+     "雷霆打击"
+    ]
+   ],
+   "scope": "\\bThunder Strike\\b"
+  },
+  {
+   "pairs": [
+    [
+     "融化墙壁",
+     "熔毁墙壁"
+    ],
+    [
+     "熔化墙壁",
+     "熔毁墙壁"
+    ]
+   ],
+   "scope": "\\bMelts walls\\b"
+  },
+  {
+   "pairs": [
+    [
+     "腿首(?!怪)",
+     "腿首怪"
+    ],
+    [
+     "腿头怪",
+     "腿首怪"
+    ]
+   ],
+   "scope": "\\bLeghead\\b"
+  },
+  {
+   "pairs": [
+    [
+     "黄金骷髅(?!头)",
+     "黄金骷髅头"
+    ],
+    [
+     "黄金头骨",
+     "黄金骷髅头"
+    ]
+   ],
+   "scope": "\\bGolden Skull\\b"
+  },
+  {
+   "pairs": [
+    [
+     "夜婆",
+     "夜巫婆"
+    ]
+   ],
+   "scope": "\\bNight Hag\\b"
+  },
+  {
+   "pairs": [
+    [
+     "夜婆之眼",
+     "夜巫婆之眼"
+    ]
+   ],
+   "scope": "\\bHag's Eye\\b"
+  },
+  {
+   "pairs": [
+    [
+     "湮灭",
+     "歼灭"
+    ]
+   ],
+   "scope": "\\bAnnihilate\\b"
+  },
+  {
+   "pairs": [
+    [
+     "命运封印",
+     "封印命运"
+    ]
+   ],
+   "scope": "\\bSeal Fate\\b"
+  },
+  {
+   "pairs": [
+    [
+     "闪电系绳",
+     "闪电锁链"
+    ]
+   ],
+   "scope": "\\bLightning Tether\\b"
+  },
+  {
+   "pairs": [
+    [
+     "火息",
+     "火焰吐息"
+    ]
+   ],
+   "scope": "\\bFire Breath\\b"
+  },
+  {
+   "pairs": [
+    [
+     "焰电脉冲",
+     "静炎脉冲"
+    ]
+   ],
+   "scope": "\\bPyrostatic Pulse\\b"
+  },
+  {
+   "pairs": [
+    [
+     "烈焰折磨者",
+     "灼焰折磨者"
+    ]
+   ],
+   "scope": "\\bFiery Tormentor\\b"
+  },
+  {
+   "pairs": [
+    [
+     "炽焰折磨之团",
+     "灼焰折磨之团"
+    ]
+   ],
+   "scope": "\\bFiery Tormenting Mass\\b"
+  },
+  {
+   "pairs": [
+    [
+     "棱镜光束",
+     "棱彩光束"
+    ]
+   ],
+   "scope": "\\bPrismatic Beam\\b"
+  },
+  {
+   "pairs": [
+    [
+     "熔毁护甲",
+     "熔化护甲"
+    ]
+   ],
+   "scope": "\\bMelted Armor\\b"
+  },
+  {
+   "pairs": [
+    [
+     "(?<!尖)刺球",
+     "尖刺球"
+    ]
+   ],
+   "scope": "\\bSpike Ball\\b"
+  },
+  {
+   "pairs": [
+    [
+     "铜刺球",
+     "铜制尖刺球"
+    ]
+   ],
+   "scope": "\\bSpikeball\\b"
+  },
+  {
+   "pairs": [
+    [
+     "铜刺球",
+     "铜制尖刺球"
+    ],
+    [
+     "铜尖刺球",
+     "铜制尖刺球"
+    ]
+   ],
+   "scope": "\\bCopper Spike Ball\\b"
+  },
+  {
+   "pairs": [
+    [
+     "荆棘监狱",
+     "荆棘牢狱"
+    ],
+    [
+     "荆棘囚笼",
+     "荆棘牢狱"
+    ]
+   ],
+   "scope": "\\bPrison of Thorns\\b"
+  },
+  {
+   "pairs": [
+    [
+     "怒火之眼",
+     "怒之眼"
+    ]
+   ],
+   "scope": "\\bEye of Rage\\b"
+  },
+  {
+   "pairs": [
+    [
+     "蠕虫徘徊者",
+     "蠕虫蹒跚怪"
+    ],
+    [
+     "蠕虫蹒跚者",
+     "蠕虫蹒跚怪"
+    ]
+   ],
+   "scope": "\\bWorm Shambler\\b"
+  },
+  {
+   "pairs": [
+    [
+     "骸骨蹒跚者",
+     "骨蹒跚怪"
+    ],
+    [
+     "白骨蹒跚者",
+     "骨蹒跚怪"
+    ]
+   ],
+   "scope": "\\bBone Shambler\\b"
+  },
+  {
+   "pairs": [
+    [
+     "蚓体生成",
+     "蠕虫生成术"
+    ]
+   ],
+   "scope": "\\bLumbriogenesis\\b"
+  },
+  {
+   "pairs": [
+    [
+     "悬浮之眼",
+     "浮空之眼"
+    ]
+   ],
+   "scope": "\\bFloating Eye\\b"
+  },
+  {
+   "pairs": [
+    [
+     "火球(?!术)",
+     "火球术"
+    ]
+   ],
+   "scope": "\\bFireball\\b",
+   "exclude": "Living Fireball"
+  },
+  {
+   "pairs": [
+    [
+     "烈焰裂隙",
+     "火焰裂隙"
+    ]
+   ],
+   "scope": "\\bFlame Rift\\b"
+  },
+  {
+   "pairs": [
+    [
+     "召唤魔刃",
+     "召唤利刃"
+    ]
+   ],
+   "scope": "\\bSummon Blade\\b"
+  },
+  {
+   "pairs": [
+    [
+     "血肉恶鬼",
+     "血肉魔鬼"
+    ]
+   ],
+   "scope": "\\bFlesh Fiend\\b"
+  },
+  {
+   "pairs": [
+    [
+     "守视者",
+     "看守者"
+    ]
+   ],
+   "scope": "\\bWatcher\\b"
+  },
+  {
+   "pairs": [
+    [
+     "眼盔",
+     "眼魔头盔"
+    ]
+   ],
+   "scope": "\\bEye Helm\\b"
+  },
+  {
+   "pairs": [
+    [
+     "万目衣",
+     "千眼法衣"
+    ]
+   ],
+   "scope": "\\bRaiment of Eyes\\b"
+  },
+  {
+   "pairs": [
+    [
+     "妖异",
+     "邪异"
+    ]
+   ],
+   "scope": "\\bEldritch\\b"
+  },
+  {
+   "pairs": [
+    [
+     "苦痛狂欢节",
+     "痛苦狂欢"
+    ]
+   ],
+   "scope": "\\bCarnival of Pain\\b"
+  },
+  {
+   "pairs": [
+    [
+     "混沌恶魔",
+     "混沌魔"
+    ]
+   ],
+   "scope": "\\bChaos Fiend\\b"
+  },
+  {
+   "pairs": [
+    [
+     "惧面兽",
+     "惧面怪"
+    ]
+   ],
+   "scope": "\\bFearface\\b"
+  },
+  {
+   "pairs": [
+    [
+     "吸取",
+     "汲取"
+    ]
+   ],
+   "scope": "\\bDrain\\b"
+  },
+  {
+   "pairs": [
+    [
+     "消耗 1 个法术充能",
+     "吸取 1 个法术充能"
+    ]
+   ],
+   "scope": "Drains a spell charge"
+  },
+  {
+   "pairs": [
+    [
+     "传染",
+     "蔓延"
+    ]
+   ],
+   "scope": "\\bSpreads\\b"
+  },
+  {
+   "pairs": [
+    [
+     "雷云",
+     "风暴云"
+    ]
+   ],
+   "scope": "Summon Blizzards, Storm Clouds"
+  },
+  {
+   "pairs": [
+    [
+     "幽灵",
+     "幽魂"
+    ]
+   ],
+   "scope": "\\bGhost\\b"
+  },
+  {
+   "pairs": [
+    [
+     "死神",
+     "死亡"
+    ]
+   ],
+   "scope": "Summon Death instead of a Ghost"
+  },
+  {
+   "pairs": [
+    [
+     "共痛",
+     "痛苦共享"
+    ],
+    [
+     "共同痛苦",
+     "痛苦共享"
+    ]
+   ],
+   "scope": "\\bShared Pain\\b"
+  },
+  {
+   "pairs": [
+    [
+     "(?<!鲜)血骑士",
+     "鲜血骑士"
+    ]
+   ],
+   "scope": "\\bBlood Knight\\b"
+  },
+  {
+   "pairs": [
+    [
+     "死亡寒息",
+     "死亡冻寒"
+    ]
+   ],
+   "scope": "\\bDeath Chill\\b"
+  },
+  {
+   "pairs": [
+    [
+     "携冬者",
+     "凛冬使者"
+    ]
+   ],
+   "scope": "\\bWinterbringer\\b"
+  },
+  {
+   "pairs": [
+    [
+     "(?<!八岐)大蛇",
+     "八岐大蛇"
+    ]
+   ],
+   "scope": "\\bOrochi\\b"
+  },
+  {
+   "pairs": [
+    [
+     "湮灭软泥",
+     "湮灭黏浆"
+    ]
+   ],
+   "scope": "\\bAnnihilation Goo\\b"
+  },
+  {
+   "pairs": [
+    [
+     "引爆毒素",
+     "毒素引燃"
+    ]
+   ],
+   "scope": "\\bCombust Poison\\b"
+  },
+  {
+   "pairs": [
+    [
+     "石头鱼",
+     "石鱼"
+    ]
+   ],
+   "scope": "\\bStonefish\\b"
+  },
+  {
+   "pairs": [
+    [
+     "冰妖精",
+     "冰霜仙灵"
+    ]
+   ],
+   "scope": "\\bIce Faery\\b"
+  },
+  {
+   "pairs": [
+    [
+     "以太蛛类",
+     "以太蜘蛛"
+    ]
+   ],
+   "scope": "\\bAether Spider"
+  },
+  {
+   "pairs": [
+    [
+     "侵蚀",
+     "腐蚀"
+    ]
+   ],
+   "scope": "\\bCorrosion\\b"
+  },
+  {
+   "pairs": [
+    [
+     "链式闪电",
+     "连锁闪电"
+    ]
+   ],
+   "scope": "\\bChain Lightning\\b"
+  },
+  {
+   "pairs": [
+    [
+     "鲜血子弹",
+     "血弹"
+    ]
+   ],
+   "scope": "\\bBlood Bullet\\b"
+  },
+  {
+   "pairs": [
+    [
+     "红玉之心",
+     "红宝石之心"
+    ]
+   ],
+   "scope": "\\bRuby Heart\\b"
+  },
+  {
+   "pairs": [
+    [
+     "冰龙虫",
+     "寒冰蛟龙"
+    ]
+   ],
+   "scope": "\\bIce Wyrm\\b"
+  },
+  {
+   "pairs": [
+    [
+     "(?<!寒)冰幼龙",
+     "寒冰幼龙"
+    ]
+   ],
+   "scope": "\\bIce Drake\\b"
+  },
+  {
+   "pairs": [
+    [
+     "火幼龙",
+     "火焰幼龙"
+    ]
+   ],
+   "scope": "\\bFire Drake\\b"
+  },
+  {
+   "pairs": [
+    [
+     "火焰元素",
+     "火元素"
+    ]
+   ],
+   "scope": "\\bFire Elemental\\b"
+  },
+  {
+   "pairs": [
+    [
+     "火之眼",
+     "火焰之眼"
+    ]
+   ],
+   "scope": "\\bEye of Fire\\b"
+  },
+  {
+   "pairs": [
+    [
+     "梦见星鲸",
+     "梦游星鲸"
+    ]
+   ],
+   "scope": "\\bDream the Starwhale\\b"
+  },
+  {
+   "pairs": [
+    [
+     "冻结珊瑚",
+     "冻凝珊瑚"
+    ]
+   ],
+   "scope": "\\bFreezing Coral\\b"
+  },
+  {
+   "pairs": [
+    [
+     "主教靴",
+     "主教长靴"
+    ]
+   ],
+   "scope": "\\bBishop Boots\\b"
+  },
+  {
+   "pairs": [
+    [
+     "窃梦冠冕",
+     "窃梦头冠"
+    ]
+   ],
+   "scope": "\\bDream Thief Diadem\\b"
+  },
+  {
+   "pairs": [
+    [
+     "渡魂法杖",
+     "引魂者法杖"
+    ]
+   ],
+   "scope": "\\bPsychopomp Staff\\b"
+  },
+  {
+   "pairs": [
+    [
+     "催眠饰珠",
+     "催眠小饰品"
+    ]
+   ],
+   "scope": "\\bHypno Bauble\\b"
+  },
+  {
+   "pairs": [
+    [
+     "黏液诞生术",
+     "黏液降生坎特罗术"
+    ]
+   ],
+   "scope": "\\bSlimebirth Cantromancy\\b"
+  },
+  {
+   "pairs": [
+    [
+     "黏滑巫毒披风",
+     "黏液巫毒披风"
+    ]
+   ],
+   "scope": "\\bSlimy Voodoo Mantle\\b"
+  },
+  {
+   "pairs": [
+    [
+     "破碎感知棱镜",
+     "碎感棱镜"
+    ]
+   ],
+   "scope": "\\bPrism of Shattered Sensations\\b"
+  },
+  {
+   "pairs": [
+    [
+     "永恒绽放囊肿",
+     "永绽囊肿"
+    ]
+   ],
+   "scope": "\\bCyst of Eternal Bloom\\b"
+  },
+  {
+   "pairs": [
+    [
+     "无尽屠戮宝珠",
+     "无尽杀戮宝珠"
+    ]
+   ],
+   "scope": "\\bOrb of Infinite Slaughter\\b"
+  },
+  {
+   "pairs": [
+    [
+     "混沌之鳞王冠",
+     "混沌鳞冠"
+    ]
+   ],
+   "scope": "\\bChaos Scale Crown\\b"
+  },
+  {
+   "pairs": [
+    [
+     "蟠龙之魂护甲",
+     "龙灵护甲"
+    ]
+   ],
+   "scope": "\\bWyrm Spirit Armor\\b"
+  },
+  {
+   "pairs": [
+    [
+     "额外生命",
+     "加成生命"
+    ]
+   ],
+   "scope": "\\bBonus HP\\b"
+  },
+  {
+   "pairs": [
+    [
+     "奥术守卫",
+     "奥术守护"
+    ]
+   ],
+   "scope": "\\bArcane Warding\\b"
+  },
+  {
+   "pairs": [
+    [
+     "生命汲取",
+     "生命吸取"
+    ]
+   ],
+   "scope": "\\bLifedrain\\b"
+  },
+  {
+   "pairs": [
+    [
+     "腐化",
+     "腐烂"
+    ]
+   ],
+   "scope": "\\bRot\\b"
+  },
+  {
+   "pairs": [
+    [
+     "熔化",
+     "熔解"
+    ]
+   ],
+   "scope": "\\bMelt\\b"
+  },
+  {
+   "pairs": [
+    [
+     "狼获得",
+     "狼群获得"
+    ]
+   ],
+   "scope": "\\bWolves\\b"
+  },
+  {
+   "pairs": [
+    [
+     "献祭山羊",
+     "山羊魔"
+    ]
+   ],
+   "scope": "\\bGoatia\\b"
+  },
+  {
+   "pairs": [
+    [
+     "黄金之牛",
+     "黄金公牛"
+    ]
+   ],
+   "scope": "\\bGolden Bull\\b"
+  },
+  {
+   "pairs": [
+    [
+     "射线",
+     "光束"
+    ]
+   ],
+   "scope": "\\bBeam"
+  },
+  {
+   "pairs": [
+    [
+     "仙灵群",
+     "仙灵"
+    ]
+   ],
+   "scope": "Faeries"
+  },
+  {
+   "pairs": [
+    [
+     "痛楚",
+     "痛苦魔"
+    ]
+   ],
+   "scope": "\\bPain\\b"
+  },
+  {
+   "pairs": [
+    [
+     "灰骑士",
+     "苍白骑士"
+    ]
+   ],
+   "scope": "\\bPale Rider"
+  },
+  {
+   "pairs": [
+    [
+     "木鞋",
+     "木屐"
+    ]
+   ],
+   "scope": "\\bCastellan Clogs\\b"
+  },
+  {
+   "pairs": [
+    [
+     "炙烤之印",
+     "灼热封印"
+    ]
+   ],
+   "scope": "\\bSeal of Searing"
+  },
+  {
+   "pairs": [
+    [
+     "引导中",
+     "引导"
+    ]
+   ],
+   "scope": "\\bChanneling"
+  },
+  {
+   "pairs": [
+    [
+     "射线",
+     "弹矢"
+    ]
+   ],
+   "scope": "Each bolt bounces"
+  },
+  {
+   "pairs": [
+    [
+     "木鞋",
+     "木屐"
+    ]
+   ],
+   "scope": "\\bClogs"
+  },
+  {
+   "pairs": [
+    [
+     "毒液熊",
+     "毒熊"
+    ]
+   ],
+   "scope": "\\bVenom Bear\\b"
+  },
+  {
+   "pairs": [
+    [
+     "种籽",
+     "幼苗"
+    ]
+   ],
+   "scope": "\\bPsychic Seedling\\b"
+  },
+  {
+   "pairs": [
+    [
+     "龙爪(?!术)",
+     "龙爪术"
+    ]
+   ],
+   "scope": "\\bDragon Claw\\b"
+  },
+  {
+   "pairs": [
+    [
+     "火焰之雨",
+     "火雨"
+    ]
+   ],
+   "scope": "\\bRain of Fire\\b"
+  },
+  {
+   "pairs": [
+    [
+     "横行蟹",
+     "疾爬者"
+    ]
+   ],
+   "scope": "\\bScuttler\\b"
+  },
+  {
+   "pairs": [
+    [
+     "我方",
+     "友方"
+    ]
+   ],
+   "scope": "\\bAllied\\b"
+  },
+  {
+   "pairs": [
+    [
+     "腐朽抽芽",
+     "腐朽苗芽"
+    ]
+   ],
+   "scope": "\\bRot Sprout"
+  },
+  {
+   "pairs": [
+    [
+     "蟠龙",
+     "蛟龙"
+    ]
+   ],
+   "scope": "\\bWyrm"
+  },
+  {
+   "pairs": [
+    [
+     "灵气",
+     "光环"
+    ]
+   ],
+   "scope": "\\bAura"
+  },
+  {
+   "pairs": [
+    [
+     "白骨骑士",
+     "骸骨骑士"
+    ]
+   ],
+   "scope": "\\bBone Knight"
+  },
+  {
+   "pairs": [
+    [
+     "\\[毒素:poison\\]",
+     "[中毒:poison]"
+    ]
+   ]
+  }
+ ]
+}

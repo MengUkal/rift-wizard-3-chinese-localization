@@ -1,0 +1,4642 @@
+不一致名词数: 662  受影响条目: 1180  可自动修复: 130
+
+=== 'Green Slime' -> 标准译名 '绿色黏液怪' （31 处不一致）===
+  [stem] key: 'Assume Slime Form for [{duration}:duration] turns\nGain [50 Physical:physical] and [100 Poi'
+        val: '变为黏液形态，持续 [{duration}:duration] 回合\n获得 [50 物理:physical] 和 [100 毒素:poison] 抗性\n每回合在附近召唤一只绿色黏液\n若你有多个会替换绿色黏液的强化，则每种各召唤一只'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '变为黏液形态，持续 [{duration}:duration] 回合\n获得 [50 物理:physical] 和 [100 毒素:poison] 抗性\n每回合在附近召唤一只绿色黏液怪\n若你有多个会替换绿色黏液怪的强化，则每种各召唤一只'
+  [stem] key: 'Assume Slime Form for [{duration}:duration] turns\nGain [50 Physical:physical] and [100 Poi'
+        val: '变为黏液形态，持续 [{duration}:duration] 回合\n获得 [50 物理:physical] 和 [100 毒素:poison] 抗性\n每回合在附近召唤一只绿色黏液\n若你有多个会替换绿色黏液的强化，则每种各召唤一只'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '变为黏液形态，持续 [{duration}:duration] 回合\n获得 [50 物理:physical] 和 [100 毒素:poison] 抗性\n每回合在附近召唤一只绿色黏液怪\n若你有多个会替换绿色黏液怪的强化，则每种各召唤一只'
+  [stem] key: 'Baby Summons a Green Slime next to the target'
+        val: '幼年在目标旁边召唤一个绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '幼年在目标旁边召唤一个绿色黏液怪'
+  [stem] key: 'Chalice of Summons a Green Slime next to the target'
+        val: '在目标旁边召唤一个绿色黏液圣杯'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '在目标旁边召唤一个绿色黏液怪圣杯'
+  [stem] key: 'Each time you move, summon a Green Slime nearby'
+        val: '你每次移动时，在附近召唤一只绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '你每次移动时，在附近召唤一只绿色黏液怪'
+  [stem] key: 'Instead of a Green Slime, summon a Blood Slime'
+        val: '改为召唤鲜血黏液，而非绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '改为召唤鲜血黏液，而非绿色黏液怪'
+  [stem] key: 'Instead of a Green Slime, summon a Fire Slime'
+        val: '改为召唤火焰黏液，而非绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '改为召唤火焰黏液，而非绿色黏液怪'
+  [stem] key: 'Instead of a Green Slime, summon a Void Slime'
+        val: '改为召唤虚空黏液，而非绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '改为召唤虚空黏液，而非绿色黏液怪'
+  [stem] key: 'Instead of a Green Slime, summon an Electric Slime'
+        val: '改为召唤闪电黏液，而非绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '改为召唤闪电黏液，而非绿色黏液怪'
+  [stem] key: 'Instead of a Green Slime, summon an Ice Slime'
+        val: '改为召唤冰霜黏液，而非绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '改为召唤冰霜黏液，而非绿色黏液怪'
+  [stem] key: 'Multicast Summons a Green Slime next to the target'
+        val: '多重施法：在目标旁边召唤一个绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '多重施法：在目标旁边召唤一个绿色黏液怪'
+  [stem] key: 'On Pickup:\nGain a 50% chance to summon a friendly Green Slime each turn for the remainder '
+        val: '拾取时：\n在本层余下时间内，每回合有 50% 几率召唤一只友方绿色黏液'
+        译法: '绿色黏液'  (标准 '绿色黏液怪')
+        建议: '拾取时：\n在本层余下时间内，每回合有 50% 几率召唤一只友方绿色黏液怪'
+  ... 还有 19 处
+
+=== 'Summon Death' -> 标准译名 '召唤死亡' （21 处不一致）===
+  [stem] key: 'Baby Summon Death instead of a Ghost'
+        val: '幼年改为召唤死神，而非幽灵'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '幼年改为召唤死亡神，而非幽灵'
+  [stem] key: 'Chalice of Summon Death instead of a Ghost'
+        val: '改为召唤死神，而非幽灵圣杯'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '改为召唤死亡神，而非幽灵圣杯'
+  [stem] key: 'Multicast Summon Death instead of a Ghost'
+        val: '多重施法：改为召唤死神，而非幽灵'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '多重施法：改为召唤死亡神，而非幽灵'
+  [stem] key: 'Respawn As Summon Death instead of a Ghost'
+        val: '重生为改为召唤死神，而非幽灵'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '重生为改为召唤死亡神，而非幽灵'
+  [stem] key: 'Robe of Summon Death instead of a Ghost'
+        val: '改为召唤死神，而非幽灵法袍'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '改为召唤死亡神，而非幽灵法袍'
+  [stem] key: 'Skeletal Summon Death instead of a Ghost'
+        val: '骸骨改为召唤死神，而非幽灵'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '骸骨改为召唤死亡神，而非幽灵'
+  [stem] key: 'Slimy Summon Death instead of a Ghost'
+        val: '黏滑改为召唤死神，而非幽灵'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '黏滑改为召唤死亡神，而非幽灵'
+  [stem] key: 'Summon Death inste..'
+        val: '改为召唤死神，而非幽灵'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '改为召唤死亡神，而非幽灵'
+  [stem] key: 'Summon Death instead of a Ghost'
+        val: '改为召唤死神，而非幽灵'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '改为召唤死亡神，而非幽灵'
+  [stem] key: 'Summon Death instead of a Ghost Curse Doll'
+        val: '改为召唤死神，而非幽灵咒术人偶'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '改为召唤死亡神，而非幽灵咒术人偶'
+  [stem] key: 'Summon Death instead of a Ghost Egg'
+        val: '改为召唤死神，而非幽灵蛋'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '改为召唤死亡神，而非幽灵蛋'
+  [stem] key: "Summon Death instead of a Ghost Hunter's Sigil"
+        val: '改为召唤死神，而非幽灵猎手印记'
+        译法: '召唤死'  (标准 '召唤死亡')
+        建议: '改为召唤死亡神，而非幽灵猎手印记'
+  ... 还有 9 处
+
+=== 'Flaming Flesh Fiend' -> 标准译名 '燃烧血肉魔鬼' （20 处不一致）===
+  [lcs] key: 'Baby Summon a Flaming Flesh Fiend instead'
+        val: '幼年改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Chalice of Summon a Flaming Flesh Fiend instead'
+        val: '改为召唤燃烧血肉恶鬼圣杯'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Multicast Summon a Flaming Flesh Fiend instead'
+        val: '多重施法：改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Respawn As Summon a Flaming Flesh Fiend instead'
+        val: '重生为改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Robe of Summon a Flaming Flesh Fiend instead'
+        val: '改为召唤燃烧血肉恶鬼法袍'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Skeletal Summon a Flaming Flesh Fiend instead'
+        val: '骸骨改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Slimy Summon a Flaming Flesh Fiend instead'
+        val: '黏滑改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Summon Summon a Flaming Flesh Fiend instead'
+        val: '召唤改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Summon Summon a Flaming Flesh Fiend insteads'
+        val: '召唤改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Summon a Flaming Flesh Fiend instead'
+        val: '改为召唤燃烧血肉恶鬼'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Summon a Flaming Flesh Fiend instead Curse Doll'
+        val: '改为召唤燃烧血肉恶鬼咒术人偶'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  [lcs] key: 'Summon a Flaming Flesh Fiend instead Egg'
+        val: '改为召唤燃烧血肉恶鬼蛋'
+        译法: '燃烧血肉'  (标准 '燃烧血肉魔鬼')
+  ... 还有 8 处
+
+=== 'Aether Spider Queen' -> 标准译名 '以太蜘蛛女王' （20 处不一致）===
+  [lcs] key: 'Baby Summon an Aether Spider Queen instead'
+        val: '幼年改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Chalice of Summon an Aether Spider Queen instead'
+        val: '改为召唤以太蛛类女王圣杯'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Multicast Summon an Aether Spider Queen instead'
+        val: '多重施法：改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Respawn As Summon an Aether Spider Queen instead'
+        val: '重生为改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Robe of Summon an Aether Spider Queen instead'
+        val: '改为召唤以太蛛类女王法袍'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Skeletal Summon an Aether Spider Queen instead'
+        val: '骸骨改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Slimy Summon an Aether Spider Queen instead'
+        val: '黏滑改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Summon Summon an Aether Spider Queen instead'
+        val: '召唤改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Summon Summon an Aether Spider Queen insteads'
+        val: '召唤改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Summon an Aether Spider Queen instead'
+        val: '改为召唤以太蛛类女王'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Summon an Aether Spider Queen instead Curse Doll'
+        val: '改为召唤以太蛛类女王咒术人偶'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  [lcs] key: 'Summon an Aether Spider Queen instead Egg'
+        val: '改为召唤以太蛛类女王蛋'
+        译法: '以太'  (标准 '以太蜘蛛女王')
+  ... 还有 8 处
+
+=== 'Armored Polar Bear' -> 标准译名 '披甲北极熊' （20 处不一致）===
+  [lcs] key: 'Baby Summon an Armored Polar Bear instead'
+        val: '幼年改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Chalice of Summon an Armored Polar Bear instead'
+        val: '改为召唤一头装甲北极熊圣杯'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Multicast Summon an Armored Polar Bear instead'
+        val: '多重施法：改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Respawn As Summon an Armored Polar Bear instead'
+        val: '重生为改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Robe of Summon an Armored Polar Bear instead'
+        val: '改为召唤一头装甲北极熊法袍'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Skeletal Summon an Armored Polar Bear instead'
+        val: '骸骨改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Slimy Summon an Armored Polar Bear instead'
+        val: '黏滑改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Summon Summon an Armored Polar Bear instead'
+        val: '召唤改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Summon Summon an Armored Polar Bear insteads'
+        val: '召唤改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Summon an Armored Polar Bear instead'
+        val: '改为召唤一头装甲北极熊'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Summon an Armored Polar Bear instead Curse Doll'
+        val: '改为召唤一头装甲北极熊咒术人偶'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  [lcs] key: 'Summon an Armored Polar Bear instead Egg'
+        val: '改为召唤一头装甲北极熊蛋'
+        译法: '甲北极熊'  (标准 '披甲北极熊')
+  ... 还有 8 处
+
+=== 'Venom Bear' -> 标准译名 '毒熊' （20 处不一致）===
+  [missing] key: 'Baby Summons a Venom Bear instead'
+        val: '幼年改为召唤一头毒液熊'
+  [missing] key: 'Chalice of Summons a Venom Bear instead'
+        val: '改为召唤一头毒液熊圣杯'
+  [missing] key: 'Multicast Summons a Venom Bear instead'
+        val: '多重施法：改为召唤一头毒液熊'
+  [missing] key: 'Respawn As Summons a Venom Bear instead'
+        val: '重生为改为召唤一头毒液熊'
+  [missing] key: 'Robe of Summons a Venom Bear instead'
+        val: '改为召唤一头毒液熊法袍'
+  [missing] key: 'Skeletal Summons a Venom Bear instead'
+        val: '骸骨改为召唤一头毒液熊'
+  [missing] key: 'Slimy Summons a Venom Bear instead'
+        val: '黏滑改为召唤一头毒液熊'
+  [missing] key: 'Summon Summons a Venom Bear instead'
+        val: '召唤改为召唤一头毒液熊'
+  [missing] key: 'Summon Summons a Venom Bear insteads'
+        val: '召唤改为召唤一头毒液熊'
+  [missing] key: 'Summons a Venom Bear instead'
+        val: '改为召唤一头毒液熊'
+  [missing] key: 'Summons a Venom Bear instead Curse Doll'
+        val: '改为召唤一头毒液熊咒术人偶'
+  [missing] key: 'Summons a Venom Bear instead Egg'
+        val: '改为召唤一头毒液熊蛋'
+  ... 还有 8 处
+
+=== 'Chalice of Eye' -> 标准译名 '眼魔圣杯' （17 处不一致）===
+  [lcs] key: 'Chalice of Eye Rock Pendant'
+        val: '眼岩吊坠圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye for an Eye'
+        val: '以眼还眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Ammut'
+        val: '阿米特之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Blood'
+        val: '鲜血之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Conflagration'
+        val: '燎原之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Fire'
+        val: '火焰之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Ice'
+        val: '冰之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Icicles'
+        val: '冰锥之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Immolation'
+        val: '焚烧之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Judgement'
+        val: '审判之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Lifedrain'
+        val: '生命吸取之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  [lcs] key: 'Chalice of Eye of Lightning'
+        val: '闪电之眼圣杯'
+        译法: '圣杯'  (标准 '眼魔圣杯')
+  ... 还有 5 处
+
+=== 'Respawn As Eye' -> 标准译名 '重生为眼魔' （17 处不一致）===
+  [stem] key: 'Respawn As Eye Rock Pendant'
+        val: '重生为眼岩吊坠'
+        译法: '重生为眼'  (标准 '重生为眼魔')
+        建议: '重生为眼魔岩吊坠'
+  [lcs] key: 'Respawn As Eye for an Eye'
+        val: '重生为以眼还眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Ammut'
+        val: '重生为阿米特之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Blood'
+        val: '重生为鲜血之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Conflagration'
+        val: '重生为燎原之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Fire'
+        val: '重生为火焰之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Ice'
+        val: '重生为冰之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Icicles'
+        val: '重生为冰锥之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Immolation'
+        val: '重生为焚烧之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Judgement'
+        val: '重生为审判之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Lifedrain'
+        val: '重生为生命吸取之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  [lcs] key: 'Respawn As Eye of Lightning'
+        val: '重生为闪电之眼'
+        译法: '重生为'  (标准 '重生为眼魔')
+  ... 还有 5 处
+
+=== 'Robe of Eye' -> 标准译名 '眼魔法袍' （17 处不一致）===
+  [lcs] key: 'Robe of Eye Rock Pendant'
+        val: '眼岩吊坠法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye for an Eye'
+        val: '以眼还眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Ammut'
+        val: '阿米特之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Blood'
+        val: '鲜血之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Conflagration'
+        val: '燎原之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Fire'
+        val: '火焰之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Ice'
+        val: '冰之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Icicles'
+        val: '冰锥之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Immolation'
+        val: '焚烧之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Judgement'
+        val: '审判之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Lifedrain'
+        val: '生命吸取之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  [lcs] key: 'Robe of Eye of Lightning'
+        val: '闪电之眼法袍'
+        译法: '法袍'  (标准 '眼魔法袍')
+  ... 还有 5 处
+
+=== 'Touched by Eye' -> 标准译名 '眼魔之触' （17 处不一致）===
+  [lcs] key: 'Touched by Eye Rock Pendant'
+        val: '眼岩吊坠之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye for an Eye'
+        val: '以眼还眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Ammut'
+        val: '阿米特之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Blood'
+        val: '鲜血之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Conflagration'
+        val: '燎原之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Fire'
+        val: '火焰之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Ice'
+        val: '冰之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Icicles'
+        val: '冰锥之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Immolation'
+        val: '焚烧之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Judgement'
+        val: '审判之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Lifedrain'
+        val: '生命吸取之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  [lcs] key: 'Touched by Eye of Lightning'
+        val: '闪电之眼之触'
+        译法: '之触'  (标准 '眼魔之触')
+  ... 还有 5 处
+
+=== 'Respawn As Idol' -> 标准译名 '重生为神像' （16 处不一致）===
+  [lcs] key: 'Respawn As Idol of Agony'
+        val: '重生为苦痛神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Burning Sacrifice'
+        val: '重生为燃烧献祭偶像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Fiends'
+        val: '重生为邪魔神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Fiery Vengeance'
+        val: '重生为烈焰复仇神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Frailty'
+        val: '重生为衰弱神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Frost'
+        val: '重生为冰霜神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Insanity'
+        val: '重生为疯狂神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Invincibility'
+        val: '重生为无敌神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Nightmares'
+        val: '重生为梦魇神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Pain'
+        val: '重生为痛苦神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Piety'
+        val: '重生为虔信神像'
+        译法: '重生为'  (标准 '重生为神像')
+  [lcs] key: 'Respawn As Idol of Rebirth'
+        val: '重生为转生神像'
+        译法: '重生为'  (标准 '重生为神像')
+  ... 还有 4 处
+
+=== 'Respawn As Ritual' -> 标准译名 '重生为仪式' （16 处不一致）===
+  [lcs] key: 'Respawn As Ritual of Blades'
+        val: '重生为利刃仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Carcinization'
+        val: '重生为蟹化仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Death'
+        val: '重生为死亡仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Explosions'
+        val: '重生为爆炸仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Flying Daggers'
+        val: '重生为飞刀仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Gnawing Dread'
+        val: '重生为啃噬恐惧仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Haste'
+        val: '重生为加速仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Malevolence'
+        val: '重生为恶意仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Mortality'
+        val: '重生为必朽仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Rejuvenation'
+        val: '重生为回春仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Revelation'
+        val: '重生为启示仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  [lcs] key: 'Respawn As Ritual of Stars'
+        val: '重生为星辰仪式'
+        译法: '重生为'  (标准 '重生为仪式')
+  ... 还有 4 处
+
+=== 'Death Bolt' -> 标准译名 '死亡箭' （15 处不一致）===
+  [stem] key: 'Angelic Singers gain the [Dark] tag and can cast your Death Bolt on a 4 turn cooldown\nThei'
+        val: '天使歌者获得[黑暗:dark]标签，并可以施放你的死亡魔弹，冷却 4 回合\n她们的歌现在只治疗友军，只伤害敌人'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '天使歌者获得[黑暗:dark]标签，并可以施放你的死亡箭魔弹，冷却 4 回合\n她们的歌现在只治疗友军，只伤害敌人'
+  [stem] key: 'Baby Win with a fully upgraded Death Bolt'
+        val: '幼年用完全强化的死亡闪电获胜'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '幼年用完全强化的死亡箭闪电获胜'
+  [stem] key: 'Chalice of Win with a fully upgraded Death Bolt'
+        val: '用完全强化的死亡闪电获胜圣杯'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '用完全强化的死亡箭闪电获胜圣杯'
+  [stem] key: 'Death Bolt heals the caster for any damage it deals'
+        val: '死亡弹造成的伤害会治疗施法者'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '死亡箭弹造成的伤害会治疗施法者'
+  [stem] key: 'Killing a unit with Death Bolt deals [{damage}:damage] [Dark] and [Physical] damage to ene'
+        val: '用死亡弹击杀单位时，造成 [{damage}:damage] 点[黑暗:dark]和[物理:physical]伤害，范围为该单位周围 [{radius}:radius] 格半径内'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '用死亡箭弹击杀单位时，造成 [{damage}:damage] 点[黑暗:dark]和[物理:physical]伤害，范围为该单位周围 [{radius}:radius] 格半径内'
+  [stem] key: 'Multicast Win with a fully upgraded Death Bolt'
+        val: '多重施法：用完全强化的死亡闪电获胜'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '多重施法：用完全强化的死亡箭闪电获胜'
+  [stem] key: 'Respawn As Win with a fully upgraded Death Bolt'
+        val: '重生为用完全强化的死亡闪电获胜'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '重生为用完全强化的死亡箭闪电获胜'
+  [stem] key: 'Robe of Win with a fully upgraded Death Bolt'
+        val: '用完全强化的死亡闪电获胜法袍'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '用完全强化的死亡箭闪电获胜法袍'
+  [stem] key: 'Skeletal Win with a fully upgraded Death Bolt'
+        val: '骸骨用完全强化的死亡闪电获胜'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '骸骨用完全强化的死亡箭闪电获胜'
+  [stem] key: 'Slimy Win with a fully upgraded Death Bolt'
+        val: '黏滑用完全强化的死亡闪电获胜'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '黏滑用完全强化的死亡箭闪电获胜'
+  [stem] key: 'Summon Win with a fully upgraded Death Bolt'
+        val: '召唤用完全强化的死亡闪电获胜'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '召唤用完全强化的死亡箭闪电获胜'
+  [stem] key: 'The Wizard gains [Soulcharge:dark] when Death Bolt kills a target\n[Soulcharge:dark] grants'
+        val: '死亡弹击杀目标时，法师获得 [灵魂充能:dark]\n[灵魂充能:dark] 会提供 1 点[伤害:damage]，作用于[黑暗:dark]法术和装备，直到本层结束'
+        译法: '死亡'  (标准 '死亡箭')
+        建议: '死亡箭弹击杀目标时，法师获得 [灵魂充能:dark]\n[灵魂充能:dark] 会提供 1 点[伤害:damage]，作用于[黑暗:dark]法术和装备，直到本层结束'
+  ... 还有 3 处
+
+=== 'Golden Skull' -> 标准译名 '黄金骷髅头' （15 处不一致）===
+  [lcs] key: 'Baby Win with a fully upgraded Golden Skull'
+        val: '幼年用完全强化的黄金头骨获胜'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [lcs] key: 'Chalice of Win with a fully upgraded Golden Skull'
+        val: '用完全强化的黄金头骨获胜圣杯'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [lcs] key: 'Multicast Win with a fully upgraded Golden Skull'
+        val: '多重施法：用完全强化的黄金头骨获胜'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [lcs] key: 'Respawn As Win with a fully upgraded Golden Skull'
+        val: '重生为用完全强化的黄金头骨获胜'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [lcs] key: 'Robe of Win with a fully upgraded Golden Skull'
+        val: '用完全强化的黄金头骨获胜法袍'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [lcs] key: 'Skeletal Win with a fully upgraded Golden Skull'
+        val: '骸骨用完全强化的黄金头骨获胜'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [lcs] key: 'Slimy Win with a fully upgraded Golden Skull'
+        val: '黏滑用完全强化的黄金头骨获胜'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [lcs] key: 'Summon Win with a fully upgraded Golden Skull'
+        val: '召唤用完全强化的黄金头骨获胜'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  [stem] key: 'The Golden Skull can cast your Bloodshift on a 3 turn cooldown'
+        val: '黄金骷髅可以施放你的血液转移，冷却 3 回合'
+        译法: '黄金骷髅'  (标准 '黄金骷髅头')
+        建议: '黄金骷髅头可以施放你的血液转移，冷却 3 回合'
+  [stem] key: 'The Golden Skull can cast your Wheel of Death on a 12 turn cooldown'
+        val: '黄金骷髅可以施放你的死亡之轮，冷却 12 回合'
+        译法: '黄金骷髅'  (标准 '黄金骷髅头')
+        建议: '黄金骷髅头可以施放你的死亡之轮，冷却 12 回合'
+  [stem] key: 'The Golden Skull is equipped with a copy of your headwear if you own any'
+        val: '若你拥有头部装备，黄金骷髅会装备一份它的复制品'
+        译法: '黄金骷髅'  (标准 '黄金骷髅头')
+        建议: '若你拥有头部装备，黄金骷髅头会装备一份它的复制品'
+  [lcs] key: 'Touched by Win with a fully upgraded Golden Skull'
+        val: '用完全强化的黄金头骨获胜之触'
+        译法: '黄金'  (标准 '黄金骷髅头')
+  ... 还有 3 处
+
+=== 'Blood Bullet' -> 标准译名 '血弹' （11 处不一致）===
+  [missing] key: 'Baby Win with a fully upgraded Blood Bullet'
+        val: '幼年用完全强化的鲜血子弹获胜'
+  [missing] key: 'Chalice of Win with a fully upgraded Blood Bullet'
+        val: '用完全强化的鲜血子弹获胜圣杯'
+  [missing] key: 'Multicast Win with a fully upgraded Blood Bullet'
+        val: '多重施法：用完全强化的鲜血子弹获胜'
+  [missing] key: 'Respawn As Win with a fully upgraded Blood Bullet'
+        val: '重生为用完全强化的鲜血子弹获胜'
+  [missing] key: 'Robe of Win with a fully upgraded Blood Bullet'
+        val: '用完全强化的鲜血子弹获胜法袍'
+  [missing] key: 'Skeletal Win with a fully upgraded Blood Bullet'
+        val: '骸骨用完全强化的鲜血子弹获胜'
+  [missing] key: 'Slimy Win with a fully upgraded Blood Bullet'
+        val: '黏滑用完全强化的鲜血子弹获胜'
+  [missing] key: 'Summon Win with a fully upgraded Blood Bullet'
+        val: '召唤用完全强化的鲜血子弹获胜'
+  [missing] key: 'Touched by Win with a fully upgraded Blood Bullet'
+        val: '用完全强化的鲜血子弹获胜之触'
+  [missing] key: 'Win with a fully upgraded Blood Bullet'
+        val: '用完全强化的鲜血子弹获胜'
+  [missing] key: 'temporary Win with a fully upgraded Blood Bullet'
+        val: '临时用完全强化的鲜血子弹获胜'
+
+=== 'Respawn As Vault' -> 标准译名 '重生为宝库' （10 处不一致）===
+  [lcs] key: 'Respawn As Vault of Arachnea'
+        val: '重生为阿拉克涅宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of Flame'
+        val: '重生为烈焰宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of Glaciers'
+        val: '重生为冰川宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of Goblins'
+        val: '重生为哥布林宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of Slime'
+        val: '重生为黏液宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of Souls'
+        val: '重生为灵魂宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of Tempests'
+        val: '重生为风暴宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of Torment'
+        val: '重生为苦痛宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of the Fettered Fae'
+        val: '重生为被缚妖精宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+  [lcs] key: 'Respawn As Vault of the Sculptor'
+        val: '重生为雕塑家宝库'
+        译法: '重生为'  (标准 '重生为宝库')
+
+=== 'Respawn As Word' -> 标准译名 '重生为言灵' （9 处不一致）===
+  [lcs] key: 'Respawn As Word Of Wind'
+        val: '重生为风之言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Beauty'
+        val: '重生为美丽言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Chaos'
+        val: '重生为混沌言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Destruction'
+        val: '重生为毁灭言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Dominion'
+        val: '重生为支配言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Ice'
+        val: '重生为冰之言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Madness'
+        val: '重生为疯狂言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Undeath'
+        val: '重生为不死言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+  [lcs] key: 'Respawn As Word of Wind'
+        val: '重生为风之言灵'
+        译法: '重生为'  (标准 '重生为言灵')
+
+=== 'Thunder Strike' -> 标准译名 '雷霆打击' （7 处不一致）===
+  [missing] key: 'Cast Thunder Strike targeting up to [{num_targets}:num_targets] [Storm Clouds:lightning] e'
+        val: '每回合对至多 [{num_targets}:num_targets] 个[风暴云:lightning]施放雷击\n内有敌人的云会被优先指定\n不会指定施法者或其友军\n此法术最多可引导 [{max_channel}:max_channel] 回合'
+  [missing] key: 'Casting Blink also casts Thunder Strike on the [{num_targets}:num_targets] nearest enemies'
+        val: '施放闪现时，还会对目标视线内最近的 [{num_targets}:num_targets] 名敌人施放雷袭'
+  [missing] key: 'Eye of Lightning also casts Thunder Strike on units it shoots'
+        val: '闪电之眼还会对其射击的单位施放雷袭'
+  [lcs] key: 'Rain of Thunderbolts may also target [Blizzards:ice] or [Rain Clouds:nature], but casts Ic'
+        val: '雷霆之雨也可指定[暴风雪:ice]或[雨云:nature]，但对其施放冰球术而非雷击'
+        译法: '雷霆'  (标准 '雷霆打击')
+  [missing] key: 'Summon a Flock of Thunder Birds instead, which can cast your Thunder Strike on a 15 turn c'
+        val: '改为召唤一群雷鸟，其可以施放你的雷袭，冷却 15 回合'
+  [missing] key: 'Thunder Strike also deals [Holy] damage'
+        val: '雷击还会造成[神圣:holy]伤害'
+  [missing] key: 'Thunder Strike can be cast outside your line of sight'
+        val: '雷击可在你的视线外施放'
+
+=== 'Respawn As Aura' -> 标准译名 '重生为光环' （7 处不一致）===
+  [lcs] key: 'Respawn As Aura of Agony'
+        val: '重生为苦痛光环'
+        译法: '重生为'  (标准 '重生为光环')
+  [lcs] key: 'Respawn As Aura of Haste'
+        val: '重生为加速光环'
+        译法: '重生为'  (标准 '重生为光环')
+  [lcs] key: 'Respawn As Aura of Life'
+        val: '重生为生命光环'
+        译法: '重生为'  (标准 '重生为光环')
+  [lcs] key: 'Respawn As Aura of Purity'
+        val: '重生为纯净光环'
+        译法: '重生为'  (标准 '重生为光环')
+  [lcs] key: 'Respawn As Aura of Undeath'
+        val: '重生为不死灵气'
+        译法: '重生为'  (标准 '重生为光环')
+  [lcs] key: 'Respawn As Aura of Venom'
+        val: '重生为毒液光环'
+        译法: '重生为'  (标准 '重生为光环')
+  [lcs] key: 'Respawn As Aura of Woe'
+        val: '重生为悲怆光环'
+        译法: '重生为'  (标准 '重生为光环')
+
+=== 'Melts walls' -> 标准译名 '熔毁墙壁' （6 处不一致）===
+  [lcs] key: 'Beam attack\nPulls target towards the caster\nMelts walls'
+        val: '光束攻击\n将目标拉向施法者\n融化墙壁'
+        译法: '墙壁'  (标准 '熔毁墙壁')
+  [lcs] key: 'Cone attack\nInflicts 3 turns of [fear]\nHeals allies\nMelts walls'
+        val: '锥形攻击\n施加 3 回合[恐惧:fear]\n治疗盟友\n熔化墙壁'
+        译法: '墙壁'  (标准 '熔毁墙壁')
+  [lcs] key: 'Cone attack\nMelts walls'
+        val: '锥形攻击\n融化墙壁'
+        译法: '墙壁'  (标准 '熔毁墙壁')
+  [lcs] key: 'Damages and pushes away units in a wide beam\nApplies 3 turns of soaked\nMelts walls\n'
+        val: '对宽光束内的单位造成伤害并击退\n施加潮湿，持续 3 回合\n融化墙壁\n'
+        译法: '墙壁'  (标准 '熔毁墙壁')
+  [lcs] key: 'Deal [{damage}:damage] [Arcane] and [Fire] damage in a [{width}:radius] tile line perpendi'
+        val: '造成 [{damage}:damage] 点[奥术:arcane]和[火:fire]伤害，覆盖垂直于施法者的 [{width}:radius] 格直线\n熔化墙壁'
+        译法: '墙壁'  (标准 '熔毁墙壁')
+  [lcs] key: 'Deal [{damage}:damage] [Arcane] damage in a beam\nMelts walls'
+        val: '光束造成 [{damage}:damage] 点[奥术:arcane]伤害\n熔化墙壁'
+        译法: '墙壁'  (标准 '熔毁墙壁')
+
+=== 'Summon Ritual' -> 标准译名 '召唤仪式' （6 处不一致）===
+  [lcs] key: 'Summon Ritual of Flying Daggers'
+        val: '召唤飞刀仪式'
+        译法: '召唤'  (标准 '召唤仪式')
+  [lcs] key: 'Summon Ritual of Flying Daggerss'
+        val: '召唤飞刀仪式'
+        译法: '召唤'  (标准 '召唤仪式')
+  [lcs] key: 'Summon Ritual of Gnawing Dread'
+        val: '召唤啃噬恐惧仪式'
+        译法: '召唤'  (标准 '召唤仪式')
+  [lcs] key: 'Summon Ritual of Gnawing Dreads'
+        val: '召唤啃噬恐惧仪式'
+        译法: '召唤'  (标准 '召唤仪式')
+  [lcs] key: 'Summon Ritual of the Opening Eye'
+        val: '召唤开眼仪式'
+        译法: '召唤'  (标准 '召唤仪式')
+  [lcs] key: 'Summon Ritual of the Opening Eyes'
+        val: '召唤开眼仪式'
+        译法: '召唤'  (标准 '召唤仪式')
+
+=== 'Respawn As Orb' -> 标准译名 '重生为宝珠' （5 处不一致）===
+  [lcs] key: 'Respawn As Orb of Anima'
+        val: '重生为阿尼玛宝珠'
+        译法: '重生为'  (标准 '重生为宝珠')
+  [lcs] key: 'Respawn As Orb of Assimilation'
+        val: '重生为同化宝珠'
+        译法: '重生为'  (标准 '重生为宝珠')
+  [lcs] key: 'Respawn As Orb of Infinite Slaughter'
+        val: '重生为无尽杀戮宝珠'
+        译法: '重生为'  (标准 '重生为宝珠')
+  [lcs] key: 'Respawn As Orb of Night'
+        val: '重生为夜之宝珠'
+        译法: '重生为'  (标准 '重生为宝珠')
+  [lcs] key: 'Respawn As Orb of Unraveling'
+        val: '重生为瓦解宝珠'
+        译法: '重生为'  (标准 '重生为宝珠')
+
+=== 'Night Hag' -> 标准译名 '夜巫婆' （4 处不一致）===
+  [missing] key: 'Casting this spell also summons [{num_summons}:num_summons] Witches near the Night Hag\nThe'
+        val: '施放此法术还会在夜婆附近召唤 [{num_summons}:num_summons] 个女巫\n这些女巫会在 12 回合后成长为夜婆'
+  [missing] key: 'The Night Hag can cast your Bone Spear on a 4 turn cooldown'
+        val: '夜婆可以施放你的骨矛，冷却 4 回合'
+  [missing] key: 'The Night Hag can cast your Nightmare Aura on a 30 turn cooldown'
+        val: '夜婆可以施放你的梦魇光环，冷却 30 回合'
+  [missing] key: 'The Night Hag gains the [Demon] tag, and negates incoming damage from other [Demons:demon]'
+        val: '夜婆获得[恶魔:demon]标签，并无效化来自其他[恶魔:demon]的伤害'
+
+=== 'Mind Devourer' -> 标准译名 '心智吞噬者' （4 处不一致）===
+  [missing] key: 'Chalice of Ultimate Mind Devourer'
+        val: '终极噬心者圣杯'
+  [missing] key: 'Respawn As Ultimate Mind Devourer'
+        val: '重生为终极噬心者'
+  [missing] key: 'Robe of Ultimate Mind Devourer'
+        val: '终极噬心者法袍'
+  [missing] key: 'Touched by Ultimate Mind Devourer'
+        val: '终极噬心者之触'
+
+=== 'Respawn As Pillar' -> 标准译名 '重生为支柱' （4 处不一致）===
+  [lcs] key: 'Respawn As Pillar of Annihilation'
+        val: '重生为湮灭之柱'
+        译法: '重生为'  (标准 '重生为支柱')
+  [lcs] key: 'Respawn As Pillar of Bones'
+        val: '重生为白骨之柱'
+        译法: '重生为'  (标准 '重生为支柱')
+  [lcs] key: 'Respawn As Pillar of Fire'
+        val: '重生为火焰支柱'
+        译法: '重生为'  (标准 '重生为支柱')
+  [lcs] key: 'Respawn As Pillar of Worms'
+        val: '重生为虫群之柱'
+        译法: '重生为'  (标准 '重生为支柱')
+
+=== 'Summon Heal' -> 标准译名 '召唤治疗' （4 处不一致）===
+  [lcs] key: 'Summon Heal for damage dealt by this spell'
+        val: '召唤回复此法术所造成伤害等量的生命'
+        译法: '召唤'  (标准 '召唤治疗')
+  [lcs] key: 'Summon Heal for damage dealt by this spells'
+        val: '召唤回复此法术所造成伤害等量的生命'
+        译法: '召唤'  (标准 '召唤治疗')
+  [lcs] key: 'Summon Heal for half of all damage dealt to you'
+        val: '召唤回复等同于你所受全部伤害一半的生命'
+        译法: '召唤'  (标准 '召唤治疗')
+  [lcs] key: 'Summon Heal for half of all damage dealt to yous'
+        val: '召唤回复等同于你所受全部伤害一半的生命'
+        译法: '召唤'  (标准 '召唤治疗')
+
+=== 'Summon Idol' -> 标准译名 '召唤神像' （4 处不一致）===
+  [lcs] key: 'Summon Idol of Burning Sacrifice'
+        val: '召唤燃烧献祭偶像'
+        译法: '召唤'  (标准 '召唤神像')
+  [lcs] key: 'Summon Idol of Burning Sacrifices'
+        val: '召唤燃烧献祭偶像'
+        译法: '召唤'  (标准 '召唤神像')
+  [lcs] key: 'Summon Idol of Fiery Vengeance'
+        val: '召唤烈焰复仇神像'
+        译法: '召唤'  (标准 '召唤神像')
+  [lcs] key: 'Summon Idol of Fiery Vengeances'
+        val: '召唤烈焰复仇神像'
+        译法: '召唤'  (标准 '召唤神像')
+
+=== 'Summon Living' -> 标准译名 '召唤活物' （4 处不一致）===
+  [lcs] key: 'Summon Living Scroll of Fireball'
+        val: '召唤火球活卷轴'
+        译法: '召唤'  (标准 '召唤活物')
+  [lcs] key: 'Summon Living Scroll of Fireballs'
+        val: '召唤火球活卷轴'
+        译法: '召唤'  (标准 '召唤活物')
+  [lcs] key: 'Summon Living Scroll of Lightning'
+        val: '召唤闪电活卷轴'
+        译法: '召唤'  (标准 '召唤活物')
+  [lcs] key: 'Summon Living Scroll of Lightnings'
+        val: '召唤闪电活卷轴'
+        译法: '召唤'  (标准 '召唤活物')
+
+=== 'Summon Vault' -> 标准译名 '召唤宝库' （4 处不一致）===
+  [lcs] key: 'Summon Vault of the Fettered Fae'
+        val: '召唤被缚妖精宝库'
+        译法: '召唤'  (标准 '召唤宝库')
+  [lcs] key: 'Summon Vault of the Fettered Faes'
+        val: '召唤被缚妖精宝库'
+        译法: '召唤'  (标准 '召唤宝库')
+  [lcs] key: 'Summon Vault of the Sculptor'
+        val: '召唤雕塑家宝库'
+        译法: '召唤'  (标准 '召唤宝库')
+  [lcs] key: 'Summon Vault of the Sculptors'
+        val: '召唤雕塑家宝库'
+        译法: '召唤'  (标准 '召唤宝库')
+
+=== 'Snow Queen' -> 标准译名 '冰雪女王' （3 处不一致）===
+  [missing] key: 'At 0 HP, transform into Snow Queen, Dethroned and summon Frost Saber'
+        val: '生命为 0 时，变身为雪后·失位，并召唤霜牙剑齿虎'
+  [missing] key: 'Snow Queen, Dethroned'
+        val: '雪后·失位'
+  [missing] key: 'Snow Queen, Enthroned'
+        val: '雪后·登位'
+
+=== 'Baby Ritual' -> 标准译名 '幼年仪式' （3 处不一致）===
+  [lcs] key: 'Baby Ritual of Flying Daggers'
+        val: '幼年飞刀仪式'
+        译法: '幼年'  (标准 '幼年仪式')
+  [lcs] key: 'Baby Ritual of Gnawing Dread'
+        val: '幼年啃噬恐惧仪式'
+        译法: '幼年'  (标准 '幼年仪式')
+  [lcs] key: 'Baby Ritual of the Opening Eye'
+        val: '幼年开眼仪式'
+        译法: '幼年'  (标准 '幼年仪式')
+
+=== 'Seal Fate' -> 标准译名 '封印命运' （3 处不一致）===
+  [lcs] key: "Cast Seal Fate on units which survive the damage from Heaven's Wrath"
+        val: '对从天堂之怒的伤害中存活的单位施放命运封印'
+        译法: '封印'  (标准 '封印命运')
+  [lcs] key: 'If the target is adjacent to you after being pulled, cast Seal Fate on them'
+        val: '若目标被拉近后与你相邻，对其施放命运封印'
+        译法: '封印'  (标准 '封印命运')
+  [lcs] key: 'On Pickup:\nCast Seal Fate on all enemies in your line of sight'
+        val: '拾取时：\n对你视线内的所有敌人施放命运封印'
+        译法: '封印'  (标准 '封印命运')
+
+=== 'Chalice of Heal' -> 标准译名 '治疗圣杯' （3 处不一致）===
+  [lcs] key: 'Chalice of Heal for damage dealt by this spell'
+        val: '回复此法术所造成伤害等量的生命圣杯'
+        译法: '圣杯'  (标准 '治疗圣杯')
+  [lcs] key: 'Chalice of Heal for half of all damage dealt to you'
+        val: '回复等同于你所受全部伤害一半的生命圣杯'
+        译法: '圣杯'  (标准 '治疗圣杯')
+  [lcs] key: 'Chalice of Heal for half of the damage you deal'
+        val: '治疗你造成伤害的一半生命圣杯'
+        译法: '治疗'  (标准 '治疗圣杯')
+
+=== 'Chalice of Ice' -> 标准译名 '冰圣杯' （3 处不一致）===
+  [lcs] key: 'Chalice of Ice Caller Staff'
+        val: '唤冰法杖圣杯'
+        译法: '圣杯'  (标准 '冰圣杯')
+  [lcs] key: 'Chalice of Ice Crystal Aura'
+        val: '冰晶光环圣杯'
+        译法: '圣杯'  (标准 '冰圣杯')
+  [lcs] key: 'Chalice of Ice Rocket Bomber'
+        val: '寒冰火箭投弹手圣杯'
+        译法: '圣杯'  (标准 '冰圣杯')
+
+=== 'Chalice of Icy' -> 标准译名 '冰冷圣杯' （3 处不一致）===
+  [lcs] key: 'Chalice of Icy Chill Mask'
+        val: '冰寒面具圣杯'
+        译法: '圣杯'  (标准 '冰冷圣杯')
+  [lcs] key: 'Chalice of Icy Claw Staff'
+        val: '冰爪法杖圣杯'
+        译法: '圣杯'  (标准 '冰冷圣杯')
+  [lcs] key: 'Chalice of Icy Vengeance Icon'
+        val: '冰寒复仇圣像圣杯'
+        译法: '圣杯'  (标准 '冰冷圣杯')
+
+=== 'Chalice of Learn' -> 标准译名 '学习圣杯' （3 处不一致）===
+  [lcs] key: 'Chalice of Learn a new spell'
+        val: '学习新法术圣杯'
+        译法: '学习'  (标准 '学习圣杯')
+  [lcs] key: 'Chalice of Learn how to play'
+        val: '了解游戏玩法圣杯'
+        译法: '圣杯'  (标准 '学习圣杯')
+  [lcs] key: 'Chalice of Learn new spells and abilities'
+        val: '学习新法术与能力圣杯'
+        译法: '学习'  (标准 '学习圣杯')
+
+=== 'Chalice of Pillar' -> 标准译名 '支柱圣杯' （3 处不一致）===
+  [lcs] key: 'Chalice of Pillar of Annihilation'
+        val: '湮灭之柱圣杯'
+        译法: '柱圣杯'  (标准 '支柱圣杯')
+  [lcs] key: 'Chalice of Pillar of Bones'
+        val: '白骨之柱圣杯'
+        译法: '柱圣杯'  (标准 '支柱圣杯')
+  [lcs] key: 'Chalice of Pillar of Worms'
+        val: '虫群之柱圣杯'
+        译法: '柱圣杯'  (标准 '支柱圣杯')
+
+=== 'Chalice of Plague' -> 标准译名 '瘟疫圣杯' （3 处不一致）===
+  [lcs] key: "Chalice of Plague Doctor's Cane"
+        val: '瘟疫医生手杖圣杯'
+        译法: '瘟疫'  (标准 '瘟疫圣杯')
+  [lcs] key: "Chalice of Plague Doctor's Mask"
+        val: '瘟疫医生面具圣杯'
+        译法: '瘟疫'  (标准 '瘟疫圣杯')
+  [lcs] key: "Chalice of Plague Doctor's Robe"
+        val: '瘟疫医生长袍圣杯'
+        译法: '瘟疫'  (标准 '瘟疫圣杯')
+
+=== 'Chalice of Teleport' -> 标准译名 '传送圣杯' （3 处不一致）===
+  [lcs] key: 'Chalice of Teleport gains quickcast'
+        val: '传送获得快速施法圣杯'
+        译法: '传送'  (标准 '传送圣杯')
+  [lcs] key: 'Chalice of Teleport to a random tile'
+        val: '传送至随机一格圣杯'
+        译法: '传送'  (标准 '传送圣杯')
+  [lcs] key: 'Chalice of Teleport to target tile'
+        val: '传送至目标格圣杯'
+        译法: '传送'  (标准 '传送圣杯')
+
+=== 'Chalice of Void' -> 标准译名 '虚空圣杯' （3 处不一致）===
+  [lcs] key: 'Chalice of Void Rocket Bomber'
+        val: '虚空火箭投弹手圣杯'
+        译法: '虚空'  (标准 '虚空圣杯')
+  [lcs] key: 'Chalice of Void Spike Stone'
+        val: '虚空尖刺石圣杯'
+        译法: '虚空'  (标准 '虚空圣杯')
+  [lcs] key: "Chalice of Void Traveler's Cloak"
+        val: '虚空行者斗篷圣杯'
+        译法: '虚空'  (标准 '虚空圣杯')
+
+=== 'Multicast Ritual' -> 标准译名 '多重施法：仪式' （3 处不一致）===
+  [lcs] key: 'Multicast Ritual of Flying Daggers'
+        val: '多重施法：飞刀仪式'
+        译法: '多重施法：'  (标准 '多重施法：仪式')
+  [lcs] key: 'Multicast Ritual of Gnawing Dread'
+        val: '多重施法：啃噬恐惧仪式'
+        译法: '多重施法：'  (标准 '多重施法：仪式')
+  [lcs] key: 'Multicast Ritual of the Opening Eye'
+        val: '多重施法：开眼仪式'
+        译法: '多重施法：'  (标准 '多重施法：仪式')
+
+=== 'Respawn As Armor' -> 标准译名 '重生为护甲' （3 处不一致）===
+  [lcs] key: 'Respawn As Armor of Armageddon'
+        val: '重生为末日铠甲'
+        译法: '重生为'  (标准 '重生为护甲')
+  [lcs] key: 'Respawn As Armor of Nanuk'
+        val: '重生为纳努克护甲'
+        译法: '重生为'  (标准 '重生为护甲')
+  [lcs] key: 'Respawn As Armor of the Master'
+        val: '重生为宗师之甲'
+        译法: '重生为'  (标准 '重生为护甲')
+
+=== 'Respawn As Arrow' -> 标准译名 '重生为箭' （3 处不一致）===
+  [stem] key: 'Respawn As Arrow of Flame'
+        val: '重生为火焰之箭'
+        译法: '重生为'  (标准 '重生为箭')
+        建议: '重生为箭火焰之箭'
+  [stem] key: 'Respawn As Arrow of Halting'
+        val: '重生为停滞之箭'
+        译法: '重生为'  (标准 '重生为箭')
+        建议: '重生为箭停滞之箭'
+  [stem] key: 'Respawn As Arrow of Poison'
+        val: '重生为毒素之箭'
+        译法: '重生为'  (标准 '重生为箭')
+        建议: '重生为箭毒素之箭'
+
+=== 'Respawn As Icy' -> 标准译名 '重生为冰冷' （3 处不一致）===
+  [stem] key: 'Respawn As Icy Chill Mask'
+        val: '重生为冰寒面具'
+        译法: '重生为冰'  (标准 '重生为冰冷')
+        建议: '重生为冰冷寒面具'
+  [stem] key: 'Respawn As Icy Claw Staff'
+        val: '重生为冰爪法杖'
+        译法: '重生为冰'  (标准 '重生为冰冷')
+        建议: '重生为冰冷爪法杖'
+  [stem] key: 'Respawn As Icy Vengeance Icon'
+        val: '重生为冰寒复仇圣像'
+        译法: '重生为冰'  (标准 '重生为冰冷')
+        建议: '重生为冰冷寒复仇圣像'
+
+=== 'Robe of Heal' -> 标准译名 '治疗法袍' （3 处不一致）===
+  [lcs] key: 'Robe of Heal for damage dealt by this spell'
+        val: '回复此法术所造成伤害等量的生命法袍'
+        译法: '法袍'  (标准 '治疗法袍')
+  [lcs] key: 'Robe of Heal for half of all damage dealt to you'
+        val: '回复等同于你所受全部伤害一半的生命法袍'
+        译法: '法袍'  (标准 '治疗法袍')
+  [lcs] key: 'Robe of Heal for half of the damage you deal'
+        val: '治疗你造成伤害的一半生命法袍'
+        译法: '治疗'  (标准 '治疗法袍')
+
+=== 'Robe of Ice' -> 标准译名 '冰法袍' （3 处不一致）===
+  [stem] key: 'Robe of Ice Caller Staff'
+        val: '唤冰法杖法袍'
+        译法: '冰法'  (标准 '冰法袍')
+        建议: '唤冰法袍杖法袍'
+  [lcs] key: 'Robe of Ice Crystal Aura'
+        val: '冰晶光环法袍'
+        译法: '法袍'  (标准 '冰法袍')
+  [lcs] key: 'Robe of Ice Rocket Bomber'
+        val: '寒冰火箭投弹手法袍'
+        译法: '法袍'  (标准 '冰法袍')
+
+=== 'Robe of Icy' -> 标准译名 '冰冷法袍' （3 处不一致）===
+  [lcs] key: 'Robe of Icy Chill Mask'
+        val: '冰寒面具法袍'
+        译法: '法袍'  (标准 '冰冷法袍')
+  [lcs] key: 'Robe of Icy Claw Staff'
+        val: '冰爪法杖法袍'
+        译法: '法袍'  (标准 '冰冷法袍')
+  [lcs] key: 'Robe of Icy Vengeance Icon'
+        val: '冰寒复仇圣像法袍'
+        译法: '法袍'  (标准 '冰冷法袍')
+
+=== 'Robe of Learn' -> 标准译名 '学习法袍' （3 处不一致）===
+  [lcs] key: 'Robe of Learn a new spell'
+        val: '学习新法术法袍'
+        译法: '学习'  (标准 '学习法袍')
+  [lcs] key: 'Robe of Learn how to play'
+        val: '了解游戏玩法法袍'
+        译法: '法袍'  (标准 '学习法袍')
+  [lcs] key: 'Robe of Learn new spells and abilities'
+        val: '学习新法术与能力法袍'
+        译法: '学习'  (标准 '学习法袍')
+
+=== 'Robe of Pillar' -> 标准译名 '支柱法袍' （3 处不一致）===
+  [lcs] key: 'Robe of Pillar of Annihilation'
+        val: '湮灭之柱法袍'
+        译法: '柱法袍'  (标准 '支柱法袍')
+  [lcs] key: 'Robe of Pillar of Bones'
+        val: '白骨之柱法袍'
+        译法: '柱法袍'  (标准 '支柱法袍')
+  [lcs] key: 'Robe of Pillar of Worms'
+        val: '虫群之柱法袍'
+        译法: '柱法袍'  (标准 '支柱法袍')
+
+=== 'Robe of Plague' -> 标准译名 '瘟疫法袍' （3 处不一致）===
+  [lcs] key: "Robe of Plague Doctor's Cane"
+        val: '瘟疫医生手杖法袍'
+        译法: '瘟疫'  (标准 '瘟疫法袍')
+  [lcs] key: "Robe of Plague Doctor's Mask"
+        val: '瘟疫医生面具法袍'
+        译法: '瘟疫'  (标准 '瘟疫法袍')
+  [lcs] key: "Robe of Plague Doctor's Robe"
+        val: '瘟疫医生长袍法袍'
+        译法: '瘟疫'  (标准 '瘟疫法袍')
+
+=== 'Robe of Teleport' -> 标准译名 '传送法袍' （3 处不一致）===
+  [lcs] key: 'Robe of Teleport gains quickcast'
+        val: '传送获得快速施法法袍'
+        译法: '传送'  (标准 '传送法袍')
+  [lcs] key: 'Robe of Teleport to a random tile'
+        val: '传送至随机一格法袍'
+        译法: '传送'  (标准 '传送法袍')
+  [lcs] key: 'Robe of Teleport to target tile'
+        val: '传送至目标格法袍'
+        译法: '传送'  (标准 '传送法袍')
+
+=== 'Robe of Void' -> 标准译名 '虚空法袍' （3 处不一致）===
+  [lcs] key: 'Robe of Void Rocket Bomber'
+        val: '虚空火箭投弹手法袍'
+        译法: '虚空'  (标准 '虚空法袍')
+  [lcs] key: 'Robe of Void Spike Stone'
+        val: '虚空尖刺石法袍'
+        译法: '虚空'  (标准 '虚空法袍')
+  [lcs] key: "Robe of Void Traveler's Cloak"
+        val: '虚空行者斗篷法袍'
+        译法: '虚空'  (标准 '虚空法袍')
+
+=== 'Skeletal Ritual' -> 标准译名 '骸骨仪式' （3 处不一致）===
+  [lcs] key: 'Skeletal Ritual of Flying Daggers'
+        val: '骸骨飞刀仪式'
+        译法: '骸骨'  (标准 '骸骨仪式')
+  [lcs] key: 'Skeletal Ritual of Gnawing Dread'
+        val: '骸骨啃噬恐惧仪式'
+        译法: '骸骨'  (标准 '骸骨仪式')
+  [lcs] key: 'Skeletal Ritual of the Opening Eye'
+        val: '骸骨开眼仪式'
+        译法: '骸骨'  (标准 '骸骨仪式')
+
+=== 'Slimy Ritual' -> 标准译名 '黏滑仪式' （3 处不一致）===
+  [lcs] key: 'Slimy Ritual of Flying Daggers'
+        val: '黏滑飞刀仪式'
+        译法: '黏滑'  (标准 '黏滑仪式')
+  [lcs] key: 'Slimy Ritual of Gnawing Dread'
+        val: '黏滑啃噬恐惧仪式'
+        译法: '黏滑'  (标准 '黏滑仪式')
+  [lcs] key: 'Slimy Ritual of the Opening Eye'
+        val: '黏滑开眼仪式'
+        译法: '黏滑'  (标准 '黏滑仪式')
+
+=== 'Touched by Heal' -> 标准译名 '治疗之触' （3 处不一致）===
+  [lcs] key: 'Touched by Heal for damage dealt by this spell'
+        val: '回复此法术所造成伤害等量的生命之触'
+        译法: '之触'  (标准 '治疗之触')
+  [lcs] key: 'Touched by Heal for half of all damage dealt to you'
+        val: '回复等同于你所受全部伤害一半的生命之触'
+        译法: '之触'  (标准 '治疗之触')
+  [lcs] key: 'Touched by Heal for half of the damage you deal'
+        val: '治疗你造成伤害的一半生命之触'
+        译法: '治疗'  (标准 '治疗之触')
+
+=== 'Touched by Ice' -> 标准译名 '冰之触' （3 处不一致）===
+  [lcs] key: 'Touched by Ice Caller Staff'
+        val: '唤冰法杖之触'
+        译法: '之触'  (标准 '冰之触')
+  [lcs] key: 'Touched by Ice Crystal Aura'
+        val: '冰晶光环之触'
+        译法: '之触'  (标准 '冰之触')
+  [lcs] key: 'Touched by Ice Rocket Bomber'
+        val: '寒冰火箭投弹手之触'
+        译法: '之触'  (标准 '冰之触')
+
+=== 'Touched by Icy' -> 标准译名 '冰冷之触' （3 处不一致）===
+  [lcs] key: 'Touched by Icy Chill Mask'
+        val: '冰寒面具之触'
+        译法: '之触'  (标准 '冰冷之触')
+  [lcs] key: 'Touched by Icy Claw Staff'
+        val: '冰爪法杖之触'
+        译法: '之触'  (标准 '冰冷之触')
+  [lcs] key: 'Touched by Icy Vengeance Icon'
+        val: '冰寒复仇圣像之触'
+        译法: '之触'  (标准 '冰冷之触')
+
+=== 'Touched by Learn' -> 标准译名 '学习之触' （3 处不一致）===
+  [lcs] key: 'Touched by Learn a new spell'
+        val: '学习新法术之触'
+        译法: '学习'  (标准 '学习之触')
+  [lcs] key: 'Touched by Learn how to play'
+        val: '了解游戏玩法之触'
+        译法: '之触'  (标准 '学习之触')
+  [lcs] key: 'Touched by Learn new spells and abilities'
+        val: '学习新法术与能力之触'
+        译法: '学习'  (标准 '学习之触')
+
+=== 'Touched by Pillar' -> 标准译名 '支柱之触' （3 处不一致）===
+  [lcs] key: 'Touched by Pillar of Annihilation'
+        val: '湮灭之柱之触'
+        译法: '柱之触'  (标准 '支柱之触')
+  [lcs] key: 'Touched by Pillar of Bones'
+        val: '白骨之柱之触'
+        译法: '柱之触'  (标准 '支柱之触')
+  [lcs] key: 'Touched by Pillar of Worms'
+        val: '虫群之柱之触'
+        译法: '柱之触'  (标准 '支柱之触')
+
+=== 'Touched by Plague' -> 标准译名 '瘟疫之触' （3 处不一致）===
+  [lcs] key: "Touched by Plague Doctor's Cane"
+        val: '瘟疫医生手杖之触'
+        译法: '瘟疫'  (标准 '瘟疫之触')
+  [lcs] key: "Touched by Plague Doctor's Mask"
+        val: '瘟疫医生面具之触'
+        译法: '瘟疫'  (标准 '瘟疫之触')
+  [lcs] key: "Touched by Plague Doctor's Robe"
+        val: '瘟疫医生长袍之触'
+        译法: '瘟疫'  (标准 '瘟疫之触')
+
+=== 'Touched by Teleport' -> 标准译名 '传送之触' （3 处不一致）===
+  [lcs] key: 'Touched by Teleport gains quickcast'
+        val: '传送获得快速施法之触'
+        译法: '传送'  (标准 '传送之触')
+  [lcs] key: 'Touched by Teleport to a random tile'
+        val: '传送至随机一格之触'
+        译法: '传送'  (标准 '传送之触')
+  [lcs] key: 'Touched by Teleport to target tile'
+        val: '传送至目标格之触'
+        译法: '传送'  (标准 '传送之触')
+
+=== 'Touched by Void' -> 标准译名 '虚空之触' （3 处不一致）===
+  [lcs] key: 'Touched by Void Rocket Bomber'
+        val: '虚空火箭投弹手之触'
+        译法: '虚空'  (标准 '虚空之触')
+  [lcs] key: 'Touched by Void Spike Stone'
+        val: '虚空尖刺石之触'
+        译法: '虚空'  (标准 '虚空之触')
+  [lcs] key: "Touched by Void Traveler's Cloak"
+        val: '虚空行者斗篷之触'
+        译法: '虚空'  (标准 '虚空之触')
+
+=== 'Lightning Tether' -> 标准译名 '闪电锁链' （3 处不一致）===
+  [lcs] key: '[Construct] and [Metallic] allies learn Lightning Tether\nLightning Tether deals [{minion_d'
+        val: '[构装体:construct]和[金属:metallic]友军学会闪电系绳\n闪电系绳造成 [{minion_damage}:minion_damage] 点[闪电:lightning]伤害，将目标拉近 1 格，并使其眩晕 [{duratio'
+        译法: '闪电'  (标准 '闪电锁链')
+  [lcs] key: '[Construct] and [Metallic] allies learn Lightning Tether\nLightning Tether deals [{minion_d'
+        val: '[构装体:construct]和[金属:metallic]友军学会闪电系绳\n闪电系绳造成 [{minion_damage}:minion_damage] 点[闪电:lightning]伤害，将目标拉近 1 格，并使其眩晕 [{duratio'
+        译法: '闪电'  (标准 '闪电锁链')
+  [lcs] key: '[Construct] and [Metallic] allies learn Lightning Tether\nLightning Tether deals [{minion_d'
+        val: '[构装体:construct]和[金属:metallic]友军学会闪电系绳\n闪电系绳造成 [{minion_damage}:minion_damage] 点[闪电:lightning]伤害，将目标拉近 1 格，并使其眩晕 [{duratio'
+        译法: '闪电'  (标准 '闪电锁链')
+
+=== 'Fire Breath' -> 标准译名 '火焰吐息' （3 处不一致）===
+  [missing] key: '[Demon] allies learn Fire Breath\nFire Breath deals [{minion_damage}:minion_damage] [Fire] '
+        val: '[恶魔:demon]友军学会火息\n火息对锥形范围内的单位造成 [{minion_damage}:minion_damage] 点[火:fire]伤害\n火息射程为 [{minion_range}:range]，冷却时间为 [3 回合:cool'
+  [missing] key: '[Demon] allies learn Fire Breath\nFire Breath deals [{minion_damage}:minion_damage] [Fire] '
+        val: '[恶魔:demon]友军学会火息\n火息对锥形范围内的单位造成 [{minion_damage}:minion_damage] 点[火:fire]伤害\n火息射程为 [{minion_range}:range]，冷却时间为 [3 回合:cool'
+  [missing] key: '[Demon] allies learn Fire Breath\nFire Breath deals [{minion_damage}:minion_damage] [Fire] '
+        val: '[恶魔:demon]友军学会火息\n火息对锥形范围内的单位造成 [{minion_damage}:minion_damage] 点[火:fire]伤害\n火息射程为 [{minion_range}:range]，冷却时间为 [3 回合:cool'
+
+=== 'Pyrostatic Pulse' -> 标准译名 '静炎脉冲' （2 处不一致）===
+  [lcs] key: '\nAlso casts Pyrostatic Pulse'
+        val: '\n还施放焰电脉冲'
+        译法: '脉冲'  (标准 '静炎脉冲')
+  [lcs] key: 'Watcher Form also casts Pyrostatic Pulse each turn\nGrants [100 Fire:fire] resist instead o'
+        val: '守望形态每回合还会施放焰电脉冲\n赋予 [100 火:fire] 抗性而非 75'
+        译法: '脉冲'  (标准 '静炎脉冲')
+
+=== 'Fiery Tormentor' -> 标准译名 '灼焰折磨者' （2 处不一致）===
+  [lcs] key: "\nEvery 3rd kill by Carnival of Pain casts your Fiery Tormentor spell at the slain unit's l"
+        val: '\n痛苦狂欢每击杀 3 次，就在被杀单位的位置施放你的烈焰折磨者法术'
+        译法: '焰折磨者'  (标准 '灼焰折磨者')
+  [lcs] key: "Every 3rd kill by Carnival of Pain casts your Fiery Tormentor spell at the slain unit's lo"
+        val: '痛苦狂欢每击杀 3 次，就在被杀单位的位置施放你的烈焰折磨者法术'
+        译法: '焰折磨者'  (标准 '灼焰折磨者')
+
+=== 'Void Beam' -> 标准译名 '虚空光束' （2 处不一致）===
+  [lcs] key: 'At the beginning of each level, gain the [Devastation:arcane] buff for [{duration}:duratio'
+        val: '每层开始时，获得 [毁灭:arcane] 增益，持续 [{duration}:duration] 回合\n[毁灭:arcane] 每回合对至多 [{num_targets}:num_targets] 名随机敌人施放虚空射线'
+        译法: '虚空'  (标准 '虚空光束')
+  [lcs] key: 'Each turn, cast Void Beam on up to [{num}:num_targets] random enemies'
+        val: '每回合，对至多 [{num}:num_targets] 名随机敌人施放虚空射线'
+        译法: '虚空'  (标准 '虚空光束')
+
+=== 'Baby Heal' -> 标准译名 '幼年治疗' （2 处不一致）===
+  [lcs] key: 'Baby Heal for damage dealt by this spell'
+        val: '幼年回复此法术所造成伤害等量的生命'
+        译法: '幼年'  (标准 '幼年治疗')
+  [lcs] key: 'Baby Heal for half of all damage dealt to you'
+        val: '幼年回复等同于你所受全部伤害一半的生命'
+        译法: '幼年'  (标准 '幼年治疗')
+
+=== 'Baby Idol' -> 标准译名 '幼年神像' （2 处不一致）===
+  [lcs] key: 'Baby Idol of Burning Sacrifice'
+        val: '幼年燃烧献祭偶像'
+        译法: '幼年'  (标准 '幼年神像')
+  [lcs] key: 'Baby Idol of Fiery Vengeance'
+        val: '幼年烈焰复仇神像'
+        译法: '幼年'  (标准 '幼年神像')
+
+=== 'Baby Living' -> 标准译名 '幼年活物' （2 处不一致）===
+  [lcs] key: 'Baby Living Scroll of Fireball'
+        val: '幼年火球活卷轴'
+        译法: '幼年'  (标准 '幼年活物')
+  [lcs] key: 'Baby Living Scroll of Lightning'
+        val: '幼年闪电活卷轴'
+        译法: '幼年'  (标准 '幼年活物')
+
+=== 'Baby Vault' -> 标准译名 '幼年宝库' （2 处不一致）===
+  [lcs] key: 'Baby Vault of the Fettered Fae'
+        val: '幼年被缚妖精宝库'
+        译法: '幼年'  (标准 '幼年宝库')
+  [lcs] key: 'Baby Vault of the Sculptor'
+        val: '幼年雕塑家宝库'
+        译法: '幼年'  (标准 '幼年宝库')
+
+=== 'Chalice of Armor' -> 标准译名 '护甲圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Armor of Armageddon'
+        val: '末日铠甲圣杯'
+        译法: '甲圣杯'  (标准 '护甲圣杯')
+  [lcs] key: 'Chalice of Armor of the Master'
+        val: '宗师之甲圣杯'
+        译法: '甲圣杯'  (标准 '护甲圣杯')
+
+=== 'Chalice of Blue Lion' -> 标准译名 '蓝狮圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Blue Lion Bolt'
+        val: '蓝狮魔弹圣杯'
+        译法: '蓝狮'  (标准 '蓝狮圣杯')
+  [lcs] key: 'Chalice of Blue Lion Sheen'
+        val: '蓝狮光泽圣杯'
+        译法: '蓝狮'  (标准 '蓝狮圣杯')
+
+=== 'Chalice of Bone Shambler' -> 标准译名 '骨蹒跚怪圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Bone Shambler Fragment'
+        val: '骨蹒跚怪碎片圣杯'
+        译法: '骨蹒跚怪'  (标准 '骨蹒跚怪圣杯')
+  [lcs] key: 'Chalice of Bone Shambler Megalith'
+        val: '骨蹒跚怪巨石圣杯'
+        译法: '骨蹒跚怪'  (标准 '骨蹒跚怪圣杯')
+
+=== 'Chalice of Chaos' -> 标准译名 '混沌圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Chaos Scale Crown'
+        val: '混沌鳞冠圣杯'
+        译法: '混沌'  (标准 '混沌圣杯')
+  [lcs] key: 'Chalice of Chaos Serpent Staff'
+        val: '混沌巨蛇法杖圣杯'
+        译法: '混沌'  (标准 '混沌圣杯')
+
+=== 'Chalice of Feed' -> 标准译名 '吞食圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Feed the Darkness'
+        val: '喂养黑暗圣杯'
+        译法: '圣杯'  (标准 '吞食圣杯')
+  [lcs] key: 'Chalice of Feed the Flames'
+        val: '添柴加火圣杯'
+        译法: '圣杯'  (标准 '吞食圣杯')
+
+=== 'Chalice of Fire' -> 标准译名 '火圣杯' （2 处不一致）===
+  [lcs] key: "Chalice of Fire Drakes' breath attack melts walls"
+        val: '火焰幼龙的吐息攻击会熔化墙壁圣杯'
+        译法: '圣杯'  (标准 '火圣杯')
+  [lcs] key: 'Chalice of Fire Rocket Bomber'
+        val: '火焰火箭投弹手圣杯'
+        译法: '圣杯'  (标准 '火圣杯')
+
+=== 'Chalice of Flames' -> 标准译名 '火焰圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Flames of Heaven'
+        val: '天堂之焰圣杯'
+        译法: '焰圣杯'  (标准 '火焰圣杯')
+  [lcs] key: 'Chalice of Flames of Sorcery'
+        val: '巫术之焰圣杯'
+        译法: '焰圣杯'  (标准 '火焰圣杯')
+
+=== 'Chalice of Flaming' -> 标准译名 '燃烧圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Flaming Claw Staff'
+        val: '焰爪法杖圣杯'
+        译法: '圣杯'  (标准 '燃烧圣杯')
+  [lcs] key: 'Chalice of Flaming Flesh Fiend'
+        val: '燃烧血肉魔鬼圣杯'
+        译法: '燃烧'  (标准 '燃烧圣杯')
+
+=== 'Chalice of Ice Wyrm' -> 标准译名 '寒冰蛟龙圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Ice Wyrm Egg'
+        val: '寒冰蛟龙蛋圣杯'
+        译法: '寒冰蛟龙'  (标准 '寒冰蛟龙圣杯')
+  [lcs] key: 'Chalice of Ice Wyrm Scale'
+        val: '冰龙虫鳞片圣杯'
+        译法: '圣杯'  (标准 '寒冰蛟龙圣杯')
+
+=== 'Chalice of Iron' -> 标准译名 '铁圣杯' （2 处不一致）===
+  [lcs] key: "Chalice of Iron Legion's Banner"
+        val: '铁军团旗帜圣杯'
+        译法: '圣杯'  (标准 '铁圣杯')
+  [lcs] key: 'Chalice of Iron Worm Shambler'
+        val: '铁蠕虫蹒跚怪圣杯'
+        译法: '圣杯'  (标准 '铁圣杯')
+
+=== 'Chalice of Leap' -> 标准译名 '跃击圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Leap and damage adjacent enemies'
+        val: '跃击并对相邻敌人造成伤害圣杯'
+        译法: '跃击'  (标准 '跃击圣杯')
+  [lcs] key: 'Chalice of Leap to target tile'
+        val: '跃至目标格圣杯'
+        译法: '圣杯'  (标准 '跃击圣杯')
+
+=== 'Chalice of Lightning' -> 标准译名 '闪电圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Lightning Bug Swarm'
+        val: '闪电虫群圣杯'
+        译法: '闪电'  (标准 '闪电圣杯')
+  [lcs] key: 'Chalice of Lightning God Talons'
+        val: '雷神之爪圣杯'
+        译法: '圣杯'  (标准 '闪电圣杯')
+
+=== 'Chalice of Living' -> 标准译名 '活物圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Living Scroll of Fireball'
+        val: '火球活卷轴圣杯'
+        译法: '圣杯'  (标准 '活物圣杯')
+  [lcs] key: 'Chalice of Living Scroll of Lightning'
+        val: '闪电活卷轴圣杯'
+        译法: '圣杯'  (标准 '活物圣杯')
+
+=== 'Chalice of Mass' -> 标准译名 '群体圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Mass Death Chill'
+        val: '群体死亡冻寒圣杯'
+        译法: '群体'  (标准 '群体圣杯')
+  [lcs] key: 'Chalice of Mass of Eyes'
+        val: '眼球之团圣杯'
+        译法: '圣杯'  (标准 '群体圣杯')
+
+=== 'Chalice of Mind Maggot' -> 标准译名 '精神蛆虫圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Mind Maggot Queen'
+        val: '精神蛆虫女王圣杯'
+        译法: '精神蛆虫'  (标准 '精神蛆虫圣杯')
+  [lcs] key: 'Chalice of Mind Maggot Wretch'
+        val: '精神蛆虫畸体圣杯'
+        译法: '精神蛆虫'  (标准 '精神蛆虫圣杯')
+
+=== 'Chalice of Red' -> 标准译名 '红色圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Red Obsidian Shard'
+        val: '红曜石碎片圣杯'
+        译法: '圣杯'  (标准 '红色圣杯')
+  [lcs] key: "Chalice of Red Rider's Seal"
+        val: '红骑士之印圣杯'
+        译法: '圣杯'  (标准 '红色圣杯')
+
+=== 'Chalice of Skull Hornet' -> 标准译名 '骷髅黄蜂圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Skull Hornet Hive'
+        val: '骷髅胡蜂巢圣杯'
+        译法: '骷髅'  (标准 '骷髅黄蜂圣杯')
+  [lcs] key: 'Chalice of Skull Hornet Queen'
+        val: '骷髅胡蜂蜂后圣杯'
+        译法: '骷髅'  (标准 '骷髅黄蜂圣杯')
+
+=== 'Chalice of Touch' -> 标准译名 '触碰圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Touch of Death'
+        val: '死亡之触圣杯'
+        译法: '圣杯'  (标准 '触碰圣杯')
+  [lcs] key: 'Chalice of Touch of the Vampire'
+        val: '吸血鬼之触圣杯'
+        译法: '圣杯'  (标准 '触碰圣杯')
+
+=== 'Chalice of Toxic' -> 标准译名 '剧毒圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Toxic Mind Devourer'
+        val: '剧毒心智吞噬者圣杯'
+        译法: '剧毒'  (标准 '剧毒圣杯')
+  [lcs] key: 'Chalice of Toxic Worm Shambler'
+        val: '剧毒蠕虫蹒跚怪圣杯'
+        译法: '剧毒'  (标准 '剧毒圣杯')
+
+=== 'Chalice of Wall' -> 标准译名 '墙壁圣杯' （2 处不一致）===
+  [lcs] key: 'Chalice of Wall of Flame'
+        val: '烈焰之墙圣杯'
+        译法: '圣杯'  (标准 '墙壁圣杯')
+  [lcs] key: 'Chalice of Wall of Ice'
+        val: '冰墙圣杯'
+        译法: '圣杯'  (标准 '墙壁圣杯')
+
+=== 'Bone Shambler' -> 标准译名 '骨蹒跚怪' （2 处不一致）===
+  [stem] key: 'Collects a limb whenever it takes a step or an adjacent unit dies\n\nAfter collecting 4 limb'
+        val: '每当它移动一步或有相邻单位死亡时，收集一条肢体\n\n收集满 4 条肢体后，会在附近生成一个白骨蹒跚者'
+        译法: '骨蹒跚'  (标准 '骨蹒跚怪')
+        建议: '每当它移动一步或有相邻单位死亡时，收集一条肢体\n\n收集满 4 条肢体后，会在附近生成一个白骨蹒跚怪者'
+  [stem] key: 'Instead of summoning individual Bone Shamblers, summon a single massive Bone Shambler with'
+        val: '不再逐个召唤骸骨蹒跚者，改为召唤一只拥有被杀单位总生命的巨型骸骨蹒跚者'
+        译法: '骨蹒跚'  (标准 '骨蹒跚怪')
+        建议: '不再逐个召唤骸骨蹒跚怪者，改为召唤一只拥有被杀单位总生命的巨型骸骨蹒跚怪者'
+
+=== 'Fae Curse' -> 标准译名 '仙灵诅咒' （2 处不一致）===
+  [missing] key: 'Complete the Vault of the Fettered Fae Curse Doll'
+        val: '完成被缚妖精宝库咒术人偶'
+  [missing] key: 'Vault of the Fettered Fae Curse Doll'
+        val: '被缚妖精宝库咒术人偶'
+
+=== 'Fae Queen' -> 标准译名 '仙灵女王' （2 处不一致）===
+  [lcs] key: 'Complete the Vault of the Fettered Fae Queen'
+        val: '完成被缚妖精宝库女王'
+        译法: '女王'  (标准 '仙灵女王')
+  [lcs] key: 'Vault of the Fettered Fae Queen'
+        val: '被缚妖精宝库女王'
+        译法: '女王'  (标准 '仙灵女王')
+
+=== 'Worm Shambler' -> 标准译名 '蠕虫蹒跚怪' （2 处不一致）===
+  [lcs] key: 'Deals damage to all enemies\nIf they die, raise a Worm Shambler from their body'
+        val: '对所有敌人造成伤害\n若其死亡，则从其尸体上唤起一只蠕虫徘徊者'
+        译法: '蠕虫'  (标准 '蠕虫蹒跚怪')
+  [stem] key: 'Pay half your current HP rounded up to summon a Worm Ball with that much health\nWorm Balls'
+        val: '支付当前生命的一半（向上取整），召唤一只拥有该数值生命的虫球\n虫球的近战攻击造成相当于其最大生命一半的伤害\n若你牺牲了 50 点或更多生命，改为召唤蠕虫蹒跚者'
+        译法: '蠕虫蹒跚'  (标准 '蠕虫蹒跚怪')
+        建议: '支付当前生命的一半（向上取整），召唤一只拥有该数值生命的虫球\n虫球的近战攻击造成相当于其最大生命一半的伤害\n若你牺牲了 50 点或更多生命，改为召唤蠕虫蹒跚怪者'
+
+=== 'Lightning Bolt' -> 标准译名 '闪电弹' （2 处不一致）===
+  [stem] key: 'Each impact casts Lightning Bolt on up to [{num_targets}:num_targets] enemies in its line '
+        val: '每次撞击对其视线内至多 [{num_targets}:num_targets] 个敌人施放闪电箭'
+        译法: '闪电'  (标准 '闪电弹')
+        建议: '每次撞击对其视线内至多 [{num_targets}:num_targets] 个敌人施放闪电弹箭'
+  [stem] key: 'Every 3rd Butterfly summoned has its Void Beam replaced with your Void Beam and its Lightn'
+        val: '每第 3 只被召唤的蝴蝶，其虚空光束替换为你的虚空光束，闪电光束替换为你的闪电箭'
+        译法: '闪电'  (标准 '闪电弹')
+        建议: '每第 3 只被召唤的蝴蝶，其虚空光束替换为你的虚空光束，闪电弹光束替换为你的闪电弹箭'
+
+=== 'Floating Eye' -> 标准译名 '浮空之眼' （2 处不一致）===
+  [lcs] key: 'Each turn, your [Eye] buffs activate [{num_targets}:num_targets] additional times\nIf you c'
+        val: '每回合，你的[眼魔:eye]增益额外激活 [{num_targets}:num_targets] 次\n若你完成仪式，在你视线内随机未被占据的位置施放你的悬浮之眼法术，至多 [{num_summons}:num_summons] 次'
+        译法: '之眼'  (标准 '浮空之眼')
+  [lcs] key: 'If an enemy dies in your line of sight while channeling the ritual, cast Floating Eye at t'
+        val: '引导仪式期间，若有敌人在你的视线内死亡，在其位置施放悬浮之眼\n添加[黑暗:dark]标签'
+        译法: '之眼'  (标准 '浮空之眼')
+
+=== 'Eye of Rage' -> 标准译名 '怒之眼' （2 处不一致）===
+  [lcs] key: 'Eye of Rage shots affect enemies in a connected group'
+        val: '怒火之眼的射击会影响相连的一群敌人'
+        译法: '之眼'  (标准 '怒之眼')
+  [lcs] key: 'When Eye of Rage shoots a [Living] unit with 25% or less HP, that unit is killed and raise'
+        val: '怒火之眼射击生命值不高于 25% 的[活物:living]单位时，该单位会被击杀，并复活为友方狼人\n狼人继承被杀单位的最大生命，并陷入 [狂暴:berserked]，持续 4 回合'
+        译法: '之眼'  (标准 '怒之眼')
+
+=== 'Seal of Searing' -> 标准译名 '炙烤之印' （2 处不一致）===
+  [missing] key: 'Gain Seal of Searing for [{duration}:duration] turns\nWhen enemies take [Fire] damage, the '
+        val: '获得灼热封印，持续 [{duration}:duration] 回合\n敌人受到[火:fire]伤害时，封印获得等量充能\n灼热封印被移除时，每有 5 层充能，就对视线内的敌人造成[1 火:fire]伤害'
+  [missing] key: 'Gain Seal of Searing for [{duration}:duration] turns\nWhen enemies take [Fire] damage, the '
+        val: '获得灼热封印，持续 [{duration}:duration] 回合\n敌人受到[火:fire]伤害时，封印获得等量充能\n灼热封印被移除时，每有 5 层充能，就对视线内的敌人造成[1 火:fire]伤害'
+
+=== 'Blood Slime' -> 标准译名 '鲜血黏液' （2 处不一致）===
+  [lcs] key: 'Heal 10 HP each turn\nExcess raises max HP\nWhen damaged, summon a Blood Slime'
+        val: '每回合治疗 10 点生命\n溢出的部分提高最大生命\n受到伤害时，召唤一个血黏液'
+        译法: '血黏液'  (标准 '鲜血黏液')
+  [lcs] key: 'Summon a Blood Slime nearby for every [{minion_health}:minion_health] HP you spend\n[HP Spe'
+        val: '你每消耗 [{minion_health}:minion_health] 点生命，就在附近召唤一只血黏液\n[已消耗生命:blood]: [{counter}:blood] / [{minion_health}:minion_health]'
+        译法: '血黏液'  (标准 '鲜血黏液')
+
+=== 'Multicast Heal' -> 标准译名 '多重施法：治疗' （2 处不一致）===
+  [lcs] key: 'Multicast Heal for damage dealt by this spell'
+        val: '多重施法：回复此法术所造成伤害等量的生命'
+        译法: '多重施法：'  (标准 '多重施法：治疗')
+  [lcs] key: 'Multicast Heal for half of all damage dealt to you'
+        val: '多重施法：回复等同于你所受全部伤害一半的生命'
+        译法: '多重施法：'  (标准 '多重施法：治疗')
+
+=== 'Multicast Idol' -> 标准译名 '多重施法：神像' （2 处不一致）===
+  [lcs] key: 'Multicast Idol of Burning Sacrifice'
+        val: '多重施法：燃烧献祭偶像'
+        译法: '多重施法：'  (标准 '多重施法：神像')
+  [lcs] key: 'Multicast Idol of Fiery Vengeance'
+        val: '多重施法：烈焰复仇神像'
+        译法: '多重施法：'  (标准 '多重施法：神像')
+
+=== 'Multicast Living' -> 标准译名 '多重施法：活物' （2 处不一致）===
+  [lcs] key: 'Multicast Living Scroll of Fireball'
+        val: '多重施法：火球活卷轴'
+        译法: '多重施法：'  (标准 '多重施法：活物')
+  [lcs] key: 'Multicast Living Scroll of Lightning'
+        val: '多重施法：闪电活卷轴'
+        译法: '多重施法：'  (标准 '多重施法：活物')
+
+=== 'Multicast Vault' -> 标准译名 '多重施法：宝库' （2 处不一致）===
+  [lcs] key: 'Multicast Vault of the Fettered Fae'
+        val: '多重施法：被缚妖精宝库'
+        译法: '多重施法：'  (标准 '多重施法：宝库')
+  [lcs] key: 'Multicast Vault of the Sculptor'
+        val: '多重施法：雕塑家宝库'
+        译法: '多重施法：'  (标准 '多重施法：宝库')
+
+=== 'Prison of Thorns' -> 标准译名 '荆棘牢狱' （2 处不一致）===
+  [lcs] key: 'On Pickup:\nThe nearest enemy is [stunned] for 6 turns, and you cast Prison of Thorns on th'
+        val: '拾取时：\n最近的敌人陷入[眩晕:stunned]，持续 6 回合，并且你对其施放荆棘囚笼'
+        译法: '荆棘'  (标准 '荆棘牢狱')
+  [lcs] key: 'Win with a fully upgraded Prison of Thorns'
+        val: '用完全强化的荆棘监狱获胜'
+        译法: '荆棘'  (标准 '荆棘牢狱')
+
+=== 'Prismatic Beam' -> 标准译名 '棱彩光束' （2 处不一致）===
+  [lcs] key: 'Prismatic Beam also refracts when it encounters [petrified] or [glassed] units'
+        val: '棱镜光束遇到[石化:petrified]或[玻璃化:glassed]单位时也会折射'
+        译法: '光束'  (标准 '棱彩光束')
+  [lcs] key: 'Prismatic Beam heals allies instead of damaging them'
+        val: '棱镜光束改为治疗友军而非伤害他们'
+        译法: '光束'  (标准 '棱彩光束')
+
+=== 'Respawn As Feed' -> 标准译名 '重生为吞食' （2 处不一致）===
+  [lcs] key: 'Respawn As Feed the Darkness'
+        val: '重生为喂养黑暗'
+        译法: '重生为'  (标准 '重生为吞食')
+  [lcs] key: 'Respawn As Feed the Flames'
+        val: '重生为添柴加火'
+        译法: '重生为'  (标准 '重生为吞食')
+
+=== 'Respawn As Flames' -> 标准译名 '重生为火焰' （2 处不一致）===
+  [lcs] key: 'Respawn As Flames of Heaven'
+        val: '重生为天堂之焰'
+        译法: '重生为'  (标准 '重生为火焰')
+  [lcs] key: 'Respawn As Flames of Sorcery'
+        val: '重生为巫术之焰'
+        译法: '重生为'  (标准 '重生为火焰')
+
+=== 'Respawn As Heal' -> 标准译名 '重生为治疗' （2 处不一致）===
+  [lcs] key: 'Respawn As Heal for damage dealt by this spell'
+        val: '重生为回复此法术所造成伤害等量的生命'
+        译法: '重生为'  (标准 '重生为治疗')
+  [lcs] key: 'Respawn As Heal for half of all damage dealt to you'
+        val: '重生为回复等同于你所受全部伤害一半的生命'
+        译法: '重生为'  (标准 '重生为治疗')
+
+=== 'Respawn As Ice' -> 标准译名 '重生为冰' （2 处不一致）===
+  [stem] key: 'Respawn As Ice Caller Staff'
+        val: '重生为唤冰法杖'
+        译法: '重生为'  (标准 '重生为冰')
+        建议: '重生为冰唤冰法杖'
+  [stem] key: 'Respawn As Ice Rocket Bomber'
+        val: '重生为寒冰火箭投弹手'
+        译法: '重生为'  (标准 '重生为冰')
+        建议: '重生为冰寒冰火箭投弹手'
+
+=== 'Respawn As Living' -> 标准译名 '重生为活物' （2 处不一致）===
+  [lcs] key: 'Respawn As Living Scroll of Fireball'
+        val: '重生为火球活卷轴'
+        译法: '重生为'  (标准 '重生为活物')
+  [lcs] key: 'Respawn As Living Scroll of Lightning'
+        val: '重生为闪电活卷轴'
+        译法: '重生为'  (标准 '重生为活物')
+
+=== 'Respawn As Red' -> 标准译名 '重生为红色' （2 处不一致）===
+  [stem] key: 'Respawn As Red Obsidian Shard'
+        val: '重生为红曜石碎片'
+        译法: '重生为红'  (标准 '重生为红色')
+        建议: '重生为红色曜石碎片'
+  [stem] key: "Respawn As Red Rider's Seal"
+        val: '重生为红骑士之印'
+        译法: '重生为红'  (标准 '重生为红色')
+        建议: '重生为红色骑士之印'
+
+=== 'Respawn As Skull Hornet' -> 标准译名 '重生为骷髅黄蜂' （2 处不一致）===
+  [lcs] key: 'Respawn As Skull Hornet Hive'
+        val: '重生为骷髅胡蜂巢'
+        译法: '重生为骷髅'  (标准 '重生为骷髅黄蜂')
+  [lcs] key: 'Respawn As Skull Hornet Queen'
+        val: '重生为骷髅胡蜂蜂后'
+        译法: '重生为骷髅'  (标准 '重生为骷髅黄蜂')
+
+=== 'Respawn As Touch' -> 标准译名 '重生为触碰' （2 处不一致）===
+  [lcs] key: 'Respawn As Touch of Death'
+        val: '重生为死亡之触'
+        译法: '重生为'  (标准 '重生为触碰')
+  [lcs] key: 'Respawn As Touch of the Vampire'
+        val: '重生为吸血鬼之触'
+        译法: '重生为'  (标准 '重生为触碰')
+
+=== 'Respawn As Wall' -> 标准译名 '重生为墙壁' （2 处不一致）===
+  [lcs] key: 'Respawn As Wall of Flame'
+        val: '重生为烈焰之墙'
+        译法: '重生为'  (标准 '重生为墙壁')
+  [lcs] key: 'Respawn As Wall of Ice'
+        val: '重生为冰墙'
+        译法: '重生为'  (标准 '重生为墙壁')
+
+=== 'Robe of Armor' -> 标准译名 '护甲法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Armor of Armageddon'
+        val: '末日铠甲法袍'
+        译法: '甲法袍'  (标准 '护甲法袍')
+  [lcs] key: 'Robe of Armor of the Master'
+        val: '宗师之甲法袍'
+        译法: '甲法袍'  (标准 '护甲法袍')
+
+=== 'Robe of Blue Lion' -> 标准译名 '蓝狮法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Blue Lion Bolt'
+        val: '蓝狮魔弹法袍'
+        译法: '蓝狮'  (标准 '蓝狮法袍')
+  [lcs] key: 'Robe of Blue Lion Sheen'
+        val: '蓝狮光泽法袍'
+        译法: '蓝狮'  (标准 '蓝狮法袍')
+
+=== 'Robe of Bone Shambler' -> 标准译名 '骨蹒跚怪法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Bone Shambler Fragment'
+        val: '骨蹒跚怪碎片法袍'
+        译法: '骨蹒跚怪'  (标准 '骨蹒跚怪法袍')
+  [lcs] key: 'Robe of Bone Shambler Megalith'
+        val: '骨蹒跚怪巨石法袍'
+        译法: '骨蹒跚怪'  (标准 '骨蹒跚怪法袍')
+
+=== 'Robe of Chaos' -> 标准译名 '混沌法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Chaos Scale Crown'
+        val: '混沌鳞冠法袍'
+        译法: '混沌'  (标准 '混沌法袍')
+  [lcs] key: 'Robe of Chaos Serpent Staff'
+        val: '混沌巨蛇法杖法袍'
+        译法: '混沌'  (标准 '混沌法袍')
+
+=== 'Robe of Feed' -> 标准译名 '吞食法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Feed the Darkness'
+        val: '喂养黑暗法袍'
+        译法: '法袍'  (标准 '吞食法袍')
+  [lcs] key: 'Robe of Feed the Flames'
+        val: '添柴加火法袍'
+        译法: '法袍'  (标准 '吞食法袍')
+
+=== 'Robe of Fire' -> 标准译名 '火法袍' （2 处不一致）===
+  [lcs] key: "Robe of Fire Drakes' breath attack melts walls"
+        val: '火焰幼龙的吐息攻击会熔化墙壁法袍'
+        译法: '法袍'  (标准 '火法袍')
+  [lcs] key: 'Robe of Fire Rocket Bomber'
+        val: '火焰火箭投弹手法袍'
+        译法: '法袍'  (标准 '火法袍')
+
+=== 'Robe of Flames' -> 标准译名 '火焰法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Flames of Heaven'
+        val: '天堂之焰法袍'
+        译法: '焰法袍'  (标准 '火焰法袍')
+  [lcs] key: 'Robe of Flames of Sorcery'
+        val: '巫术之焰法袍'
+        译法: '焰法袍'  (标准 '火焰法袍')
+
+=== 'Robe of Flaming' -> 标准译名 '燃烧法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Flaming Claw Staff'
+        val: '焰爪法杖法袍'
+        译法: '法袍'  (标准 '燃烧法袍')
+  [lcs] key: 'Robe of Flaming Flesh Fiend'
+        val: '燃烧血肉魔鬼法袍'
+        译法: '燃烧'  (标准 '燃烧法袍')
+
+=== 'Robe of Ice Wyrm' -> 标准译名 '寒冰蛟龙法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Ice Wyrm Egg'
+        val: '寒冰蛟龙蛋法袍'
+        译法: '寒冰蛟龙'  (标准 '寒冰蛟龙法袍')
+  [lcs] key: 'Robe of Ice Wyrm Scale'
+        val: '冰龙虫鳞片法袍'
+        译法: '法袍'  (标准 '寒冰蛟龙法袍')
+
+=== 'Robe of Iron' -> 标准译名 '铁法袍' （2 处不一致）===
+  [lcs] key: "Robe of Iron Legion's Banner"
+        val: '铁军团旗帜法袍'
+        译法: '法袍'  (标准 '铁法袍')
+  [lcs] key: 'Robe of Iron Worm Shambler'
+        val: '铁蠕虫蹒跚怪法袍'
+        译法: '法袍'  (标准 '铁法袍')
+
+=== 'Robe of Leap' -> 标准译名 '跃击法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Leap and damage adjacent enemies'
+        val: '跃击并对相邻敌人造成伤害法袍'
+        译法: '跃击'  (标准 '跃击法袍')
+  [lcs] key: 'Robe of Leap to target tile'
+        val: '跃至目标格法袍'
+        译法: '法袍'  (标准 '跃击法袍')
+
+=== 'Robe of Lightning' -> 标准译名 '闪电法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Lightning Bug Swarm'
+        val: '闪电虫群法袍'
+        译法: '闪电'  (标准 '闪电法袍')
+  [lcs] key: 'Robe of Lightning God Talons'
+        val: '雷神之爪法袍'
+        译法: '法袍'  (标准 '闪电法袍')
+
+=== 'Robe of Living' -> 标准译名 '活物法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Living Scroll of Fireball'
+        val: '火球活卷轴法袍'
+        译法: '法袍'  (标准 '活物法袍')
+  [lcs] key: 'Robe of Living Scroll of Lightning'
+        val: '闪电活卷轴法袍'
+        译法: '法袍'  (标准 '活物法袍')
+
+=== 'Robe of Mass' -> 标准译名 '群体法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Mass Death Chill'
+        val: '群体死亡冻寒法袍'
+        译法: '群体'  (标准 '群体法袍')
+  [lcs] key: 'Robe of Mass of Eyes'
+        val: '眼球之团法袍'
+        译法: '法袍'  (标准 '群体法袍')
+
+=== 'Robe of Mind Maggot' -> 标准译名 '精神蛆虫法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Mind Maggot Queen'
+        val: '精神蛆虫女王法袍'
+        译法: '精神蛆虫'  (标准 '精神蛆虫法袍')
+  [lcs] key: 'Robe of Mind Maggot Wretch'
+        val: '精神蛆虫畸体法袍'
+        译法: '精神蛆虫'  (标准 '精神蛆虫法袍')
+
+=== 'Robe of Red' -> 标准译名 '红色法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Red Obsidian Shard'
+        val: '红曜石碎片法袍'
+        译法: '法袍'  (标准 '红色法袍')
+  [lcs] key: "Robe of Red Rider's Seal"
+        val: '红骑士之印法袍'
+        译法: '法袍'  (标准 '红色法袍')
+
+=== 'Robe of Skull Hornet' -> 标准译名 '骷髅黄蜂法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Skull Hornet Hive'
+        val: '骷髅胡蜂巢法袍'
+        译法: '骷髅'  (标准 '骷髅黄蜂法袍')
+  [lcs] key: 'Robe of Skull Hornet Queen'
+        val: '骷髅胡蜂蜂后法袍'
+        译法: '骷髅'  (标准 '骷髅黄蜂法袍')
+
+=== 'Robe of Touch' -> 标准译名 '触碰法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Touch of Death'
+        val: '死亡之触法袍'
+        译法: '法袍'  (标准 '触碰法袍')
+  [lcs] key: 'Robe of Touch of the Vampire'
+        val: '吸血鬼之触法袍'
+        译法: '法袍'  (标准 '触碰法袍')
+
+=== 'Robe of Toxic' -> 标准译名 '剧毒法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Toxic Mind Devourer'
+        val: '剧毒心智吞噬者法袍'
+        译法: '剧毒'  (标准 '剧毒法袍')
+  [lcs] key: 'Robe of Toxic Worm Shambler'
+        val: '剧毒蠕虫蹒跚怪法袍'
+        译法: '剧毒'  (标准 '剧毒法袍')
+
+=== 'Robe of Wall' -> 标准译名 '墙壁法袍' （2 处不一致）===
+  [lcs] key: 'Robe of Wall of Flame'
+        val: '烈焰之墙法袍'
+        译法: '法袍'  (标准 '墙壁法袍')
+  [lcs] key: 'Robe of Wall of Ice'
+        val: '冰墙法袍'
+        译法: '法袍'  (标准 '墙壁法袍')
+
+=== 'Skeletal Heal' -> 标准译名 '骸骨治疗' （2 处不一致）===
+  [lcs] key: 'Skeletal Heal for damage dealt by this spell'
+        val: '骸骨回复此法术所造成伤害等量的生命'
+        译法: '骸骨'  (标准 '骸骨治疗')
+  [lcs] key: 'Skeletal Heal for half of all damage dealt to you'
+        val: '骸骨回复等同于你所受全部伤害一半的生命'
+        译法: '骸骨'  (标准 '骸骨治疗')
+
+=== 'Skeletal Idol' -> 标准译名 '骸骨神像' （2 处不一致）===
+  [lcs] key: 'Skeletal Idol of Burning Sacrifice'
+        val: '骸骨燃烧献祭偶像'
+        译法: '骸骨'  (标准 '骸骨神像')
+  [lcs] key: 'Skeletal Idol of Fiery Vengeance'
+        val: '骸骨烈焰复仇神像'
+        译法: '骸骨'  (标准 '骸骨神像')
+
+=== 'Skeletal Living' -> 标准译名 '骸骨活物' （2 处不一致）===
+  [lcs] key: 'Skeletal Living Scroll of Fireball'
+        val: '骸骨火球活卷轴'
+        译法: '骸骨'  (标准 '骸骨活物')
+  [lcs] key: 'Skeletal Living Scroll of Lightning'
+        val: '骸骨闪电活卷轴'
+        译法: '骸骨'  (标准 '骸骨活物')
+
+=== 'Skeletal Vault' -> 标准译名 '骸骨宝库' （2 处不一致）===
+  [lcs] key: 'Skeletal Vault of the Fettered Fae'
+        val: '骸骨被缚妖精宝库'
+        译法: '骸骨'  (标准 '骸骨宝库')
+  [lcs] key: 'Skeletal Vault of the Sculptor'
+        val: '骸骨雕塑家宝库'
+        译法: '骸骨'  (标准 '骸骨宝库')
+
+=== 'Slimy Heal' -> 标准译名 '黏滑治疗' （2 处不一致）===
+  [lcs] key: 'Slimy Heal for damage dealt by this spell'
+        val: '黏滑回复此法术所造成伤害等量的生命'
+        译法: '黏滑'  (标准 '黏滑治疗')
+  [lcs] key: 'Slimy Heal for half of all damage dealt to you'
+        val: '黏滑回复等同于你所受全部伤害一半的生命'
+        译法: '黏滑'  (标准 '黏滑治疗')
+
+=== 'Slimy Idol' -> 标准译名 '黏滑神像' （2 处不一致）===
+  [lcs] key: 'Slimy Idol of Burning Sacrifice'
+        val: '黏滑燃烧献祭偶像'
+        译法: '黏滑'  (标准 '黏滑神像')
+  [lcs] key: 'Slimy Idol of Fiery Vengeance'
+        val: '黏滑烈焰复仇神像'
+        译法: '黏滑'  (标准 '黏滑神像')
+
+=== 'Slimy Living' -> 标准译名 '黏滑活物' （2 处不一致）===
+  [lcs] key: 'Slimy Living Scroll of Fireball'
+        val: '黏滑火球活卷轴'
+        译法: '黏滑'  (标准 '黏滑活物')
+  [lcs] key: 'Slimy Living Scroll of Lightning'
+        val: '黏滑闪电活卷轴'
+        译法: '黏滑'  (标准 '黏滑活物')
+
+=== 'Slimy Vault' -> 标准译名 '黏滑宝库' （2 处不一致）===
+  [lcs] key: 'Slimy Vault of the Fettered Fae'
+        val: '黏滑被缚妖精宝库'
+        译法: '黏滑'  (标准 '黏滑宝库')
+  [lcs] key: 'Slimy Vault of the Sculptor'
+        val: '黏滑雕塑家宝库'
+        译法: '黏滑'  (标准 '黏滑宝库')
+
+=== 'Summon Armor' -> 标准译名 '召唤护甲' （2 处不一致）===
+  [lcs] key: 'Summon Armor of the Master'
+        val: '召唤宗师之甲'
+        译法: '召唤'  (标准 '召唤护甲')
+  [lcs] key: 'Summon Armor of the Masters'
+        val: '召唤宗师之甲'
+        译法: '召唤'  (标准 '召唤护甲')
+
+=== 'Summon Bats' -> 标准译名 '召唤蝙蝠' （2 处不一致）===
+  [lcs] key: 'Summon Bats an adjacent unit towards an enemy'
+        val: '召唤将一个相邻单位拍向一名敌人'
+        译法: '召唤'  (标准 '召唤蝙蝠')
+  [lcs] key: 'Summon Bats an adjacent unit towards an enemys'
+        val: '召唤将一个相邻单位拍向一名敌人'
+        译法: '召唤'  (标准 '召唤蝙蝠')
+
+=== 'Summon Cast Mercurize' -> 标准译名 '召唤施放水银化' （2 处不一致）===
+  [lcs] key: 'Summon Cast Mercurize on melee attackers'
+        val: '召唤对近战攻击者施放水银化'
+        译法: '施放水银化'  (标准 '召唤施放水银化')
+  [lcs] key: 'Summon Cast Mercurize on melee attackerss'
+        val: '召唤对近战攻击者施放水银化'
+        译法: '施放水银化'  (标准 '召唤施放水银化')
+
+=== 'Summon Corrupts' -> 标准译名 '召唤腐化' （2 处不一致）===
+  [lcs] key: 'Summon Corrupts reality in a wide beam'
+        val: '召唤以宽光束腐化现实'
+        译法: '召唤'  (标准 '召唤腐化')
+  [lcs] key: 'Summon Corrupts reality in a wide beams'
+        val: '召唤以宽光束腐化现实'
+        译法: '召唤'  (标准 '召唤腐化')
+
+=== 'Summon Drains' -> 标准译名 '召唤汲取' （2 处不一致）===
+  [lcs] key: 'Summon Drains a spell charge'
+        val: '召唤吸取一个法术充能'
+        译法: '召唤'  (标准 '召唤汲取')
+  [lcs] key: 'Summon Drains a spell charges'
+        val: '召唤吸取一个法术充能'
+        译法: '召唤'  (标准 '召唤汲取')
+
+=== 'Summon Eye' -> 标准译名 '召唤眼魔' （2 处不一致）===
+  [lcs] key: 'Summon Eye for an Eye'
+        val: '召唤以眼还眼'
+        译法: '召唤'  (标准 '召唤眼魔')
+  [lcs] key: 'Summon Eye for an Eyes'
+        val: '召唤以眼还眼'
+        译法: '召唤'  (标准 '召唤眼魔')
+
+=== 'Summon Eyes' -> 标准译名 '召唤眼魔' （2 处不一致）===
+  [lcs] key: 'Summon Eyes Of Cursed Dark'
+        val: '召唤诅咒黑暗之眼'
+        译法: '召唤'  (标准 '召唤眼魔')
+  [lcs] key: 'Summon Eyes Of Cursed Darks'
+        val: '召唤诅咒黑暗之眼'
+        译法: '召唤'  (标准 '召唤眼魔')
+
+=== 'Summon Forest' -> 标准译名 '召唤森林' （2 处不一致）===
+  [lcs] key: 'Summon Forest of Flying Daggers'
+        val: '召唤飞刀之林'
+        译法: '召唤'  (标准 '召唤森林')
+  [lcs] key: 'Summon Forest of Flying Daggerss'
+        val: '召唤飞刀之林'
+        译法: '召唤'  (标准 '召唤森林')
+
+=== 'Summon Heals' -> 标准译名 '召唤治疗' （2 处不一致）===
+  [lcs] key: 'Summon Heals for damage dealt'
+        val: '召唤按造成的伤害回复生命'
+        译法: '召唤'  (标准 '召唤治疗')
+  [lcs] key: 'Summon Heals for damage dealts'
+        val: '召唤按造成的伤害回复生命'
+        译法: '召唤'  (标准 '召唤治疗')
+
+=== 'Summon Immune to debuffs' -> 标准译名 '召唤免疫减益' （2 处不一致）===
+  [lcs] key: 'Summon Immune to debuffs while shielded'
+        val: '召唤有护盾时免疫减益'
+        译法: '免疫减益'  (标准 '召唤免疫减益')
+  [lcs] key: 'Summon Immune to debuffs while shieldeds'
+        val: '召唤有护盾时免疫减益'
+        译法: '免疫减益'  (标准 '召唤免疫减益')
+
+=== 'Summon Leap' -> 标准译名 '召唤跃击' （2 处不一致）===
+  [stem] key: 'Summon Leap to target tile'
+        val: '召唤跃至目标格'
+        译法: '召唤跃'  (标准 '召唤跃击')
+        建议: '召唤跃击至目标格'
+  [stem] key: 'Summon Leap to target tiles'
+        val: '召唤跃至目标格'
+        译法: '召唤跃'  (标准 '召唤跃击')
+        建议: '召唤跃击至目标格'
+
+=== 'Summon Learn' -> 标准译名 '召唤学习' （2 处不一致）===
+  [lcs] key: 'Summon Learn how to play'
+        val: '召唤了解游戏玩法'
+        译法: '召唤'  (标准 '召唤学习')
+  [lcs] key: 'Summon Learn how to plays'
+        val: '召唤了解游戏玩法'
+        译法: '召唤'  (标准 '召唤学习')
+
+=== 'Summon Leghead' -> 标准译名 '召唤腿首怪' （2 处不一致）===
+  [stem] key: 'Summon Leghead is immune to debuffs'
+        val: '召唤腿首免疫减益'
+        译法: '召唤腿首'  (标准 '召唤腿首怪')
+        建议: '召唤腿首怪免疫减益'
+  [stem] key: 'Summon Leghead is immune to debuffss'
+        val: '召唤腿首免疫减益'
+        译法: '召唤腿首'  (标准 '召唤腿首怪')
+        建议: '召唤腿首怪免疫减益'
+
+=== 'Summon Melt' -> 标准译名 '召唤熔解' （2 处不一致）===
+  [stem] key: 'Summon Melt walls adjacent to the blast'
+        val: '召唤熔化爆炸相邻的墙壁'
+        译法: '召唤熔'  (标准 '召唤熔解')
+        建议: '召唤熔解化爆炸相邻的墙壁'
+  [stem] key: 'Summon Melt walls adjacent to the blasts'
+        val: '召唤熔化爆炸相邻的墙壁'
+        译法: '召唤熔'  (标准 '召唤熔解')
+        建议: '召唤熔解化爆炸相邻的墙壁'
+
+=== 'Summon Orb' -> 标准译名 '召唤宝珠' （2 处不一致）===
+  [lcs] key: 'Summon Orb of Infinite Slaughter'
+        val: '召唤无尽杀戮宝珠'
+        译法: '召唤'  (标准 '召唤宝珠')
+  [lcs] key: 'Summon Orb of Infinite Slaughters'
+        val: '召唤无尽杀戮宝珠'
+        译法: '召唤'  (标准 '召唤宝珠')
+
+=== 'Summon Petrify' -> 标准译名 '召唤石化' （2 处不一致）===
+  [lcs] key: 'Summon Petrify nearby enemies each turn'
+        val: '召唤每回合石化附近敌人'
+        译法: '召唤'  (标准 '召唤石化')
+  [lcs] key: 'Summon Petrify nearby enemies each turns'
+        val: '召唤每回合石化附近敌人'
+        译法: '召唤'  (标准 '召唤石化')
+
+=== 'Summon Prism' -> 标准译名 '召唤棱镜' （2 处不一致）===
+  [lcs] key: 'Summon Prism of Shattered Sensations'
+        val: '召唤碎感棱镜'
+        译法: '召唤'  (标准 '召唤棱镜')
+  [lcs] key: 'Summon Prism of Shattered Sensationss'
+        val: '召唤碎感棱镜'
+        译法: '召唤'  (标准 '召唤棱镜')
+
+=== 'Summon Touch' -> 标准译名 '召唤触碰' （2 处不一致）===
+  [lcs] key: 'Summon Touch of the Vampire'
+        val: '召唤吸血鬼之触'
+        译法: '召唤'  (标准 '召唤触碰')
+  [lcs] key: 'Summon Touch of the Vampires'
+        val: '召唤吸血鬼之触'
+        译法: '召唤'  (标准 '召唤触碰')
+
+=== 'Wizard Curse Doll' -> 标准译名 '法师咒术人偶' （2 处不一致）===
+  [lcs] key: 'Summons a Ghost near the Wizard Curse Doll'
+        val: '在法师附近召唤一个幽魂咒术人偶'
+        译法: '咒术人偶'  (标准 '法师咒术人偶')
+  [lcs] key: 'Swap places with the Wizard Curse Doll'
+        val: '与法师交换位置咒术人偶'
+        译法: '咒术人偶'  (标准 '法师咒术人偶')
+
+=== 'Wizard Egg' -> 标准译名 '法师蛋' （2 处不一致）===
+  [stem] key: 'Summons a Ghost near the Wizard Egg'
+        val: '在法师附近召唤一个幽魂蛋'
+        译法: '法师'  (标准 '法师蛋')
+        建议: '在法师蛋附近召唤一个幽魂蛋'
+  [stem] key: 'Swap places with the Wizard Egg'
+        val: '与法师交换位置蛋'
+        译法: '法师'  (标准 '法师蛋')
+        建议: '与法师蛋交换位置蛋'
+
+=== "Wizard Hunter's Sigil" -> 标准译名 '法师猎手印记' （2 处不一致）===
+  [lcs] key: "Summons a Ghost near the Wizard Hunter's Sigil"
+        val: '在法师附近召唤一个幽魂猎手印记'
+        译法: '猎手印记'  (标准 '法师猎手印记')
+  [lcs] key: "Swap places with the Wizard Hunter's Sigil"
+        val: '与法师交换位置猎手印记'
+        译法: '猎手印记'  (标准 '法师猎手印记')
+
+=== 'Wizard Oculus' -> 标准译名 '法师魔眼' （2 处不一致）===
+  [lcs] key: 'Summons a Ghost near the Wizard Oculus'
+        val: '在法师附近召唤一个幽魂魔眼'
+        译法: '法师'  (标准 '法师魔眼')
+  [lcs] key: 'Swap places with the Wizard Oculus'
+        val: '与法师交换位置魔眼'
+        译法: '法师'  (标准 '法师魔眼')
+
+=== 'Wizard Queen' -> 标准译名 '法师女王' （2 处不一致）===
+  [lcs] key: 'Summons a Ghost near the Wizard Queen'
+        val: '在法师附近召唤一个幽魂女王'
+        译法: '法师'  (标准 '法师女王')
+  [lcs] key: 'Swap places with the Wizard Queen'
+        val: '与法师交换位置女王'
+        译法: '法师'  (标准 '法师女王')
+
+=== 'Wizard Repeater' -> 标准译名 '法师连发' （2 处不一致）===
+  [lcs] key: 'Summons a Ghost near the Wizard Repeater'
+        val: '在法师附近召唤一个幽魂连发'
+        译法: '法师'  (标准 '法师连发')
+  [lcs] key: 'Swap places with the Wizard Repeater'
+        val: '与法师交换位置连发'
+        译法: '法师'  (标准 '法师连发')
+
+=== 'Wizard Spawner' -> 标准译名 '法师生成器' （2 处不一致）===
+  [lcs] key: 'Summons a Ghost near the Wizard Spawner'
+        val: '在法师附近召唤一个幽魂生成器'
+        译法: '生成器'  (标准 '法师生成器')
+  [lcs] key: 'Swap places with the Wizard Spawner'
+        val: '与法师交换位置生成器'
+        译法: '生成器'  (标准 '法师生成器')
+
+=== 'Wizard Swarm Summon' -> 标准译名 '法师虫群召唤' （2 处不一致）===
+  [lcs] key: 'Summons a Ghost near the Wizard Swarm Summon'
+        val: '在法师附近召唤一个幽魂虫群召唤'
+        译法: '虫群召唤'  (标准 '法师虫群召唤')
+  [lcs] key: 'Swap places with the Wizard Swarm Summon'
+        val: '与法师交换位置虫群召唤'
+        译法: '虫群召唤'  (标准 '法师虫群召唤')
+
+=== 'Touched by Armor' -> 标准译名 '护甲之触' （2 处不一致）===
+  [lcs] key: 'Touched by Armor of Armageddon'
+        val: '末日铠甲之触'
+        译法: '甲之触'  (标准 '护甲之触')
+  [lcs] key: 'Touched by Armor of the Master'
+        val: '宗师之甲之触'
+        译法: '甲之触'  (标准 '护甲之触')
+
+=== 'Touched by Blue Lion' -> 标准译名 '蓝狮之触' （2 处不一致）===
+  [lcs] key: 'Touched by Blue Lion Bolt'
+        val: '蓝狮魔弹之触'
+        译法: '蓝狮'  (标准 '蓝狮之触')
+  [lcs] key: 'Touched by Blue Lion Sheen'
+        val: '蓝狮光泽之触'
+        译法: '蓝狮'  (标准 '蓝狮之触')
+
+=== 'Touched by Bone Shambler' -> 标准译名 '骨蹒跚怪之触' （2 处不一致）===
+  [lcs] key: 'Touched by Bone Shambler Fragment'
+        val: '骨蹒跚怪碎片之触'
+        译法: '骨蹒跚怪'  (标准 '骨蹒跚怪之触')
+  [lcs] key: 'Touched by Bone Shambler Megalith'
+        val: '骨蹒跚怪巨石之触'
+        译法: '骨蹒跚怪'  (标准 '骨蹒跚怪之触')
+
+=== 'Touched by Chaos' -> 标准译名 '混沌之触' （2 处不一致）===
+  [lcs] key: 'Touched by Chaos Scale Crown'
+        val: '混沌鳞冠之触'
+        译法: '混沌'  (标准 '混沌之触')
+  [lcs] key: 'Touched by Chaos Serpent Staff'
+        val: '混沌巨蛇法杖之触'
+        译法: '混沌'  (标准 '混沌之触')
+
+=== 'Touched by Feed' -> 标准译名 '吞食之触' （2 处不一致）===
+  [lcs] key: 'Touched by Feed the Darkness'
+        val: '喂养黑暗之触'
+        译法: '之触'  (标准 '吞食之触')
+  [lcs] key: 'Touched by Feed the Flames'
+        val: '添柴加火之触'
+        译法: '之触'  (标准 '吞食之触')
+
+=== 'Touched by Fire' -> 标准译名 '火之触' （2 处不一致）===
+  [lcs] key: "Touched by Fire Drakes' breath attack melts walls"
+        val: '火焰幼龙的吐息攻击会熔化墙壁之触'
+        译法: '之触'  (标准 '火之触')
+  [lcs] key: 'Touched by Fire Rocket Bomber'
+        val: '火焰火箭投弹手之触'
+        译法: '之触'  (标准 '火之触')
+
+=== 'Touched by Flames' -> 标准译名 '火焰之触' （2 处不一致）===
+  [lcs] key: 'Touched by Flames of Heaven'
+        val: '天堂之焰之触'
+        译法: '焰之触'  (标准 '火焰之触')
+  [lcs] key: 'Touched by Flames of Sorcery'
+        val: '巫术之焰之触'
+        译法: '焰之触'  (标准 '火焰之触')
+
+=== 'Touched by Flaming' -> 标准译名 '燃烧之触' （2 处不一致）===
+  [lcs] key: 'Touched by Flaming Claw Staff'
+        val: '焰爪法杖之触'
+        译法: '之触'  (标准 '燃烧之触')
+  [lcs] key: 'Touched by Flaming Flesh Fiend'
+        val: '燃烧血肉魔鬼之触'
+        译法: '燃烧'  (标准 '燃烧之触')
+
+=== 'Touched by Ice Wyrm' -> 标准译名 '寒冰蛟龙之触' （2 处不一致）===
+  [lcs] key: 'Touched by Ice Wyrm Egg'
+        val: '寒冰蛟龙蛋之触'
+        译法: '寒冰蛟龙'  (标准 '寒冰蛟龙之触')
+  [lcs] key: 'Touched by Ice Wyrm Scale'
+        val: '冰龙虫鳞片之触'
+        译法: '之触'  (标准 '寒冰蛟龙之触')
+
+=== 'Touched by Iron' -> 标准译名 '铁之触' （2 处不一致）===
+  [lcs] key: "Touched by Iron Legion's Banner"
+        val: '铁军团旗帜之触'
+        译法: '之触'  (标准 '铁之触')
+  [lcs] key: 'Touched by Iron Worm Shambler'
+        val: '铁蠕虫蹒跚怪之触'
+        译法: '之触'  (标准 '铁之触')
+
+=== 'Touched by Leap' -> 标准译名 '跃击之触' （2 处不一致）===
+  [lcs] key: 'Touched by Leap and damage adjacent enemies'
+        val: '跃击并对相邻敌人造成伤害之触'
+        译法: '跃击'  (标准 '跃击之触')
+  [lcs] key: 'Touched by Leap to target tile'
+        val: '跃至目标格之触'
+        译法: '之触'  (标准 '跃击之触')
+
+=== 'Touched by Lightning' -> 标准译名 '闪电之触' （2 处不一致）===
+  [lcs] key: 'Touched by Lightning Bug Swarm'
+        val: '闪电虫群之触'
+        译法: '闪电'  (标准 '闪电之触')
+  [lcs] key: 'Touched by Lightning God Talons'
+        val: '雷神之爪之触'
+        译法: '之触'  (标准 '闪电之触')
+
+=== 'Touched by Living' -> 标准译名 '活物之触' （2 处不一致）===
+  [lcs] key: 'Touched by Living Scroll of Fireball'
+        val: '火球活卷轴之触'
+        译法: '之触'  (标准 '活物之触')
+  [lcs] key: 'Touched by Living Scroll of Lightning'
+        val: '闪电活卷轴之触'
+        译法: '之触'  (标准 '活物之触')
+
+=== 'Touched by Mass' -> 标准译名 '群体之触' （2 处不一致）===
+  [lcs] key: 'Touched by Mass Death Chill'
+        val: '群体死亡冻寒之触'
+        译法: '群体'  (标准 '群体之触')
+  [lcs] key: 'Touched by Mass of Eyes'
+        val: '眼球之团之触'
+        译法: '之触'  (标准 '群体之触')
+
+=== 'Touched by Mind Maggot' -> 标准译名 '精神蛆虫之触' （2 处不一致）===
+  [lcs] key: 'Touched by Mind Maggot Queen'
+        val: '精神蛆虫女王之触'
+        译法: '精神蛆虫'  (标准 '精神蛆虫之触')
+  [lcs] key: 'Touched by Mind Maggot Wretch'
+        val: '精神蛆虫畸体之触'
+        译法: '精神蛆虫'  (标准 '精神蛆虫之触')
+
+=== 'Touched by Red' -> 标准译名 '红色之触' （2 处不一致）===
+  [lcs] key: 'Touched by Red Obsidian Shard'
+        val: '红曜石碎片之触'
+        译法: '之触'  (标准 '红色之触')
+  [lcs] key: "Touched by Red Rider's Seal"
+        val: '红骑士之印之触'
+        译法: '之触'  (标准 '红色之触')
+
+=== 'Touched by Skull Hornet' -> 标准译名 '骷髅黄蜂之触' （2 处不一致）===
+  [lcs] key: 'Touched by Skull Hornet Hive'
+        val: '骷髅胡蜂巢之触'
+        译法: '骷髅'  (标准 '骷髅黄蜂之触')
+  [lcs] key: 'Touched by Skull Hornet Queen'
+        val: '骷髅胡蜂蜂后之触'
+        译法: '骷髅'  (标准 '骷髅黄蜂之触')
+
+=== 'Touched by Touch' -> 标准译名 '触碰之触' （2 处不一致）===
+  [lcs] key: 'Touched by Touch of Death'
+        val: '死亡之触之触'
+        译法: '之触'  (标准 '触碰之触')
+  [lcs] key: 'Touched by Touch of the Vampire'
+        val: '吸血鬼之触之触'
+        译法: '之触'  (标准 '触碰之触')
+
+=== 'Touched by Toxic' -> 标准译名 '剧毒之触' （2 处不一致）===
+  [lcs] key: 'Touched by Toxic Mind Devourer'
+        val: '剧毒心智吞噬者之触'
+        译法: '剧毒'  (标准 '剧毒之触')
+  [lcs] key: 'Touched by Toxic Worm Shambler'
+        val: '剧毒蠕虫蹒跚怪之触'
+        译法: '剧毒'  (标准 '剧毒之触')
+
+=== 'Touched by Wall' -> 标准译名 '墙壁之触' （2 处不一致）===
+  [lcs] key: 'Touched by Wall of Flame'
+        val: '烈焰之墙之触'
+        译法: '之触'  (标准 '墙壁之触')
+  [lcs] key: 'Touched by Wall of Ice'
+        val: '冰墙之触'
+        译法: '之触'  (标准 '墙壁之触')
+
+=== 'Melted Armor' -> 标准译名 '熔化护甲' （2 处不一致）===
+  [lcs] key: 'When enemies take [Fire] damage, they gain a stack of Melted Armor for [{duration}:duratio'
+        val: '敌人受到[火:fire]伤害时，获得一层熔毁护甲，持续 [{duration}:duration] 回合\n熔毁护甲使其[物理:physical]抗性降低 10'
+        译法: '护甲'  (标准 '熔化护甲')
+  [lcs] key: 'When enemies take [Fire] damage, they gain a stack of Melted Armor for [{duration}:duratio'
+        val: '敌人受到[火:fire]伤害时，获得一层熔毁护甲，持续 [{duration}:duration] 回合\n熔毁护甲使其[物理:physical]抗性降低 10'
+        译法: '护甲'  (标准 '熔化护甲')
+
+=== 'Cannot walk' -> 标准译名 '无法移动' （1 处不一致）===
+  [lcs] key: '\n[asseticon:stun] Stunned: Cannot act\n[asseticon:petrified] Petrified: Cannot act. Gain 10'
+        val: '\n[asseticon:stun] 眩晕：无法行动\n[asseticon:petrified] 石化：无法行动。获得 100 冰和闪电抗性。获得 75 物理和火焰抗性\n[asseticon:glassed] 玻璃化：无法行动。获得 100 '
+        译法: '无法'  (标准 '无法移动')
+
+=== 'Baby Armor' -> 标准译名 '幼年护甲' （1 处不一致）===
+  [lcs] key: 'Baby Armor of the Master'
+        val: '幼年宗师之甲'
+        译法: '幼年'  (标准 '幼年护甲')
+
+=== 'Baby Cast Mercurize' -> 标准译名 '幼年施放水银化' （1 处不一致）===
+  [lcs] key: 'Baby Cast Mercurize on melee attackers'
+        val: '幼年对近战攻击者施放水银化'
+        译法: '施放水银化'  (标准 '幼年施放水银化')
+
+=== 'Baby Eye' -> 标准译名 '幼年眼魔' （1 处不一致）===
+  [lcs] key: 'Baby Eye for an Eye'
+        val: '幼年以眼还眼'
+        译法: '幼年'  (标准 '幼年眼魔')
+
+=== 'Baby Forest' -> 标准译名 '幼年森林' （1 处不一致）===
+  [lcs] key: 'Baby Forest of Flying Daggers'
+        val: '幼年飞刀之林'
+        译法: '幼年'  (标准 '幼年森林')
+
+=== 'Baby Immune to debuffs' -> 标准译名 '幼年免疫减益' （1 处不一致）===
+  [lcs] key: 'Baby Immune to debuffs while shielded'
+        val: '幼年有护盾时免疫减益'
+        译法: '免疫减益'  (标准 '幼年免疫减益')
+
+=== 'Baby Leap' -> 标准译名 '幼年跃击' （1 处不一致）===
+  [stem] key: 'Baby Leap to target tile'
+        val: '幼年跃至目标格'
+        译法: '幼年跃'  (标准 '幼年跃击')
+        建议: '幼年跃击至目标格'
+
+=== 'Baby Learn' -> 标准译名 '幼年学习' （1 处不一致）===
+  [lcs] key: 'Baby Learn how to play'
+        val: '幼年了解游戏玩法'
+        译法: '幼年'  (标准 '幼年学习')
+
+=== 'Baby Leghead' -> 标准译名 '幼年腿首怪' （1 处不一致）===
+  [stem] key: 'Baby Leghead is immune to debuffs'
+        val: '幼年腿首免疫减益'
+        译法: '幼年腿首'  (标准 '幼年腿首怪')
+        建议: '幼年腿首怪免疫减益'
+
+=== 'Baby Melt' -> 标准译名 '幼年熔解' （1 处不一致）===
+  [stem] key: 'Baby Melt walls adjacent to the blast'
+        val: '幼年熔化爆炸相邻的墙壁'
+        译法: '幼年熔'  (标准 '幼年熔解')
+        建议: '幼年熔解化爆炸相邻的墙壁'
+
+=== 'Baby Orb' -> 标准译名 '幼年宝珠' （1 处不一致）===
+  [lcs] key: 'Baby Orb of Infinite Slaughter'
+        val: '幼年无尽杀戮宝珠'
+        译法: '幼年'  (标准 '幼年宝珠')
+
+=== 'Baby Petrify' -> 标准译名 '幼年石化' （1 处不一致）===
+  [lcs] key: 'Baby Petrify nearby enemies each turn'
+        val: '幼年每回合石化附近敌人'
+        译法: '幼年'  (标准 '幼年石化')
+
+=== 'Baby Prism' -> 标准译名 '幼年棱镜' （1 处不一致）===
+  [lcs] key: 'Baby Prism of Shattered Sensations'
+        val: '幼年碎感棱镜'
+        译法: '幼年'  (标准 '幼年棱镜')
+
+=== 'Baby Touch' -> 标准译名 '幼年触碰' （1 处不一致）===
+  [lcs] key: 'Baby Touch of the Vampire'
+        val: '幼年吸血鬼之触'
+        译法: '幼年'  (标准 '幼年触碰')
+
+=== 'Flame Burst' -> 标准译名 '烈焰爆发' （1 处不一致）===
+  [lcs] key: 'Cast Flame Burst each turn you channel\nIf you complete the ritual, gain [100% Fire:fire] r'
+        val: '引导时每回合施放火焰爆发\n若完成仪式，获得 [100% 火:fire] 抗性，直到本层结束'
+        译法: '焰爆发'  (标准 '烈焰爆发')
+
+=== 'Deal Lightning' -> 标准译名 '造成闪电' （1 处不一致）===
+  [lcs] key: 'Casting Ice Vortex targeting a unit with a cloud over it improves the spell\n[Blizzard:ice]'
+        val: '对身上有云的单位施放冰霜漩涡可强化法术\n[暴风雪:ice]：+2 [半径:radius]\n[风暴云:lightning]：造成[闪电:lightning]伤害，以及[冰:ice]和[奥术:arcane]伤害\n[雨云:nature]：造成伤害'
+        译法: '造成'  (标准 '造成闪电')
+
+=== 'Rain of Fire' -> 标准译名 '火雨' （1 处不一致）===
+  [missing] key: 'Casting Volcanic Eruption also casts a single turn of your Rain of Fire spell'
+        val: '施放火山喷发时，还会施放一回合你的火焰之雨'
+
+=== 'Chalice of Aelf' -> 标准译名 '精灵圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Aelf Lightning Artist'
+        val: '精灵闪电技师圣杯'
+        译法: '精灵'  (标准 '精灵圣杯')
+
+=== 'Chalice of Arcane' -> 标准译名 '奥术圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Arcane Combustion Powder'
+        val: '奥术燃爆粉圣杯'
+        译法: '奥术'  (标准 '奥术圣杯')
+
+=== 'Chalice of Armored' -> 标准译名 '装甲圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Armored Polar Bear'
+        val: '披甲北极熊圣杯'
+        译法: '圣杯'  (标准 '装甲圣杯')
+
+=== 'Chalice of Aura' -> 标准译名 '光环圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Aura of Undeath'
+        val: '不死灵气圣杯'
+        译法: '圣杯'  (标准 '光环圣杯')
+
+=== 'Chalice of Black' -> 标准译名 '黑色圣杯' （1 处不一致）===
+  [lcs] key: "Chalice of Black Rider's Seal"
+        val: '黑骑士之印圣杯'
+        译法: '圣杯'  (标准 '黑色圣杯')
+
+=== 'Chalice of Blind' -> 标准译名 '致盲圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Blind all units on the map'
+        val: '致盲地图上的所有单位圣杯'
+        译法: '致盲'  (标准 '致盲圣杯')
+
+=== 'Chalice of Blinding Light' -> 标准译名 '致盲之光圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Blinding Light gains quickcast'
+        val: '致盲之光获得快速施法圣杯'
+        译法: '致盲之光'  (标准 '致盲之光圣杯')
+
+=== 'Chalice of Blood' -> 标准译名 '血圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Blood is Power'
+        val: '血为伟力圣杯'
+        译法: '圣杯'  (标准 '血圣杯')
+
+=== 'Chalice of Bone Knight' -> 标准译名 '骸骨骑士圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Bone Knight Archer'
+        val: '骸骨骑士弓手圣杯'
+        译法: '骸骨骑士'  (标准 '骸骨骑士圣杯')
+
+=== 'Chalice of Box' -> 标准译名 '方形圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Box of Woe'
+        val: '悲怆之盒圣杯'
+        译法: '圣杯'  (标准 '方形圣杯')
+
+=== 'Chalice of Cage' -> 标准译名 '囚笼圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Cage of Chimerae'
+        val: '奇美拉之笼圣杯'
+        译法: '笼圣杯'  (标准 '囚笼圣杯')
+
+=== 'Chalice of Call' -> 标准译名 '呼唤圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Call to Arms'
+        val: '战斗号召圣杯'
+        译法: '圣杯'  (标准 '呼唤圣杯')
+
+=== 'Chalice of Chain Lightning' -> 标准译名 '连锁闪电圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Chain Lightning Watcher'
+        val: '连锁闪电看守者圣杯'
+        译法: '连锁闪电'  (标准 '连锁闪电圣杯')
+
+=== 'Chalice of Chain' -> 标准译名 '连锁圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Chain Watcher Form'
+        val: '连锁守望形态圣杯'
+        译法: '连锁'  (标准 '连锁圣杯')
+
+=== 'Chalice of Copper' -> 标准译名 '铜圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Copper Spike Ball'
+        val: '铜制尖刺球圣杯'
+        译法: '圣杯'  (标准 '铜圣杯')
+
+=== 'Chalice of Crystalline' -> 标准译名 '结晶圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Crystalline Frostfire Hydra'
+        val: '结晶霜火九头蛇圣杯'
+        译法: '结晶'  (标准 '结晶圣杯')
+
+=== 'Chalice of Fae Thorn' -> 标准译名 '仙灵荆棘圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Fae Thorn Staff'
+        val: '妖精荆棘法杖圣杯'
+        译法: '荆棘'  (标准 '仙灵荆棘圣杯')
+
+=== 'Chalice of Fire Wyrm' -> 标准译名 '烈焰蛟龙圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Fire Wyrm Egg'
+        val: '烈焰蛟龙蛋圣杯'
+        译法: '烈焰蛟龙'  (标准 '烈焰蛟龙圣杯')
+
+=== 'Chalice of Flame' -> 标准译名 '火焰圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Flame Blade Fragment'
+        val: '焰刃碎片圣杯'
+        译法: '圣杯'  (标准 '火焰圣杯')
+
+=== 'Chalice of Forest' -> 标准译名 '森林圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Forest of Flying Daggers'
+        val: '飞刀之林圣杯'
+        译法: '林圣杯'  (标准 '森林圣杯')
+
+=== 'Chalice of Freeze' -> 标准译名 '冰冻圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Freeze gains quickcast'
+        val: '冰冻获得快速施法圣杯'
+        译法: '冰冻'  (标准 '冰冻圣杯')
+
+=== 'Chalice of Frostfire' -> 标准译名 '霜火圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Frostfire Tormenting Mass'
+        val: '霜火折磨之团圣杯'
+        译法: '霜火'  (标准 '霜火圣杯')
+
+=== 'Chalice of Ghostly' -> 标准译名 '幽魂圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Ghostly Worm Shambler'
+        val: '幽魂蠕虫蹒跚怪圣杯'
+        译法: '幽魂'  (标准 '幽魂圣杯')
+
+=== 'Chalice of Grave' -> 标准译名 '坟墓圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Grave Hunger Amulet'
+        val: '墓饥护符圣杯'
+        译法: '圣杯'  (标准 '坟墓圣杯')
+
+=== 'Chalice of Green Gorgon' -> 标准译名 '绿蛇发女妖圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Green Gorgon Breath'
+        val: '绿蛇发女妖吐息圣杯'
+        译法: '绿蛇发女妖'  (标准 '绿蛇发女妖圣杯')
+
+=== 'Chalice of Grey Gorgon' -> 标准译名 '灰蛇发女妖圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Grey Gorgon Breath'
+        val: '灰蛇发女妖吐息圣杯'
+        译法: '灰蛇发女妖'  (标准 '灰蛇发女妖圣杯')
+
+=== 'Chalice of Guardians' -> 标准译名 '守卫者圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Guardians of Madness'
+        val: '疯狂守卫圣杯'
+        译法: '守卫'  (标准 '守卫者圣杯')
+
+=== 'Chalice of Haunted' -> 标准译名 '闹鬼圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Haunted Blood Vial'
+        val: '萦魂血瓶圣杯'
+        译法: '圣杯'  (标准 '闹鬼圣杯')
+
+=== 'Chalice of Healing Light' -> 标准译名 '治疗之光圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Healing Light Spell'
+        val: '治疗之光法术圣杯'
+        译法: '治疗之光'  (标准 '治疗之光圣杯')
+
+=== 'Chalice of Holy Fire' -> 标准译名 '神圣之火圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Holy Fire Aura'
+        val: '神圣之火光环圣杯'
+        译法: '神圣之火'  (标准 '神圣之火圣杯')
+
+=== 'Chalice of Holy Watcher' -> 标准译名 '神圣看守者圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Holy Watcher Form'
+        val: '神圣守望形态圣杯'
+        译法: '神圣'  (标准 '神圣看守者圣杯')
+
+=== 'Chalice of Horde' -> 标准译名 '大群圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Horde of Halfmen'
+        val: '半人部族圣杯'
+        译法: '圣杯'  (标准 '大群圣杯')
+
+=== 'Chalice of Ice Age' -> 标准译名 '冰河期圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Ice Age Shell'
+        val: '冰河龟壳圣杯'
+        译法: '冰河'  (标准 '冰河期圣杯')
+
+=== 'Chalice of Icy Spriggan' -> 标准译名 '冰霜斯普里根圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Icy Spriggan Bush'
+        val: '冰霜斯普里根灌木丛圣杯'
+        译法: '冰霜斯普里根'  (标准 '冰霜斯普里根圣杯')
+
+=== 'Chalice of Idol' -> 标准译名 '神像圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Idol of Burning Sacrifice'
+        val: '燃烧献祭偶像圣杯'
+        译法: '像圣杯'  (标准 '神像圣杯')
+
+=== 'Chalice of Immolate' -> 标准译名 '焚烧圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Immolate gains permanent duration'
+        val: '焚烧获得永久持续时间圣杯'
+        译法: '焚烧'  (标准 '焚烧圣杯')
+
+=== 'Chalice of Ironize' -> 标准译名 '铁化圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Ironize gains a permanent duration'
+        val: '铁化获得永久持续时间圣杯'
+        译法: '铁化'  (标准 '铁化圣杯')
+
+=== 'Chalice of Kobold' -> 标准译名 '狗头人圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Kobold Hedge Mage'
+        val: '狗头人野法师圣杯'
+        译法: '狗头人'  (标准 '狗头人圣杯')
+
+=== 'Chalice of Leghead' -> 标准译名 '腿首怪圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Leghead is immune to debuffs'
+        val: '腿首免疫减益圣杯'
+        译法: '腿首'  (标准 '腿首怪圣杯')
+
+=== 'Chalice of Mantis' -> 标准译名 '螳螂圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Mantis Egg Sac'
+        val: '螳螂卵囊圣杯'
+        译法: '螳螂'  (标准 '螳螂圣杯')
+
+=== 'Chalice of Melt' -> 标准译名 '熔解圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Melt walls adjacent to the blast'
+        val: '熔化爆炸相邻的墙壁圣杯'
+        译法: '圣杯'  (标准 '熔解圣杯')
+
+=== 'Chalice of Multicolored Rage' -> 标准译名 '五彩之怒圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Multicolored Rage Rod'
+        val: '五彩之怒短杖圣杯'
+        译法: '五彩之怒'  (标准 '五彩之怒圣杯')
+
+=== 'Chalice of Oozing' -> 标准译名 '渗液圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Oozing Scale Armor'
+        val: '渗液鳞甲圣杯'
+        译法: '渗液'  (标准 '渗液圣杯')
+
+=== 'Chalice of Open' -> 标准译名 '打开圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Open the combat log'
+        val: '打开战斗日志圣杯'
+        译法: '打开'  (标准 '打开圣杯')
+
+=== 'Chalice of Orb' -> 标准译名 '宝珠圣杯' （1 处不一致）===
+  [lcs] key: "Chalice of Orb Controller's Mitts"
+        val: '宝珠操控手套圣杯'
+        译法: '宝珠'  (标准 '宝珠圣杯')
+
+=== 'Chalice of Pale' -> 标准译名 '苍白圣杯' （1 处不一致）===
+  [lcs] key: "Chalice of Pale Rider's Seal"
+        val: '苍白骑士之印圣杯'
+        译法: '苍白'  (标准 '苍白圣杯')
+
+=== 'Chalice of Panoply' -> 标准译名 '全副武装圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Panoply of Ruin'
+        val: '毁灭戎装圣杯'
+        译法: '装圣杯'  (标准 '全副武装圣杯')
+
+=== 'Chalice of Permanence' -> 标准译名 '永存圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Permanence duration is now permanent'
+        val: '永存的持续时间现为永久圣杯'
+        译法: '永存'  (标准 '永存圣杯')
+
+=== 'Chalice of Petrify' -> 标准译名 '石化圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Petrify nearby enemies each turn'
+        val: '每回合石化附近敌人圣杯'
+        译法: '石化'  (标准 '石化圣杯')
+
+=== 'Chalice of Protection' -> 标准译名 '防护圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Protection of Purity'
+        val: '纯净守护圣杯'
+        译法: '护圣杯'  (标准 '防护圣杯')
+
+=== 'Chalice of Pyrostatic Watcher' -> 标准译名 '炎静守望者圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Pyrostatic Watcher Form'
+        val: '焰电守望形态圣杯'
+        译法: '守望'  (标准 '炎静守望者圣杯')
+
+=== 'Chalice of Rift' -> 标准译名 '裂隙圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Rift Key Staff'
+        val: '裂隙钥匙法杖圣杯'
+        译法: '裂隙'  (标准 '裂隙圣杯')
+
+=== 'Chalice of Serrated' -> 标准译名 '锯齿圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Serrated Steel Claws'
+        val: '锯齿钢爪圣杯'
+        译法: '锯齿'  (标准 '锯齿圣杯')
+
+=== 'Chalice of Shatter' -> 标准译名 '碎裂圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Shatter Shards Necklace'
+        val: '碎晶项链圣杯'
+        译法: '圣杯'  (标准 '碎裂圣杯')
+
+=== 'Chalice of Slime' -> 标准译名 '黏液圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Slime Ammo Pouch'
+        val: '黏液弹药袋圣杯'
+        译法: '黏液'  (标准 '黏液圣杯')
+
+=== 'Chalice of Slimy' -> 标准译名 '黏滑圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Slimy Voodoo Mantle'
+        val: '黏液巫毒披风圣杯'
+        译法: '圣杯'  (标准 '黏滑圣杯')
+
+=== 'Chalice of Soul Tax' -> 标准译名 '灵魂税圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Soul Tax gains quickcast'
+        val: '灵魂税获得快速施法圣杯'
+        译法: '灵魂税'  (标准 '灵魂税圣杯')
+
+=== 'Chalice of Spider' -> 标准译名 '蛛类圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Spider Carapace Robe'
+        val: '蛛壳法袍圣杯'
+        译法: '圣杯'  (标准 '蛛类圣杯')
+
+=== 'Chalice of Storm' -> 标准译名 '风暴圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Storm Caller Staff'
+        val: '唤暴者法杖圣杯'
+        译法: '圣杯'  (标准 '风暴圣杯')
+
+=== 'Chalice of Storm Walk' -> 标准译名 '风暴行走圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Storm Walk gains quickcast'
+        val: '风暴行走获得快速施法圣杯'
+        译法: '风暴行走'  (标准 '风暴行走圣杯')
+
+=== 'Chalice of Supremacy' -> 标准译名 '至高圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Supremacy of Stone'
+        val: '石之至上圣杯'
+        译法: '圣杯'  (标准 '至高圣杯')
+
+=== 'Chalice of Torrent' -> 标准译名 '激流圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Torrent of Bats'
+        val: '蝙蝠洪流圣杯'
+        译法: '流圣杯'  (标准 '激流圣杯')
+
+=== 'Chalice of Ultimate' -> 标准译名 '终极圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Ultimate Mind Devourer'
+        val: '终极噬心者圣杯'
+        译法: '终极'  (标准 '终极圣杯')
+
+=== 'Chalice of Underworld Passage' -> 标准译名 '冥界通道圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Underworld Passage gains quickcast'
+        val: '冥界通道获得快速施法圣杯'
+        译法: '冥界通道'  (标准 '冥界通道圣杯')
+
+=== 'Chalice of Vampire Count' -> 标准译名 '吸血鬼伯爵圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Vampire Count Bat'
+        val: '吸血鬼伯爵蝙蝠圣杯'
+        译法: '吸血鬼伯爵'  (标准 '吸血鬼伯爵圣杯')
+
+=== 'Chalice of Venom' -> 标准译名 '毒液圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Venom Spitter Casque'
+        val: '毒喷者头盔圣杯'
+        译法: '圣杯'  (标准 '毒液圣杯')
+
+=== 'Chalice of Void Watcher' -> 标准译名 '虚空看守者圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Void Watcher Form'
+        val: '虚空守望形态圣杯'
+        译法: '虚空'  (标准 '虚空看守者圣杯')
+
+=== 'Chalice of Web' -> 标准译名 '蛛网圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Web of Fear'
+        val: '恐惧之网圣杯'
+        译法: '网圣杯'  (标准 '蛛网圣杯')
+
+=== 'Chalice of Wheel' -> 标准译名 '轮盘圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Wheel of Death'
+        val: '死亡之轮圣杯'
+        译法: '圣杯'  (标准 '轮盘圣杯')
+
+=== 'Chalice of White' -> 标准译名 '白色圣杯' （1 处不一致）===
+  [lcs] key: "Chalice of White Rider's Seal"
+        val: '白骑士之印圣杯'
+        译法: '圣杯'  (标准 '白色圣杯')
+
+=== 'Chalice of Winter Fae' -> 标准译名 '寒冬妖精圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Winter Fae Queen'
+        val: '冬之仙灵女王圣杯'
+        译法: '圣杯'  (标准 '寒冬妖精圣杯')
+
+=== 'Chalice of Wyrm' -> 标准译名 '蟠龙圣杯' （1 处不一致）===
+  [lcs] key: 'Chalice of Wyrm Spirit Armor'
+        val: '龙灵护甲圣杯'
+        译法: '圣杯'  (标准 '蟠龙圣杯')
+
+=== 'Summon Blood Slimes' -> 标准译名 '召唤鲜血黏液' （1 处不一致）===
+  [lcs] key: 'Cone attack\nSummon Blood Slimes on empty tiles'
+        val: '锥形攻击\n在空格上召唤血黏液'
+        译法: '血黏液'  (标准 '召唤鲜血黏液')
+
+=== 'Summon Freezing Coral' -> 标准译名 '召唤冻凝珊瑚' （1 处不一致）===
+  [lcs] key: 'Cone attack\nSummon Freezing Coral around affected units'
+        val: '锥形攻击\n在受影响单位周围召唤冻结珊瑚'
+        译法: '召唤冻'  (标准 '召唤冻凝珊瑚')
+
+=== 'Deal Fire' -> 标准译名 '造成火焰' （1 处不一致）===
+  [lcs] key: 'Consume all [poison] on enemies\nDeal [Fire] damage in a [{radius}:radius] tile burst aroun'
+        val: '消耗敌人身上的所有 [中毒:poison]\n对每个受影响的敌人造成 [火:fire] 伤害，在其周围半径 [{radius}:radius] 格的范围内爆发，数值等于被消耗 [中毒:poison] 的剩余持续时间'
+        译法: '造成'  (标准 '造成火焰')
+
+=== 'Drains a spell charge' -> 标准译名 '吸取一个法术充能' （1 处不一致）===
+  [lcs] key: 'Damages enemies in line of sight\nDrains a spell charge'
+        val: '对视线内的敌人造成伤害\n消耗 1 个法术充能'
+        译法: '个法术充能'  (标准 '吸取一个法术充能')
+
+=== 'Fire Drake' -> 标准译名 '火焰幼龙' （1 处不一致）===
+  [lcs] key: 'Each impact has a 20% chance of casting your Fire Drake spell as well'
+        val: '每次撞击还有 20% 几率额外施放你的火幼龙法术'
+        译法: '幼龙'  (标准 '火焰幼龙')
+
+=== 'Shared Pain' -> 标准译名 '痛苦共享' （1 处不一致）===
+  [lcs] key: 'Enemies that share a name with a unit slain by Soul Wind are afflicted with Shared Pain fo'
+        val: '与被灵魂之风杀死的单位同名的敌人会被施加共同痛苦，持续 [{duration}:duration] 回合'
+        译法: '痛苦'  (标准 '痛苦共享')
+
+=== 'Psychic Seedling' -> 标准译名 '心灵幼苗' （1 处不一致）===
+  [lcs] key: 'Faeries can cast your Psychic Seedling spell on a 10 turn cool down'
+        val: '仙灵可以施放你的心灵种籽法术，冷却 10 回合'
+        译法: '心灵'  (标准 '心灵幼苗')
+
+=== 'Eye of Fire' -> 标准译名 '火焰之眼' （1 处不一致）===
+  [lcs] key: 'Fire Elementals can cast your Eye of Fire on a 10 turn cool down'
+        val: '火元素可以施放你的火之眼，冷却 10 回合'
+        译法: '之眼'  (标准 '火焰之眼')
+
+=== 'Flesh Fiend' -> 标准译名 '血肉魔鬼' （1 处不一致）===
+  [lcs] key: 'Flesh Fiend gains a [{minion_range}:minion_range] range [{minion_damage}:minion_damage] da'
+        val: '血肉恶鬼获得跃击攻击，冷却 7 回合：射程 [{minion_range}:minion_range]，造成 [{minion_damage}:minion_damage] 点伤害'
+        译法: '血肉'  (标准 '血肉魔鬼')
+
+=== 'Death Chill' -> 标准译名 '死亡冻寒' （1 处不一致）===
+  [lcs] key: 'Ice Drakes gain the [Dark] tag and can cast your Death Chill on a 6 turn cooldown'
+        val: '寒冰幼龙获得[黑暗:dark]标签，并可施放你的死亡寒息，冷却 6 回合'
+        译法: '死亡'  (标准 '死亡冻寒')
+
+=== 'Ice Drake' -> 标准译名 '寒冰幼龙' （1 处不一致）===
+  [lcs] key: 'If a unit is killed by this spell, cast your Ice Drake spell at their location'
+        val: '若有单位被此法术击杀，则在其所在位置施放你的冰幼龙法术'
+        译法: '冰幼龙'  (标准 '寒冰幼龙')
+
+=== 'Flames Curse Doll' -> 标准译名 '火焰咒术人偶' （1 处不一致）===
+  [lcs] key: "Jack o' Flames Curse Doll"
+        val: '火焰南瓜灯咒术人偶'
+        译法: '咒术人偶'  (标准 '火焰咒术人偶')
+
+=== "Flames Hunter's Sigil" -> 标准译名 '火焰猎手印记' （1 处不一致）===
+  [lcs] key: "Jack o' Flames Hunter's Sigil"
+        val: '火焰南瓜灯猎手印记'
+        译法: '猎手印记'  (标准 '火焰猎手印记')
+
+=== 'Flames Swarm Summon' -> 标准译名 '火焰虫群召唤' （1 处不一致）===
+  [lcs] key: "Jack o' Flames Swarm Summon"
+        val: '火焰南瓜灯虫群召唤'
+        译法: '虫群召唤'  (标准 '火焰虫群召唤')
+
+=== 'Ruby Heart' -> 标准译名 '红宝石之心' （1 处不一致）===
+  [lcs] key: 'Levels contain no Components\nSpells cannot be purchased with SP and Equipment cannot be cr'
+        val: '关卡层不包含组件\n法术无法用 SP 购买，装备无法制作\n每层包含红玉之心、法术卷轴或装备宝箱之一\n每个法术和装备只能出现一次'
+        译法: '之心'  (标准 '红宝石之心')
+
+=== 'Equipment Chest' -> 标准译名 '装备箱' （1 处不一致）===
+  [stem] key: 'Levels contain no Components\nSpells cannot be purchased with SP and Equipment cannot be cr'
+        val: '关卡层不包含组件\n法术无法用 SP 购买，装备无法制作\n每层包含红玉之心、法术卷轴或装备宝箱之一\n每个法术和装备只能出现一次'
+        译法: '装备'  (标准 '装备箱')
+        建议: '关卡层不包含组件\n法术无法用 SP 购买，装备箱无法制作\n每层包含红玉之心、法术卷轴或装备箱宝箱之一\n每个法术和装备箱只能出现一次'
+
+=== 'Golden Bull' -> 标准译名 '黄金公牛' （1 处不一致）===
+  [lcs] key: 'Minos, The Golden Bull'
+        val: '米诺斯，黄金之牛'
+        译法: '黄金'  (标准 '黄金公牛')
+
+=== 'Multicast Armor' -> 标准译名 '多重施法：护甲' （1 处不一致）===
+  [lcs] key: 'Multicast Armor of the Master'
+        val: '多重施法：宗师之甲'
+        译法: '多重施法：'  (标准 '多重施法：护甲')
+
+=== 'Multicast Cast Mercurize' -> 标准译名 '多重施法：施放水银化' （1 处不一致）===
+  [lcs] key: 'Multicast Cast Mercurize on melee attackers'
+        val: '多重施法：对近战攻击者施放水银化'
+        译法: '多重施法：'  (标准 '多重施法：施放水银化')
+
+=== 'Multicast Eye' -> 标准译名 '多重施法：眼魔' （1 处不一致）===
+  [lcs] key: 'Multicast Eye for an Eye'
+        val: '多重施法：以眼还眼'
+        译法: '多重施法：'  (标准 '多重施法：眼魔')
+
+=== 'Multicast Forest' -> 标准译名 '多重施法：森林' （1 处不一致）===
+  [lcs] key: 'Multicast Forest of Flying Daggers'
+        val: '多重施法：飞刀之林'
+        译法: '多重施法：'  (标准 '多重施法：森林')
+
+=== 'Multicast Immune to debuffs' -> 标准译名 '多重施法：免疫减益' （1 处不一致）===
+  [lcs] key: 'Multicast Immune to debuffs while shielded'
+        val: '多重施法：有护盾时免疫减益'
+        译法: '多重施法：'  (标准 '多重施法：免疫减益')
+
+=== 'Multicast Leap' -> 标准译名 '多重施法：跃击' （1 处不一致）===
+  [stem] key: 'Multicast Leap to target tile'
+        val: '多重施法：跃至目标格'
+        译法: '多重施法：跃'  (标准 '多重施法：跃击')
+        建议: '多重施法：跃击至目标格'
+
+=== 'Multicast Learn' -> 标准译名 '多重施法：学习' （1 处不一致）===
+  [lcs] key: 'Multicast Learn how to play'
+        val: '多重施法：了解游戏玩法'
+        译法: '多重施法：'  (标准 '多重施法：学习')
+
+=== 'Multicast Leghead' -> 标准译名 '多重施法：腿首怪' （1 处不一致）===
+  [stem] key: 'Multicast Leghead is immune to debuffs'
+        val: '多重施法：腿首免疫减益'
+        译法: '多重施法：腿首'  (标准 '多重施法：腿首怪')
+        建议: '多重施法：腿首怪免疫减益'
+
+=== 'Multicast Melt' -> 标准译名 '多重施法：熔解' （1 处不一致）===
+  [stem] key: 'Multicast Melt walls adjacent to the blast'
+        val: '多重施法：熔化爆炸相邻的墙壁'
+        译法: '多重施法：熔'  (标准 '多重施法：熔解')
+        建议: '多重施法：熔解化爆炸相邻的墙壁'
+
+=== 'Multicast Orb' -> 标准译名 '多重施法：宝珠' （1 处不一致）===
+  [lcs] key: 'Multicast Orb of Infinite Slaughter'
+        val: '多重施法：无尽杀戮宝珠'
+        译法: '多重施法：'  (标准 '多重施法：宝珠')
+
+=== 'Multicast Petrify' -> 标准译名 '多重施法：石化' （1 处不一致）===
+  [lcs] key: 'Multicast Petrify nearby enemies each turn'
+        val: '多重施法：每回合石化附近敌人'
+        译法: '多重施法：'  (标准 '多重施法：石化')
+
+=== 'Multicast Prism' -> 标准译名 '多重施法：棱镜' （1 处不一致）===
+  [lcs] key: 'Multicast Prism of Shattered Sensations'
+        val: '多重施法：碎感棱镜'
+        译法: '多重施法：'  (标准 '多重施法：棱镜')
+
+=== 'Multicast Touch' -> 标准译名 '多重施法：触碰' （1 处不一致）===
+  [lcs] key: 'Multicast Touch of the Vampire'
+        val: '多重施法：吸血鬼之触'
+        译法: '多重施法：'  (标准 '多重施法：触碰')
+
+=== 'Chaos Fiend' -> 标准译名 '混沌魔' （1 处不一致）===
+  [stem] key: 'On Pickup:\nSummon a Chaos Fiend to aid you for 16 turns'
+        val: '拾取时：\n召唤一个混沌恶魔协助你，持续 16 回合'
+        译法: '混沌'  (标准 '混沌魔')
+        建议: '拾取时：\n召唤一个混沌魔恶魔协助你，持续 16 回合'
+
+=== 'Annihilation Goo' -> 标准译名 '湮灭黏浆' （1 处不一致）===
+  [lcs] key: 'On Pickup:\nSummon a friendly Annihilation Goo'
+        val: '拾取时：\n召唤一个友方湮灭软泥'
+        译法: '湮灭'  (标准 '湮灭黏浆')
+
+=== 'Ice Wyrm Egg' -> 标准译名 '寒冰蛟龙蛋' （1 处不一致）===
+  [missing] key: 'On Pickup:\nSummon a friendly Ice Wyrm Egg nearby'
+        val: '拾取时：\n在附近召唤一枚友方冰龙虫卵'
+
+=== 'Void Slimes' -> 标准译名 '虚空黏液怪' （1 处不一致）===
+  [stem] key: 'On Pickup:\nSummon a trio of friendly Void Slimes'
+        val: '拾取时：\n召唤三只友方虚空黏液'
+        译法: '虚空黏液'  (标准 '虚空黏液怪')
+        建议: '拾取时：\n召唤三只友方虚空黏液怪'
+
+=== 'Pyrostatic Watcher' -> 标准译名 '炎静守望者' （1 处不一致）===
+  [lcs] key: 'Pyrostatic Watcher..'
+        val: '焰电守望形态'
+        译法: '守望'  (标准 '炎静守望者')
+
+=== 'Respawn As Armored' -> 标准译名 '重生为装甲' （1 处不一致）===
+  [lcs] key: 'Respawn As Armored Polar Bear'
+        val: '重生为披甲北极熊'
+        译法: '重生为'  (标准 '重生为装甲')
+
+=== 'Respawn As Black' -> 标准译名 '重生为黑色' （1 处不一致）===
+  [stem] key: "Respawn As Black Rider's Seal"
+        val: '重生为黑骑士之印'
+        译法: '重生为黑'  (标准 '重生为黑色')
+        建议: '重生为黑色骑士之印'
+
+=== 'Respawn As Box' -> 标准译名 '重生为方形' （1 处不一致）===
+  [lcs] key: 'Respawn As Box of Woe'
+        val: '重生为悲怆之盒'
+        译法: '重生为'  (标准 '重生为方形')
+
+=== 'Respawn As Cage' -> 标准译名 '重生为囚笼' （1 处不一致）===
+  [lcs] key: 'Respawn As Cage of Chimerae'
+        val: '重生为奇美拉之笼'
+        译法: '重生为'  (标准 '重生为囚笼')
+
+=== 'Respawn As Call' -> 标准译名 '重生为呼唤' （1 处不一致）===
+  [lcs] key: 'Respawn As Call to Arms'
+        val: '重生为战斗号召'
+        译法: '重生为'  (标准 '重生为呼唤')
+
+=== 'Respawn As Cast Mercurize' -> 标准译名 '重生为施放水银化' （1 处不一致）===
+  [lcs] key: 'Respawn As Cast Mercurize on melee attackers'
+        val: '重生为对近战攻击者施放水银化'
+        译法: '施放水银化'  (标准 '重生为施放水银化')
+
+=== 'Respawn As Curse' -> 标准译名 '重生为诅咒' （1 处不一致）===
+  [lcs] key: 'Respawn As Curse of Inevitability'
+        val: '重生为必然诅咒'
+        译法: '重生为'  (标准 '重生为诅咒')
+
+=== 'Respawn As Fae Thorn' -> 标准译名 '重生为仙灵荆棘' （1 处不一致）===
+  [lcs] key: 'Respawn As Fae Thorn Staff'
+        val: '重生为妖精荆棘法杖'
+        译法: '重生为'  (标准 '重生为仙灵荆棘')
+
+=== 'Respawn As Flame' -> 标准译名 '重生为火焰' （1 处不一致）===
+  [lcs] key: 'Respawn As Flame Blade Fragment'
+        val: '重生为焰刃碎片'
+        译法: '重生为'  (标准 '重生为火焰')
+
+=== 'Respawn As Flaming' -> 标准译名 '重生为燃烧' （1 处不一致）===
+  [lcs] key: 'Respawn As Flaming Claw Staff'
+        val: '重生为焰爪法杖'
+        译法: '重生为'  (标准 '重生为燃烧')
+
+=== 'Respawn As Forest' -> 标准译名 '重生为森林' （1 处不一致）===
+  [lcs] key: 'Respawn As Forest of Flying Daggers'
+        val: '重生为飞刀之林'
+        译法: '重生为'  (标准 '重生为森林')
+
+=== 'Respawn As Grave' -> 标准译名 '重生为坟墓' （1 处不一致）===
+  [lcs] key: 'Respawn As Grave Hunger Amulet'
+        val: '重生为墓饥护符'
+        译法: '重生为'  (标准 '重生为坟墓')
+
+=== 'Respawn As Guardians' -> 标准译名 '重生为守卫者' （1 处不一致）===
+  [lcs] key: 'Respawn As Guardians of Madness'
+        val: '重生为疯狂守卫'
+        译法: '重生为'  (标准 '重生为守卫者')
+
+=== 'Respawn As Haunted' -> 标准译名 '重生为闹鬼' （1 处不一致）===
+  [lcs] key: 'Respawn As Haunted Blood Vial'
+        val: '重生为萦魂血瓶'
+        译法: '重生为'  (标准 '重生为闹鬼')
+
+=== 'Respawn As Holy Watcher' -> 标准译名 '重生为神圣看守者' （1 处不一致）===
+  [lcs] key: 'Respawn As Holy Watcher Form'
+        val: '重生为神圣守望形态'
+        译法: '重生为神圣'  (标准 '重生为神圣看守者')
+
+=== 'Respawn As Horde' -> 标准译名 '重生为大群' （1 处不一致）===
+  [lcs] key: 'Respawn As Horde of Halfmen'
+        val: '重生为半人部族'
+        译法: '重生为'  (标准 '重生为大群')
+
+=== 'Respawn As Ice Age' -> 标准译名 '重生为冰河期' （1 处不一致）===
+  [stem] key: 'Respawn As Ice Age Shell'
+        val: '重生为冰河龟壳'
+        译法: '重生为冰河'  (标准 '重生为冰河期')
+        建议: '重生为冰河期龟壳'
+
+=== 'Respawn As Ice Wyrm' -> 标准译名 '重生为寒冰蛟龙' （1 处不一致）===
+  [lcs] key: 'Respawn As Ice Wyrm Scale'
+        val: '重生为冰龙虫鳞片'
+        译法: '重生为'  (标准 '重生为寒冰蛟龙')
+
+=== 'Respawn As Leap' -> 标准译名 '重生为跃击' （1 处不一致）===
+  [stem] key: 'Respawn As Leap to target tile'
+        val: '重生为跃至目标格'
+        译法: '重生为跃'  (标准 '重生为跃击')
+        建议: '重生为跃击至目标格'
+
+=== 'Respawn As Learn' -> 标准译名 '重生为学习' （1 处不一致）===
+  [lcs] key: 'Respawn As Learn how to play'
+        val: '重生为了解游戏玩法'
+        译法: '重生为'  (标准 '重生为学习')
+
+=== 'Respawn As Leghead' -> 标准译名 '重生为腿首怪' （1 处不一致）===
+  [stem] key: 'Respawn As Leghead is immune to debuffs'
+        val: '重生为腿首免疫减益'
+        译法: '重生为腿首'  (标准 '重生为腿首怪')
+        建议: '重生为腿首怪免疫减益'
+
+=== 'Respawn As Lightning' -> 标准译名 '重生为闪电' （1 处不一致）===
+  [lcs] key: 'Respawn As Lightning God Talons'
+        val: '重生为雷神之爪'
+        译法: '重生为'  (标准 '重生为闪电')
+
+=== 'Respawn As Mass' -> 标准译名 '重生为群体' （1 处不一致）===
+  [lcs] key: 'Respawn As Mass of Eyes'
+        val: '重生为眼球之团'
+        译法: '重生为'  (标准 '重生为群体')
+
+=== 'Respawn As Melt' -> 标准译名 '重生为熔解' （1 处不一致）===
+  [stem] key: 'Respawn As Melt walls adjacent to the blast'
+        val: '重生为熔化爆炸相邻的墙壁'
+        译法: '重生为熔'  (标准 '重生为熔解')
+        建议: '重生为熔解化爆炸相邻的墙壁'
+
+=== 'Respawn As Panoply' -> 标准译名 '重生为全副武装' （1 处不一致）===
+  [lcs] key: 'Respawn As Panoply of Ruin'
+        val: '重生为毁灭戎装'
+        译法: '重生为'  (标准 '重生为全副武装')
+
+=== 'Respawn As Peal' -> 标准译名 '重生为轰鸣' （1 处不一致）===
+  [lcs] key: 'Respawn As Peal of Thunder'
+        val: '重生为雷霆轰鸣'
+        译法: '重生为'  (标准 '重生为轰鸣')
+
+=== 'Respawn As Petrify' -> 标准译名 '重生为石化' （1 处不一致）===
+  [lcs] key: 'Respawn As Petrify nearby enemies each turn'
+        val: '重生为每回合石化附近敌人'
+        译法: '重生为'  (标准 '重生为石化')
+
+=== 'Respawn As Pope' -> 标准译名 '重生为教皇' （1 处不一致）===
+  [lcs] key: 'Respawn As Pope the Frog'
+        val: '重生为青蛙教皇'
+        译法: '重生为'  (标准 '重生为教皇')
+
+=== 'Respawn As Prism' -> 标准译名 '重生为棱镜' （1 处不一致）===
+  [lcs] key: 'Respawn As Prism of Shattered Sensations'
+        val: '重生为碎感棱镜'
+        译法: '重生为'  (标准 '重生为棱镜')
+
+=== 'Respawn As Protection' -> 标准译名 '重生为防护' （1 处不一致）===
+  [lcs] key: 'Respawn As Protection of Purity'
+        val: '重生为纯净守护'
+        译法: '重生为'  (标准 '重生为防护')
+
+=== 'Respawn As Pyrostatic Watcher' -> 标准译名 '重生为炎静守望者' （1 处不一致）===
+  [lcs] key: 'Respawn As Pyrostatic Watcher Form'
+        val: '重生为焰电守望形态'
+        译法: '重生为'  (标准 '重生为炎静守望者')
+
+=== 'Respawn As Shatter' -> 标准译名 '重生为碎裂' （1 处不一致）===
+  [stem] key: 'Respawn As Shatter Shards Necklace'
+        val: '重生为碎晶项链'
+        译法: '重生为碎'  (标准 '重生为碎裂')
+        建议: '重生为碎裂晶项链'
+
+=== 'Respawn As Slimy' -> 标准译名 '重生为黏滑' （1 处不一致）===
+  [stem] key: 'Respawn As Slimy Voodoo Mantle'
+        val: '重生为黏液巫毒披风'
+        译法: '重生为黏'  (标准 '重生为黏滑')
+        建议: '重生为黏滑液巫毒披风'
+
+=== 'Respawn As Spider' -> 标准译名 '重生为蛛类' （1 处不一致）===
+  [stem] key: 'Respawn As Spider Carapace Robe'
+        val: '重生为蛛壳法袍'
+        译法: '重生为蛛'  (标准 '重生为蛛类')
+        建议: '重生为蛛类壳法袍'
+
+=== 'Respawn As Storm' -> 标准译名 '重生为风暴' （1 处不一致）===
+  [lcs] key: 'Respawn As Storm Caller Staff'
+        val: '重生为唤暴者法杖'
+        译法: '重生为'  (标准 '重生为风暴')
+
+=== 'Respawn As Supremacy' -> 标准译名 '重生为至高' （1 处不一致）===
+  [lcs] key: 'Respawn As Supremacy of Stone'
+        val: '重生为石之至上'
+        译法: '重生为'  (标准 '重生为至高')
+
+=== 'Respawn As Torrent' -> 标准译名 '重生为激流' （1 处不一致）===
+  [lcs] key: 'Respawn As Torrent of Bats'
+        val: '重生为蝙蝠洪流'
+        译法: '重生为'  (标准 '重生为激流')
+
+=== 'Respawn As Venom' -> 标准译名 '重生为毒液' （1 处不一致）===
+  [stem] key: 'Respawn As Venom Spitter Casque'
+        val: '重生为毒喷者头盔'
+        译法: '重生为毒'  (标准 '重生为毒液')
+        建议: '重生为毒液喷者头盔'
+
+=== 'Respawn As Void Watcher' -> 标准译名 '重生为虚空看守者' （1 处不一致）===
+  [lcs] key: 'Respawn As Void Watcher Form'
+        val: '重生为虚空守望形态'
+        译法: '重生为虚空'  (标准 '重生为虚空看守者')
+
+=== 'Respawn As Web' -> 标准译名 '重生为蛛网' （1 处不一致）===
+  [lcs] key: 'Respawn As Web of Fear'
+        val: '重生为恐惧之网'
+        译法: '重生为'  (标准 '重生为蛛网')
+
+=== 'Respawn As Wheel' -> 标准译名 '重生为轮盘' （1 处不一致）===
+  [lcs] key: 'Respawn As Wheel of Death'
+        val: '重生为死亡之轮'
+        译法: '重生为'  (标准 '重生为轮盘')
+
+=== 'Respawn As White' -> 标准译名 '重生为白色' （1 处不一致）===
+  [stem] key: "Respawn As White Rider's Seal"
+        val: '重生为白骑士之印'
+        译法: '重生为白'  (标准 '重生为白色')
+        建议: '重生为白色骑士之印'
+
+=== 'Respawn As Winter Fae' -> 标准译名 '重生为寒冬妖精' （1 处不一致）===
+  [lcs] key: 'Respawn As Winter Fae Queen'
+        val: '重生为冬之仙灵女王'
+        译法: '重生为'  (标准 '重生为寒冬妖精')
+
+=== 'Respawn As Wyrm' -> 标准译名 '重生为蟠龙' （1 处不一致）===
+  [lcs] key: 'Respawn As Wyrm Spirit Armor'
+        val: '重生为龙灵护甲'
+        译法: '重生为'  (标准 '重生为蟠龙')
+
+=== 'Eye Curse Doll' -> 标准译名 '眼魔咒术人偶' （1 处不一致）===
+  [lcs] key: 'Ritual of the Opening Eye Curse Doll'
+        val: '开眼仪式咒术人偶'
+        译法: '咒术人偶'  (标准 '眼魔咒术人偶')
+
+=== 'Eye Egg' -> 标准译名 '眼魔蛋' （1 处不一致）===
+  [missing] key: 'Ritual of the Opening Eye Egg'
+        val: '开眼仪式蛋'
+
+=== "Eye Hunter's Sigil" -> 标准译名 '眼魔猎手印记' （1 处不一致）===
+  [lcs] key: "Ritual of the Opening Eye Hunter's Sigil"
+        val: '开眼仪式猎手印记'
+        译法: '猎手印记'  (标准 '眼魔猎手印记')
+
+=== 'Eye Oculus' -> 标准译名 '眼魔魔眼' （1 处不一致）===
+  [lcs] key: 'Ritual of the Opening Eye Oculus'
+        val: '开眼仪式魔眼'
+        译法: '魔眼'  (标准 '眼魔魔眼')
+
+=== 'Eye Queen' -> 标准译名 '眼魔女王' （1 处不一致）===
+  [lcs] key: 'Ritual of the Opening Eye Queen'
+        val: '开眼仪式女王'
+        译法: '女王'  (标准 '眼魔女王')
+
+=== 'Eye Repeater' -> 标准译名 '眼魔连发' （1 处不一致）===
+  [lcs] key: 'Ritual of the Opening Eye Repeater'
+        val: '开眼仪式连发'
+        译法: '连发'  (标准 '眼魔连发')
+
+=== 'Eye Spawner' -> 标准译名 '眼魔生成器' （1 处不一致）===
+  [lcs] key: 'Ritual of the Opening Eye Spawner'
+        val: '开眼仪式生成器'
+        译法: '生成器'  (标准 '眼魔生成器')
+
+=== 'Eye Swarm Summon' -> 标准译名 '眼魔虫群召唤' （1 处不一致）===
+  [lcs] key: 'Ritual of the Opening Eye Swarm Summon'
+        val: '开眼仪式虫群召唤'
+        译法: '虫群召唤'  (标准 '眼魔虫群召唤')
+
+=== 'Robe of Aelf' -> 标准译名 '精灵法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Aelf Lightning Artist'
+        val: '精灵闪电技师法袍'
+        译法: '精灵'  (标准 '精灵法袍')
+
+=== 'Robe of Arcane' -> 标准译名 '奥术法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Arcane Combustion Powder'
+        val: '奥术燃爆粉法袍'
+        译法: '奥术'  (标准 '奥术法袍')
+
+=== 'Robe of Armored' -> 标准译名 '装甲法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Armored Polar Bear'
+        val: '披甲北极熊法袍'
+        译法: '法袍'  (标准 '装甲法袍')
+
+=== 'Robe of Aura' -> 标准译名 '光环法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Aura of Undeath'
+        val: '不死灵气法袍'
+        译法: '法袍'  (标准 '光环法袍')
+
+=== 'Robe of Black' -> 标准译名 '黑色法袍' （1 处不一致）===
+  [lcs] key: "Robe of Black Rider's Seal"
+        val: '黑骑士之印法袍'
+        译法: '法袍'  (标准 '黑色法袍')
+
+=== 'Robe of Blind' -> 标准译名 '致盲法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Blind all units on the map'
+        val: '致盲地图上的所有单位法袍'
+        译法: '致盲'  (标准 '致盲法袍')
+
+=== 'Robe of Blinding Light' -> 标准译名 '致盲之光法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Blinding Light gains quickcast'
+        val: '致盲之光获得快速施法法袍'
+        译法: '致盲之光'  (标准 '致盲之光法袍')
+
+=== 'Robe of Blood' -> 标准译名 '血法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Blood is Power'
+        val: '血为伟力法袍'
+        译法: '法袍'  (标准 '血法袍')
+
+=== 'Robe of Bone Knight' -> 标准译名 '骸骨骑士法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Bone Knight Archer'
+        val: '骸骨骑士弓手法袍'
+        译法: '骸骨骑士'  (标准 '骸骨骑士法袍')
+
+=== 'Robe of Box' -> 标准译名 '方形法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Box of Woe'
+        val: '悲怆之盒法袍'
+        译法: '法袍'  (标准 '方形法袍')
+
+=== 'Robe of Cage' -> 标准译名 '囚笼法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Cage of Chimerae'
+        val: '奇美拉之笼法袍'
+        译法: '笼法袍'  (标准 '囚笼法袍')
+
+=== 'Robe of Call' -> 标准译名 '呼唤法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Call to Arms'
+        val: '战斗号召法袍'
+        译法: '法袍'  (标准 '呼唤法袍')
+
+=== 'Robe of Chain Lightning' -> 标准译名 '连锁闪电法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Chain Lightning Watcher'
+        val: '连锁闪电看守者法袍'
+        译法: '连锁闪电'  (标准 '连锁闪电法袍')
+
+=== 'Robe of Chain' -> 标准译名 '连锁法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Chain Watcher Form'
+        val: '连锁守望形态法袍'
+        译法: '连锁'  (标准 '连锁法袍')
+
+=== 'Robe of Copper' -> 标准译名 '铜法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Copper Spike Ball'
+        val: '铜制尖刺球法袍'
+        译法: '法袍'  (标准 '铜法袍')
+
+=== 'Robe of Crystalline' -> 标准译名 '结晶法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Crystalline Frostfire Hydra'
+        val: '结晶霜火九头蛇法袍'
+        译法: '结晶'  (标准 '结晶法袍')
+
+=== 'Robe of Fae Thorn' -> 标准译名 '仙灵荆棘法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Fae Thorn Staff'
+        val: '妖精荆棘法杖法袍'
+        译法: '荆棘法'  (标准 '仙灵荆棘法袍')
+
+=== 'Robe of Fire Wyrm' -> 标准译名 '烈焰蛟龙法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Fire Wyrm Egg'
+        val: '烈焰蛟龙蛋法袍'
+        译法: '烈焰蛟龙'  (标准 '烈焰蛟龙法袍')
+
+=== 'Robe of Flame' -> 标准译名 '火焰法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Flame Blade Fragment'
+        val: '焰刃碎片法袍'
+        译法: '法袍'  (标准 '火焰法袍')
+
+=== 'Robe of Forest' -> 标准译名 '森林法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Forest of Flying Daggers'
+        val: '飞刀之林法袍'
+        译法: '林法袍'  (标准 '森林法袍')
+
+=== 'Robe of Freeze' -> 标准译名 '冰冻法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Freeze gains quickcast'
+        val: '冰冻获得快速施法法袍'
+        译法: '冰冻'  (标准 '冰冻法袍')
+
+=== 'Robe of Frostfire' -> 标准译名 '霜火法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Frostfire Tormenting Mass'
+        val: '霜火折磨之团法袍'
+        译法: '霜火'  (标准 '霜火法袍')
+
+=== 'Robe of Ghostly' -> 标准译名 '幽魂法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Ghostly Worm Shambler'
+        val: '幽魂蠕虫蹒跚怪法袍'
+        译法: '幽魂'  (标准 '幽魂法袍')
+
+=== 'Robe of Grave' -> 标准译名 '坟墓法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Grave Hunger Amulet'
+        val: '墓饥护符法袍'
+        译法: '法袍'  (标准 '坟墓法袍')
+
+=== 'Robe of Green Gorgon' -> 标准译名 '绿蛇发女妖法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Green Gorgon Breath'
+        val: '绿蛇发女妖吐息法袍'
+        译法: '绿蛇发女妖'  (标准 '绿蛇发女妖法袍')
+
+=== 'Robe of Grey Gorgon' -> 标准译名 '灰蛇发女妖法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Grey Gorgon Breath'
+        val: '灰蛇发女妖吐息法袍'
+        译法: '灰蛇发女妖'  (标准 '灰蛇发女妖法袍')
+
+=== 'Robe of Guardians' -> 标准译名 '守卫者法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Guardians of Madness'
+        val: '疯狂守卫法袍'
+        译法: '守卫'  (标准 '守卫者法袍')
+
+=== 'Robe of Haunted' -> 标准译名 '闹鬼法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Haunted Blood Vial'
+        val: '萦魂血瓶法袍'
+        译法: '法袍'  (标准 '闹鬼法袍')
+
+=== 'Robe of Healing Light' -> 标准译名 '治疗之光法袍' （1 处不一致）===
+  [stem] key: 'Robe of Healing Light Spell'
+        val: '治疗之光法术法袍'
+        译法: '治疗之光法'  (标准 '治疗之光法袍')
+        建议: '治疗之光法袍术法袍'
+
+=== 'Robe of Holy Fire' -> 标准译名 '神圣之火法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Holy Fire Aura'
+        val: '神圣之火光环法袍'
+        译法: '神圣之火'  (标准 '神圣之火法袍')
+
+=== 'Robe of Holy Watcher' -> 标准译名 '神圣看守者法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Holy Watcher Form'
+        val: '神圣守望形态法袍'
+        译法: '神圣'  (标准 '神圣看守者法袍')
+
+=== 'Robe of Horde' -> 标准译名 '大群法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Horde of Halfmen'
+        val: '半人部族法袍'
+        译法: '法袍'  (标准 '大群法袍')
+
+=== 'Robe of Ice Age' -> 标准译名 '冰河期法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Ice Age Shell'
+        val: '冰河龟壳法袍'
+        译法: '冰河'  (标准 '冰河期法袍')
+
+=== 'Robe of Icy Spriggan' -> 标准译名 '冰霜斯普里根法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Icy Spriggan Bush'
+        val: '冰霜斯普里根灌木丛法袍'
+        译法: '冰霜斯普里根'  (标准 '冰霜斯普里根法袍')
+
+=== 'Robe of Idol' -> 标准译名 '神像法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Idol of Burning Sacrifice'
+        val: '燃烧献祭偶像法袍'
+        译法: '像法袍'  (标准 '神像法袍')
+
+=== 'Robe of Immolate' -> 标准译名 '焚烧法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Immolate gains permanent duration'
+        val: '焚烧获得永久持续时间法袍'
+        译法: '焚烧'  (标准 '焚烧法袍')
+
+=== 'Robe of Ironize' -> 标准译名 '铁化法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Ironize gains a permanent duration'
+        val: '铁化获得永久持续时间法袍'
+        译法: '铁化'  (标准 '铁化法袍')
+
+=== 'Robe of Kobold' -> 标准译名 '狗头人法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Kobold Hedge Mage'
+        val: '狗头人野法师法袍'
+        译法: '狗头人'  (标准 '狗头人法袍')
+
+=== 'Robe of Leghead' -> 标准译名 '腿首怪法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Leghead is immune to debuffs'
+        val: '腿首免疫减益法袍'
+        译法: '腿首'  (标准 '腿首怪法袍')
+
+=== 'Robe of Mantis' -> 标准译名 '螳螂法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Mantis Egg Sac'
+        val: '螳螂卵囊法袍'
+        译法: '螳螂'  (标准 '螳螂法袍')
+
+=== 'Robe of Melt' -> 标准译名 '熔解法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Melt walls adjacent to the blast'
+        val: '熔化爆炸相邻的墙壁法袍'
+        译法: '法袍'  (标准 '熔解法袍')
+
+=== 'Robe of Multicolored Rage' -> 标准译名 '五彩之怒法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Multicolored Rage Rod'
+        val: '五彩之怒短杖法袍'
+        译法: '五彩之怒'  (标准 '五彩之怒法袍')
+
+=== 'Robe of Oozing' -> 标准译名 '渗液法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Oozing Scale Armor'
+        val: '渗液鳞甲法袍'
+        译法: '渗液'  (标准 '渗液法袍')
+
+=== 'Robe of Open' -> 标准译名 '打开法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Open the combat log'
+        val: '打开战斗日志法袍'
+        译法: '打开'  (标准 '打开法袍')
+
+=== 'Robe of Orb' -> 标准译名 '宝珠法袍' （1 处不一致）===
+  [lcs] key: "Robe of Orb Controller's Mitts"
+        val: '宝珠操控手套法袍'
+        译法: '宝珠'  (标准 '宝珠法袍')
+
+=== 'Robe of Pale' -> 标准译名 '苍白法袍' （1 处不一致）===
+  [lcs] key: "Robe of Pale Rider's Seal"
+        val: '苍白骑士之印法袍'
+        译法: '苍白'  (标准 '苍白法袍')
+
+=== 'Robe of Panoply' -> 标准译名 '全副武装法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Panoply of Ruin'
+        val: '毁灭戎装法袍'
+        译法: '装法袍'  (标准 '全副武装法袍')
+
+=== 'Robe of Permanence' -> 标准译名 '永存法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Permanence duration is now permanent'
+        val: '永存的持续时间现为永久法袍'
+        译法: '永存'  (标准 '永存法袍')
+
+=== 'Robe of Petrify' -> 标准译名 '石化法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Petrify nearby enemies each turn'
+        val: '每回合石化附近敌人法袍'
+        译法: '石化'  (标准 '石化法袍')
+
+=== 'Robe of Protection' -> 标准译名 '防护法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Protection of Purity'
+        val: '纯净守护法袍'
+        译法: '护法袍'  (标准 '防护法袍')
+
+=== 'Robe of Pyrostatic Watcher' -> 标准译名 '炎静守望者法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Pyrostatic Watcher Form'
+        val: '焰电守望形态法袍'
+        译法: '守望'  (标准 '炎静守望者法袍')
+
+=== 'Robe of Rift' -> 标准译名 '裂隙法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Rift Key Staff'
+        val: '裂隙钥匙法杖法袍'
+        译法: '裂隙'  (标准 '裂隙法袍')
+
+=== 'Robe of Serrated' -> 标准译名 '锯齿法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Serrated Steel Claws'
+        val: '锯齿钢爪法袍'
+        译法: '锯齿'  (标准 '锯齿法袍')
+
+=== 'Robe of Shatter' -> 标准译名 '碎裂法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Shatter Shards Necklace'
+        val: '碎晶项链法袍'
+        译法: '法袍'  (标准 '碎裂法袍')
+
+=== 'Robe of Slime' -> 标准译名 '黏液法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Slime Ammo Pouch'
+        val: '黏液弹药袋法袍'
+        译法: '黏液'  (标准 '黏液法袍')
+
+=== 'Robe of Slimy' -> 标准译名 '黏滑法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Slimy Voodoo Mantle'
+        val: '黏液巫毒披风法袍'
+        译法: '法袍'  (标准 '黏滑法袍')
+
+=== 'Robe of Soul Tax' -> 标准译名 '灵魂税法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Soul Tax gains quickcast'
+        val: '灵魂税获得快速施法法袍'
+        译法: '灵魂税'  (标准 '灵魂税法袍')
+
+=== 'Robe of Spider' -> 标准译名 '蛛类法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Spider Carapace Robe'
+        val: '蛛壳法袍法袍'
+        译法: '法袍'  (标准 '蛛类法袍')
+
+=== 'Robe of Storm' -> 标准译名 '风暴法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Storm Caller Staff'
+        val: '唤暴者法杖法袍'
+        译法: '法袍'  (标准 '风暴法袍')
+
+=== 'Robe of Storm Walk' -> 标准译名 '风暴行走法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Storm Walk gains quickcast'
+        val: '风暴行走获得快速施法法袍'
+        译法: '风暴行走'  (标准 '风暴行走法袍')
+
+=== 'Robe of Supremacy' -> 标准译名 '至高法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Supremacy of Stone'
+        val: '石之至上法袍'
+        译法: '法袍'  (标准 '至高法袍')
+
+=== 'Robe of Torrent' -> 标准译名 '激流法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Torrent of Bats'
+        val: '蝙蝠洪流法袍'
+        译法: '流法袍'  (标准 '激流法袍')
+
+=== 'Robe of Ultimate' -> 标准译名 '终极法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Ultimate Mind Devourer'
+        val: '终极噬心者法袍'
+        译法: '终极'  (标准 '终极法袍')
+
+=== 'Robe of Underworld Passage' -> 标准译名 '冥界通道法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Underworld Passage gains quickcast'
+        val: '冥界通道获得快速施法法袍'
+        译法: '冥界通道'  (标准 '冥界通道法袍')
+
+=== 'Robe of Vampire Count' -> 标准译名 '吸血鬼伯爵法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Vampire Count Bat'
+        val: '吸血鬼伯爵蝙蝠法袍'
+        译法: '吸血鬼伯爵'  (标准 '吸血鬼伯爵法袍')
+
+=== 'Robe of Venom' -> 标准译名 '毒液法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Venom Spitter Casque'
+        val: '毒喷者头盔法袍'
+        译法: '法袍'  (标准 '毒液法袍')
+
+=== 'Robe of Void Watcher' -> 标准译名 '虚空看守者法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Void Watcher Form'
+        val: '虚空守望形态法袍'
+        译法: '虚空'  (标准 '虚空看守者法袍')
+
+=== 'Robe of Web' -> 标准译名 '蛛网法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Web of Fear'
+        val: '恐惧之网法袍'
+        译法: '网法袍'  (标准 '蛛网法袍')
+
+=== 'Robe of Wheel' -> 标准译名 '轮盘法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Wheel of Death'
+        val: '死亡之轮法袍'
+        译法: '法袍'  (标准 '轮盘法袍')
+
+=== 'Robe of White' -> 标准译名 '白色法袍' （1 处不一致）===
+  [lcs] key: "Robe of White Rider's Seal"
+        val: '白骑士之印法袍'
+        译法: '法袍'  (标准 '白色法袍')
+
+=== 'Robe of Winter Fae' -> 标准译名 '寒冬妖精法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Winter Fae Queen'
+        val: '冬之仙灵女王法袍'
+        译法: '法袍'  (标准 '寒冬妖精法袍')
+
+=== 'Robe of Wyrm' -> 标准译名 '蟠龙法袍' （1 处不一致）===
+  [lcs] key: 'Robe of Wyrm Spirit Armor'
+        val: '龙灵护甲法袍'
+        译法: '法袍'  (标准 '蟠龙法袍')
+
+=== 'Skeletal Armor' -> 标准译名 '骸骨护甲' （1 处不一致）===
+  [lcs] key: 'Skeletal Armor of the Master'
+        val: '骸骨宗师之甲'
+        译法: '骸骨'  (标准 '骸骨护甲')
+
+=== 'Skeletal Cast Mercurize' -> 标准译名 '骸骨施放水银化' （1 处不一致）===
+  [lcs] key: 'Skeletal Cast Mercurize on melee attackers'
+        val: '骸骨对近战攻击者施放水银化'
+        译法: '施放水银化'  (标准 '骸骨施放水银化')
+
+=== 'Skeletal Eye' -> 标准译名 '骸骨眼魔' （1 处不一致）===
+  [lcs] key: 'Skeletal Eye for an Eye'
+        val: '骸骨以眼还眼'
+        译法: '骸骨'  (标准 '骸骨眼魔')
+
+=== 'Skeletal Forest' -> 标准译名 '骸骨森林' （1 处不一致）===
+  [lcs] key: 'Skeletal Forest of Flying Daggers'
+        val: '骸骨飞刀之林'
+        译法: '骸骨'  (标准 '骸骨森林')
+
+=== 'Skeletal Immune to debuffs' -> 标准译名 '骸骨免疫减益' （1 处不一致）===
+  [lcs] key: 'Skeletal Immune to debuffs while shielded'
+        val: '骸骨有护盾时免疫减益'
+        译法: '免疫减益'  (标准 '骸骨免疫减益')
+
+=== 'Skeletal Leap' -> 标准译名 '骸骨跃击' （1 处不一致）===
+  [stem] key: 'Skeletal Leap to target tile'
+        val: '骸骨跃至目标格'
+        译法: '骸骨跃'  (标准 '骸骨跃击')
+        建议: '骸骨跃击至目标格'
+
+=== 'Skeletal Learn' -> 标准译名 '骸骨学习' （1 处不一致）===
+  [lcs] key: 'Skeletal Learn how to play'
+        val: '骸骨了解游戏玩法'
+        译法: '骸骨'  (标准 '骸骨学习')
+
+=== 'Skeletal Leghead' -> 标准译名 '骸骨腿首怪' （1 处不一致）===
+  [stem] key: 'Skeletal Leghead is immune to debuffs'
+        val: '骸骨腿首免疫减益'
+        译法: '骸骨腿首'  (标准 '骸骨腿首怪')
+        建议: '骸骨腿首怪免疫减益'
+
+=== 'Skeletal Melt' -> 标准译名 '骸骨熔解' （1 处不一致）===
+  [stem] key: 'Skeletal Melt walls adjacent to the blast'
+        val: '骸骨熔化爆炸相邻的墙壁'
+        译法: '骸骨熔'  (标准 '骸骨熔解')
+        建议: '骸骨熔解化爆炸相邻的墙壁'
+
+=== 'Skeletal Orb' -> 标准译名 '骸骨宝珠' （1 处不一致）===
+  [lcs] key: 'Skeletal Orb of Infinite Slaughter'
+        val: '骸骨无尽杀戮宝珠'
+        译法: '骸骨'  (标准 '骸骨宝珠')
+
+=== 'Skeletal Petrify' -> 标准译名 '骸骨石化' （1 处不一致）===
+  [lcs] key: 'Skeletal Petrify nearby enemies each turn'
+        val: '骸骨每回合石化附近敌人'
+        译法: '骸骨'  (标准 '骸骨石化')
+
+=== 'Skeletal Prism' -> 标准译名 '骸骨棱镜' （1 处不一致）===
+  [lcs] key: 'Skeletal Prism of Shattered Sensations'
+        val: '骸骨碎感棱镜'
+        译法: '骸骨'  (标准 '骸骨棱镜')
+
+=== 'Skeletal Touch' -> 标准译名 '骸骨触碰' （1 处不一致）===
+  [lcs] key: 'Skeletal Touch of the Vampire'
+        val: '骸骨吸血鬼之触'
+        译法: '骸骨'  (标准 '骸骨触碰')
+
+=== 'Slimy Armor' -> 标准译名 '黏滑护甲' （1 处不一致）===
+  [lcs] key: 'Slimy Armor of the Master'
+        val: '黏滑宗师之甲'
+        译法: '黏滑'  (标准 '黏滑护甲')
+
+=== 'Slimy Cast Mercurize' -> 标准译名 '黏滑施放水银化' （1 处不一致）===
+  [lcs] key: 'Slimy Cast Mercurize on melee attackers'
+        val: '黏滑对近战攻击者施放水银化'
+        译法: '施放水银化'  (标准 '黏滑施放水银化')
+
+=== 'Slimy Eye' -> 标准译名 '黏滑眼魔' （1 处不一致）===
+  [lcs] key: 'Slimy Eye for an Eye'
+        val: '黏滑以眼还眼'
+        译法: '黏滑'  (标准 '黏滑眼魔')
+
+=== 'Slimy Forest' -> 标准译名 '黏滑森林' （1 处不一致）===
+  [lcs] key: 'Slimy Forest of Flying Daggers'
+        val: '黏滑飞刀之林'
+        译法: '黏滑'  (标准 '黏滑森林')
+
+=== 'Slimy Immune to debuffs' -> 标准译名 '黏滑免疫减益' （1 处不一致）===
+  [lcs] key: 'Slimy Immune to debuffs while shielded'
+        val: '黏滑有护盾时免疫减益'
+        译法: '免疫减益'  (标准 '黏滑免疫减益')
+
+=== 'Slimy Leap' -> 标准译名 '黏滑跃击' （1 处不一致）===
+  [stem] key: 'Slimy Leap to target tile'
+        val: '黏滑跃至目标格'
+        译法: '黏滑跃'  (标准 '黏滑跃击')
+        建议: '黏滑跃击至目标格'
+
+=== 'Slimy Learn' -> 标准译名 '黏滑学习' （1 处不一致）===
+  [lcs] key: 'Slimy Learn how to play'
+        val: '黏滑了解游戏玩法'
+        译法: '黏滑'  (标准 '黏滑学习')
+
+=== 'Slimy Leghead' -> 标准译名 '黏滑腿首怪' （1 处不一致）===
+  [stem] key: 'Slimy Leghead is immune to debuffs'
+        val: '黏滑腿首免疫减益'
+        译法: '黏滑腿首'  (标准 '黏滑腿首怪')
+        建议: '黏滑腿首怪免疫减益'
+
+=== 'Slimy Melt' -> 标准译名 '黏滑熔解' （1 处不一致）===
+  [stem] key: 'Slimy Melt walls adjacent to the blast'
+        val: '黏滑熔化爆炸相邻的墙壁'
+        译法: '黏滑熔'  (标准 '黏滑熔解')
+        建议: '黏滑熔解化爆炸相邻的墙壁'
+
+=== 'Slimy Orb' -> 标准译名 '黏滑宝珠' （1 处不一致）===
+  [lcs] key: 'Slimy Orb of Infinite Slaughter'
+        val: '黏滑无尽杀戮宝珠'
+        译法: '黏滑'  (标准 '黏滑宝珠')
+
+=== 'Slimy Petrify' -> 标准译名 '黏滑石化' （1 处不一致）===
+  [lcs] key: 'Slimy Petrify nearby enemies each turn'
+        val: '黏滑每回合石化附近敌人'
+        译法: '黏滑'  (标准 '黏滑石化')
+
+=== 'Slimy Prism' -> 标准译名 '黏滑棱镜' （1 处不一致）===
+  [lcs] key: 'Slimy Prism of Shattered Sensations'
+        val: '黏滑碎感棱镜'
+        译法: '黏滑'  (标准 '黏滑棱镜')
+
+=== 'Slimy Touch' -> 标准译名 '黏滑触碰' （1 处不一致）===
+  [lcs] key: 'Slimy Touch of the Vampire'
+        val: '黏滑吸血鬼之触'
+        译法: '黏滑'  (标准 '黏滑触碰')
+
+=== 'Spike Ball' -> 标准译名 '尖刺球' （1 处不一致）===
+  [lcs] key: 'Spike Ball Spawners gain a [{minion_damage}:minion_damage] [Physical] damage, [{minion_ran'
+        val: '刺球生成器获得远程攻击，造成 [{minion_damage}:minion_damage] 点[物理:physical]伤害，射程 [{minion_range}:minion_range]'
+        译法: '刺球'  (标准 '尖刺球')
+
+=== 'Electric Slimes' -> 标准译名 '闪电黏液' （1 处不一致）===
+  [lcs] key: 'Storms over affected tiles are consumed, and turned into slimes of matching types\n[Lightni'
+        val: '受影响格上的风暴被消耗，并转化为对应类型的黏液怪\n[闪电风暴:lightning] 变为电黏液怪\n[暴风雪:ice] 变为冰黏液怪\n[雨云:nature] 变为绿黏液怪'
+        译法: '电黏液'  (标准 '闪电黏液')
+
+=== 'Ice Slimes' -> 标准译名 '冰霜黏液' （1 处不一致）===
+  [lcs] key: 'Storms over affected tiles are consumed, and turned into slimes of matching types\n[Lightni'
+        val: '受影响格上的风暴被消耗，并转化为对应类型的黏液怪\n[闪电风暴:lightning] 变为电黏液怪\n[暴风雪:ice] 变为冰黏液怪\n[雨云:nature] 变为绿黏液怪'
+        译法: '黏液'  (标准 '冰霜黏液')
+
+=== 'Summon Blizzards' -> 标准译名 '召唤暴风雪' （1 处不一致）===
+  [lcs] key: 'Summon Blizzards, Storm Clouds, and Rain Clouds around enemies'
+        val: '在敌人周围召唤暴雪、雷云和雨云'
+        译法: '召唤暴'  (标准 '召唤暴风雪')
+
+=== 'Ghost Curse Doll' -> 标准译名 '幽魂咒术人偶' （1 处不一致）===
+  [lcs] key: 'Summon Death instead of a Ghost Curse Doll'
+        val: '改为召唤死神，而非幽灵咒术人偶'
+        译法: '咒术人偶'  (标准 '幽魂咒术人偶')
+
+=== 'Ghost Egg' -> 标准译名 '幽魂蛋' （1 处不一致）===
+  [missing] key: 'Summon Death instead of a Ghost Egg'
+        val: '改为召唤死神，而非幽灵蛋'
+
+=== "Ghost Hunter's Sigil" -> 标准译名 '幽魂猎手印记' （1 处不一致）===
+  [lcs] key: "Summon Death instead of a Ghost Hunter's Sigil"
+        val: '改为召唤死神，而非幽灵猎手印记'
+        译法: '猎手印记'  (标准 '幽魂猎手印记')
+
+=== 'Ghost Oculus' -> 标准译名 '幽魂魔眼' （1 处不一致）===
+  [lcs] key: 'Summon Death instead of a Ghost Oculus'
+        val: '改为召唤死神，而非幽灵魔眼'
+        译法: '魔眼'  (标准 '幽魂魔眼')
+
+=== 'Ghost Queen' -> 标准译名 '幽魂女王' （1 处不一致）===
+  [lcs] key: 'Summon Death instead of a Ghost Queen'
+        val: '改为召唤死神，而非幽灵女王'
+        译法: '女王'  (标准 '幽魂女王')
+
+=== 'Ghost Repeater' -> 标准译名 '幽魂连发' （1 处不一致）===
+  [lcs] key: 'Summon Death instead of a Ghost Repeater'
+        val: '改为召唤死神，而非幽灵连发'
+        译法: '连发'  (标准 '幽魂连发')
+
+=== 'Ghost Spawner' -> 标准译名 '幽魂生成器' （1 处不一致）===
+  [lcs] key: 'Summon Death instead of a Ghost Spawner'
+        val: '改为召唤死神，而非幽灵生成器'
+        译法: '生成器'  (标准 '幽魂生成器')
+
+=== 'Ghost Swarm Summon' -> 标准译名 '幽魂虫群召唤' （1 处不一致）===
+  [lcs] key: 'Summon Death instead of a Ghost Swarm Summon'
+        val: '改为召唤死神，而非幽灵虫群召唤'
+        译法: '虫群召唤'  (标准 '幽魂虫群召唤')
+
+=== 'Skull Hornet' -> 标准译名 '骷髅黄蜂' （1 处不一致）===
+  [lcs] key: 'Summon Defeat Skull Hornet Queens'
+        val: '召唤击败骷髅胡蜂女王'
+        译法: '骷髅'  (标准 '骷髅黄蜂')
+
+=== 'Summon Rot Sprouts' -> 标准译名 '召唤腐朽抽芽' （1 处不一致）===
+  [lcs] key: 'Summon Rot Sprouts instead of Fae Thorns, which can grow into Rot Trees or Rotting Zombies'
+        val: '改为召唤腐朽苗芽而非妖精荆棘，其可长成腐朽之树或腐烂丧尸'
+        译法: '召唤腐朽'  (标准 '召唤腐朽抽芽')
+
+=== 'Summon Spike Ball' -> 标准译名 '召唤尖刺球' （1 处不一致）===
+  [lcs] key: 'Summon Spike Ball Spawners in unoccupied adjacent tiles'
+        val: '在相邻的未被占据格召唤刺球生成器'
+        译法: '召唤'  (标准 '召唤尖刺球')
+
+=== 'Mantis Egg' -> 标准译名 '螳螂蛋' （1 处不一致）===
+  [stem] key: 'Summon Summons a Mantis Egg Sacs'
+        val: '召唤召唤一个螳螂卵囊'
+        译法: '螳螂'  (标准 '螳螂蛋')
+        建议: '召唤召唤一个螳螂蛋卵囊'
+
+=== 'Summon Winter' -> 标准译名 '召唤寒冬' （1 处不一致）===
+  [lcs] key: 'Summon Winter Faeries instead\nWinter Faeries can cast your Freeze spell on a 5 turn cooldo'
+        val: '改为召唤冬之仙灵\n冬之仙灵可以施放你的冰冻术，冷却 5 回合'
+        译法: '召唤'  (标准 '召唤寒冬')
+
+=== 'Fiery Tormenting Mass' -> 标准译名 '灼焰折磨之团' （1 处不一致）===
+  [lcs] key: 'Summon a Fiery Tormenting Mass instead\nIf you also have the Frostfire Tormentor upgrade, s'
+        val: '改为召唤炽焰折磨之团\n若你还有霜火折磨者强化，则改为召唤霜火折磨之团'
+        译法: '焰折磨之团'  (标准 '灼焰折磨之团')
+
+=== 'Arcane Storm' -> 标准译名 '奥术风暴' （1 处不一致）===
+  [lcs] key: 'Summon a {knight_name}\nThe summoned knight will match the spell school you have spent the '
+        val: '召唤一个 {knight_name}\n召唤出的骑士与你花费 SP 最多的法术学派一致\n虚空骑士：[奥术:arcane]\n风暴骑士：[闪电:lightning] 或 [冰:ice]\n混沌骑士：[混沌:chaos]\n血骑士：[血:blood]\n'
+        译法: '奥术'  (标准 '奥术风暴')
+
+=== 'Blood Knight' -> 标准译名 '鲜血骑士' （1 处不一致）===
+  [lcs] key: 'Summon a {knight_name}\nThe summoned knight will match the spell school you have spent the '
+        val: '召唤一个 {knight_name}\n召唤出的骑士与你花费 SP 最多的法术学派一致\n虚空骑士：[奥术:arcane]\n风暴骑士：[闪电:lightning] 或 [冰:ice]\n混沌骑士：[混沌:chaos]\n血骑士：[血:blood]\n'
+        译法: '血骑士'  (标准 '鲜血骑士')
+
+=== 'Bone Knight' -> 标准译名 '骸骨骑士' （1 处不一致）===
+  [lcs] key: 'Summon half as many Bone Knight Archers to accompany the Bone Knights'
+        val: '召唤一半数量的白骨骑士弓手伴随白骨骑士'
+        译法: '骨骑士'  (标准 '骸骨骑士')
+
+=== 'Copper Spike Ball' -> 标准译名 '铜制尖刺球' （1 处不一致）===
+  [lcs] key: 'Summons Copper Spike Ball Spawners instead'
+        val: '改为召唤铜刺球生成器'
+        译法: '刺球'  (标准 '铜制尖刺球')
+
+=== 'Thorns Curse Doll' -> 标准译名 '荆棘咒术人偶' （1 处不一致）===
+  [lcs] key: 'Surround targets with Fae Thorns Curse Doll'
+        val: '用仙灵荆棘包围目标咒术人偶'
+        译法: '咒术人偶'  (标准 '荆棘咒术人偶')
+
+=== 'Thorns Egg' -> 标准译名 '荆棘蛋' （1 处不一致）===
+  [stem] key: 'Surround targets with Fae Thorns Egg'
+        val: '用仙灵荆棘包围目标蛋'
+        译法: '荆棘'  (标准 '荆棘蛋')
+        建议: '用仙灵荆棘蛋包围目标蛋'
+
+=== "Thorns Hunter's Sigil" -> 标准译名 '荆棘猎手印记' （1 处不一致）===
+  [lcs] key: "Surround targets with Fae Thorns Hunter's Sigil"
+        val: '用仙灵荆棘包围目标猎手印记'
+        译法: '猎手印记'  (标准 '荆棘猎手印记')
+
+=== 'Thorns Oculus' -> 标准译名 '荆棘魔眼' （1 处不一致）===
+  [lcs] key: 'Surround targets with Fae Thorns Oculus'
+        val: '用仙灵荆棘包围目标魔眼'
+        译法: '荆棘'  (标准 '荆棘魔眼')
+
+=== 'Thorns Queen' -> 标准译名 '荆棘女王' （1 处不一致）===
+  [lcs] key: 'Surround targets with Fae Thorns Queen'
+        val: '用仙灵荆棘包围目标女王'
+        译法: '荆棘'  (标准 '荆棘女王')
+
+=== 'Thorns Repeater' -> 标准译名 '荆棘连发' （1 处不一致）===
+  [lcs] key: 'Surround targets with Fae Thorns Repeater'
+        val: '用仙灵荆棘包围目标连发'
+        译法: '荆棘'  (标准 '荆棘连发')
+
+=== 'Thorns Spawner' -> 标准译名 '荆棘生成器' （1 处不一致）===
+  [lcs] key: 'Surround targets with Fae Thorns Spawner'
+        val: '用仙灵荆棘包围目标生成器'
+        译法: '生成器'  (标准 '荆棘生成器')
+
+=== 'Thorns Swarm Summon' -> 标准译名 '荆棘虫群召唤' （1 处不一致）===
+  [lcs] key: 'Surround targets with Fae Thorns Swarm Summon'
+        val: '用仙灵荆棘包围目标虫群召唤'
+        译法: '虫群召唤'  (标准 '荆棘虫群召唤')
+
+=== 'Summon Spark Spirits' -> 标准译名 '召唤火花之灵' （1 处不一致）===
+  [lcs] key: 'Teleport enemies in line of sight near the caster\nSummon Spark Spirits around them'
+        val: '将视野内的敌人传送到施法者附近\n在其周围召唤电花精灵'
+        译法: '召唤'  (标准 '召唤火花之灵')
+
+=== 'Regeneration Aura' -> 标准译名 '再生光环' （1 处不一致）===
+  [lcs] key: 'The Ice Phoenix can cast your Regeneration Aura on a 12 turn cooldown'
+        val: '冰凤凰可以施放你的再生灵气，冷却 12 回合'
+        译法: '再生'  (标准 '再生光环')
+
+=== 'Pale Rider' -> 标准译名 '灰骑士' （1 处不一致）===
+  [lcs] key: 'The Pale Rider cannot be killed by damage while the wizard lives'
+        val: '只要法师存活，苍白骑士便不会被伤害杀死'
+        译法: '骑士'  (标准 '灰骑士')
+
+=== 'Touched by Aelf' -> 标准译名 '精灵之触' （1 处不一致）===
+  [lcs] key: 'Touched by Aelf Lightning Artist'
+        val: '精灵闪电技师之触'
+        译法: '精灵'  (标准 '精灵之触')
+
+=== 'Touched by Arcane' -> 标准译名 '奥术之触' （1 处不一致）===
+  [lcs] key: 'Touched by Arcane Combustion Powder'
+        val: '奥术燃爆粉之触'
+        译法: '奥术'  (标准 '奥术之触')
+
+=== 'Touched by Armored' -> 标准译名 '装甲之触' （1 处不一致）===
+  [lcs] key: 'Touched by Armored Polar Bear'
+        val: '披甲北极熊之触'
+        译法: '之触'  (标准 '装甲之触')
+
+=== 'Touched by Aura' -> 标准译名 '光环之触' （1 处不一致）===
+  [lcs] key: 'Touched by Aura of Undeath'
+        val: '不死灵气之触'
+        译法: '之触'  (标准 '光环之触')
+
+=== 'Touched by Black' -> 标准译名 '黑色之触' （1 处不一致）===
+  [lcs] key: "Touched by Black Rider's Seal"
+        val: '黑骑士之印之触'
+        译法: '之触'  (标准 '黑色之触')
+
+=== 'Touched by Blind' -> 标准译名 '致盲之触' （1 处不一致）===
+  [lcs] key: 'Touched by Blind all units on the map'
+        val: '致盲地图上的所有单位之触'
+        译法: '致盲'  (标准 '致盲之触')
+
+=== 'Touched by Blinding Light' -> 标准译名 '致盲之光之触' （1 处不一致）===
+  [lcs] key: 'Touched by Blinding Light gains quickcast'
+        val: '致盲之光获得快速施法之触'
+        译法: '致盲之光'  (标准 '致盲之光之触')
+
+=== 'Touched by Blood' -> 标准译名 '血之触' （1 处不一致）===
+  [lcs] key: 'Touched by Blood is Power'
+        val: '血为伟力之触'
+        译法: '之触'  (标准 '血之触')
+
+=== 'Touched by Bone Knight' -> 标准译名 '骸骨骑士之触' （1 处不一致）===
+  [lcs] key: 'Touched by Bone Knight Archer'
+        val: '骸骨骑士弓手之触'
+        译法: '骸骨骑士'  (标准 '骸骨骑士之触')
+
+=== 'Touched by Box' -> 标准译名 '方形之触' （1 处不一致）===
+  [lcs] key: 'Touched by Box of Woe'
+        val: '悲怆之盒之触'
+        译法: '之触'  (标准 '方形之触')
+
+=== 'Touched by Cage' -> 标准译名 '囚笼之触' （1 处不一致）===
+  [lcs] key: 'Touched by Cage of Chimerae'
+        val: '奇美拉之笼之触'
+        译法: '笼之触'  (标准 '囚笼之触')
+
+=== 'Touched by Call' -> 标准译名 '呼唤之触' （1 处不一致）===
+  [lcs] key: 'Touched by Call to Arms'
+        val: '战斗号召之触'
+        译法: '之触'  (标准 '呼唤之触')
+
+=== 'Touched by Chain Lightning' -> 标准译名 '连锁闪电之触' （1 处不一致）===
+  [lcs] key: 'Touched by Chain Lightning Watcher'
+        val: '连锁闪电看守者之触'
+        译法: '连锁闪电'  (标准 '连锁闪电之触')
+
+=== 'Touched by Chain' -> 标准译名 '连锁之触' （1 处不一致）===
+  [lcs] key: 'Touched by Chain Watcher Form'
+        val: '连锁守望形态之触'
+        译法: '连锁'  (标准 '连锁之触')
+
+=== 'Touched by Copper' -> 标准译名 '铜之触' （1 处不一致）===
+  [lcs] key: 'Touched by Copper Spike Ball'
+        val: '铜制尖刺球之触'
+        译法: '之触'  (标准 '铜之触')
+
+=== 'Touched by Crystalline' -> 标准译名 '结晶之触' （1 处不一致）===
+  [lcs] key: 'Touched by Crystalline Frostfire Hydra'
+        val: '结晶霜火九头蛇之触'
+        译法: '结晶'  (标准 '结晶之触')
+
+=== 'Touched by Fae Thorn' -> 标准译名 '仙灵荆棘之触' （1 处不一致）===
+  [lcs] key: 'Touched by Fae Thorn Staff'
+        val: '妖精荆棘法杖之触'
+        译法: '荆棘'  (标准 '仙灵荆棘之触')
+
+=== 'Touched by Fire Wyrm' -> 标准译名 '烈焰蛟龙之触' （1 处不一致）===
+  [lcs] key: 'Touched by Fire Wyrm Egg'
+        val: '烈焰蛟龙蛋之触'
+        译法: '烈焰蛟龙'  (标准 '烈焰蛟龙之触')
+
+=== 'Touched by Flame' -> 标准译名 '火焰之触' （1 处不一致）===
+  [lcs] key: 'Touched by Flame Blade Fragment'
+        val: '焰刃碎片之触'
+        译法: '之触'  (标准 '火焰之触')
+
+=== 'Touched by Forest' -> 标准译名 '森林之触' （1 处不一致）===
+  [lcs] key: 'Touched by Forest of Flying Daggers'
+        val: '飞刀之林之触'
+        译法: '林之触'  (标准 '森林之触')
+
+=== 'Touched by Freeze' -> 标准译名 '冰冻之触' （1 处不一致）===
+  [lcs] key: 'Touched by Freeze gains quickcast'
+        val: '冰冻获得快速施法之触'
+        译法: '冰冻'  (标准 '冰冻之触')
+
+=== 'Touched by Frostfire' -> 标准译名 '霜火之触' （1 处不一致）===
+  [lcs] key: 'Touched by Frostfire Tormenting Mass'
+        val: '霜火折磨之团之触'
+        译法: '霜火'  (标准 '霜火之触')
+
+=== 'Touched by Ghostly' -> 标准译名 '幽魂之触' （1 处不一致）===
+  [lcs] key: 'Touched by Ghostly Worm Shambler'
+        val: '幽魂蠕虫蹒跚怪之触'
+        译法: '幽魂'  (标准 '幽魂之触')
+
+=== 'Touched by Grave' -> 标准译名 '坟墓之触' （1 处不一致）===
+  [lcs] key: 'Touched by Grave Hunger Amulet'
+        val: '墓饥护符之触'
+        译法: '之触'  (标准 '坟墓之触')
+
+=== 'Touched by Green Gorgon' -> 标准译名 '绿蛇发女妖之触' （1 处不一致）===
+  [lcs] key: 'Touched by Green Gorgon Breath'
+        val: '绿蛇发女妖吐息之触'
+        译法: '绿蛇发女妖'  (标准 '绿蛇发女妖之触')
+
+=== 'Touched by Grey Gorgon' -> 标准译名 '灰蛇发女妖之触' （1 处不一致）===
+  [lcs] key: 'Touched by Grey Gorgon Breath'
+        val: '灰蛇发女妖吐息之触'
+        译法: '灰蛇发女妖'  (标准 '灰蛇发女妖之触')
+
+=== 'Touched by Guardians' -> 标准译名 '守卫者之触' （1 处不一致）===
+  [lcs] key: 'Touched by Guardians of Madness'
+        val: '疯狂守卫之触'
+        译法: '守卫'  (标准 '守卫者之触')
+
+=== 'Touched by Haunted' -> 标准译名 '闹鬼之触' （1 处不一致）===
+  [lcs] key: 'Touched by Haunted Blood Vial'
+        val: '萦魂血瓶之触'
+        译法: '之触'  (标准 '闹鬼之触')
+
+=== 'Touched by Healing Light' -> 标准译名 '治疗之光之触' （1 处不一致）===
+  [lcs] key: 'Touched by Healing Light Spell'
+        val: '治疗之光法术之触'
+        译法: '治疗之光'  (标准 '治疗之光之触')
+
+=== 'Touched by Holy Fire' -> 标准译名 '神圣之火之触' （1 处不一致）===
+  [lcs] key: 'Touched by Holy Fire Aura'
+        val: '神圣之火光环之触'
+        译法: '神圣之火'  (标准 '神圣之火之触')
+
+=== 'Touched by Holy Watcher' -> 标准译名 '神圣看守者之触' （1 处不一致）===
+  [lcs] key: 'Touched by Holy Watcher Form'
+        val: '神圣守望形态之触'
+        译法: '神圣'  (标准 '神圣看守者之触')
+
+=== 'Touched by Horde' -> 标准译名 '大群之触' （1 处不一致）===
+  [lcs] key: 'Touched by Horde of Halfmen'
+        val: '半人部族之触'
+        译法: '之触'  (标准 '大群之触')
+
+=== 'Touched by Ice Age' -> 标准译名 '冰河期之触' （1 处不一致）===
+  [lcs] key: 'Touched by Ice Age Shell'
+        val: '冰河龟壳之触'
+        译法: '冰河'  (标准 '冰河期之触')
+
+=== 'Touched by Icy Spriggan' -> 标准译名 '冰霜斯普里根之触' （1 处不一致）===
+  [lcs] key: 'Touched by Icy Spriggan Bush'
+        val: '冰霜斯普里根灌木丛之触'
+        译法: '冰霜斯普里根'  (标准 '冰霜斯普里根之触')
+
+=== 'Touched by Idol' -> 标准译名 '神像之触' （1 处不一致）===
+  [lcs] key: 'Touched by Idol of Burning Sacrifice'
+        val: '燃烧献祭偶像之触'
+        译法: '像之触'  (标准 '神像之触')
+
+=== 'Touched by Immolate' -> 标准译名 '焚烧之触' （1 处不一致）===
+  [lcs] key: 'Touched by Immolate gains permanent duration'
+        val: '焚烧获得永久持续时间之触'
+        译法: '焚烧'  (标准 '焚烧之触')
+
+=== 'Touched by Ironize' -> 标准译名 '铁化之触' （1 处不一致）===
+  [lcs] key: 'Touched by Ironize gains a permanent duration'
+        val: '铁化获得永久持续时间之触'
+        译法: '铁化'  (标准 '铁化之触')
+
+=== 'Touched by Kobold' -> 标准译名 '狗头人之触' （1 处不一致）===
+  [lcs] key: 'Touched by Kobold Hedge Mage'
+        val: '狗头人野法师之触'
+        译法: '狗头人'  (标准 '狗头人之触')
+
+=== 'Touched by Leghead' -> 标准译名 '腿首怪之触' （1 处不一致）===
+  [lcs] key: 'Touched by Leghead is immune to debuffs'
+        val: '腿首免疫减益之触'
+        译法: '腿首'  (标准 '腿首怪之触')
+
+=== 'Touched by Mantis' -> 标准译名 '螳螂之触' （1 处不一致）===
+  [lcs] key: 'Touched by Mantis Egg Sac'
+        val: '螳螂卵囊之触'
+        译法: '螳螂'  (标准 '螳螂之触')
+
+=== 'Touched by Melt' -> 标准译名 '熔解之触' （1 处不一致）===
+  [lcs] key: 'Touched by Melt walls adjacent to the blast'
+        val: '熔化爆炸相邻的墙壁之触'
+        译法: '之触'  (标准 '熔解之触')
+
+=== 'Touched by Multicolored Rage' -> 标准译名 '五彩之怒之触' （1 处不一致）===
+  [lcs] key: 'Touched by Multicolored Rage Rod'
+        val: '五彩之怒短杖之触'
+        译法: '五彩之怒'  (标准 '五彩之怒之触')
+
+=== 'Touched by Oozing' -> 标准译名 '渗液之触' （1 处不一致）===
+  [lcs] key: 'Touched by Oozing Scale Armor'
+        val: '渗液鳞甲之触'
+        译法: '渗液'  (标准 '渗液之触')
+
+=== 'Touched by Open' -> 标准译名 '打开之触' （1 处不一致）===
+  [lcs] key: 'Touched by Open the combat log'
+        val: '打开战斗日志之触'
+        译法: '打开'  (标准 '打开之触')
+
+=== 'Touched by Orb' -> 标准译名 '宝珠之触' （1 处不一致）===
+  [lcs] key: "Touched by Orb Controller's Mitts"
+        val: '宝珠操控手套之触'
+        译法: '宝珠'  (标准 '宝珠之触')
+
+=== 'Touched by Pale' -> 标准译名 '苍白之触' （1 处不一致）===
+  [lcs] key: "Touched by Pale Rider's Seal"
+        val: '苍白骑士之印之触'
+        译法: '苍白'  (标准 '苍白之触')
+
+=== 'Touched by Panoply' -> 标准译名 '全副武装之触' （1 处不一致）===
+  [lcs] key: 'Touched by Panoply of Ruin'
+        val: '毁灭戎装之触'
+        译法: '装之触'  (标准 '全副武装之触')
+
+=== 'Touched by Permanence' -> 标准译名 '永存之触' （1 处不一致）===
+  [lcs] key: 'Touched by Permanence duration is now permanent'
+        val: '永存的持续时间现为永久之触'
+        译法: '永存'  (标准 '永存之触')
+
+=== 'Touched by Petrify' -> 标准译名 '石化之触' （1 处不一致）===
+  [lcs] key: 'Touched by Petrify nearby enemies each turn'
+        val: '每回合石化附近敌人之触'
+        译法: '石化'  (标准 '石化之触')
+
+=== 'Touched by Protection' -> 标准译名 '防护之触' （1 处不一致）===
+  [lcs] key: 'Touched by Protection of Purity'
+        val: '纯净守护之触'
+        译法: '护之触'  (标准 '防护之触')
+
+=== 'Touched by Pyrostatic Watcher' -> 标准译名 '炎静守望者之触' （1 处不一致）===
+  [lcs] key: 'Touched by Pyrostatic Watcher Form'
+        val: '焰电守望形态之触'
+        译法: '守望'  (标准 '炎静守望者之触')
+
+=== 'Touched by Rift' -> 标准译名 '裂隙之触' （1 处不一致）===
+  [lcs] key: 'Touched by Rift Key Staff'
+        val: '裂隙钥匙法杖之触'
+        译法: '裂隙'  (标准 '裂隙之触')
+
+=== 'Touched by Serrated' -> 标准译名 '锯齿之触' （1 处不一致）===
+  [lcs] key: 'Touched by Serrated Steel Claws'
+        val: '锯齿钢爪之触'
+        译法: '锯齿'  (标准 '锯齿之触')
+
+=== 'Touched by Shatter' -> 标准译名 '碎裂之触' （1 处不一致）===
+  [lcs] key: 'Touched by Shatter Shards Necklace'
+        val: '碎晶项链之触'
+        译法: '之触'  (标准 '碎裂之触')
+
+=== 'Touched by Slime' -> 标准译名 '黏液之触' （1 处不一致）===
+  [lcs] key: 'Touched by Slime Ammo Pouch'
+        val: '黏液弹药袋之触'
+        译法: '黏液'  (标准 '黏液之触')
+
+=== 'Touched by Slimy' -> 标准译名 '黏滑之触' （1 处不一致）===
+  [lcs] key: 'Touched by Slimy Voodoo Mantle'
+        val: '黏液巫毒披风之触'
+        译法: '之触'  (标准 '黏滑之触')
+
+=== 'Touched by Soul Tax' -> 标准译名 '灵魂税之触' （1 处不一致）===
+  [lcs] key: 'Touched by Soul Tax gains quickcast'
+        val: '灵魂税获得快速施法之触'
+        译法: '灵魂税'  (标准 '灵魂税之触')
+
+=== 'Touched by Spider' -> 标准译名 '蛛类之触' （1 处不一致）===
+  [lcs] key: 'Touched by Spider Carapace Robe'
+        val: '蛛壳法袍之触'
+        译法: '之触'  (标准 '蛛类之触')
+
+=== 'Touched by Storm' -> 标准译名 '风暴之触' （1 处不一致）===
+  [lcs] key: 'Touched by Storm Caller Staff'
+        val: '唤暴者法杖之触'
+        译法: '之触'  (标准 '风暴之触')
+
+=== 'Touched by Storm Walk' -> 标准译名 '风暴行走之触' （1 处不一致）===
+  [lcs] key: 'Touched by Storm Walk gains quickcast'
+        val: '风暴行走获得快速施法之触'
+        译法: '风暴行走'  (标准 '风暴行走之触')
+
+=== 'Touched by Supremacy' -> 标准译名 '至高之触' （1 处不一致）===
+  [lcs] key: 'Touched by Supremacy of Stone'
+        val: '石之至上之触'
+        译法: '之触'  (标准 '至高之触')
+
+=== 'Touched by Torrent' -> 标准译名 '激流之触' （1 处不一致）===
+  [lcs] key: 'Touched by Torrent of Bats'
+        val: '蝙蝠洪流之触'
+        译法: '流之触'  (标准 '激流之触')
+
+=== 'Touched by Ultimate' -> 标准译名 '终极之触' （1 处不一致）===
+  [lcs] key: 'Touched by Ultimate Mind Devourer'
+        val: '终极噬心者之触'
+        译法: '终极'  (标准 '终极之触')
+
+=== 'Touched by Underworld Passage' -> 标准译名 '冥界通道之触' （1 处不一致）===
+  [lcs] key: 'Touched by Underworld Passage gains quickcast'
+        val: '冥界通道获得快速施法之触'
+        译法: '冥界通道'  (标准 '冥界通道之触')
+
+=== 'Touched by Vampire Count' -> 标准译名 '吸血鬼伯爵之触' （1 处不一致）===
+  [lcs] key: 'Touched by Vampire Count Bat'
+        val: '吸血鬼伯爵蝙蝠之触'
+        译法: '吸血鬼伯爵'  (标准 '吸血鬼伯爵之触')
+
+=== 'Touched by Venom' -> 标准译名 '毒液之触' （1 处不一致）===
+  [lcs] key: 'Touched by Venom Spitter Casque'
+        val: '毒喷者头盔之触'
+        译法: '之触'  (标准 '毒液之触')
+
+=== 'Touched by Void Watcher' -> 标准译名 '虚空看守者之触' （1 处不一致）===
+  [lcs] key: 'Touched by Void Watcher Form'
+        val: '虚空守望形态之触'
+        译法: '虚空'  (标准 '虚空看守者之触')
+
+=== 'Touched by Web' -> 标准译名 '蛛网之触' （1 处不一致）===
+  [lcs] key: 'Touched by Web of Fear'
+        val: '恐惧之网之触'
+        译法: '网之触'  (标准 '蛛网之触')
+
+=== 'Touched by Wheel' -> 标准译名 '轮盘之触' （1 处不一致）===
+  [lcs] key: 'Touched by Wheel of Death'
+        val: '死亡之轮之触'
+        译法: '之触'  (标准 '轮盘之触')
+
+=== 'Touched by White' -> 标准译名 '白色之触' （1 处不一致）===
+  [lcs] key: "Touched by White Rider's Seal"
+        val: '白骑士之印之触'
+        译法: '之触'  (标准 '白色之触')
+
+=== 'Touched by Winter Fae' -> 标准译名 '寒冬妖精之触' （1 处不一致）===
+  [lcs] key: 'Touched by Winter Fae Queen'
+        val: '冬之仙灵女王之触'
+        译法: '之触'  (标准 '寒冬妖精之触')
+
+=== 'Touched by Wyrm' -> 标准译名 '蟠龙之触' （1 处不一致）===
+  [lcs] key: 'Touched by Wyrm Spirit Armor'
+        val: '龙灵护甲之触'
+        译法: '之触'  (标准 '蟠龙之触')
+
+=== 'Flame Rift' -> 标准译名 '火焰裂隙' （1 处不一致）===
+  [lcs] key: 'When Blazerip kills an enemy, summon a Flame Rift or Void Rift depending on the damage typ'
+        val: '烈焰撕裂击杀敌人时，根据击杀的伤害类型召唤烈焰裂隙或虚空裂隙'
+        译法: '焰裂隙'  (标准 '火焰裂隙')
+
+=== 'Chain Lightning' -> 标准译名 '连锁闪电' （1 处不一致）===
+  [lcs] key: 'When targeted by an enemy spell, cast Chain Lightning on the caster'
+        val: '被敌方法术指定为目标时，对施法者施放链式闪电'
+        译法: '闪电'  (标准 '连锁闪电')
+
+=== 'Summon Blade' -> 标准译名 '召唤利刃' （1 处不一致）===
+  [lcs] key: 'When this spell kills a unit, cast your Summon Blade spell where it died'
+        val: '此法术击杀单位时，在其死亡处施放你的召唤魔刃法术'
+        译法: '召唤'  (标准 '召唤利刃')
+
+=== 'Ice Faery' -> 标准译名 '冰霜仙灵' （1 处不一致）===
+  [missing] key: 'When you cast Iceball, summon an Ice Faery for every 4 enemies it damages'
+        val: '施放冰球时，每伤害 4 个敌人，就召唤一只冰妖精'
+
+=== 'Fire Elemental' -> 标准译名 '火元素' （1 处不一致）===
+  [lcs] key: 'When you cast a [Fire] spell, summon a temporary Fire Elemental near the target\nThis effec'
+        val: '你施放[火:fire]法术时，在目标附近召唤一只临时火焰元素\n若你移动或施放不含[火:fire]标签的法术，此效果结束'
+        译法: '元素'  (标准 '火元素')
+
+=== 'Arcane Warding' -> 标准译名 '奥术守护' （1 处不一致）===
+  [stem] key: 'When you cast this spell, the summoned Faeries cast your Arcane Warding on themselves'
+        val: '你施放此法术时，被召唤的仙灵会对自己施放你的奥术守卫'
+        译法: '奥术守'  (标准 '奥术守护')
+        建议: '你施放此法术时，被召唤的仙灵会对自己施放你的奥术守护卫'
+
+=== 'Dragon Claw' -> 标准译名 '龙爪术' （1 处不一致）===
+  [stem] key: 'When you take a step, cast Dragon Claw on a random adjacent enemy'
+        val: '你每走一步，对一名随机相邻敌人施放龙爪'
+        译法: '龙爪'  (标准 '龙爪术')
+        建议: '你每走一步，对一名随机相邻敌人施放龙爪术'
+
+=== 'Combust Poison' -> 标准译名 '毒素引燃' （1 处不一致）===
+  [lcs] key: 'While enemies live, cast Combust Poison at the end of each turn'
+        val: '只要还有敌人生存，每回合结束时施放引爆毒素'
+        译法: '毒素'  (标准 '毒素引燃')
+
+=== 'Arbiter Cage Curse Doll' -> 标准译名 '仲裁者囚笼咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win while wearing Arbiter Cage Curse Doll'
+        val: '穿戴仲裁者囚笼获胜咒术人偶'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼咒术人偶')
+
+=== 'Arbiter Cage Egg' -> 标准译名 '仲裁者囚笼蛋' （1 处不一致）===
+  [stem] key: 'Win while wearing Arbiter Cage Egg'
+        val: '穿戴仲裁者囚笼获胜蛋'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼蛋')
+        建议: '穿戴仲裁者囚笼蛋获胜蛋'
+
+=== "Arbiter Cage Hunter's Sigil" -> 标准译名 '仲裁者囚笼猎手印记' （1 处不一致）===
+  [lcs] key: "Win while wearing Arbiter Cage Hunter's Sigil"
+        val: '穿戴仲裁者囚笼获胜猎手印记'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼猎手印记')
+
+=== 'Arbiter Cage Oculus' -> 标准译名 '仲裁者囚笼魔眼' （1 处不一致）===
+  [lcs] key: 'Win while wearing Arbiter Cage Oculus'
+        val: '穿戴仲裁者囚笼获胜魔眼'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼魔眼')
+
+=== 'Arbiter Cage Queen' -> 标准译名 '仲裁者囚笼女王' （1 处不一致）===
+  [lcs] key: 'Win while wearing Arbiter Cage Queen'
+        val: '穿戴仲裁者囚笼获胜女王'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼女王')
+
+=== 'Arbiter Cage Repeater' -> 标准译名 '仲裁者囚笼连发' （1 处不一致）===
+  [lcs] key: 'Win while wearing Arbiter Cage Repeater'
+        val: '穿戴仲裁者囚笼获胜连发'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼连发')
+
+=== 'Arbiter Cage Spawner' -> 标准译名 '仲裁者囚笼生成器' （1 处不一致）===
+  [lcs] key: 'Win while wearing Arbiter Cage Spawner'
+        val: '穿戴仲裁者囚笼获胜生成器'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼生成器')
+
+=== 'Arbiter Cage Swarm Summon' -> 标准译名 '仲裁者囚笼虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win while wearing Arbiter Cage Swarm Summon'
+        val: '穿戴仲裁者囚笼获胜虫群召唤'
+        译法: '仲裁者囚笼'  (标准 '仲裁者囚笼虫群召唤')
+
+=== 'Bishop Boots' -> 标准译名 '主教长靴' （1 处不一致）===
+  [lcs] key: 'Win while wearing Bishop Boots and Castellan Clogs'
+        val: '穿戴主教靴与城主木屐获胜'
+        译法: '主教'  (标准 '主教长靴')
+
+=== 'Castellan Clogs' -> 标准译名 '城主木鞋' （1 处不一致）===
+  [stem] key: 'Win while wearing Bishop Boots and Castellan Clogs'
+        val: '穿戴主教靴与城主木屐获胜'
+        译法: '城主木'  (标准 '城主木鞋')
+        建议: '穿戴主教靴与城主木鞋屐获胜'
+
+=== 'Chaos Scale Crown' -> 标准译名 '混沌鳞冠' （1 处不一致）===
+  [lcs] key: 'Win while wearing Chaos Scale Crown, Dragonspine Cloak, Drakenstaff, and Wyrm Spirit Armor'
+        val: '穿戴混沌之鳞王冠、龙脊斗篷、德拉肯法杖与蟠龙之魂护甲获胜'
+        译法: '混沌'  (标准 '混沌鳞冠')
+
+=== 'Wyrm Spirit Armor' -> 标准译名 '龙灵护甲' （1 处不一致）===
+  [lcs] key: 'Win while wearing Chaos Scale Crown, Dragonspine Cloak, Drakenstaff, and Wyrm Spirit Armor'
+        val: '穿戴混沌之鳞王冠、龙脊斗篷、德拉肯法杖与蟠龙之魂护甲获胜'
+        译法: '护甲'  (标准 '龙灵护甲')
+
+=== 'Prism of Shattered Sensations' -> 标准译名 '碎感棱镜' （1 处不一致）===
+  [lcs] key: 'Win while wearing Codex of Chaotic Evolution, Prism of Shattered Sensations, Cyst of Etern'
+        val: '穿戴混沌进化典籍、破碎感知棱镜、永恒绽放囊肿与无尽屠戮宝珠获胜'
+        译法: '碎感'  (标准 '碎感棱镜')
+
+=== 'Cyst of Eternal Bloom' -> 标准译名 '永绽囊肿' （1 处不一致）===
+  [lcs] key: 'Win while wearing Codex of Chaotic Evolution, Prism of Shattered Sensations, Cyst of Etern'
+        val: '穿戴混沌进化典籍、破碎感知棱镜、永恒绽放囊肿与无尽屠戮宝珠获胜'
+        译法: '囊肿'  (标准 '永绽囊肿')
+
+=== 'Orb of Infinite Slaughter' -> 标准译名 '无尽杀戮宝珠' （1 处不一致）===
+  [lcs] key: 'Win while wearing Codex of Chaotic Evolution, Prism of Shattered Sensations, Cyst of Etern'
+        val: '穿戴混沌进化典籍、破碎感知棱镜、永恒绽放囊肿与无尽屠戮宝珠获胜'
+        译法: '戮宝珠'  (标准 '无尽杀戮宝珠')
+
+=== 'Dream Thief Diadem' -> 标准译名 '窃梦头冠' （1 处不一致）===
+  [lcs] key: 'Win while wearing Dream Thief Diadem, Psychopomp Staff, and Hypno Bauble'
+        val: '穿戴窃梦冠冕、渡魂法杖与催眠饰珠获胜'
+        译法: '窃梦'  (标准 '窃梦头冠')
+
+=== 'Psychopomp Staff' -> 标准译名 '引魂者法杖' （1 处不一致）===
+  [lcs] key: 'Win while wearing Dream Thief Diadem, Psychopomp Staff, and Hypno Bauble'
+        val: '穿戴窃梦冠冕、渡魂法杖与催眠饰珠获胜'
+        译法: '法杖'  (标准 '引魂者法杖')
+
+=== 'Hypno Bauble' -> 标准译名 '催眠小饰品' （1 处不一致）===
+  [lcs] key: 'Win while wearing Dream Thief Diadem, Psychopomp Staff, and Hypno Bauble'
+        val: '穿戴窃梦冠冕、渡魂法杖与催眠饰珠获胜'
+        译法: '催眠'  (标准 '催眠小饰品')
+
+=== 'Eye Helm' -> 标准译名 '眼魔头盔' （1 处不一致）===
+  [missing] key: "Win while wearing Eye Helm, Balor's Eye Staff, and Raiment of Eyes"
+        val: '穿戴眼盔、巴洛尔之眼法杖与万目衣获胜'
+
+=== 'Raiment of Eyes' -> 标准译名 '千眼法衣' （1 处不一致）===
+  [lcs] key: "Win while wearing Eye Helm, Balor's Eye Staff, and Raiment of Eyes"
+        val: '穿戴眼盔、巴洛尔之眼法杖与万目衣获胜'
+        译法: '眼法'  (标准 '千眼法衣')
+
+=== 'Slimebirth Cantromancy' -> 标准译名 '黏液降生坎特罗术' （1 处不一致）===
+  [lcs] key: 'Win while wearing Slimebirth Cantromancy, Macrophagic Mask, and Slimy Voodoo Mantle'
+        val: '穿戴黏液诞生术、巨噬面具与黏滑巫毒披风获胜'
+        译法: '黏液'  (标准 '黏液降生坎特罗术')
+
+=== 'Slimy Voodoo Mantle' -> 标准译名 '黏液巫毒披风' （1 处不一致）===
+  [lcs] key: 'Win while wearing Slimebirth Cantromancy, Macrophagic Mask, and Slimy Voodoo Mantle'
+        val: '穿戴黏液诞生术、巨噬面具与黏滑巫毒披风获胜'
+        译法: '巫毒披风'  (标准 '黏液巫毒披风')
+
+=== 'Blood Bullet Curse Doll' -> 标准译名 '血弹咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Blood Bullet Curse Doll'
+        val: '用完全强化的鲜血子弹获胜咒术人偶'
+        译法: '咒术人偶'  (标准 '血弹咒术人偶')
+
+=== 'Blood Bullet Egg' -> 标准译名 '血弹蛋' （1 处不一致）===
+  [missing] key: 'Win with a fully upgraded Blood Bullet Egg'
+        val: '用完全强化的鲜血子弹获胜蛋'
+
+=== "Blood Bullet Hunter's Sigil" -> 标准译名 '血弹猎手印记' （1 处不一致）===
+  [lcs] key: "Win with a fully upgraded Blood Bullet Hunter's Sigil"
+        val: '用完全强化的鲜血子弹获胜猎手印记'
+        译法: '猎手印记'  (标准 '血弹猎手印记')
+
+=== 'Blood Bullet Oculus' -> 标准译名 '血弹魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Blood Bullet Oculus'
+        val: '用完全强化的鲜血子弹获胜魔眼'
+        译法: '魔眼'  (标准 '血弹魔眼')
+
+=== 'Blood Bullet Queen' -> 标准译名 '血弹女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Blood Bullet Queen'
+        val: '用完全强化的鲜血子弹获胜女王'
+        译法: '女王'  (标准 '血弹女王')
+
+=== 'Blood Bullet Repeater' -> 标准译名 '血弹连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Blood Bullet Repeater'
+        val: '用完全强化的鲜血子弹获胜连发'
+        译法: '连发'  (标准 '血弹连发')
+
+=== 'Blood Bullet Spawner' -> 标准译名 '血弹生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Blood Bullet Spawner'
+        val: '用完全强化的鲜血子弹获胜生成器'
+        译法: '生成器'  (标准 '血弹生成器')
+
+=== 'Blood Bullet Swarm Summon' -> 标准译名 '血弹虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Blood Bullet Swarm Summon'
+        val: '用完全强化的鲜血子弹获胜虫群召唤'
+        译法: '虫群召唤'  (标准 '血弹虫群召唤')
+
+=== 'Carnival of Pain' -> 标准译名 '痛苦狂欢' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Carnival of Pain'
+        val: '用完全强化的苦痛狂欢节获胜'
+        译法: '狂欢'  (标准 '痛苦狂欢')
+
+=== 'Death Bolt Curse Doll' -> 标准译名 '死亡箭咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Death Bolt Curse Doll'
+        val: '用完全强化的死亡闪电获胜咒术人偶'
+        译法: '咒术人偶'  (标准 '死亡箭咒术人偶')
+
+=== 'Death Bolt Egg' -> 标准译名 '死亡箭蛋' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Death Bolt Egg'
+        val: '用完全强化的死亡闪电获胜蛋'
+        译法: '死亡'  (标准 '死亡箭蛋')
+
+=== "Death Bolt Hunter's Sigil" -> 标准译名 '死亡箭猎手印记' （1 处不一致）===
+  [lcs] key: "Win with a fully upgraded Death Bolt Hunter's Sigil"
+        val: '用完全强化的死亡闪电获胜猎手印记'
+        译法: '猎手印记'  (标准 '死亡箭猎手印记')
+
+=== 'Death Bolt Oculus' -> 标准译名 '死亡箭魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Death Bolt Oculus'
+        val: '用完全强化的死亡闪电获胜魔眼'
+        译法: '死亡'  (标准 '死亡箭魔眼')
+
+=== 'Death Bolt Queen' -> 标准译名 '死亡箭女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Death Bolt Queen'
+        val: '用完全强化的死亡闪电获胜女王'
+        译法: '死亡'  (标准 '死亡箭女王')
+
+=== 'Death Bolt Repeater' -> 标准译名 '死亡箭连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Death Bolt Repeater'
+        val: '用完全强化的死亡闪电获胜连发'
+        译法: '死亡'  (标准 '死亡箭连发')
+
+=== 'Death Bolt Spawner' -> 标准译名 '死亡箭生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Death Bolt Spawner'
+        val: '用完全强化的死亡闪电获胜生成器'
+        译法: '生成器'  (标准 '死亡箭生成器')
+
+=== 'Death Bolt Swarm Summon' -> 标准译名 '死亡箭虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Death Bolt Swarm Summon'
+        val: '用完全强化的死亡闪电获胜虫群召唤'
+        译法: '虫群召唤'  (标准 '死亡箭虫群召唤')
+
+=== 'Dream the Starwhale' -> 标准译名 '梦游星鲸' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Dream the Starwhale'
+        val: '用完全强化的梦见星鲸获胜'
+        译法: '星鲸'  (标准 '梦游星鲸')
+
+=== 'Golden Skull Curse Doll' -> 标准译名 '黄金骷髅头咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Golden Skull Curse Doll'
+        val: '用完全强化的黄金头骨获胜咒术人偶'
+        译法: '咒术人偶'  (标准 '黄金骷髅头咒术人偶')
+
+=== 'Golden Skull Egg' -> 标准译名 '黄金骷髅头蛋' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Golden Skull Egg'
+        val: '用完全强化的黄金头骨获胜蛋'
+        译法: '黄金'  (标准 '黄金骷髅头蛋')
+
+=== "Golden Skull Hunter's Sigil" -> 标准译名 '黄金骷髅头猎手印记' （1 处不一致）===
+  [lcs] key: "Win with a fully upgraded Golden Skull Hunter's Sigil"
+        val: '用完全强化的黄金头骨获胜猎手印记'
+        译法: '猎手印记'  (标准 '黄金骷髅头猎手印记')
+
+=== 'Golden Skull Oculus' -> 标准译名 '黄金骷髅头魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Golden Skull Oculus'
+        val: '用完全强化的黄金头骨获胜魔眼'
+        译法: '黄金'  (标准 '黄金骷髅头魔眼')
+
+=== 'Golden Skull Queen' -> 标准译名 '黄金骷髅头女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Golden Skull Queen'
+        val: '用完全强化的黄金头骨获胜女王'
+        译法: '黄金'  (标准 '黄金骷髅头女王')
+
+=== 'Golden Skull Repeater' -> 标准译名 '黄金骷髅头连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Golden Skull Repeater'
+        val: '用完全强化的黄金头骨获胜连发'
+        译法: '黄金'  (标准 '黄金骷髅头连发')
+
+=== 'Golden Skull Spawner' -> 标准译名 '黄金骷髅头生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Golden Skull Spawner'
+        val: '用完全强化的黄金头骨获胜生成器'
+        译法: '生成器'  (标准 '黄金骷髅头生成器')
+
+=== 'Golden Skull Swarm Summon' -> 标准译名 '黄金骷髅头虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Golden Skull Swarm Summon'
+        val: '用完全强化的黄金头骨获胜虫群召唤'
+        译法: '虫群召唤'  (标准 '黄金骷髅头虫群召唤')
+
+=== 'Immolate Curse Doll' -> 标准译名 '焚烧咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Immolate Curse Doll'
+        val: '用完全强化的焚烧获胜咒术人偶'
+        译法: '咒术人偶'  (标准 '焚烧咒术人偶')
+
+=== 'Immolate Egg' -> 标准译名 '焚烧蛋' （1 处不一致）===
+  [stem] key: 'Win with a fully upgraded Immolate Egg'
+        val: '用完全强化的焚烧获胜蛋'
+        译法: '焚烧'  (标准 '焚烧蛋')
+        建议: '用完全强化的焚烧蛋获胜蛋'
+
+=== "Immolate Hunter's Sigil" -> 标准译名 '焚烧猎手印记' （1 处不一致）===
+  [lcs] key: "Win with a fully upgraded Immolate Hunter's Sigil"
+        val: '用完全强化的焚烧获胜猎手印记'
+        译法: '猎手印记'  (标准 '焚烧猎手印记')
+
+=== 'Immolate Oculus' -> 标准译名 '焚烧魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Immolate Oculus'
+        val: '用完全强化的焚烧获胜魔眼'
+        译法: '焚烧'  (标准 '焚烧魔眼')
+
+=== 'Immolate Queen' -> 标准译名 '焚烧女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Immolate Queen'
+        val: '用完全强化的焚烧获胜女王'
+        译法: '焚烧'  (标准 '焚烧女王')
+
+=== 'Immolate Repeater' -> 标准译名 '焚烧连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Immolate Repeater'
+        val: '用完全强化的焚烧获胜连发'
+        译法: '焚烧'  (标准 '焚烧连发')
+
+=== 'Immolate Spawner' -> 标准译名 '焚烧生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Immolate Spawner'
+        val: '用完全强化的焚烧获胜生成器'
+        译法: '生成器'  (标准 '焚烧生成器')
+
+=== 'Immolate Swarm Summon' -> 标准译名 '焚烧虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Immolate Swarm Summon'
+        val: '用完全强化的焚烧获胜虫群召唤'
+        译法: '虫群召唤'  (标准 '焚烧虫群召唤')
+
+=== 'Leghead Curse Doll' -> 标准译名 '腿首怪咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Leghead Curse Doll'
+        val: '用完全强化的腿头怪获胜咒术人偶'
+        译法: '咒术人偶'  (标准 '腿首怪咒术人偶')
+
+=== 'Leghead Egg' -> 标准译名 '腿首怪蛋' （1 处不一致）===
+  [missing] key: 'Win with a fully upgraded Leghead Egg'
+        val: '用完全强化的腿头怪获胜蛋'
+
+=== "Leghead Hunter's Sigil" -> 标准译名 '腿首怪猎手印记' （1 处不一致）===
+  [lcs] key: "Win with a fully upgraded Leghead Hunter's Sigil"
+        val: '用完全强化的腿头怪获胜猎手印记'
+        译法: '猎手印记'  (标准 '腿首怪猎手印记')
+
+=== 'Leghead Oculus' -> 标准译名 '腿首怪魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Leghead Oculus'
+        val: '用完全强化的腿头怪获胜魔眼'
+        译法: '魔眼'  (标准 '腿首怪魔眼')
+
+=== 'Leghead Queen' -> 标准译名 '腿首怪女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Leghead Queen'
+        val: '用完全强化的腿头怪获胜女王'
+        译法: '女王'  (标准 '腿首怪女王')
+
+=== 'Leghead Repeater' -> 标准译名 '腿首怪连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Leghead Repeater'
+        val: '用完全强化的腿头怪获胜连发'
+        译法: '连发'  (标准 '腿首怪连发')
+
+=== 'Leghead Spawner' -> 标准译名 '腿首怪生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Leghead Spawner'
+        val: '用完全强化的腿头怪获胜生成器'
+        译法: '生成器'  (标准 '腿首怪生成器')
+
+=== 'Leghead Swarm Summon' -> 标准译名 '腿首怪虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Leghead Swarm Summon'
+        val: '用完全强化的腿头怪获胜虫群召唤'
+        译法: '虫群召唤'  (标准 '腿首怪虫群召唤')
+
+=== 'Prismatic Beam Curse Doll' -> 标准译名 '棱彩光束咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Prismatic Beam Curse Doll'
+        val: '用完全强化的棱彩光束获胜咒术人偶'
+        译法: '棱彩光束'  (标准 '棱彩光束咒术人偶')
+
+=== 'Prismatic Beam Egg' -> 标准译名 '棱彩光束蛋' （1 处不一致）===
+  [stem] key: 'Win with a fully upgraded Prismatic Beam Egg'
+        val: '用完全强化的棱彩光束获胜蛋'
+        译法: '棱彩光束'  (标准 '棱彩光束蛋')
+        建议: '用完全强化的棱彩光束蛋获胜蛋'
+
+=== "Prismatic Beam Hunter's Sigil" -> 标准译名 '棱彩光束猎手印记' （1 处不一致）===
+  [lcs] key: "Win with a fully upgraded Prismatic Beam Hunter's Sigil"
+        val: '用完全强化的棱彩光束获胜猎手印记'
+        译法: '棱彩光束'  (标准 '棱彩光束猎手印记')
+
+=== 'Prismatic Beam Oculus' -> 标准译名 '棱彩光束魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Prismatic Beam Oculus'
+        val: '用完全强化的棱彩光束获胜魔眼'
+        译法: '棱彩光束'  (标准 '棱彩光束魔眼')
+
+=== 'Prismatic Beam Queen' -> 标准译名 '棱彩光束女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Prismatic Beam Queen'
+        val: '用完全强化的棱彩光束获胜女王'
+        译法: '棱彩光束'  (标准 '棱彩光束女王')
+
+=== 'Prismatic Beam Repeater' -> 标准译名 '棱彩光束连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Prismatic Beam Repeater'
+        val: '用完全强化的棱彩光束获胜连发'
+        译法: '棱彩光束'  (标准 '棱彩光束连发')
+
+=== 'Prismatic Beam Spawner' -> 标准译名 '棱彩光束生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Prismatic Beam Spawner'
+        val: '用完全强化的棱彩光束获胜生成器'
+        译法: '棱彩光束'  (标准 '棱彩光束生成器')
+
+=== 'Prismatic Beam Swarm Summon' -> 标准译名 '棱彩光束虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Prismatic Beam Swarm Summon'
+        val: '用完全强化的棱彩光束获胜虫群召唤'
+        译法: '棱彩光束'  (标准 '棱彩光束虫群召唤')
+
+=== 'Torrent Curse Doll' -> 标准译名 '激流咒术人偶' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Torrent Curse Doll'
+        val: '用完全强化的激流获胜咒术人偶'
+        译法: '咒术人偶'  (标准 '激流咒术人偶')
+
+=== 'Torrent Egg' -> 标准译名 '激流蛋' （1 处不一致）===
+  [stem] key: 'Win with a fully upgraded Torrent Egg'
+        val: '用完全强化的激流获胜蛋'
+        译法: '激流'  (标准 '激流蛋')
+        建议: '用完全强化的激流蛋获胜蛋'
+
+=== "Torrent Hunter's Sigil" -> 标准译名 '激流猎手印记' （1 处不一致）===
+  [lcs] key: "Win with a fully upgraded Torrent Hunter's Sigil"
+        val: '用完全强化的激流获胜猎手印记'
+        译法: '猎手印记'  (标准 '激流猎手印记')
+
+=== 'Torrent Oculus' -> 标准译名 '激流魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Torrent Oculus'
+        val: '用完全强化的激流获胜魔眼'
+        译法: '激流'  (标准 '激流魔眼')
+
+=== 'Torrent Queen' -> 标准译名 '激流女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Torrent Queen'
+        val: '用完全强化的激流获胜女王'
+        译法: '激流'  (标准 '激流女王')
+
+=== 'Torrent Repeater' -> 标准译名 '激流连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Torrent Repeater'
+        val: '用完全强化的激流获胜连发'
+        译法: '激流'  (标准 '激流连发')
+
+=== 'Torrent Spawner' -> 标准译名 '激流生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Torrent Spawner'
+        val: '用完全强化的激流获胜生成器'
+        译法: '生成器'  (标准 '激流生成器')
+
+=== 'Torrent Swarm Summon' -> 标准译名 '激流虫群召唤' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Torrent Swarm Summon'
+        val: '用完全强化的激流获胜虫群召唤'
+        译法: '虫群召唤'  (标准 '激流虫群召唤')
+
+=== 'Wheel of Death Egg' -> 标准译名 '死亡之轮蛋' （1 处不一致）===
+  [stem] key: 'Win with a fully upgraded Wheel of Death Egg'
+        val: '用完全强化的死亡之轮获胜蛋'
+        译法: '死亡之轮'  (标准 '死亡之轮蛋')
+        建议: '用完全强化的死亡之轮蛋获胜蛋'
+
+=== 'Wheel of Death Oculus' -> 标准译名 '死亡之轮魔眼' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Wheel of Death Oculus'
+        val: '用完全强化的死亡之轮获胜魔眼'
+        译法: '死亡之轮'  (标准 '死亡之轮魔眼')
+
+=== 'Wheel of Death Queen' -> 标准译名 '死亡之轮女王' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Wheel of Death Queen'
+        val: '用完全强化的死亡之轮获胜女王'
+        译法: '死亡之轮'  (标准 '死亡之轮女王')
+
+=== 'Wheel of Death Repeater' -> 标准译名 '死亡之轮连发' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Wheel of Death Repeater'
+        val: '用完全强化的死亡之轮获胜连发'
+        译法: '死亡之轮'  (标准 '死亡之轮连发')
+
+=== 'Wheel of Death Spawner' -> 标准译名 '死亡之轮生成器' （1 处不一致）===
+  [lcs] key: 'Win with a fully upgraded Wheel of Death Spawner'
+        val: '用完全强化的死亡之轮获胜生成器'
+        译法: '死亡之轮'  (标准 '死亡之轮生成器')

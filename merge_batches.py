@@ -60,6 +60,33 @@ FORCE = {
 }
 for _k, _v in FORCE.items():
     merged[_k] = _v
+
+# 译名统一（gen_unify.py 生成）：标准名覆盖 + 按英文名词限定范围的句子内替换
+UNIFY_PATH = os.path.join(HERE, "term_unify.json")
+if os.path.exists(UNIFY_PATH):
+    with open(UNIFY_PATH, encoding="utf-8") as _uf:
+        _u = json.load(_uf)
+    for _k, _v in _u.get("overrides", {}).items():
+        merged[_k] = _v
+    _hit = 0
+    for _rule in _u.get("rules", []):
+        _sc = re.compile(_rule["scope"]) if _rule.get("scope") else None
+        _ex = re.compile(_rule["exclude"]) if _rule.get("exclude") else None
+        for _k in list(merged):
+            if _sc is not None and not _sc.search(_k):
+                continue
+            if _ex is not None and _ex.search(_k):
+                continue
+            _v = merged[_k]
+            for _f, _r in _rule["pairs"]:
+                _v = re.sub(_f, _r, _v)
+            if _v != merged[_k]:
+                merged[_k] = _v
+                _hit += 1
+    print("译名统一: 标准名覆盖 %d 条，句子规则命中 %d 条" % (len(_u.get("overrides", {})), _hit))
+else:
+    print("!! 缺少 term_unify.json，跳过译名统一")
+
 bare_tok = re.compile(r"\[([a-z][a-z_]{2,})\]")
 LABELS = {
     "minion_damage": "召唤物伤害",
