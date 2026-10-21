@@ -42,7 +42,6 @@ rules = [
     R(r"turned into slimes of matching types", (r"电黏液怪", "闪电黏液怪"), (r"冰黏液怪", "冰霜黏液怪")),
     # 法术/怪物显示名
     R(r"\bThunder Strike\b", (r"雷击", "雷霆打击"), (r"雷袭", "雷霆打击")),
-    R(r"\bMelts walls\b", (r"融化墙壁", "熔毁墙壁"), (r"熔化墙壁", "熔毁墙壁")),
     R(r"\bLeghead\b", (r"腿首(?!怪)", "腿首怪"), (r"腿头怪", "腿首怪")),
     R(r"\bGolden Skull\b", (r"黄金骷髅(?!头)", "黄金骷髅头"), (r"黄金头骨", "黄金骷髅头")),
     R(r"\bNight Hag\b", (r"夜婆", "夜巫婆")),
@@ -55,7 +54,7 @@ rules = [
     R(r"\bFiery Tormentor\b", (r"烈焰折磨者", "灼焰折磨者")),
     R(r"\bFiery Tormenting Mass\b", (r"炽焰折磨之团", "灼焰折磨之团")),
     R(r"\bPrismatic Beam\b", (r"棱镜光束", "棱彩光束")),
-    R(r"\bMelted Armor\b", (r"熔毁护甲", "熔化护甲")),
+    R(r"Melt", (r"融化", "熔化"), (r"熔解", "熔化"), (r"熔毁", "熔化")),  # Melt/Melts/Melted 全族统一「熔化」
     R(r"\bSpike Ball\b", (r"(?<!尖)刺球", "尖刺球")),
     R(r"\bSpikeball\b", (r"铜刺球", "铜制尖刺球")),
     R(r"\bCopper Spike Ball\b", (r"铜刺球", "铜制尖刺球"), (r"铜尖刺球", "铜制尖刺球")),
@@ -76,8 +75,8 @@ rules = [
     R(r"\bCarnival of Pain\b", (r"苦痛狂欢节", "痛苦狂欢")),
     R(r"\bChaos Fiend\b", (r"混沌恶魔", "混沌魔")),
     R(r"\bFearface\b", (r"惧面兽", "惧面怪")),
-    R(r"\bDrain\b", (r"吸取", "汲取")),
-    R(r"Drains a spell charge", (r"消耗 1 个法术充能", "吸取 1 个法术充能")),
+    R(r"(?i)drain", (r"汲取", "吸取")),
+    R(r"Drains a spell charge", (r"吸取 1 个法术充能", "吸取一个法术充能"), (r"消耗 1 个法术充能", "吸取一个法术充能")),
     R(r"\bSpreads\b", (r"传染", "蔓延")),
     R(r"Summon Blizzards, Storm Clouds", (r"雷云", "风暴云")),
     R(r"\bGhost\b", (r"幽灵", "幽魂")),
@@ -116,9 +115,7 @@ rules = [
     R(r"\bWyrm Spirit Armor\b", (r"蟠龙之魂护甲", "龙灵护甲")),
     R(r"\bBonus HP\b", (r"额外生命", "加成生命")),
     R(r"\bArcane Warding\b", (r"奥术守卫", "奥术守护")),
-    R(r"\bLifedrain\b", (r"生命汲取", "生命吸取")),
     R(r"\bRot\b", (r"腐化", "腐烂")),
-    R(r"\bMelt\b", (r"熔化", "熔解")),
     R(r"\bWolves\b", (r"狼获得", "狼群获得")),
     R(r"\bGoatia\b", (r"献祭山羊", "山羊魔")),
     R(r"\bGolden Bull\b", (r"黄金之牛", "黄金公牛")),
@@ -142,6 +139,9 @@ rules = [
     R(r"\bWyrm", (r"蟠龙", "蛟龙")),
     R(r"\bAura", (r"灵气", "光环")),
     R(r"\bBone Knight", (r"白骨骑士", "骸骨骑士")),
+    R(None, (r"痛苦魔魔", "痛苦魔")),
+    R(r"Armored", (r"装甲北极熊", "披甲北极熊")),  # 兼容复数与截断别名
+    R(r"\bEquipment Chest", (r"装备宝箱", "装备箱")),
     # 毒素伤害标记统一为 中毒（与抗性标签/状态名一致；不影响 以太毒素 等普通词）
     R(None, (r"\[毒素:poison\]", "[中毒:poison]")),
 ]

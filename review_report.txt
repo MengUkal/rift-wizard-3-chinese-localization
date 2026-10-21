@@ -1,0 +1,3581 @@
+统一改动明细（1685 条命中 / 105 条规则）
+
+### 规则#0 scope='\\bGreen Slime\\b' 命中 30 条
+  KEY  'Assume Slime Form for [{duration}:duration] turns\nGain [50 Physical:physical] an'
+       ['召唤一只绿色黏液\n若你有多个会替'→'召唤一只绿色黏液怪\n若你有多个会替'] ['个会替换绿色黏液的强化，则每种各'→'个会替换绿色黏液怪的强化，则每种各']
+  KEY  'Baby Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'Chalice of Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液圣杯'→'召唤一个绿色黏液怪圣杯']
+  KEY  'Each time you move, summon a Green Slime nearby'
+       ['召唤一只绿色黏液'→'召唤一只绿色黏液怪']
+  KEY  'Instead of a Green Slime, summon a Blood Slime'
+       ['液，而非绿色黏液'→'液，而非绿色黏液怪']
+  KEY  'Instead of a Green Slime, summon a Fire Slime'
+       ['液，而非绿色黏液'→'液，而非绿色黏液怪']
+  KEY  'Instead of a Green Slime, summon a Void Slime'
+       ['液，而非绿色黏液'→'液，而非绿色黏液怪']
+  KEY  'Instead of a Green Slime, summon an Electric Slime'
+       ['液，而非绿色黏液'→'液，而非绿色黏液怪']
+  KEY  'Instead of a Green Slime, summon an Ice Slime'
+       ['液，而非绿色黏液'→'液，而非绿色黏液怪']
+  KEY  'Multicast Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'On Pickup:\nGain a 50% chance to summon a friendly Green Slime each turn for the '
+       ['一只友方绿色黏液'→'一只友方绿色黏液怪']
+  KEY  'Respawn As Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'Robe of Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液法袍'→'召唤一个绿色黏液怪法袍']
+  KEY  'Skeletal Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'Slimy Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'Summon Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'Summon Summons a Green Slime next to the targets'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+  KEY  'Summons a Green Slime next to the target Curse Doll'
+       ['召唤一个绿色黏液咒术人偶'→'召唤一个绿色黏液怪咒术人偶']
+  KEY  'Summons a Green Slime next to the target Egg'
+       ['召唤一个绿色黏液蛋'→'召唤一个绿色黏液怪蛋']
+  KEY  "Summons a Green Slime next to the target Hunter's Sigil"
+       ['召唤一个绿色黏液猎手印记'→'召唤一个绿色黏液怪猎手印记']
+  KEY  'Summons a Green Slime next to the target Oculus'
+       ['召唤一个绿色黏液魔眼'→'召唤一个绿色黏液怪魔眼']
+  KEY  'Summons a Green Slime next to the target Queen'
+       ['召唤一个绿色黏液女王'→'召唤一个绿色黏液怪女王']
+  KEY  'Summons a Green Slime next to the target Repeater'
+       ['召唤一个绿色黏液连发'→'召唤一个绿色黏液怪连发']
+  KEY  'Summons a Green Slime next to the target Spawner'
+       ['召唤一个绿色黏液生成器'→'召唤一个绿色黏液怪生成器']
+  KEY  'Summons a Green Slime next to the target Swarm Summon'
+       ['召唤一个绿色黏液虫群召唤'→'召唤一个绿色黏液怪虫群召唤']
+  KEY  'Target is Slimified\nSlimified deals [{damage}:damage] [Physical] damage each tur'
+       ['在附近召唤一只绿黏液怪\n持续 ['→'在附近召唤一只绿色黏液怪\n持续 [']
+  KEY  'Touched by Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液之触'→'召唤一个绿色黏液怪之触']
+  KEY  'When the Slime Drake moves, it will attempt to summon a Green Slime nearby'
+       ['召唤一只绿色黏液'→'召唤一只绿色黏液怪']
+  KEY  'temporary Summons a Green Slime next to the target'
+       ['召唤一个绿色黏液'→'召唤一个绿色黏液怪']
+
+### 规则#1 scope='\\bVoid Slimes?\\b' 命中 21 条
+  KEY  'Baby Void Slime'
+       ['幼年虚空黏液'→'幼年虚空黏液怪']
+  KEY  'Chalice of Void Slime'
+       ['虚空黏液圣杯'→'虚空黏液怪圣杯']
+  KEY  'Instead of a Green Slime, summon a Void Slime'
+       ['改为召唤虚空黏液，而非绿色黏液怪'→'改为召唤虚空黏液怪，而非绿色黏液怪']
+  KEY  'Multicast Void Slime'
+       ['重施法：虚空黏液'→'重施法：虚空黏液怪']
+  KEY  'On Pickup:\nSummon a trio of friendly Void Slimes'
+       ['三只友方虚空黏液'→'三只友方虚空黏液怪']
+  KEY  'Respawn As Void Slime'
+       ['重生为虚空黏液'→'重生为虚空黏液怪']
+  KEY  'Robe of Void Slime'
+       ['虚空黏液法袍'→'虚空黏液怪法袍']
+  KEY  'Skeletal Void Slime'
+       ['骸骨虚空黏液'→'骸骨虚空黏液怪']
+  KEY  'Slimy Void Slime'
+       ['黏滑虚空黏液'→'黏滑虚空黏液怪']
+  KEY  'Summon Void Slime'
+       ['召唤虚空黏液'→'召唤虚空黏液怪']
+  KEY  'Touched by Void Slime'
+       ['虚空黏液之触'→'虚空黏液怪之触']
+  KEY  'Void Slime'
+       ['虚空黏液'→'虚空黏液怪']
+  KEY  'Void Slime Curse Doll'
+       ['虚空黏液咒术人偶'→'虚空黏液怪咒术人偶']
+  KEY  'Void Slime Egg'
+       ['虚空黏液蛋'→'虚空黏液怪蛋']
+  KEY  "Void Slime Hunter's Sigil"
+       ['虚空黏液猎手印记'→'虚空黏液怪猎手印记']
+  KEY  'Void Slime Oculus'
+       ['虚空黏液魔眼'→'虚空黏液怪魔眼']
+  KEY  'Void Slime Queen'
+       ['虚空黏液女王'→'虚空黏液怪女王']
+  KEY  'Void Slime Repeater'
+       ['虚空黏液连发'→'虚空黏液怪连发']
+  KEY  'Void Slime Spawner'
+       ['虚空黏液生成器'→'虚空黏液怪生成器']
+  KEY  'Void Slime Swarm Summon'
+       ['虚空黏液虫群召唤'→'虚空黏液怪虫群召唤']
+  KEY  'temporary Void Slime'
+       ['临时虚空黏液'→'临时虚空黏液怪']
+
+### 规则#2 scope='\\bBlood Slimes?\\b' 命中 5 条
+  KEY  'Blood Slime Bonus'
+       ['血黏液加成'→'鲜血黏液加成']
+  KEY  'Blood Slime Rust Bonus'
+       ['血黏液锈蚀加成'→'鲜血黏液锈蚀加成']
+  KEY  'Cone attack\nSummon Blood Slimes on empty tiles'
+       ['击\n在空格上召唤血黏液'→'击\n在空格上召唤鲜血黏液']
+  KEY  'Heal 10 HP each turn\nExcess raises max HP\nWhen damaged, summon a Blood Slime'
+       ['伤害时，召唤一个血黏液'→'伤害时，召唤一个鲜血黏液']
+  KEY  'Summon a Blood Slime nearby for every [{minion_health}:minion_health] HP you spe'
+       ['就在附近召唤一只血黏液\n[已消耗'→'就在附近召唤一只鲜血黏液\n[已消耗']
+
+### 规则#3 scope='turned into slimes of matching types' 命中 1 条
+  KEY  'Storms over affected tiles are consumed, and turned into slimes of matching type'
+       ['ning] 变为电黏液怪\n[暴风'→'ning] 变为闪电黏液怪\n[暴风'] ['ice] 变为冰黏液怪\n[雨云:'→'ice] 变为冰霜黏液怪\n[雨云:']
+
+### 规则#4 scope='\\bThunder Strike\\b' 命中 7 条
+  KEY  'Cast Thunder Strike targeting up to [{num_targets}:num_targets] [Storm Clouds:li'
+       ['ning]施放雷击\n内有敌人的云'→'ning]施放雷霆打击\n内有敌人的云']
+  KEY  'Casting Blink also casts Thunder Strike on the [{num_targets}:num_targets] neare'
+       ['] 名敌人施放雷袭'→'] 名敌人施放雷霆打击']
+  KEY  'Eye of Lightning also casts Thunder Strike on units it shoots'
+       ['射击的单位施放雷袭'→'射击的单位施放雷霆打击']
+  KEY  'Rain of Thunderbolts may also target [Blizzards:ice] or [Rain Clouds:nature], bu'
+       ['施放冰球术而非雷击'→'施放冰球术而非雷霆打击']
+  KEY  'Summon a Flock of Thunder Birds instead, which can cast your Thunder Strike on a'
+       ['其可以施放你的雷袭，冷却 15 回'→'其可以施放你的雷霆打击，冷却 15 回']
+  KEY  'Thunder Strike also deals [Holy] damage'
+       ['雷击还会造成[神圣'→'雷霆打击还会造成[神圣']
+  KEY  'Thunder Strike can be cast outside your line of sight'
+       ['雷击可在你的视线外'→'雷霆打击可在你的视线外']
+
+### 规则#5 scope='\\bMelts walls\\b' 命中 6 条
+  KEY  'Beam attack\nPulls target towards the caster\nMelts walls'
+       ['目标拉向施法者\n融化墙壁'→'目标拉向施法者\n熔毁墙壁']
+  KEY  'Cone attack\nInflicts 3 turns of [fear]\nHeals allies\nMelts walls'
+       [']\n治疗盟友\n熔化墙壁'→']\n治疗盟友\n熔毁墙壁']
+  KEY  'Cone attack\nMelts walls'
+       ['锥形攻击\n融化墙壁'→'锥形攻击\n熔毁墙壁']
+  KEY  'Damages and pushes away units in a wide beam\nApplies 3 turns of soaked\nMelts wal'
+       ['持续 3 回合\n融化墙壁\n'→'持续 3 回合\n熔毁墙壁\n']
+  KEY  'Deal [{damage}:damage] [Arcane] and [Fire] damage in a [{width}:radius] tile lin'
+       ['s] 格直线\n熔化墙壁'→'s] 格直线\n熔毁墙壁']
+  KEY  'Deal [{damage}:damage] [Arcane] damage in a beam\nMelts walls'
+       ['ane]伤害\n熔化墙壁'→'ane]伤害\n熔毁墙壁']
+
+### 规则#6 scope='\\bLeghead\\b' 命中 44 条
+  KEY  'Baby Leghead is immune to debuffs'
+       ['幼年腿首免疫减益'→'幼年腿首怪免疫减益']
+  KEY  'Baby Win with a fully upgraded Leghead'
+       ['年用完全强化的腿头怪获胜'→'年用完全强化的腿首怪获胜']
+  KEY  'Chalice of Leghead is immune to debuffs'
+       ['腿首免疫减益圣杯'→'腿首怪免疫减益圣杯']
+  KEY  'Chalice of Win with a fully upgraded Leghead'
+       ['用完全强化的腿头怪获胜圣杯'→'用完全强化的腿首怪获胜圣杯']
+  KEY  'Leghead is equipped with two different pairs of your footwear'
+       ['腿首装备着你的两双不'→'腿首怪装备着你的两双不']
+  KEY  'Leghead is immune ..'
+       ['腿首免疫减益'→'腿首怪免疫减益']
+  KEY  'Leghead is immune to debuffs'
+       ['腿首免疫减益'→'腿首怪免疫减益']
+  KEY  'Leghead is immune to debuffs Curse Doll'
+       ['腿首免疫减益咒术人偶'→'腿首怪免疫减益咒术人偶']
+  KEY  'Leghead is immune to debuffs Egg'
+       ['腿首免疫减益蛋'→'腿首怪免疫减益蛋']
+  KEY  "Leghead is immune to debuffs Hunter's Sigil"
+       ['腿首免疫减益猎手印记'→'腿首怪免疫减益猎手印记']
+  KEY  'Leghead is immune to debuffs Oculus'
+       ['腿首免疫减益魔眼'→'腿首怪免疫减益魔眼']
+  KEY  'Leghead is immune to debuffs Queen'
+       ['腿首免疫减益女王'→'腿首怪免疫减益女王']
+  KEY  'Leghead is immune to debuffs Repeater'
+       ['腿首免疫减益连发'→'腿首怪免疫减益连发']
+  KEY  'Leghead is immune to debuffs Spawner'
+       ['腿首免疫减益生成器'→'腿首怪免疫减益生成器']
+  KEY  'Leghead is immune to debuffs Swarm Summon'
+       ['腿首免疫减益虫群召唤'→'腿首怪免疫减益虫群召唤']
+  KEY  'Leghead takes 3 turns immediately when summoned'
+       ['腿首被召唤时立即行动'→'腿首怪被召唤时立即行动']
+  KEY  "Leghead's bite attack also inflicts [{duration}:duration] turns of [berserk]"
+       ['腿首的啃咬攻击还施加'→'腿首怪的啃咬攻击还施加']
+  KEY  'Multicast Leghead is immune to debuffs'
+       ['多重施法：腿首免疫减益'→'多重施法：腿首怪免疫减益']
+  KEY  'Multicast Win with a fully upgraded Leghead'
+       ['：用完全强化的腿头怪获胜'→'：用完全强化的腿首怪获胜']
+  KEY  'Respawn As Leghead is immune to debuffs'
+       ['重生为腿首免疫减益'→'重生为腿首怪免疫减益']
+  KEY  'Respawn As Win with a fully upgraded Leghead'
+       ['为用完全强化的腿头怪获胜'→'为用完全强化的腿首怪获胜']
+  KEY  'Robe of Leghead is immune to debuffs'
+       ['腿首免疫减益法袍'→'腿首怪免疫减益法袍']
+  KEY  'Robe of Win with a fully upgraded Leghead'
+       ['用完全强化的腿头怪获胜法袍'→'用完全强化的腿首怪获胜法袍']
+  KEY  'Skeletal Leghead is immune to debuffs'
+       ['骸骨腿首免疫减益'→'骸骨腿首怪免疫减益']
+  KEY  'Skeletal Win with a fully upgraded Leghead'
+       ['骨用完全强化的腿头怪获胜'→'骨用完全强化的腿首怪获胜']
+  KEY  'Slimy Leghead is immune to debuffs'
+       ['黏滑腿首免疫减益'→'黏滑腿首怪免疫减益']
+  KEY  'Slimy Win with a fully upgraded Leghead'
+       ['滑用完全强化的腿头怪获胜'→'滑用完全强化的腿首怪获胜']
+  KEY  'Summon Leghead is immune to debuffs'
+       ['召唤腿首免疫减益'→'召唤腿首怪免疫减益']
+  KEY  'Summon Leghead is immune to debuffss'
+       ['召唤腿首免疫减益'→'召唤腿首怪免疫减益']
+  KEY  'Summon Win with a fully upgraded Leghead'
+       ['唤用完全强化的腿头怪获胜'→'唤用完全强化的腿首怪获胜']
+  KEY  'Summon a Leghead\nIt is equipped with a copy of your footwear if you own any'
+       ['召唤一个腿首\n若你拥有鞋类装'→'召唤一个腿首怪\n若你拥有鞋类装']
+  KEY  'Touched by Leghead is immune to debuffs'
+       ['腿首免疫减益之触'→'腿首怪免疫减益之触']
+  KEY  'Touched by Win with a fully upgraded Leghead'
+       ['用完全强化的腿头怪获胜之触'→'用完全强化的腿首怪获胜之触']
+  KEY  'Win with a fully upgraded Leghead'
+       ['用完全强化的腿头怪获胜'→'用完全强化的腿首怪获胜']
+  KEY  'Win with a fully upgraded Leghead Curse Doll'
+       ['用完全强化的腿头怪获胜咒术人偶'→'用完全强化的腿首怪获胜咒术人偶']
+  KEY  'Win with a fully upgraded Leghead Egg'
+       ['用完全强化的腿头怪获胜蛋'→'用完全强化的腿首怪获胜蛋']
+  KEY  "Win with a fully upgraded Leghead Hunter's Sigil"
+       ['用完全强化的腿头怪获胜猎手印记'→'用完全强化的腿首怪获胜猎手印记']
+  KEY  'Win with a fully upgraded Leghead Oculus'
+       ['用完全强化的腿头怪获胜魔眼'→'用完全强化的腿首怪获胜魔眼']
+  KEY  'Win with a fully upgraded Leghead Queen'
+       ['用完全强化的腿头怪获胜女王'→'用完全强化的腿首怪获胜女王']
+  KEY  'Win with a fully upgraded Leghead Repeater'
+       ['用完全强化的腿头怪获胜连发'→'用完全强化的腿首怪获胜连发']
+  KEY  'Win with a fully upgraded Leghead Spawner'
+       ['用完全强化的腿头怪获胜生成器'→'用完全强化的腿首怪获胜生成器']
+  KEY  'Win with a fully upgraded Leghead Swarm Summon'
+       ['用完全强化的腿头怪获胜虫群召唤'→'用完全强化的腿首怪获胜虫群召唤']
+  KEY  'temporary Leghead is immune to debuffs'
+       ['临时腿首免疫减益'→'临时腿首怪免疫减益']
+  KEY  'temporary Win with a fully upgraded Leghead'
+       ['时用完全强化的腿头怪获胜'→'时用完全强化的腿首怪获胜']
+
+### 规则#7 scope='\\bGolden Skull\\b' 命中 42 条
+  KEY  'Baby Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'Baby Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+  KEY  'Chalice of Summon a Golden Skull'
+       ['召唤一个黄金骷髅圣杯'→'召唤一个黄金骷髅头圣杯']
+  KEY  'Chalice of Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜圣杯'→'用完全强化的黄金骷髅头获胜圣杯'] ['完全强化的黄金头骨获胜圣杯'→'强化的黄金骷髅头获胜圣杯']
+  KEY  'Multicast Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'Multicast Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+  KEY  'Respawn As Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'Respawn As Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+  KEY  'Robe of Summon a Golden Skull'
+       ['召唤一个黄金骷髅法袍'→'召唤一个黄金骷髅头法袍']
+  KEY  'Robe of Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜法袍'→'用完全强化的黄金骷髅头获胜法袍'] ['完全强化的黄金头骨获胜法袍'→'强化的黄金骷髅头获胜法袍']
+  KEY  'Skeletal Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'Skeletal Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+  KEY  'Slimy Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'Slimy Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+  KEY  'Summon Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'Summon Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+  KEY  'Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'Summon a Golden Skull Curse Doll'
+       ['召唤一个黄金骷髅咒术人偶'→'召唤一个黄金骷髅头咒术人偶']
+  KEY  'Summon a Golden Skull Egg'
+       ['召唤一个黄金骷髅蛋'→'召唤一个黄金骷髅头蛋']
+  KEY  "Summon a Golden Skull Hunter's Sigil"
+       ['召唤一个黄金骷髅猎手印记'→'召唤一个黄金骷髅头猎手印记']
+  KEY  'Summon a Golden Skull Oculus'
+       ['召唤一个黄金骷髅魔眼'→'召唤一个黄金骷髅头魔眼']
+  KEY  'Summon a Golden Skull Queen'
+       ['召唤一个黄金骷髅女王'→'召唤一个黄金骷髅头女王']
+  KEY  'Summon a Golden Skull Repeater'
+       ['召唤一个黄金骷髅连发'→'召唤一个黄金骷髅头连发']
+  KEY  'Summon a Golden Skull Spawner'
+       ['召唤一个黄金骷髅生成器'→'召唤一个黄金骷髅头生成器']
+  KEY  'Summon a Golden Skull Swarm Summon'
+       ['召唤一个黄金骷髅虫群召唤'→'召唤一个黄金骷髅头虫群召唤']
+  KEY  'The Golden Skull can cast your Bloodshift on a 3 turn cooldown'
+       ['黄金骷髅可以施放你的血液'→'黄金骷髅头可以施放你的血液']
+  KEY  'The Golden Skull can cast your Wheel of Death on a 12 turn cooldown'
+       ['黄金骷髅可以施放你的死亡'→'黄金骷髅头可以施放你的死亡']
+  KEY  'The Golden Skull is equipped with a copy of your headwear if you own any'
+       ['部装备，黄金骷髅会装备一份它的复'→'部装备，黄金骷髅头会装备一份它的复']
+  KEY  'Touched by Summon a Golden Skull'
+       ['召唤一个黄金骷髅之触'→'召唤一个黄金骷髅头之触']
+  KEY  'Touched by Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜之触'→'用完全强化的黄金骷髅头获胜之触'] ['完全强化的黄金头骨获胜之触'→'强化的黄金骷髅头获胜之触']
+  KEY  'When you cast this spell, if there is room, summon a Skull Sentry instead of a G'
+       ['哨卫而非黄金骷髅'→'哨卫而非黄金骷髅头']
+  KEY  'Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+  KEY  'Win with a fully upgraded Golden Skull Curse Doll'
+       ['用完全强化的黄金头骨获胜咒术人偶'→'用完全强化的黄金骷髅头获胜咒术人偶'] ['完全强化的黄金头骨获胜咒术人偶'→'强化的黄金骷髅头获胜咒术人偶']
+  KEY  'Win with a fully upgraded Golden Skull Egg'
+       ['用完全强化的黄金头骨获胜蛋'→'用完全强化的黄金骷髅头获胜蛋'] ['完全强化的黄金头骨获胜蛋'→'强化的黄金骷髅头获胜蛋']
+  KEY  "Win with a fully upgraded Golden Skull Hunter's Sigil"
+       ['用完全强化的黄金头骨获胜猎手印记'→'用完全强化的黄金骷髅头获胜猎手印记'] ['完全强化的黄金头骨获胜猎手印记'→'强化的黄金骷髅头获胜猎手印记']
+  KEY  'Win with a fully upgraded Golden Skull Oculus'
+       ['用完全强化的黄金头骨获胜魔眼'→'用完全强化的黄金骷髅头获胜魔眼'] ['完全强化的黄金头骨获胜魔眼'→'强化的黄金骷髅头获胜魔眼']
+  KEY  'Win with a fully upgraded Golden Skull Queen'
+       ['用完全强化的黄金头骨获胜女王'→'用完全强化的黄金骷髅头获胜女王'] ['完全强化的黄金头骨获胜女王'→'强化的黄金骷髅头获胜女王']
+  KEY  'Win with a fully upgraded Golden Skull Repeater'
+       ['用完全强化的黄金头骨获胜连发'→'用完全强化的黄金骷髅头获胜连发'] ['完全强化的黄金头骨获胜连发'→'强化的黄金骷髅头获胜连发']
+  KEY  'Win with a fully upgraded Golden Skull Spawner'
+       ['用完全强化的黄金头骨获胜生成器'→'用完全强化的黄金骷髅头获胜生成器'] ['完全强化的黄金头骨获胜生成器'→'强化的黄金骷髅头获胜生成器']
+  KEY  'Win with a fully upgraded Golden Skull Swarm Summon'
+       ['用完全强化的黄金头骨获胜虫群召唤'→'用完全强化的黄金骷髅头获胜虫群召唤'] ['完全强化的黄金头骨获胜虫群召唤'→'强化的黄金骷髅头获胜虫群召唤']
+  KEY  'temporary Summon a Golden Skull'
+       ['召唤一个黄金骷髅'→'召唤一个黄金骷髅头']
+  KEY  'temporary Win with a fully upgraded Golden Skull'
+       ['用完全强化的黄金头骨获胜'→'用完全强化的黄金骷髅头获胜'] ['完全强化的黄金头骨获胜'→'强化的黄金骷髅头获胜']
+
+### 规则#8 scope='\\bNight Hag\\b' 命中 23 条
+  KEY  'Baby Summon a Night Hag'
+       ['幼年召唤一个夜婆'→'幼年召唤一个夜巫婆']
+  KEY  'Casting this spell also summons [{num_summons}:num_summons] Witches near the Nig'
+       ['放此法术还会在夜婆附近召唤 [{'→'放此法术还会在夜巫婆附近召唤 [{'] [' 回合后成长为夜婆'→' 回合后成长为夜巫婆']
+  KEY  'Chalice of Summon a Night Hag'
+       ['召唤一个夜婆圣杯'→'召唤一个夜巫婆圣杯']
+  KEY  'Multicast Summon a Night Hag'
+       ['施法：召唤一个夜婆'→'施法：召唤一个夜巫婆']
+  KEY  'Respawn As Summon a Night Hag'
+       ['重生为召唤一个夜婆'→'重生为召唤一个夜巫婆']
+  KEY  'Robe of Summon a Night Hag'
+       ['召唤一个夜婆法袍'→'召唤一个夜巫婆法袍']
+  KEY  'Skeletal Summon a Night Hag'
+       ['骸骨召唤一个夜婆'→'骸骨召唤一个夜巫婆']
+  KEY  'Slimy Summon a Night Hag'
+       ['黏滑召唤一个夜婆'→'黏滑召唤一个夜巫婆']
+  KEY  'Summon Summon a Night Hag'
+       ['召唤召唤一个夜婆'→'召唤召唤一个夜巫婆']
+  KEY  'Summon a Night Hag'
+       ['召唤一个夜婆'→'召唤一个夜巫婆']
+  KEY  'Summon a Night Hag Curse Doll'
+       ['召唤一个夜婆咒术人偶'→'召唤一个夜巫婆咒术人偶']
+  KEY  'Summon a Night Hag Egg'
+       ['召唤一个夜婆蛋'→'召唤一个夜巫婆蛋']
+  KEY  "Summon a Night Hag Hunter's Sigil"
+       ['召唤一个夜婆猎手印记'→'召唤一个夜巫婆猎手印记']
+  KEY  'Summon a Night Hag Oculus'
+       ['召唤一个夜婆魔眼'→'召唤一个夜巫婆魔眼']
+  KEY  'Summon a Night Hag Queen'
+       ['召唤一个夜婆女王'→'召唤一个夜巫婆女王']
+  KEY  'Summon a Night Hag Repeater'
+       ['召唤一个夜婆连发'→'召唤一个夜巫婆连发']
+  KEY  'Summon a Night Hag Spawner'
+       ['召唤一个夜婆生成器'→'召唤一个夜巫婆生成器']
+  KEY  'Summon a Night Hag Swarm Summon'
+       ['召唤一个夜婆虫群召唤'→'召唤一个夜巫婆虫群召唤']
+  KEY  'The Night Hag can cast your Bone Spear on a 4 turn cooldown'
+       ['夜婆可以施放你的骨'→'夜巫婆可以施放你的骨']
+  KEY  'The Night Hag can cast your Nightmare Aura on a 30 turn cooldown'
+       ['夜婆可以施放你的梦'→'夜巫婆可以施放你的梦']
+  KEY  'The Night Hag gains the [Demon] tag, and negates incoming damage from other [Dem'
+       ['夜婆获得[恶魔:d'→'夜巫婆获得[恶魔:d']
+  KEY  'Touched by Summon a Night Hag'
+       ['召唤一个夜婆之触'→'召唤一个夜巫婆之触']
+  KEY  'temporary Summon a Night Hag'
+       ['临时召唤一个夜婆'→'临时召唤一个夜巫婆']
+
+### 规则#9 scope="\\bHag's Eye\\b" 命中 18 条
+  KEY  "Baby Hag's Eye"
+       ['幼年夜婆之眼'→'幼年夜巫婆之眼']
+  KEY  "Chalice of Hag's Eye"
+       ['夜婆之眼圣杯'→'夜巫婆之眼圣杯']
+  KEY  "Hag's Eye Curse Doll"
+       ['夜婆之眼咒术人偶'→'夜巫婆之眼咒术人偶']
+  KEY  "Hag's Eye Egg"
+       ['夜婆之眼蛋'→'夜巫婆之眼蛋']
+  KEY  "Hag's Eye Hunter's Sigil"
+       ['夜婆之眼猎手印记'→'夜巫婆之眼猎手印记']
+  KEY  "Hag's Eye Oculus"
+       ['夜婆之眼魔眼'→'夜巫婆之眼魔眼']
+  KEY  "Hag's Eye Queen"
+       ['夜婆之眼女王'→'夜巫婆之眼女王']
+  KEY  "Hag's Eye Repeater"
+       ['夜婆之眼连发'→'夜巫婆之眼连发']
+  KEY  "Hag's Eye Spawner"
+       ['夜婆之眼生成器'→'夜巫婆之眼生成器']
+  KEY  "Hag's Eye Swarm Summon"
+       ['夜婆之眼虫群召唤'→'夜巫婆之眼虫群召唤']
+  KEY  "Multicast Hag's Eye"
+       ['多重施法：夜婆之眼'→'多重施法：夜巫婆之眼']
+  KEY  "Respawn As Hag's Eye"
+       ['重生为夜婆之眼'→'重生为夜巫婆之眼']
+  KEY  "Robe of Hag's Eye"
+       ['夜婆之眼法袍'→'夜巫婆之眼法袍']
+  KEY  "Skeletal Hag's Eye"
+       ['骸骨夜婆之眼'→'骸骨夜巫婆之眼']
+  KEY  "Slimy Hag's Eye"
+       ['黏滑夜婆之眼'→'黏滑夜巫婆之眼']
+  KEY  "Summon Hag's Eye"
+       ['召唤夜婆之眼'→'召唤夜巫婆之眼']
+  KEY  "Touched by Hag's Eye"
+       ['夜婆之眼之触'→'夜巫婆之眼之触']
+  KEY  "temporary Hag's Eye"
+       ['临时夜婆之眼'→'临时夜巫婆之眼']
+
+### 规则#10 scope='\\bAnnihilate\\b' 命中 4 条
+  KEY  'Each impact casts Annihilate on [{num_targets}:num_targets] enemies within [{rad'
+       [' 格内的敌人施放湮灭'→' 格内的敌人施放歼灭']
+  KEY  'Grant target ally a melee version of your Annihilate spell'
+       ['授予目标友军你的湮灭法术的近战版本'→'授予目标友军你的歼灭法术的近战版本']
+  KEY  'On kill, cast Annihilate on up to [{num_targets}:num_targets] enemies in line of'
+       ['s] 名敌人施放湮灭'→'s] 名敌人施放歼灭']
+  KEY  'When the unit uses their Annihilate on an enemy, they inflict the Doom debuff\nDo'
+       ['单位对敌人使用其湮灭时，会施加毁灭'→'单位对敌人使用其歼灭时，会施加毁灭']
+
+### 规则#11 scope='\\bSeal Fate\\b' 命中 3 条
+  KEY  "Cast Seal Fate on units which survive the damage from Heaven's Wrath"
+       ['中存活的单位施放命运封印'→'中存活的单位施放封印命运'] ['活的单位施放命运封印'→'单位施放封印命运']
+  KEY  'If the target is adjacent to you after being pulled, cast Seal Fate on them'
+       ['你相邻，对其施放命运封印'→'你相邻，对其施放封印命运'] ['邻，对其施放命运封印'→'对其施放封印命运']
+  KEY  'On Pickup:\nCast Seal Fate on all enemies in your line of sight'
+       ['内的所有敌人施放命运封印'→'内的所有敌人施放封印命运'] ['所有敌人施放命运封印'→'敌人施放封印命运']
+
+### 规则#12 scope='\\bLightning Tether\\b' 命中 1 条
+  KEY  '[Construct] and [Metallic] allies learn Lightning Tether\nLightning Tether deals '
+       ['c]友军学会闪电系绳\n闪电系绳造成 '→'c]友军学会闪电锁链\n闪电锁链造成 '] ['会闪电系绳\n闪电系绳造成 [{min'→'会闪电锁链\n闪电锁链造成 [{min'] ['n] 回合\n闪电系绳射程为 [{mi'→'n] 回合\n闪电锁链射程为 [{mi']
+
+### 规则#13 scope='\\bFire Breath\\b' 命中 1 条
+  KEY  '[Demon] allies learn Fire Breath\nFire Breath deals [{minion_damage}:minion_damag'
+       ['on]友军学会火息\n火息对锥形范'→'on]友军学会火焰吐息\n火焰吐息对锥'] ['友军学会火息\n火息对锥形范围内的'→'学会火焰吐息\n火焰吐息对锥形范围内的'] ['ire]伤害\n火息射程为 [{m'→'ire]伤害\n火焰吐息射程为 [{m']
+
+### 规则#14 scope='\\bPyrostatic Pulse\\b' 命中 2 条
+  KEY  '\nAlso casts Pyrostatic Pulse'
+       ['\n还施放焰电脉冲'→'\n还施放静炎脉冲']
+  KEY  'Watcher Form also casts Pyrostatic Pulse each turn\nGrants [100 Fire:fire] resist'
+       ['态每回合还会施放焰电脉冲\n赋予 [1'→'态每回合还会施放静炎脉冲\n赋予 [1']
+
+### 规则#15 scope='\\bFiery Tormentor\\b' 命中 2 条
+  KEY  '\nEvery 3rd kill by Carnival of Pain casts your Fiery Tormentor spell at the slai'
+       ['位的位置施放你的烈焰折磨者法术'→'位的位置施放你的灼焰折磨者法术']
+  KEY  'Every 3rd kill by Carnival of Pain casts your Fiery Tormentor spell at the slain'
+       ['位的位置施放你的烈焰折磨者法术'→'位的位置施放你的灼焰折磨者法术']
+
+### 规则#16 scope='\\bFiery Tormenting Mass\\b' 命中 1 条
+  KEY  'Summon a Fiery Tormenting Mass instead\nIf you also have the Frostfire Tormentor '
+       ['改为召唤炽焰折磨之团\n若你'→'改为召唤灼焰折磨之团\n若你']
+
+### 规则#17 scope='\\bPrismatic Beam\\b' 命中 2 条
+  KEY  'Prismatic Beam also refracts when it encounters [petrified] or [glassed] units'
+       ['棱镜光束遇到[石化:'→'棱彩光束遇到[石化:']
+  KEY  'Prismatic Beam heals allies instead of damaging them'
+       ['棱镜光束改为治疗友军'→'棱彩光束改为治疗友军']
+
+### 规则#18 scope='\\bMelted Armor\\b' 命中 1 条
+  KEY  'When enemies take [Fire] damage, they gain a stack of Melted Armor for [{duratio'
+       ['害时，获得一层熔毁护甲，持续 [{'→'害时，获得一层熔化护甲，持续 [{'] ['on] 回合\n熔毁护甲使其[物理:'→'on] 回合\n熔化护甲使其[物理:']
+
+### 规则#19 scope='\\bSpike Ball\\b' 命中 3 条
+  KEY  'Spike Ball Spawners gain a [{minion_damage}:minion_damage] [Physical] damage, [{'
+       ['刺球生成器获得远'→'尖刺球生成器获得远']
+  KEY  'Summon Spike Ball Spawners in unoccupied adjacent tiles'
+       ['的未被占据格召唤刺球生成器'→'的未被占据格召唤尖刺球生成器']
+  KEY  'Summons Copper Spike Ball Spawners instead'
+       ['改为召唤铜刺球生成器'→'改为召唤铜尖刺球生成器']
+
+### 规则#20 scope='\\bSpikeball\\b' 命中 1 条
+  KEY  'On Pickup:\nSummon a friendly Copper Spikeball'
+       ['\n召唤一个友方铜刺球'→'\n召唤一个友方铜制尖刺球']
+
+### 规则#21 scope='\\bCopper Spike Ball\\b' 命中 1 条
+  KEY  'Summons Copper Spike Ball Spawners instead'
+       ['改为召唤铜尖刺球生成器'→'改为召唤铜制尖刺球生成器']
+
+### 规则#22 scope='\\bPrison of Thorns\\b' 命中 2 条
+  KEY  'On Pickup:\nThe nearest enemy is [stunned] for 6 turns, and you cast Prison of Th'
+       ['且你对其施放荆棘囚笼'→'且你对其施放荆棘牢狱']
+  KEY  'Win with a fully upgraded Prison of Thorns'
+       ['用完全强化的荆棘监狱获胜'→'用完全强化的荆棘牢狱获胜']
+
+### 规则#23 scope='\\bEye of Rage\\b' 命中 2 条
+  KEY  'Eye of Rage shots affect enemies in a connected group'
+       ['怒火之眼的射击会影响'→'怒之眼的射击会影响']
+  KEY  'When Eye of Rage shoots a [Living] unit with 25% or less HP, that unit is killed'
+       ['怒火之眼射击生命值不'→'怒之眼射击生命值不']
+
+### 规则#24 scope='\\bWorm Shambler\\b' 命中 2 条
+  KEY  'Deals damage to all enemies\nIf they die, raise a Worm Shambler from their body'
+       ['体上唤起一只蠕虫徘徊者'→'体上唤起一只蠕虫蹒跚怪']
+  KEY  'Pay half your current HP rounded up to summon a Worm Ball with that much health\n'
+       ['改为召唤蠕虫蹒跚者'→'改为召唤蠕虫蹒跚怪']
+
+### 规则#25 scope='\\bBone Shambler\\b' 命中 2 条
+  KEY  'Collects a limb whenever it takes a step or an adjacent unit dies\n\nAfter collect'
+       ['会在附近生成一个白骨蹒跚者'→'会在附近生成一个骨蹒跚怪'] ['生成一个白骨蹒跚者'→'近生成一个骨蹒跚怪']
+  KEY  'Instead of summoning individual Bone Shamblers, summon a single massive Bone Sha'
+       ['不再逐个召唤骸骨蹒跚者，改为召'→'不再逐个召唤骨蹒跚怪，改为召'] ['逐个召唤骸骨蹒跚者，改为召唤一只拥'→'再逐个召唤骨蹒跚怪，改为召唤一只拥'] ['单位总生命的巨型骸骨蹒跚者'→'单位总生命的巨型骨蹒跚怪'] ['命的巨型骸骨蹒跚者'→'生命的巨型骨蹒跚怪']
+
+### 规则#26 scope='\\bLumbriogenesis\\b' 命中 2 条
+  KEY  'Flesh Fiends can cast your Lumbriogenesis on a 13 turn cooldown'
+       ['恶鬼可以施放你的蚓体生成，冷却 13'→'恶鬼可以施放你的蠕虫生成术，冷却 1'] ['施放你的蚓体生成，冷却 13 回'→'施放你的蠕虫生成术，冷却 13 回']
+  KEY  'Lumbriogenesis max charges removed\nYou regenerate 3 HP each turn\nAlways Active'
+       ['移除蚓体生成的最大充能\n'→'移除蠕虫生成术的最大充能'] ['移除蚓体生成的最大充能\n你每'→'移除蠕虫生成术的最大充能\n你每']
+
+### 规则#27 scope='\\bFloating Eye\\b' 命中 2 条
+  KEY  'Each turn, your [Eye] buffs activate [{num_targets}:num_targets] additional time'
+       ['据的位置施放你的悬浮之眼法术，至多'→'据的位置施放你的浮空之眼法术，至'] ['位置施放你的悬浮之眼法术，至多 '→'的位置施放你的浮空之眼法术，至多 ']
+  KEY  'If an enemy dies in your line of sight while channeling the ritual, cast Floatin'
+       ['亡，在其位置施放悬浮之眼\n添加[黑'→'亡，在其位置施放浮空之眼\n添加['] ['在其位置施放悬浮之眼\n添加[黑暗'→'，在其位置施放浮空之眼\n添加[黑暗']
+
+### 规则#28 scope='\\bFireball\\b' 命中 103 条
+  KEY  'Acid Chain Fireball Bonus'
+       ['酸液连锁火球加成'→'酸液连锁火球术加成']
+  KEY  'Any Chain Fireball Bonus'
+       ['任意连锁火球加成'→'任意连锁火球术加成']
+  KEY  'Arcane Chain Fireball Bonus'
+       ['奥术连锁火球加成'→'奥术连锁火球术加成']
+  KEY  'Arrow Chain Fireball Bonus'
+       ['箭连锁火球加成'→'箭连锁火球术加成']
+  KEY  'Baby Chain Fireball'
+       ['幼年连锁火球'→'幼年连锁火球术']
+  KEY  'Baby Giant Fireball'
+       ['幼年巨型火球'→'幼年巨型火球术']
+  KEY  'Baby Living Scroll of Fireball'
+       ['幼年火球活卷轴'→'幼年火球术活卷轴']
+  KEY  'Blood Chain Fireball Bonus'
+       ['血连锁火球加成'→'血连锁火球术加成']
+  KEY  'Cast Fireball targeting [{num_targets}:num_targets] random tiles in a [{radius}:'
+       ['每回合施放火球，随机瞄准 [{'→'每回合施放火球术，随机瞄准 [{']
+  KEY  'Chain Fireball'
+       ['连锁火球'→'连锁火球术']
+  KEY  'Chain Fireball Curse Doll'
+       ['连锁火球咒术人偶'→'连锁火球术咒术人偶']
+  KEY  'Chain Fireball Egg'
+       ['连锁火球蛋'→'连锁火球术蛋']
+  KEY  "Chain Fireball Hunter's Sigil"
+       ['连锁火球猎手印记'→'连锁火球术猎手印记']
+  KEY  'Chain Fireball Oculus'
+       ['连锁火球魔眼'→'连锁火球术魔眼']
+  KEY  'Chain Fireball Queen'
+       ['连锁火球女王'→'连锁火球术女王']
+  KEY  'Chain Fireball Repeater'
+       ['连锁火球连发'→'连锁火球术连发']
+  KEY  'Chain Fireball Spawner'
+       ['连锁火球生成器'→'连锁火球术生成器']
+  KEY  'Chain Fireball Swarm Summon'
+       ['连锁火球虫群召唤'→'连锁火球术虫群召唤']
+  KEY  'Chalice of Chain Fireball'
+       ['连锁火球圣杯'→'连锁火球术圣杯']
+  KEY  'Chalice of Giant Fireball'
+       ['巨型火球圣杯'→'巨型火球术圣杯']
+  KEY  'Chalice of Living Scroll of Fireball'
+       ['火球活卷轴圣杯'→'火球术活卷轴圣杯']
+  KEY  'Chaos Chain Fireball Bonus'
+       ['混沌连锁火球加成'→'混沌连锁火球术加成']
+  KEY  'Conjuration Chain Fireball Bonus'
+       ['咒法连锁火球加成'→'咒法连锁火球术加成']
+  KEY  'Construct Chain Fireball Bonus'
+       ['构装体连锁火球加成'→'构装体连锁火球术加成']
+  KEY  'Consumable Chain Fireball Bonus'
+       ['消耗品连锁火球加成'→'消耗品连锁火球术加成']
+  KEY  'Dark Chain Fireball Bonus'
+       ['黑暗连锁火球加成'→'黑暗连锁火球术加成']
+  KEY  'Demon Chain Fireball Bonus'
+       ['恶魔连锁火球加成'→'恶魔连锁火球术加成']
+  KEY  'Dragon Chain Fireball Bonus'
+       ['龙连锁火球加成'→'龙连锁火球术加成']
+  KEY  'Elemental Chain Fireball Bonus'
+       ['元素连锁火球加成'→'元素连锁火球术加成']
+  KEY  'Enchantment Chain Fireball Bonus'
+       ['附魔连锁火球加成'→'附魔连锁火球术加成']
+  KEY  'Eye Chain Fireball Bonus'
+       ['眼魔连锁火球加成'→'眼魔连锁火球术加成']
+  KEY  'Fang Chain Fireball Bonus'
+       ['利齿连锁火球加成'→'利齿连锁火球术加成']
+  KEY  'Fire Chain Fireball Bonus'
+       ['火连锁火球加成'→'火连锁火球术加成']
+  KEY  'Fire eggs can cast your Fireball on a 3 turn cooldown\nIce eggs can cast your Ici'
+       ['可以施放你的火球，冷却 3 回合'→'可以施放你的火球术，冷却 3 回合']
+  KEY  'Giant Fireball'
+       ['巨型火球'→'巨型火球术']
+  KEY  'Giant Fireball Curse Doll'
+       ['巨型火球咒术人偶'→'巨型火球术咒术人偶']
+  KEY  'Giant Fireball Egg'
+       ['巨型火球蛋'→'巨型火球术蛋']
+  KEY  "Giant Fireball Hunter's Sigil"
+       ['巨型火球猎手印记'→'巨型火球术猎手印记']
+  KEY  'Giant Fireball Oculus'
+       ['巨型火球魔眼'→'巨型火球术魔眼']
+  KEY  'Giant Fireball Queen'
+       ['巨型火球女王'→'巨型火球术女王']
+  KEY  'Giant Fireball Repeater'
+       ['巨型火球连发'→'巨型火球术连发']
+  KEY  'Giant Fireball Spawner'
+       ['巨型火球生成器'→'巨型火球术生成器']
+  KEY  'Giant Fireball Swarm Summon'
+       ['巨型火球虫群召唤'→'巨型火球术虫群召唤']
+  KEY  'Glass Chain Fireball Bonus'
+       ['玻璃连锁火球加成'→'玻璃连锁火球术加成']
+  KEY  'Glassification Chain Fireball Bonus'
+       ['玻璃化连锁火球加成'→'玻璃化连锁火球术加成']
+  KEY  'Heal Chain Fireball Bonus'
+       ['治疗连锁火球加成'→'治疗连锁火球术加成']
+  KEY  'Holy Chain Fireball Bonus'
+       ['神圣连锁火球加成'→'神圣连锁火球术加成']
+  KEY  'Ice Chain Fireball Bonus'
+       ['冰连锁火球加成'→'冰连锁火球术加成']
+  KEY  'Immolate Chain Fireball Bonus'
+       ['焚烧连锁火球加成'→'焚烧连锁火球术加成']
+  KEY  'Leap Chain Fireball Bonus'
+       ['跃击连锁火球加成'→'跃击连锁火球术加成']
+  KEY  'Lightning Chain Fireball Bonus'
+       ['闪电连锁火球加成'→'闪电连锁火球术加成']
+  KEY  'Living Chain Fireball Bonus'
+       ['活物连锁火球加成'→'活物连锁火球术加成']
+  KEY  'Living Scroll of Fireball'
+       ['火球活卷轴'→'火球术活卷轴']
+  KEY  'Living Scroll of Fireball Curse Doll'
+       ['火球活卷轴咒术人偶'→'火球术活卷轴咒术人偶']
+  KEY  'Living Scroll of Fireball Egg'
+       ['火球活卷轴蛋'→'火球术活卷轴蛋']
+  KEY  "Living Scroll of Fireball Hunter's Sigil"
+       ['火球活卷轴猎手印记'→'火球术活卷轴猎手印记']
+  KEY  'Living Scroll of Fireball Oculus'
+       ['火球活卷轴魔眼'→'火球术活卷轴魔眼']
+  KEY  'Living Scroll of Fireball Queen'
+       ['火球活卷轴女王'→'火球术活卷轴女王']
+  KEY  'Living Scroll of Fireball Repeater'
+       ['火球活卷轴连发'→'火球术活卷轴连发']
+  KEY  'Living Scroll of Fireball Spawner'
+       ['火球活卷轴生成器'→'火球术活卷轴生成器']
+  KEY  'Living Scroll of Fireball Swarm Summon'
+       ['火球活卷轴虫群召唤'→'火球术活卷轴虫群召唤']
+  KEY  'Metallic Chain Fireball Bonus'
+       ['金属连锁火球加成'→'金属连锁火球术加成']
+  KEY  'Multicast Chain Fireball'
+       ['重施法：连锁火球'→'重施法：连锁火球术']
+  KEY  'Multicast Giant Fireball'
+       ['重施法：巨型火球'→'重施法：巨型火球术']
+  KEY  'Multicast Living Scroll of Fireball'
+       ['多重施法：火球活卷轴'→'多重施法：火球术活卷轴']
+  KEY  'Music Chain Fireball Bonus'
+       ['音乐连锁火球加成'→'音乐连锁火球术加成']
+  KEY  'Nature Chain Fireball Bonus'
+       ['自然连锁火球加成'→'自然连锁火球术加成']
+  KEY  'Orb Chain Fireball Bonus'
+       ['宝珠连锁火球加成'→'宝珠连锁火球术加成']
+  KEY  'Petrification Chain Fireball Bonus'
+       ['石化连锁火球加成'→'石化连锁火球术加成']
+  KEY  'Physical Chain Fireball Bonus'
+       ['物理连锁火球加成'→'物理连锁火球术加成']
+  KEY  'Poison Chain Fireball Bonus'
+       ['中毒连锁火球加成'→'中毒连锁火球术加成']
+  KEY  'Respawn As Chain Fireball'
+       ['重生为连锁火球'→'重生为连锁火球术']
+  KEY  'Respawn As Giant Fireball'
+       ['重生为巨型火球'→'重生为巨型火球术']
+  KEY  'Respawn As Living Scroll of Fireball'
+       ['重生为火球活卷轴'→'重生为火球术活卷轴']
+  KEY  'Ritual Chain Fireball Bonus'
+       ['仪式连锁火球加成'→'仪式连锁火球术加成']
+  KEY  'Robe of Chain Fireball'
+       ['连锁火球法袍'→'连锁火球术法袍']
+  KEY  'Robe of Giant Fireball'
+       ['巨型火球法袍'→'巨型火球术法袍']
+  KEY  'Robe of Living Scroll of Fireball'
+       ['火球活卷轴法袍'→'火球术活卷轴法袍']
+  KEY  'Shield Chain Fireball Bonus'
+       ['护盾连锁火球加成'→'护盾连锁火球术加成']
+  KEY  'Skeletal Chain Fireball'
+       ['骸骨连锁火球'→'骸骨连锁火球术']
+  KEY  'Skeletal Giant Fireball'
+       ['骸骨巨型火球'→'骸骨巨型火球术']
+  KEY  'Skeletal Living Scroll of Fireball'
+       ['骸骨火球活卷轴'→'骸骨火球术活卷轴']
+  KEY  'Slime Chain Fireball Bonus'
+       ['黏液连锁火球加成'→'黏液连锁火球术加成']
+  KEY  'Slimy Chain Fireball'
+       ['黏滑连锁火球'→'黏滑连锁火球术']
+  KEY  'Slimy Giant Fireball'
+       ['黏滑巨型火球'→'黏滑巨型火球术']
+  KEY  'Slimy Living Scroll of Fireball'
+       ['黏滑火球活卷轴'→'黏滑火球术活卷轴']
+  KEY  'Sorcery Chain Fireball Bonus'
+       ['巫术连锁火球加成'→'巫术连锁火球术加成']
+  KEY  'Spider Chain Fireball Bonus'
+       ['蛛类连锁火球加成'→'蛛类连锁火球术加成']
+  KEY  'Summon Chain Fireball'
+       ['召唤连锁火球'→'召唤连锁火球术']
+  KEY  'Summon Giant Fireball'
+       ['召唤巨型火球'→'召唤巨型火球术']
+  KEY  'Summon Living Scroll of Fireball'
+       ['召唤火球活卷轴'→'召唤火球术活卷轴']
+  KEY  'Thunderstrike Chain Fireball Bonus'
+       ['雷袭连锁火球加成'→'雷袭连锁火球术加成']
+  KEY  'Tongue Chain Fireball Bonus'
+       ['巨舌连锁火球加成'→'巨舌连锁火球术加成']
+  KEY  'Touched by Chain Fireball'
+       ['连锁火球之触'→'连锁火球术之触']
+  KEY  'Touched by Giant Fireball'
+       ['巨型火球之触'→'巨型火球术之触']
+  KEY  'Touched by Living Scroll of Fireball'
+       ['火球活卷轴之触'→'火球术活卷轴之触']
+  KEY  'Translocation Chain Fireball Bonus'
+       ['移转连锁火球加成'→'移转连锁火球术加成']
+  KEY  'Undead Chain Fireball Bonus'
+       ['不死连锁火球加成'→'不死连锁火球术加成']
+  KEY  'Water Chain Fireball Bonus'
+       ['水连锁火球加成'→'水连锁火球术加成']
+  KEY  'Word Chain Fireball Bonus'
+       ['言灵连锁火球加成'→'言灵连锁火球术加成']
+  KEY  'temporary Chain Fireball'
+       ['临时连锁火球'→'临时连锁火球术']
+  KEY  'temporary Giant Fireball'
+       ['临时巨型火球'→'临时巨型火球术']
+  KEY  'temporary Living Scroll of Fireball'
+       ['临时火球活卷轴'→'临时火球术活卷轴']
+
+### 规则#29 scope='\\bFlame Rift\\b' 命中 1 条
+  KEY  'When Blazerip kills an enemy, summon a Flame Rift or Void Rift depending on the '
+       ['杀的伤害类型召唤烈焰裂隙或虚空裂隙'→'杀的伤害类型召唤火焰裂隙或虚空裂隙']
+
+### 规则#30 scope='\\bSummon Blade\\b' 命中 1 条
+  KEY  'When this spell kills a unit, cast your Summon Blade spell where it died'
+       ['亡处施放你的召唤魔刃法术'→'亡处施放你的召唤利刃法术']
+
+### 规则#31 scope='\\bFlesh Fiend\\b' 命中 40 条
+  KEY  'Baby Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Baby Summon a Flesh Fiend'
+       ['幼年召唤一个血肉恶鬼'→'幼年召唤一个血肉魔鬼']
+  KEY  'Chalice of Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼圣杯'→'改为召唤燃烧血肉魔鬼圣杯']
+  KEY  'Chalice of Summon a Flesh Fiend'
+       ['召唤一个血肉恶鬼圣杯'→'召唤一个血肉魔鬼圣杯']
+  KEY  'Flesh Fiend gains a [{minion_range}:minion_range] range [{minion_damage}:minion_'
+       ['血肉恶鬼获得跃击攻击，'→'血肉魔鬼获得跃击攻击，']
+  KEY  'Multicast Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Multicast Summon a Flesh Fiend'
+       ['法：召唤一个血肉恶鬼'→'法：召唤一个血肉魔鬼']
+  KEY  'Respawn As Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Respawn As Summon a Flesh Fiend'
+       ['生为召唤一个血肉恶鬼'→'生为召唤一个血肉魔鬼']
+  KEY  'Robe of Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼法袍'→'改为召唤燃烧血肉魔鬼法袍']
+  KEY  'Robe of Summon a Flesh Fiend'
+       ['召唤一个血肉恶鬼法袍'→'召唤一个血肉魔鬼法袍']
+  KEY  'Skeletal Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Skeletal Summon a Flesh Fiend'
+       ['骸骨召唤一个血肉恶鬼'→'骸骨召唤一个血肉魔鬼']
+  KEY  'Slimy Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Slimy Summon a Flesh Fiend'
+       ['黏滑召唤一个血肉恶鬼'→'黏滑召唤一个血肉魔鬼']
+  KEY  'Summon Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Summon Summon a Flaming Flesh Fiend insteads'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Summon Summon a Flesh Fiend'
+       ['召唤召唤一个血肉恶鬼'→'召唤召唤一个血肉魔鬼']
+  KEY  'Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'Summon a Flaming Flesh Fiend instead Curse Doll'
+       ['改为召唤燃烧血肉恶鬼咒术人偶'→'改为召唤燃烧血肉魔鬼咒术人偶']
+  KEY  'Summon a Flaming Flesh Fiend instead Egg'
+       ['改为召唤燃烧血肉恶鬼蛋'→'改为召唤燃烧血肉魔鬼蛋']
+  KEY  "Summon a Flaming Flesh Fiend instead Hunter's Sigil"
+       ['改为召唤燃烧血肉恶鬼猎手印记'→'改为召唤燃烧血肉魔鬼猎手印记']
+  KEY  'Summon a Flaming Flesh Fiend instead Oculus'
+       ['改为召唤燃烧血肉恶鬼魔眼'→'改为召唤燃烧血肉魔鬼魔眼']
+  KEY  'Summon a Flaming Flesh Fiend instead Queen'
+       ['改为召唤燃烧血肉恶鬼女王'→'改为召唤燃烧血肉魔鬼女王']
+  KEY  'Summon a Flaming Flesh Fiend instead Repeater'
+       ['改为召唤燃烧血肉恶鬼连发'→'改为召唤燃烧血肉魔鬼连发']
+  KEY  'Summon a Flaming Flesh Fiend instead Spawner'
+       ['改为召唤燃烧血肉恶鬼生成器'→'改为召唤燃烧血肉魔鬼生成器']
+  KEY  'Summon a Flaming Flesh Fiend instead Swarm Summon'
+       ['改为召唤燃烧血肉恶鬼虫群召唤'→'改为召唤燃烧血肉魔鬼虫群召唤']
+  KEY  'Summon a Flesh Fiend'
+       ['召唤一个血肉恶鬼'→'召唤一个血肉魔鬼']
+  KEY  'Summon a Flesh Fiend Curse Doll'
+       ['召唤一个血肉恶鬼咒术人偶'→'召唤一个血肉魔鬼咒术人偶']
+  KEY  'Summon a Flesh Fiend Egg'
+       ['召唤一个血肉恶鬼蛋'→'召唤一个血肉魔鬼蛋']
+  KEY  "Summon a Flesh Fiend Hunter's Sigil"
+       ['召唤一个血肉恶鬼猎手印记'→'召唤一个血肉魔鬼猎手印记']
+  KEY  'Summon a Flesh Fiend Oculus'
+       ['召唤一个血肉恶鬼魔眼'→'召唤一个血肉魔鬼魔眼']
+  KEY  'Summon a Flesh Fiend Queen'
+       ['召唤一个血肉恶鬼女王'→'召唤一个血肉魔鬼女王']
+  KEY  'Summon a Flesh Fiend Repeater'
+       ['召唤一个血肉恶鬼连发'→'召唤一个血肉魔鬼连发']
+  KEY  'Summon a Flesh Fiend Spawner'
+       ['召唤一个血肉恶鬼生成器'→'召唤一个血肉魔鬼生成器']
+  KEY  'Summon a Flesh Fiend Swarm Summon'
+       ['召唤一个血肉恶鬼虫群召唤'→'召唤一个血肉魔鬼虫群召唤']
+  KEY  'Touched by Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼之触'→'改为召唤燃烧血肉魔鬼之触']
+  KEY  'Touched by Summon a Flesh Fiend'
+       ['召唤一个血肉恶鬼之触'→'召唤一个血肉魔鬼之触']
+  KEY  'temporary Summon a Flaming Flesh Fiend instead'
+       ['改为召唤燃烧血肉恶鬼'→'改为召唤燃烧血肉魔鬼']
+  KEY  'temporary Summon a Flesh Fiend'
+       ['临时召唤一个血肉恶鬼'→'临时召唤一个血肉魔鬼']
+
+### 规则#32 scope='\\bWatcher\\b' 命中 21 条
+  KEY  'Baby Watcher Stone'
+       ['幼年守视者之石'→'幼年看守者之石'] ['幼年守视者之石'→'幼年看守者之石']
+  KEY  'Chalice of Watcher Stone'
+       ['守视者之石圣杯'→'看守者之石圣杯'] ['守视者之石圣杯'→'看守者之石圣杯']
+  KEY  'Multicast Watcher Stone'
+       ['多重施法：守视者之石'→'多重施法：看守者之石'] ['多重施法：守视者之石'→'多重施法：看守者之石']
+  KEY  'On Pickup:\nSummon a friendly Watcher'
+       ['：\n召唤一只友方守视者'→'：\n召唤一只友方看守者'] ['\n召唤一只友方守视者'→'召唤一只友方看守者']
+  KEY  'Respawn As Watcher Stone'
+       ['重生为守视者之石'→'重生为看守者之石'] ['重生为守视者之石'→'重生为看守者之石']
+  KEY  'Robe of Watcher Stone'
+       ['守视者之石法袍'→'看守者之石法袍'] ['守视者之石法袍'→'看守者之石法袍']
+  KEY  'Skeletal Watcher Stone'
+       ['骸骨守视者之石'→'骸骨看守者之石'] ['骸骨守视者之石'→'骸骨看守者之石']
+  KEY  'Slimy Watcher Stone'
+       ['黏滑守视者之石'→'黏滑看守者之石'] ['黏滑守视者之石'→'黏滑看守者之石']
+  KEY  'Summon Watcher Stone'
+       ['召唤守视者之石'→'召唤看守者之石'] ['召唤守视者之石'→'召唤看守者之石']
+  KEY  'Summon Watcher Stones'
+       ['召唤守视者之石'→'召唤看守者之石'] ['召唤守视者之石'→'召唤看守者之石']
+  KEY  'Touched by Watcher Stone'
+       ['守视者之石之触'→'看守者之石之触'] ['守视者之石之触'→'看守者之石之触']
+  KEY  'Watcher Stone'
+       ['守视者之石'→'看守者之石'] ['守视者之石'→'看守者之石']
+  KEY  'Watcher Stone Curse Doll'
+       ['守视者之石咒术人'→'看守者之石咒术人偶'] ['守视者之石咒术人偶'→'看守者之石咒术人偶']
+  KEY  'Watcher Stone Egg'
+       ['守视者之石蛋'→'看守者之石蛋'] ['守视者之石蛋'→'看守者之石蛋']
+  KEY  "Watcher Stone Hunter's Sigil"
+       ['守视者之石猎手印'→'看守者之石猎手印记'] ['守视者之石猎手印记'→'看守者之石猎手印记']
+  KEY  'Watcher Stone Oculus'
+       ['守视者之石魔眼'→'看守者之石魔眼'] ['守视者之石魔眼'→'看守者之石魔眼']
+  KEY  'Watcher Stone Queen'
+       ['守视者之石女王'→'看守者之石女王'] ['守视者之石女王'→'看守者之石女王']
+  KEY  'Watcher Stone Repeater'
+       ['守视者之石连发'→'看守者之石连发'] ['守视者之石连发'→'看守者之石连发']
+  KEY  'Watcher Stone Spawner'
+       ['守视者之石生成器'→'看守者之石生成器'] ['守视者之石生成器'→'看守者之石生成器']
+  KEY  'Watcher Stone Swarm Summon'
+       ['守视者之石虫群召'→'看守者之石虫群召唤'] ['守视者之石虫群召唤'→'看守者之石虫群召唤']
+  KEY  'temporary Watcher Stone'
+       ['临时守视者之石'→'临时看守者之石'] ['临时守视者之石'→'临时看守者之石']
+
+### 规则#33 scope='\\bEye Helm\\b' 命中 1 条
+  KEY  "Win while wearing Eye Helm, Balor's Eye Staff, and Raiment of Eyes"
+       ['穿戴眼盔、巴洛尔之眼法'→'穿戴眼魔头盔、巴洛尔之眼法']
+
+### 规则#34 scope='\\bRaiment of Eyes\\b' 命中 1 条
+  KEY  "Win while wearing Eye Helm, Balor's Eye Staff, and Raiment of Eyes"
+       ['巴洛尔之眼法杖与万目衣获胜'→'巴洛尔之眼法杖与千眼法衣获胜']
+
+### 规则#35 scope='\\bEldritch\\b' 命中 1 条
+  KEY  'Eldritch tendrils reach forth from affected chasm tiles, each dealing [{damage}:'
+       ['影响深坑格中伸出妖异触手，每条对最'→'影响深坑格中伸出邪异触手，每条对最']
+
+### 规则#36 scope='\\bCarnival of Pain\\b' 命中 1 条
+  KEY  'Win with a fully upgraded Carnival of Pain'
+       ['用完全强化的苦痛狂欢节获胜'→'用完全强化的痛苦狂欢获胜'] ['用完全强化的苦痛狂欢节获胜'→'用完全强化的痛苦狂欢获胜'] ['全强化的苦痛狂欢节获胜'→'全强化的痛苦狂欢获胜']
+
+### 规则#37 scope='\\bChaos Fiend\\b' 命中 1 条
+  KEY  'On Pickup:\nSummon a Chaos Fiend to aid you for 16 turns'
+       ['：\n召唤一个混沌恶魔协助你，持续 '→'：\n召唤一个混沌魔协助你，持续 ']
+
+### 规则#38 scope='\\bFearface\\b' 命中 1 条
+  KEY  'On killing a unit, summon a temporary Fearface'
+       ['召唤一只临时惧面兽'→'召唤一只临时惧面怪']
+
+### 规则#39 scope='\\bDrain\\b' 命中 98 条
+  KEY  'Baby Drain Boots'
+       ['幼年吸取之靴'→'幼年汲取之靴']
+  KEY  'Baby Drain Life'
+       ['幼年吸取生命'→'幼年汲取生命']
+  KEY  'Baby Greater Life Drain'
+       ['幼年高阶生命吸取'→'幼年高阶生命汲取']
+  KEY  'Baby Life Drain'
+       ['幼年生命吸取'→'幼年生命汲取']
+  KEY  'Baby Mind Drain'
+       ['幼年精神吸取'→'幼年精神汲取']
+  KEY  'Chalice of Drain Boots'
+       ['吸取之靴圣杯'→'汲取之靴圣杯']
+  KEY  'Chalice of Drain Life'
+       ['吸取生命圣杯'→'汲取生命圣杯']
+  KEY  'Chalice of Greater Life Drain'
+       ['高阶生命吸取圣杯'→'高阶生命汲取圣杯']
+  KEY  'Chalice of Life Drain'
+       ['生命吸取圣杯'→'生命汲取圣杯']
+  KEY  'Chalice of Mind Drain'
+       ['精神吸取圣杯'→'精神汲取圣杯']
+  KEY  'Drain Boots'
+       ['吸取之靴'→'汲取之靴']
+  KEY  'Drain Boots Curse Doll'
+       ['吸取之靴咒术人偶'→'汲取之靴咒术人偶']
+  KEY  'Drain Boots Egg'
+       ['吸取之靴蛋'→'汲取之靴蛋']
+  KEY  "Drain Boots Hunter's Sigil"
+       ['吸取之靴猎手印记'→'汲取之靴猎手印记']
+  KEY  'Drain Boots Oculus'
+       ['吸取之靴魔眼'→'汲取之靴魔眼']
+  KEY  'Drain Boots Queen'
+       ['吸取之靴女王'→'汲取之靴女王']
+  KEY  'Drain Boots Repeater'
+       ['吸取之靴连发'→'汲取之靴连发']
+  KEY  'Drain Boots Spawner'
+       ['吸取之靴生成器'→'汲取之靴生成器']
+  KEY  'Drain Boots Swarm Summon'
+       ['吸取之靴虫群召唤'→'汲取之靴虫群召唤']
+  KEY  'Drain Life'
+       ['吸取生命'→'汲取生命']
+  KEY  'Drain Life Curse Doll'
+       ['吸取生命咒术人偶'→'汲取生命咒术人偶']
+  KEY  'Drain Life Egg'
+       ['吸取生命蛋'→'汲取生命蛋']
+  KEY  "Drain Life Hunter's Sigil"
+       ['吸取生命猎手印记'→'汲取生命猎手印记']
+  KEY  'Drain Life Oculus'
+       ['吸取生命魔眼'→'汲取生命魔眼']
+  KEY  'Drain Life Queen'
+       ['吸取生命女王'→'汲取生命女王']
+  KEY  'Drain Life Repeater'
+       ['吸取生命连发'→'汲取生命连发']
+  KEY  'Drain Life Spawner'
+       ['吸取生命生成器'→'汲取生命生成器']
+  KEY  'Drain Life Swarm Summon'
+       ['吸取生命虫群召唤'→'汲取生命虫群召唤']
+  KEY  'Drain [{dmg}:damage] health per turn'
+       ['每回合吸取 [{dmg}'→'每回合汲取 [{dmg}']
+  KEY  'Greater Life Drain'
+       ['高阶生命吸取'→'高阶生命汲取']
+  KEY  'Greater Life Drain Curse Doll'
+       ['高阶生命吸取咒术人偶'→'高阶生命汲取咒术人偶']
+  KEY  'Greater Life Drain Egg'
+       ['高阶生命吸取蛋'→'高阶生命汲取蛋']
+  KEY  "Greater Life Drain Hunter's Sigil"
+       ['高阶生命吸取猎手印记'→'高阶生命汲取猎手印记']
+  KEY  'Greater Life Drain Oculus'
+       ['高阶生命吸取魔眼'→'高阶生命汲取魔眼']
+  KEY  'Greater Life Drain Queen'
+       ['高阶生命吸取女王'→'高阶生命汲取女王']
+  KEY  'Greater Life Drain Repeater'
+       ['高阶生命吸取连发'→'高阶生命汲取连发']
+  KEY  'Greater Life Drain Spawner'
+       ['高阶生命吸取生成器'→'高阶生命汲取生成器']
+  KEY  'Greater Life Drain Swarm Summon'
+       ['高阶生命吸取虫群召唤'→'高阶生命汲取虫群召唤']
+  KEY  'Life Drain'
+       ['生命吸取'→'生命汲取']
+  KEY  'Life Drain Curse Doll'
+       ['生命吸取咒术人偶'→'生命汲取咒术人偶']
+  KEY  'Life Drain Egg'
+       ['生命吸取蛋'→'生命汲取蛋']
+  KEY  "Life Drain Hunter's Sigil"
+       ['生命吸取猎手印记'→'生命汲取猎手印记']
+  KEY  'Life Drain Oculus'
+       ['生命吸取魔眼'→'生命汲取魔眼']
+  KEY  'Life Drain Queen'
+       ['生命吸取女王'→'生命汲取女王']
+  KEY  'Life Drain Repeater'
+       ['生命吸取连发'→'生命汲取连发']
+  KEY  'Life Drain Spawner'
+       ['生命吸取生成器'→'生命汲取生成器']
+  KEY  'Life Drain Swarm Summon'
+       ['生命吸取虫群召唤'→'生命汲取虫群召唤']
+  KEY  'Mind Drain'
+       ['精神吸取'→'精神汲取']
+  KEY  'Mind Drain Curse Doll'
+       ['精神吸取咒术人偶'→'精神汲取咒术人偶']
+  KEY  'Mind Drain Egg'
+       ['精神吸取蛋'→'精神汲取蛋']
+  KEY  "Mind Drain Hunter's Sigil"
+       ['精神吸取猎手印记'→'精神汲取猎手印记']
+  KEY  'Mind Drain Oculus'
+       ['精神吸取魔眼'→'精神汲取魔眼']
+  KEY  'Mind Drain Queen'
+       ['精神吸取女王'→'精神汲取女王']
+  KEY  'Mind Drain Repeater'
+       ['精神吸取连发'→'精神汲取连发']
+  KEY  'Mind Drain Spawner'
+       ['精神吸取生成器'→'精神汲取生成器']
+  KEY  'Mind Drain Swarm Summon'
+       ['精神吸取虫群召唤'→'精神汲取虫群召唤']
+  KEY  'Multicast Drain Boots'
+       ['多重施法：吸取之靴'→'多重施法：汲取之靴']
+  KEY  'Multicast Drain Life'
+       ['多重施法：吸取生命'→'多重施法：汲取生命']
+  KEY  'Multicast Greater Life Drain'
+       ['重施法：高阶生命吸取'→'重施法：高阶生命汲取']
+  KEY  'Multicast Life Drain'
+       ['多重施法：生命吸取'→'多重施法：生命汲取']
+  KEY  'Multicast Mind Drain'
+       ['多重施法：精神吸取'→'多重施法：精神汲取']
+  KEY  'Respawn As Drain Boots'
+       ['重生为吸取之靴'→'重生为汲取之靴']
+  KEY  'Respawn As Drain Life'
+       ['重生为吸取生命'→'重生为汲取生命']
+  KEY  'Respawn As Greater Life Drain'
+       ['重生为高阶生命吸取'→'重生为高阶生命汲取']
+  KEY  'Respawn As Life Drain'
+       ['重生为生命吸取'→'重生为生命汲取']
+  KEY  'Respawn As Mind Drain'
+       ['重生为精神吸取'→'重生为精神汲取']
+  KEY  'Robe of Drain Boots'
+       ['吸取之靴法袍'→'汲取之靴法袍']
+  KEY  'Robe of Drain Life'
+       ['吸取生命法袍'→'汲取生命法袍']
+  KEY  'Robe of Greater Life Drain'
+       ['高阶生命吸取法袍'→'高阶生命汲取法袍']
+  KEY  'Robe of Life Drain'
+       ['生命吸取法袍'→'生命汲取法袍']
+  KEY  'Robe of Mind Drain'
+       ['精神吸取法袍'→'精神汲取法袍']
+  KEY  'Skeletal Drain Boots'
+       ['骸骨吸取之靴'→'骸骨汲取之靴']
+  KEY  'Skeletal Drain Life'
+       ['骸骨吸取生命'→'骸骨汲取生命']
+  KEY  'Skeletal Greater Life Drain'
+       ['骸骨高阶生命吸取'→'骸骨高阶生命汲取']
+  KEY  'Skeletal Life Drain'
+       ['骸骨生命吸取'→'骸骨生命汲取']
+  KEY  'Skeletal Mind Drain'
+       ['骸骨精神吸取'→'骸骨精神汲取']
+  KEY  'Slimy Drain Boots'
+       ['黏滑吸取之靴'→'黏滑汲取之靴']
+  KEY  'Slimy Drain Life'
+       ['黏滑吸取生命'→'黏滑汲取生命']
+  KEY  'Slimy Greater Life Drain'
+       ['黏滑高阶生命吸取'→'黏滑高阶生命汲取']
+  KEY  'Slimy Life Drain'
+       ['黏滑生命吸取'→'黏滑生命汲取']
+  KEY  'Slimy Mind Drain'
+       ['黏滑精神吸取'→'黏滑精神汲取']
+  KEY  'Summon Drain Boots'
+       ['召唤吸取之靴'→'召唤汲取之靴']
+  KEY  'Summon Drain Bootss'
+       ['召唤吸取之靴'→'召唤汲取之靴']
+  KEY  'Summon Drain Life'
+       ['召唤吸取生命'→'召唤汲取生命']
+  KEY  'Summon Drain Lifes'
+       ['召唤吸取生命'→'召唤汲取生命']
+  KEY  'Summon Greater Life Drain'
+       ['召唤高阶生命吸取'→'召唤高阶生命汲取']
+  KEY  'Summon Life Drain'
+       ['召唤生命吸取'→'召唤生命汲取']
+  KEY  'Summon Mind Drain'
+       ['召唤精神吸取'→'召唤精神汲取']
+  KEY  'Touched by Drain Boots'
+       ['吸取之靴之触'→'汲取之靴之触']
+  KEY  'Touched by Drain Life'
+       ['吸取生命之触'→'汲取生命之触']
+  KEY  'Touched by Greater Life Drain'
+       ['高阶生命吸取之触'→'高阶生命汲取之触']
+  KEY  'Touched by Life Drain'
+       ['生命吸取之触'→'生命汲取之触']
+  KEY  'Touched by Mind Drain'
+       ['精神吸取之触'→'精神汲取之触']
+  KEY  'temporary Drain Boots'
+       ['临时吸取之靴'→'临时汲取之靴']
+  KEY  'temporary Drain Life'
+       ['临时吸取生命'→'临时汲取生命']
+  KEY  'temporary Greater Life Drain'
+       ['临时高阶生命吸取'→'临时高阶生命汲取']
+  KEY  'temporary Life Drain'
+       ['临时生命吸取'→'临时生命汲取']
+  KEY  'temporary Mind Drain'
+       ['临时精神吸取'→'临时精神汲取']
+
+### 规则#40 scope='Drains a spell charge' 命中 1 条
+  KEY  'Damages enemies in line of sight\nDrains a spell charge'
+       ['的敌人造成伤害\n消耗 1 个法术充能'→'的敌人造成伤害\n吸取 1 个法术充能']
+
+### 规则#41 scope='\\bSpreads\\b' 命中 1 条
+  KEY  'Takes 33% of max HP as [Fire], [Lightning], or [Physical] damage each turn\nSprea'
+       ['l]伤害\n死亡时传染给相邻的友军'→'l]伤害\n死亡时蔓延给相邻的友军']
+
+### 规则#42 scope='Summon Blizzards, Storm Clouds' 命中 1 条
+  KEY  'Summon Blizzards, Storm Clouds, and Rain Clouds around enemies'
+       ['人周围召唤暴雪、雷云和雨云'→'人周围召唤暴雪、风暴云和雨云']
+
+### 规则#43 scope='\\bGhost\\b' 命中 81 条
+  KEY  'Also summon a Ghost Worm Ball'
+       ['同时召唤幽灵虫球'→'同时召唤幽魂虫球']
+  KEY  'Also summon a Ghost Worm Ball Curse Doll'
+       ['同时召唤幽灵虫球咒术人偶'→'同时召唤幽魂虫球咒术人偶']
+  KEY  'Also summon a Ghost Worm Ball Egg'
+       ['同时召唤幽灵虫球蛋'→'同时召唤幽魂虫球蛋']
+  KEY  "Also summon a Ghost Worm Ball Hunter's Sigil"
+       ['同时召唤幽灵虫球猎手印记'→'同时召唤幽魂虫球猎手印记']
+  KEY  'Also summon a Ghost Worm Ball Oculus'
+       ['同时召唤幽灵虫球魔眼'→'同时召唤幽魂虫球魔眼']
+  KEY  'Also summon a Ghost Worm Ball Queen'
+       ['同时召唤幽灵虫球女王'→'同时召唤幽魂虫球女王']
+  KEY  'Also summon a Ghost Worm Ball Repeater'
+       ['同时召唤幽灵虫球连发'→'同时召唤幽魂虫球连发']
+  KEY  'Also summon a Ghost Worm Ball Spawner'
+       ['同时召唤幽灵虫球生成器'→'同时召唤幽魂虫球生成器']
+  KEY  'Also summon a Ghost Worm Ball Swarm Summon'
+       ['同时召唤幽灵虫球虫群召唤'→'同时召唤幽魂虫球虫群召唤']
+  KEY  'Baby Also summon a Ghost Worm Ball'
+       ['幼年同时召唤幽灵虫球'→'幼年同时召唤幽魂虫球']
+  KEY  'Baby Burning Ghost'
+       ['幼年燃烧幽灵'→'幼年燃烧幽魂']
+  KEY  'Baby Ghost Slippers'
+       ['幼年幽灵拖鞋'→'幼年幽魂拖鞋']
+  KEY  'Baby Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+  KEY  'Burning Ghost'
+       ['燃烧幽灵'→'燃烧幽魂']
+  KEY  'Burning Ghost Curse Doll'
+       ['燃烧幽灵咒术人偶'→'燃烧幽魂咒术人偶']
+  KEY  'Burning Ghost Egg'
+       ['燃烧幽灵蛋'→'燃烧幽魂蛋']
+  KEY  "Burning Ghost Hunter's Sigil"
+       ['燃烧幽灵猎手印记'→'燃烧幽魂猎手印记']
+  KEY  'Burning Ghost Oculus'
+       ['燃烧幽灵魔眼'→'燃烧幽魂魔眼']
+  KEY  'Burning Ghost Queen'
+       ['燃烧幽灵女王'→'燃烧幽魂女王']
+  KEY  'Burning Ghost Repeater'
+       ['燃烧幽灵连发'→'燃烧幽魂连发']
+  KEY  'Burning Ghost Spawner'
+       ['燃烧幽灵生成器'→'燃烧幽魂生成器']
+  KEY  'Burning Ghost Swarm Summon'
+       ['燃烧幽灵虫群召唤'→'燃烧幽魂虫群召唤']
+  KEY  'Chalice of Also summon a Ghost Worm Ball'
+       ['同时召唤幽灵虫球圣杯'→'同时召唤幽魂虫球圣杯']
+  KEY  'Chalice of Burning Ghost'
+       ['燃烧幽灵圣杯'→'燃烧幽魂圣杯']
+  KEY  'Chalice of Ghost Slippers'
+       ['幽灵拖鞋圣杯'→'幽魂拖鞋圣杯']
+  KEY  'Chalice of Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵圣杯'→'召唤死神，而非幽魂圣杯']
+  KEY  'Deal [{damage}:damage] [Dark] damage in a 3 tile wide line perpendicular to the '
+       ['近都会召唤一只幽灵'→'近都会召唤一只幽魂']
+  KEY  'Ghost Slippers'
+       ['幽灵拖鞋'→'幽魂拖鞋']
+  KEY  'Ghost Slippers Curse Doll'
+       ['幽灵拖鞋咒术人偶'→'幽魂拖鞋咒术人偶']
+  KEY  'Ghost Slippers Egg'
+       ['幽灵拖鞋蛋'→'幽魂拖鞋蛋']
+  KEY  "Ghost Slippers Hunter's Sigil"
+       ['幽灵拖鞋猎手印记'→'幽魂拖鞋猎手印记']
+  KEY  'Ghost Slippers Oculus'
+       ['幽灵拖鞋魔眼'→'幽魂拖鞋魔眼']
+  KEY  'Ghost Slippers Queen'
+       ['幽灵拖鞋女王'→'幽魂拖鞋女王']
+  KEY  'Ghost Slippers Repeater'
+       ['幽灵拖鞋连发'→'幽魂拖鞋连发']
+  KEY  'Ghost Slippers Spawner'
+       ['幽灵拖鞋生成器'→'幽魂拖鞋生成器']
+  KEY  'Ghost Slippers Swarm Summon'
+       ['幽灵拖鞋虫群召唤'→'幽魂拖鞋虫群召唤']
+  KEY  'Multicast Also summon a Ghost Worm Ball'
+       ['施法：同时召唤幽灵虫球'→'施法：同时召唤幽魂虫球']
+  KEY  'Multicast Burning Ghost'
+       ['多重施法：燃烧幽灵'→'多重施法：燃烧幽魂']
+  KEY  'Multicast Ghost Slippers'
+       ['多重施法：幽灵拖鞋'→'多重施法：幽魂拖鞋']
+  KEY  'Multicast Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+  KEY  'Respawn As Also summon a Ghost Worm Ball'
+       ['重生为同时召唤幽灵虫球'→'重生为同时召唤幽魂虫球']
+  KEY  'Respawn As Burning Ghost'
+       ['重生为燃烧幽灵'→'重生为燃烧幽魂']
+  KEY  'Respawn As Ghost Slippers'
+       ['重生为幽灵拖鞋'→'重生为幽魂拖鞋']
+  KEY  'Respawn As Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+  KEY  'Robe of Also summon a Ghost Worm Ball'
+       ['同时召唤幽灵虫球法袍'→'同时召唤幽魂虫球法袍']
+  KEY  'Robe of Burning Ghost'
+       ['燃烧幽灵法袍'→'燃烧幽魂法袍']
+  KEY  'Robe of Ghost Slippers'
+       ['幽灵拖鞋法袍'→'幽魂拖鞋法袍']
+  KEY  'Robe of Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵法袍'→'召唤死神，而非幽魂法袍']
+  KEY  'Skeletal Also summon a Ghost Worm Ball'
+       ['骸骨同时召唤幽灵虫球'→'骸骨同时召唤幽魂虫球']
+  KEY  'Skeletal Burning Ghost'
+       ['骸骨燃烧幽灵'→'骸骨燃烧幽魂']
+  KEY  'Skeletal Ghost Slippers'
+       ['骸骨幽灵拖鞋'→'骸骨幽魂拖鞋']
+  KEY  'Skeletal Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+  KEY  'Slimy Also summon a Ghost Worm Ball'
+       ['黏滑同时召唤幽灵虫球'→'黏滑同时召唤幽魂虫球']
+  KEY  'Slimy Burning Ghost'
+       ['黏滑燃烧幽灵'→'黏滑燃烧幽魂']
+  KEY  'Slimy Ghost Slippers'
+       ['黏滑幽灵拖鞋'→'黏滑幽魂拖鞋']
+  KEY  'Slimy Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+  KEY  'Summon Also summon a Ghost Worm Ball'
+       ['召唤同时召唤幽灵虫球'→'召唤同时召唤幽魂虫球']
+  KEY  'Summon Also summon a Ghost Worm Balls'
+       ['召唤同时召唤幽灵虫球'→'召唤同时召唤幽魂虫球']
+  KEY  'Summon Burning Ghost'
+       ['召唤燃烧幽灵'→'召唤燃烧幽魂']
+  KEY  'Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+  KEY  'Summon Death instead of a Ghost Curse Doll'
+       ['召唤死神，而非幽灵咒术人偶'→'召唤死神，而非幽魂咒术人偶']
+  KEY  'Summon Death instead of a Ghost Egg'
+       ['召唤死神，而非幽灵蛋'→'召唤死神，而非幽魂蛋']
+  KEY  "Summon Death instead of a Ghost Hunter's Sigil"
+       ['召唤死神，而非幽灵猎手印记'→'召唤死神，而非幽魂猎手印记']
+  KEY  'Summon Death instead of a Ghost Oculus'
+       ['召唤死神，而非幽灵魔眼'→'召唤死神，而非幽魂魔眼']
+  KEY  'Summon Death instead of a Ghost Queen'
+       ['召唤死神，而非幽灵女王'→'召唤死神，而非幽魂女王']
+  KEY  'Summon Death instead of a Ghost Repeater'
+       ['召唤死神，而非幽灵连发'→'召唤死神，而非幽魂连发']
+  KEY  'Summon Death instead of a Ghost Spawner'
+       ['召唤死神，而非幽灵生成器'→'召唤死神，而非幽魂生成器']
+  KEY  'Summon Death instead of a Ghost Swarm Summon'
+       ['召唤死神，而非幽灵虫群召唤'→'召唤死神，而非幽魂虫群召唤']
+  KEY  'Summon Ghost Slippers'
+       ['召唤幽灵拖鞋'→'召唤幽魂拖鞋']
+  KEY  'Summon Ghost Slipperss'
+       ['召唤幽灵拖鞋'→'召唤幽魂拖鞋']
+  KEY  'Summon Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+  KEY  'Touched by Also summon a Ghost Worm Ball'
+       ['同时召唤幽灵虫球之触'→'同时召唤幽魂虫球之触']
+  KEY  'Touched by Burning Ghost'
+       ['燃烧幽灵之触'→'燃烧幽魂之触']
+  KEY  'Touched by Ghost Slippers'
+       ['幽灵拖鞋之触'→'幽魂拖鞋之触']
+  KEY  'Touched by Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵之触'→'召唤死神，而非幽魂之触']
+  KEY  'When an enemy awakens from [sleep], summon a temporary Ghost near them'
+       ['近召唤一只临时幽灵'→'近召唤一只临时幽魂']
+  KEY  'When an enemy takes [Dark] and [Fire] damage in the same turn, summon a temporar'
+       ['唤一只临时燃烧幽灵'→'唤一只临时燃烧幽魂']
+  KEY  'temporary Also summon a Ghost Worm Ball'
+       ['临时同时召唤幽灵虫球'→'临时同时召唤幽魂虫球']
+  KEY  'temporary Burning Ghost'
+       ['临时燃烧幽灵'→'临时燃烧幽魂']
+  KEY  'temporary Ghost Slippers'
+       ['临时幽灵拖鞋'→'临时幽魂拖鞋']
+  KEY  'temporary Summon Death instead of a Ghost'
+       ['召唤死神，而非幽灵'→'召唤死神，而非幽魂']
+
+### 规则#44 scope='Summon Death instead of a Ghost' 命中 20 条
+  KEY  'Baby Summon Death instead of a Ghost'
+       ['幼年改为召唤死神，而非幽魂'→'幼年改为召唤死亡，而非幽魂']
+  KEY  'Chalice of Summon Death instead of a Ghost'
+       ['改为召唤死神，而非幽魂圣杯'→'改为召唤死亡，而非幽魂圣杯']
+  KEY  'Multicast Summon Death instead of a Ghost'
+       ['施法：改为召唤死神，而非幽魂'→'施法：改为召唤死亡，而非幽魂']
+  KEY  'Respawn As Summon Death instead of a Ghost'
+       ['重生为改为召唤死神，而非幽魂'→'重生为改为召唤死亡，而非幽魂']
+  KEY  'Robe of Summon Death instead of a Ghost'
+       ['改为召唤死神，而非幽魂法袍'→'改为召唤死亡，而非幽魂法袍']
+  KEY  'Skeletal Summon Death instead of a Ghost'
+       ['骸骨改为召唤死神，而非幽魂'→'骸骨改为召唤死亡，而非幽魂']
+  KEY  'Slimy Summon Death instead of a Ghost'
+       ['黏滑改为召唤死神，而非幽魂'→'黏滑改为召唤死亡，而非幽魂']
+  KEY  'Summon Death instead of a Ghost'
+       ['改为召唤死神，而非幽魂'→'改为召唤死亡，而非幽魂']
+  KEY  'Summon Death instead of a Ghost Curse Doll'
+       ['改为召唤死神，而非幽魂咒术人'→'改为召唤死亡，而非幽魂咒术人']
+  KEY  'Summon Death instead of a Ghost Egg'
+       ['改为召唤死神，而非幽魂蛋'→'改为召唤死亡，而非幽魂蛋']
+  KEY  "Summon Death instead of a Ghost Hunter's Sigil"
+       ['改为召唤死神，而非幽魂猎手印'→'改为召唤死亡，而非幽魂猎手印']
+  KEY  'Summon Death instead of a Ghost Oculus'
+       ['改为召唤死神，而非幽魂魔眼'→'改为召唤死亡，而非幽魂魔眼']
+  KEY  'Summon Death instead of a Ghost Queen'
+       ['改为召唤死神，而非幽魂女王'→'改为召唤死亡，而非幽魂女王']
+  KEY  'Summon Death instead of a Ghost Repeater'
+       ['改为召唤死神，而非幽魂连发'→'改为召唤死亡，而非幽魂连发']
+  KEY  'Summon Death instead of a Ghost Spawner'
+       ['改为召唤死神，而非幽魂生成器'→'改为召唤死亡，而非幽魂生成器']
+  KEY  'Summon Death instead of a Ghost Swarm Summon'
+       ['改为召唤死神，而非幽魂虫群召'→'改为召唤死亡，而非幽魂虫群召']
+  KEY  'Summon Summon Death instead of a Ghost'
+       ['召唤改为召唤死神，而非幽魂'→'召唤改为召唤死亡，而非幽魂']
+  KEY  'Summon Summon Death instead of a Ghosts'
+       ['召唤改为召唤死神，而非幽灵'→'召唤改为召唤死亡，而非幽灵']
+  KEY  'Touched by Summon Death instead of a Ghost'
+       ['改为召唤死神，而非幽魂之触'→'改为召唤死亡，而非幽魂之触']
+  KEY  'temporary Summon Death instead of a Ghost'
+       ['临时改为召唤死神，而非幽魂'→'临时改为召唤死亡，而非幽魂']
+
+### 规则#45 scope='\\bShared Pain\\b' 命中 3 条
+  KEY  'Affected units also receive the [Shared Pain:blood] debuff for [{duration}:durat'
+       ['的单位还会获得[共同痛苦:blood'→'的单位还会获得[痛苦共享:blo'] ['会获得[共同痛苦:blood]减'→'位还会获得[痛苦共享:blood]减']
+  KEY  'Enemies that share a name with a unit slain by Soul Wind are afflicted with Shar'
+       ['名的敌人会被施加共同痛苦，持续 [{'→'名的敌人会被施加痛苦共享，持续 '] ['会被施加共同痛苦，持续 [{du'→'敌人会被施加痛苦共享，持续 [{du']
+  KEY  'Inflict [Shared Pain:blood] on an enemy'
+       ['对一名敌人施加[共痛:blood'→'对一名敌人施加[痛苦共享:blood'] ['一名敌人施加[共痛:blood]'→'敌人施加[痛苦共享:blood]']
+
+### 规则#46 scope='\\bBlood Knight\\b' 命中 1 条
+  KEY  'Summon a {knight_name}\nThe summoned knight will match the spell school you have '
+       [':chaos]\n血骑士：[血:b'→':chaos]\n鲜血骑士：[血:b']
+
+### 规则#47 scope='\\bDeath Chill\\b' 命中 1 条
+  KEY  'Ice Drakes gain the [Dark] tag and can cast your Death Chill on a 6 turn cooldow'
+       ['并可施放你的死亡寒息，冷却 6 '→'并可施放你的死亡冻寒，冷却 6 回'] ['可施放你的死亡寒息，冷却 6 回合'→'施放你的死亡冻寒，冷却 6 回合']
+
+### 规则#48 scope='\\bWinterbringer\\b' 命中 1 条
+  KEY  'When you cast this spell, if there is room, summon Winterbringer instead of an I'
+       ['有空位，改为召唤携冬者而非寒冰幼龙'→'有空位，改为召唤凛冬使者而非寒冰幼'] ['位，改为召唤携冬者而非寒冰幼龙\n'→'位，改为召唤凛冬使者而非寒冰幼龙\n']
+
+### 规则#49 scope='\\bOrochi\\b' 命中 20 条
+  KEY  'Baby Crystalline Orochi'
+       ['幼年晶化大蛇'→'幼年晶化八岐大蛇']
+  KEY  'Chalice of Crystalline Orochi'
+       ['晶化大蛇圣杯'→'晶化八岐大蛇圣杯']
+  KEY  'Crystalline Orochi'
+       ['晶化大蛇'→'晶化八岐大蛇']
+  KEY  'Crystalline Orochi Curse Doll'
+       ['晶化大蛇咒术人偶'→'晶化八岐大蛇咒术人偶']
+  KEY  'Crystalline Orochi Egg'
+       ['晶化大蛇蛋'→'晶化八岐大蛇蛋']
+  KEY  "Crystalline Orochi Hunter's Sigil"
+       ['晶化大蛇猎手印记'→'晶化八岐大蛇猎手印记']
+  KEY  'Crystalline Orochi Oculus'
+       ['晶化大蛇魔眼'→'晶化八岐大蛇魔眼']
+  KEY  'Crystalline Orochi Queen'
+       ['晶化大蛇女王'→'晶化八岐大蛇女王']
+  KEY  'Crystalline Orochi Repeater'
+       ['晶化大蛇连发'→'晶化八岐大蛇连发']
+  KEY  'Crystalline Orochi Spawner'
+       ['晶化大蛇生成器'→'晶化八岐大蛇生成器']
+  KEY  'Crystalline Orochi Swarm Summon'
+       ['晶化大蛇虫群召唤'→'晶化八岐大蛇虫群召唤']
+  KEY  'Multicast Crystalline Orochi'
+       ['多重施法：晶化大蛇'→'多重施法：晶化八岐大蛇']
+  KEY  'Respawn As Crystalline Orochi'
+       ['重生为晶化大蛇'→'重生为晶化八岐大蛇']
+  KEY  'Robe of Crystalline Orochi'
+       ['晶化大蛇法袍'→'晶化八岐大蛇法袍']
+  KEY  'Skeletal Crystalline Orochi'
+       ['骸骨晶化大蛇'→'骸骨晶化八岐大蛇']
+  KEY  'Slimy Crystalline Orochi'
+       ['黏滑晶化大蛇'→'黏滑晶化八岐大蛇']
+  KEY  'Summon Crystalline Orochi'
+       ['召唤晶化大蛇'→'召唤晶化八岐大蛇']
+  KEY  'Touched by Crystalline Orochi'
+       ['晶化大蛇之触'→'晶化八岐大蛇之触']
+  KEY  'When you cast this spell, if there is room, summon Orochi instead of a Frostfire'
+       ['有空间，改为召唤大蛇而非霜火九头'→'有空间，改为召唤八岐大蛇而非霜火九头']
+  KEY  'temporary Crystalline Orochi'
+       ['临时晶化大蛇'→'临时晶化八岐大蛇']
+
+### 规则#50 scope='\\bAnnihilation Goo\\b' 命中 1 条
+  KEY  'On Pickup:\nSummon a friendly Annihilation Goo'
+       ['召唤一个友方湮灭软泥'→'召唤一个友方湮灭黏浆']
+
+### 规则#51 scope='\\bCombust Poison\\b' 命中 1 条
+  KEY  'While enemies live, cast Combust Poison at the end of each turn'
+       ['每回合结束时施放引爆毒素'→'每回合结束时施放毒素引燃'] ['束时施放引爆毒素'→'合结束时施放毒素引燃']
+
+### 规则#52 scope='\\bStonefish\\b' 命中 1 条
+  KEY  'Summon [{num_summons}:num_summons] Stonefish near the target'
+       ['mons] 条石头鱼'→'mons] 条石鱼']
+
+### 规则#53 scope='\\bIce Faery\\b' 命中 1 条
+  KEY  'When you cast Iceball, summon an Ice Faery for every 4 enemies it damages'
+       ['人，就召唤一只冰妖精'→'人，就召唤一只冰霜仙灵']
+
+### 规则#54 scope='\\bAether Spider' 命中 20 条
+  KEY  'Baby Summon an Aether Spider Queen instead'
+       ['幼年改为召唤以太蛛类女王'→'幼年改为召唤以太蜘蛛女王'] ['年改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Chalice of Summon an Aether Spider Queen instead'
+       ['改为召唤以太蛛类女王圣杯'→'改为召唤以太蜘蛛女王圣杯'] ['改为召唤以太蛛类女王圣杯'→'改为召唤以太蜘蛛女王圣杯']
+  KEY  'Multicast Summon an Aether Spider Queen instead'
+       ['法：改为召唤以太蛛类女王'→'法：改为召唤以太蜘蛛女王'] ['：改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Respawn As Summon an Aether Spider Queen instead'
+       ['生为改为召唤以太蛛类女王'→'生为改为召唤以太蜘蛛女王'] ['为改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Robe of Summon an Aether Spider Queen instead'
+       ['改为召唤以太蛛类女王法袍'→'改为召唤以太蜘蛛女王法袍'] ['改为召唤以太蛛类女王法袍'→'改为召唤以太蜘蛛女王法袍']
+  KEY  'Skeletal Summon an Aether Spider Queen instead'
+       ['骸骨改为召唤以太蛛类女王'→'骸骨改为召唤以太蜘蛛女王'] ['骨改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Slimy Summon an Aether Spider Queen instead'
+       ['黏滑改为召唤以太蛛类女王'→'黏滑改为召唤以太蜘蛛女王'] ['滑改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Summon Summon an Aether Spider Queen instead'
+       ['召唤改为召唤以太蛛类女王'→'召唤改为召唤以太蜘蛛女王'] ['唤改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Summon Summon an Aether Spider Queen insteads'
+       ['召唤改为召唤以太蛛类女王'→'召唤改为召唤以太蜘蛛女王'] ['唤改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Summon an Aether Spider Queen instead'
+       ['改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王'] ['改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+  KEY  'Summon an Aether Spider Queen instead Curse Doll'
+       ['改为召唤以太蛛类女王咒术人偶'→'改为召唤以太蜘蛛女王咒术人偶'] ['改为召唤以太蛛类女王咒术人偶'→'改为召唤以太蜘蛛女王咒术人偶']
+  KEY  'Summon an Aether Spider Queen instead Egg'
+       ['改为召唤以太蛛类女王蛋'→'改为召唤以太蜘蛛女王蛋'] ['改为召唤以太蛛类女王蛋'→'改为召唤以太蜘蛛女王蛋']
+  KEY  "Summon an Aether Spider Queen instead Hunter's Sigil"
+       ['改为召唤以太蛛类女王猎手印记'→'改为召唤以太蜘蛛女王猎手印记'] ['改为召唤以太蛛类女王猎手印记'→'改为召唤以太蜘蛛女王猎手印记']
+  KEY  'Summon an Aether Spider Queen instead Oculus'
+       ['改为召唤以太蛛类女王魔眼'→'改为召唤以太蜘蛛女王魔眼'] ['改为召唤以太蛛类女王魔眼'→'改为召唤以太蜘蛛女王魔眼']
+  KEY  'Summon an Aether Spider Queen instead Queen'
+       ['改为召唤以太蛛类女王女王'→'改为召唤以太蜘蛛女王女王'] ['改为召唤以太蛛类女王女王'→'改为召唤以太蜘蛛女王女王']
+  KEY  'Summon an Aether Spider Queen instead Repeater'
+       ['改为召唤以太蛛类女王连发'→'改为召唤以太蜘蛛女王连发'] ['改为召唤以太蛛类女王连发'→'改为召唤以太蜘蛛女王连发']
+  KEY  'Summon an Aether Spider Queen instead Spawner'
+       ['改为召唤以太蛛类女王生成器'→'改为召唤以太蜘蛛女王生成器'] ['改为召唤以太蛛类女王生成器'→'改为召唤以太蜘蛛女王生成器']
+  KEY  'Summon an Aether Spider Queen instead Swarm Summon'
+       ['改为召唤以太蛛类女王虫群召唤'→'改为召唤以太蜘蛛女王虫群召唤'] ['改为召唤以太蛛类女王虫群召唤'→'改为召唤以太蜘蛛女王虫群召唤']
+  KEY  'Touched by Summon an Aether Spider Queen instead'
+       ['改为召唤以太蛛类女王之触'→'改为召唤以太蜘蛛女王之触'] ['改为召唤以太蛛类女王之触'→'改为召唤以太蜘蛛女王之触']
+  KEY  'temporary Summon an Aether Spider Queen instead'
+       ['临时改为召唤以太蛛类女王'→'临时改为召唤以太蜘蛛女王'] ['时改为召唤以太蛛类女王'→'改为召唤以太蜘蛛女王']
+
+### 规则#55 scope='\\bCorrosion\\b' 命中 20 条
+  KEY  'Baby Reality Corrosion'
+       ['幼年现实侵蚀'→'幼年现实腐蚀']
+  KEY  'Chalice of Reality Corrosion'
+       ['现实侵蚀圣杯'→'现实腐蚀圣杯']
+  KEY  'Each turn, apply a stack of Corrosion to enemies in a 6 tile radius'
+       ['内的敌人施加一层侵蚀'→'内的敌人施加一层腐蚀']
+  KEY  'Multicast Reality Corrosion'
+       ['多重施法：现实侵蚀'→'多重施法：现实腐蚀']
+  KEY  'Reality Corrosion'
+       ['现实侵蚀'→'现实腐蚀']
+  KEY  'Reality Corrosion Curse Doll'
+       ['现实侵蚀咒术人偶'→'现实腐蚀咒术人偶']
+  KEY  'Reality Corrosion Egg'
+       ['现实侵蚀蛋'→'现实腐蚀蛋']
+  KEY  "Reality Corrosion Hunter's Sigil"
+       ['现实侵蚀猎手印记'→'现实腐蚀猎手印记']
+  KEY  'Reality Corrosion Oculus'
+       ['现实侵蚀魔眼'→'现实腐蚀魔眼']
+  KEY  'Reality Corrosion Queen'
+       ['现实侵蚀女王'→'现实腐蚀女王']
+  KEY  'Reality Corrosion Repeater'
+       ['现实侵蚀连发'→'现实腐蚀连发']
+  KEY  'Reality Corrosion Spawner'
+       ['现实侵蚀生成器'→'现实腐蚀生成器']
+  KEY  'Reality Corrosion Swarm Summon'
+       ['现实侵蚀虫群召唤'→'现实腐蚀虫群召唤']
+  KEY  'Respawn As Reality Corrosion'
+       ['重生为现实侵蚀'→'重生为现实腐蚀']
+  KEY  'Robe of Reality Corrosion'
+       ['现实侵蚀法袍'→'现实腐蚀法袍']
+  KEY  'Skeletal Reality Corrosion'
+       ['骸骨现实侵蚀'→'骸骨现实腐蚀']
+  KEY  'Slimy Reality Corrosion'
+       ['黏滑现实侵蚀'→'黏滑现实腐蚀']
+  KEY  'Summon Reality Corrosion'
+       ['召唤现实侵蚀'→'召唤现实腐蚀']
+  KEY  'Touched by Reality Corrosion'
+       ['现实侵蚀之触'→'现实腐蚀之触']
+  KEY  'temporary Reality Corrosion'
+       ['临时现实侵蚀'→'临时现实腐蚀']
+
+### 规则#56 scope='\\bChain Lightning\\b' 命中 1 条
+  KEY  'When targeted by an enemy spell, cast Chain Lightning on the caster'
+       ['时，对施法者施放链式闪电'→'时，对施法者施放连锁闪电']
+
+### 规则#57 scope='\\bBlood Bullet\\b' 命中 19 条
+  KEY  'Baby Win with a fully upgraded Blood Bullet'
+       ['幼年用完全强化的鲜血子弹获胜'→'幼年用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'年用完全强化的血弹获胜']
+  KEY  'Chalice of Win with a fully upgraded Blood Bullet'
+       ['用完全强化的鲜血子弹获胜圣杯'→'用完全强化的血弹获胜圣杯'] ['用完全强化的鲜血子弹获胜圣杯'→'用完全强化的血弹获胜圣杯']
+  KEY  'Multicast Win with a fully upgraded Blood Bullet'
+       ['法：用完全强化的鲜血子弹获胜'→'法：用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'：用完全强化的血弹获胜']
+  KEY  'Respawn As Win with a fully upgraded Blood Bullet'
+       ['生为用完全强化的鲜血子弹获胜'→'生为用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'为用完全强化的血弹获胜']
+  KEY  'Robe of Win with a fully upgraded Blood Bullet'
+       ['用完全强化的鲜血子弹获胜法袍'→'用完全强化的血弹获胜法袍'] ['用完全强化的鲜血子弹获胜法袍'→'用完全强化的血弹获胜法袍']
+  KEY  'Skeletal Win with a fully upgraded Blood Bullet'
+       ['骸骨用完全强化的鲜血子弹获胜'→'骸骨用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'骨用完全强化的血弹获胜']
+  KEY  'Slimy Win with a fully upgraded Blood Bullet'
+       ['黏滑用完全强化的鲜血子弹获胜'→'黏滑用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'滑用完全强化的血弹获胜']
+  KEY  'Summon Win with a fully upgraded Blood Bullet'
+       ['召唤用完全强化的鲜血子弹获胜'→'召唤用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'唤用完全强化的血弹获胜']
+  KEY  'Touched by Win with a fully upgraded Blood Bullet'
+       ['用完全强化的鲜血子弹获胜之触'→'用完全强化的血弹获胜之触'] ['用完全强化的鲜血子弹获胜之触'→'用完全强化的血弹获胜之触']
+  KEY  'Win with a fully upgraded Blood Bullet'
+       ['用完全强化的鲜血子弹获胜'→'用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'用完全强化的血弹获胜']
+  KEY  'Win with a fully upgraded Blood Bullet Curse Doll'
+       ['用完全强化的鲜血子弹获胜咒术人'→'用完全强化的血弹获胜咒术人偶'] ['用完全强化的鲜血子弹获胜咒术人偶'→'用完全强化的血弹获胜咒术人偶']
+  KEY  'Win with a fully upgraded Blood Bullet Egg'
+       ['用完全强化的鲜血子弹获胜蛋'→'用完全强化的血弹获胜蛋'] ['用完全强化的鲜血子弹获胜蛋'→'用完全强化的血弹获胜蛋']
+  KEY  "Win with a fully upgraded Blood Bullet Hunter's Sigil"
+       ['用完全强化的鲜血子弹获胜猎手印'→'用完全强化的血弹获胜猎手印记'] ['用完全强化的鲜血子弹获胜猎手印记'→'用完全强化的血弹获胜猎手印记']
+  KEY  'Win with a fully upgraded Blood Bullet Oculus'
+       ['用完全强化的鲜血子弹获胜魔眼'→'用完全强化的血弹获胜魔眼'] ['用完全强化的鲜血子弹获胜魔眼'→'用完全强化的血弹获胜魔眼']
+  KEY  'Win with a fully upgraded Blood Bullet Queen'
+       ['用完全强化的鲜血子弹获胜女王'→'用完全强化的血弹获胜女王'] ['用完全强化的鲜血子弹获胜女王'→'用完全强化的血弹获胜女王']
+  KEY  'Win with a fully upgraded Blood Bullet Repeater'
+       ['用完全强化的鲜血子弹获胜连发'→'用完全强化的血弹获胜连发'] ['用完全强化的鲜血子弹获胜连发'→'用完全强化的血弹获胜连发']
+  KEY  'Win with a fully upgraded Blood Bullet Spawner'
+       ['用完全强化的鲜血子弹获胜生成器'→'用完全强化的血弹获胜生成器'] ['用完全强化的鲜血子弹获胜生成器'→'用完全强化的血弹获胜生成器']
+  KEY  'Win with a fully upgraded Blood Bullet Swarm Summon'
+       ['用完全强化的鲜血子弹获胜虫群召'→'用完全强化的血弹获胜虫群召唤'] ['用完全强化的鲜血子弹获胜虫群召唤'→'用完全强化的血弹获胜虫群召唤']
+  KEY  'temporary Win with a fully upgraded Blood Bullet'
+       ['临时用完全强化的鲜血子弹获胜'→'临时用完全强化的血弹获胜'] ['用完全强化的鲜血子弹获胜'→'时用完全强化的血弹获胜']
+
+### 规则#58 scope='\\bRuby Heart\\b' 命中 1 条
+  KEY  'Levels contain no Components\nSpells cannot be purchased with SP and Equipment ca'
+       ['制作\n每层包含红玉之心、法术卷轴或'→'制作\n每层包含红宝石之心、法术卷轴或']
+
+### 规则#59 scope='\\bIce Wyrm\\b' 命中 21 条
+  KEY  'Baby Ice Wyrm Scale'
+       ['幼年冰龙虫鳞片'→'幼年寒冰蛟龙鳞片'] ['幼年冰龙虫鳞片'→'幼年寒冰蛟龙鳞片'] ['幼年冰龙虫鳞片'→'幼年寒冰蛟龙鳞片']
+  KEY  'Chalice of Ice Wyrm Scale'
+       ['冰龙虫鳞片圣杯'→'寒冰蛟龙鳞片圣杯'] ['冰龙虫鳞片圣杯'→'寒冰蛟龙鳞片圣杯'] ['冰龙虫鳞片圣杯'→'寒冰蛟龙鳞片圣杯']
+  KEY  'Ice Wyrm Scale'
+       ['冰龙虫鳞片'→'寒冰蛟龙鳞片'] ['冰龙虫鳞片'→'寒冰蛟龙鳞片'] ['冰龙虫鳞片'→'寒冰蛟龙鳞片']
+  KEY  'Ice Wyrm Scale Curse Doll'
+       ['冰龙虫鳞片咒术人'→'寒冰蛟龙鳞片咒术人'] ['冰龙虫鳞片咒术人偶'→'寒冰蛟龙鳞片咒术人偶'] ['冰龙虫鳞片咒术人偶'→'寒冰蛟龙鳞片咒术人偶']
+  KEY  'Ice Wyrm Scale Egg'
+       ['冰龙虫鳞片蛋'→'寒冰蛟龙鳞片蛋'] ['冰龙虫鳞片蛋'→'寒冰蛟龙鳞片蛋'] ['冰龙虫鳞片蛋'→'寒冰蛟龙鳞片蛋']
+  KEY  "Ice Wyrm Scale Hunter's Sigil"
+       ['冰龙虫鳞片猎手印'→'寒冰蛟龙鳞片猎手印'] ['冰龙虫鳞片猎手印记'→'寒冰蛟龙鳞片猎手印记'] ['冰龙虫鳞片猎手印记'→'寒冰蛟龙鳞片猎手印记']
+  KEY  'Ice Wyrm Scale Oculus'
+       ['冰龙虫鳞片魔眼'→'寒冰蛟龙鳞片魔眼'] ['冰龙虫鳞片魔眼'→'寒冰蛟龙鳞片魔眼'] ['冰龙虫鳞片魔眼'→'寒冰蛟龙鳞片魔眼']
+  KEY  'Ice Wyrm Scale Queen'
+       ['冰龙虫鳞片女王'→'寒冰蛟龙鳞片女王'] ['冰龙虫鳞片女王'→'寒冰蛟龙鳞片女王'] ['冰龙虫鳞片女王'→'寒冰蛟龙鳞片女王']
+  KEY  'Ice Wyrm Scale Repeater'
+       ['冰龙虫鳞片连发'→'寒冰蛟龙鳞片连发'] ['冰龙虫鳞片连发'→'寒冰蛟龙鳞片连发'] ['冰龙虫鳞片连发'→'寒冰蛟龙鳞片连发']
+  KEY  'Ice Wyrm Scale Spawner'
+       ['冰龙虫鳞片生成器'→'寒冰蛟龙鳞片生成器'] ['冰龙虫鳞片生成器'→'寒冰蛟龙鳞片生成器'] ['冰龙虫鳞片生成器'→'寒冰蛟龙鳞片生成器']
+  KEY  'Ice Wyrm Scale Swarm Summon'
+       ['冰龙虫鳞片虫群召'→'寒冰蛟龙鳞片虫群召'] ['冰龙虫鳞片虫群召唤'→'寒冰蛟龙鳞片虫群召唤'] ['冰龙虫鳞片虫群召唤'→'寒冰蛟龙鳞片虫群召唤']
+  KEY  'Multicast Ice Wyrm Scale'
+       ['多重施法：冰龙虫鳞片'→'多重施法：寒冰蛟龙鳞片'] ['多重施法：冰龙虫鳞片'→'多重施法：寒冰蛟龙鳞片'] ['多重施法：冰龙虫鳞片'→'重施法：寒冰蛟龙鳞片']
+  KEY  'On Pickup:\nSummon a friendly Ice Wyrm Egg nearby'
+       ['附近召唤一枚友方冰龙虫卵'→'附近召唤一枚友方寒冰蛟龙卵'] ['近召唤一枚友方冰龙虫卵'→'召唤一枚友方寒冰蛟龙卵'] ['召唤一枚友方冰龙虫卵'→'一枚友方寒冰蛟龙卵']
+  KEY  'Respawn As Ice Wyrm Scale'
+       ['重生为冰龙虫鳞片'→'重生为寒冰蛟龙鳞片'] ['重生为冰龙虫鳞片'→'重生为寒冰蛟龙鳞片'] ['重生为冰龙虫鳞片'→'重生为寒冰蛟龙鳞片']
+  KEY  'Robe of Ice Wyrm Scale'
+       ['冰龙虫鳞片法袍'→'寒冰蛟龙鳞片法袍'] ['冰龙虫鳞片法袍'→'寒冰蛟龙鳞片法袍'] ['冰龙虫鳞片法袍'→'寒冰蛟龙鳞片法袍']
+  KEY  'Skeletal Ice Wyrm Scale'
+       ['骸骨冰龙虫鳞片'→'骸骨寒冰蛟龙鳞片'] ['骸骨冰龙虫鳞片'→'骸骨寒冰蛟龙鳞片'] ['骸骨冰龙虫鳞片'→'骸骨寒冰蛟龙鳞片']
+  KEY  'Slimy Ice Wyrm Scale'
+       ['黏滑冰龙虫鳞片'→'黏滑寒冰蛟龙鳞片'] ['黏滑冰龙虫鳞片'→'黏滑寒冰蛟龙鳞片'] ['黏滑冰龙虫鳞片'→'黏滑寒冰蛟龙鳞片']
+  KEY  'Summon Ice Wyrm Scale'
+       ['召唤冰龙虫鳞片'→'召唤寒冰蛟龙鳞片'] ['召唤冰龙虫鳞片'→'召唤寒冰蛟龙鳞片'] ['召唤冰龙虫鳞片'→'召唤寒冰蛟龙鳞片']
+  KEY  'Summon Ice Wyrm Scales'
+       ['召唤冰龙虫鳞片'→'召唤寒冰蛟龙鳞片'] ['召唤冰龙虫鳞片'→'召唤寒冰蛟龙鳞片'] ['召唤冰龙虫鳞片'→'召唤寒冰蛟龙鳞片']
+  KEY  'Touched by Ice Wyrm Scale'
+       ['冰龙虫鳞片之触'→'寒冰蛟龙鳞片之触'] ['冰龙虫鳞片之触'→'寒冰蛟龙鳞片之触'] ['冰龙虫鳞片之触'→'寒冰蛟龙鳞片之触']
+  KEY  'temporary Ice Wyrm Scale'
+       ['临时冰龙虫鳞片'→'临时寒冰蛟龙鳞片'] ['临时冰龙虫鳞片'→'临时寒冰蛟龙鳞片'] ['临时冰龙虫鳞片'→'临时寒冰蛟龙鳞片']
+
+### 规则#60 scope='\\bIce Drake\\b' 命中 2 条
+  KEY  'Ice Drake Call Bonus'
+       ['冰幼龙呼唤加成'→'寒冰幼龙呼唤加成']
+  KEY  'If a unit is killed by this spell, cast your Ice Drake spell at their location'
+       ['所在位置施放你的冰幼龙法术'→'所在位置施放你的寒冰幼龙法术']
+
+### 规则#61 scope='\\bFire Drake\\b' 命中 2 条
+  KEY  'Each impact has a 20% chance of casting your Fire Drake spell as well'
+       ['率额外施放你的火幼龙法术'→'率额外施放你的火焰幼龙法术']
+  KEY  'Fire Drake Call Bonus'
+       ['火幼龙呼唤加成'→'火焰幼龙呼唤加成']
+
+### 规则#62 scope='\\bFire Elemental\\b' 命中 1 条
+  KEY  'When you cast a [Fire] spell, summon a temporary Fire Elemental near the target\n'
+       ['近召唤一只临时火焰元素\n若你移动或'→'近召唤一只临时火元素\n若你移动或']
+
+### 规则#63 scope='\\bEye of Fire\\b' 命中 1 条
+  KEY  'Fire Elementals can cast your Eye of Fire on a 10 turn cool down'
+       ['素可以施放你的火之眼，冷却 10'→'素可以施放你的火焰之眼，冷却 10']
+
+### 规则#64 scope='\\bDream the Starwhale\\b' 命中 1 条
+  KEY  'Win with a fully upgraded Dream the Starwhale'
+       ['用完全强化的梦见星鲸获胜'→'用完全强化的梦游星鲸获胜']
+
+### 规则#65 scope='\\bFreezing Coral\\b' 命中 1 条
+  KEY  'Cone attack\nSummon Freezing Coral around affected units'
+       ['响单位周围召唤冻结珊瑚'→'响单位周围召唤冻凝珊瑚']
+
+### 规则#66 scope='\\bBishop Boots\\b' 命中 1 条
+  KEY  'Win while wearing Bishop Boots and Castellan Clogs'
+       ['穿戴主教靴与城主木屐获胜'→'穿戴主教长靴与城主木屐获胜']
+
+### 规则#67 scope='\\bDream Thief Diadem\\b' 命中 1 条
+  KEY  'Win while wearing Dream Thief Diadem, Psychopomp Staff, and Hypno Bauble'
+       ['穿戴窃梦冠冕、渡魂法杖与'→'穿戴窃梦头冠、渡魂法杖与催'] ['穿戴窃梦冠冕、渡魂法杖与催眠'→'穿戴窃梦头冠、渡魂法杖与催眠']
+
+### 规则#68 scope='\\bPsychopomp Staff\\b' 命中 1 条
+  KEY  'Win while wearing Dream Thief Diadem, Psychopomp Staff, and Hypno Bauble'
+       ['穿戴窃梦头冠、渡魂法杖与催眠饰珠'→'穿戴窃梦头冠、引魂者法杖与催眠饰'] ['戴窃梦头冠、渡魂法杖与催眠饰珠获'→'戴窃梦头冠、引魂者法杖与催眠饰珠获']
+
+### 规则#69 scope='\\bHypno Bauble\\b' 命中 1 条
+  KEY  'Win while wearing Dream Thief Diadem, Psychopomp Staff, and Hypno Bauble'
+       ['引魂者法杖与催眠饰珠获胜'→'引魂者法杖与催眠小饰品获胜'] ['魂者法杖与催眠饰珠获胜'→'者法杖与催眠小饰品获胜']
+
+### 规则#70 scope='\\bSlimebirth Cantromancy\\b' 命中 1 条
+  KEY  'Win while wearing Slimebirth Cantromancy, Macrophagic Mask, and Slimy Voodoo Man'
+       ['穿戴黏液诞生术、巨噬面具与'→'穿戴黏液降生坎特罗术、巨噬'] ['穿戴黏液诞生术、巨噬面具与黏'→'穿戴黏液降生坎特罗术、巨噬面具与黏']
+
+### 规则#71 scope='\\bSlimy Voodoo Mantle\\b' 命中 1 条
+  KEY  'Win while wearing Slimebirth Cantromancy, Macrophagic Mask, and Slimy Voodoo Man'
+       ['术、巨噬面具与黏滑巫毒披风获胜'→'术、巨噬面具与黏液巫毒披风获胜']
+
+### 规则#72 scope='\\bPrism of Shattered Sensations\\b' 命中 1 条
+  KEY  'Win while wearing Codex of Chaotic Evolution, Prism of Shattered Sensations, Cys'
+       ['戴混沌进化典籍、破碎感知棱镜、永恒'→'戴混沌进化典籍、碎感棱镜、永恒绽'] ['进化典籍、破碎感知棱镜、永恒绽放囊'→'沌进化典籍、碎感棱镜、永恒绽放囊']
+
+### 规则#73 scope='\\bCyst of Eternal Bloom\\b' 命中 1 条
+  KEY  'Win while wearing Codex of Chaotic Evolution, Prism of Shattered Sensations, Cys'
+       ['籍、碎感棱镜、永恒绽放囊肿与无尽屠'→'籍、碎感棱镜、永绽囊肿与无尽屠戮'] ['碎感棱镜、永恒绽放囊肿与无尽屠戮宝'→'、碎感棱镜、永绽囊肿与无尽屠戮宝']
+
+### 规则#74 scope='\\bOrb of Infinite Slaughter\\b' 命中 1 条
+  KEY  'Win while wearing Codex of Chaotic Evolution, Prism of Shattered Sensations, Cys'
+       ['、永绽囊肿与无尽屠戮宝珠获胜'→'、永绽囊肿与无尽杀戮宝珠获胜']
+
+### 规则#75 scope='\\bChaos Scale Crown\\b' 命中 1 条
+  KEY  'Win while wearing Chaos Scale Crown, Dragonspine Cloak, Drakenstaff, and Wyrm Sp'
+       ['穿戴混沌之鳞王冠、龙脊斗篷'→'穿戴混沌鳞冠、龙脊斗篷、'] ['穿戴混沌之鳞王冠、龙脊斗篷、德'→'穿戴混沌鳞冠、龙脊斗篷、德']
+
+### 规则#76 scope='\\bWyrm Spirit Armor\\b' 命中 1 条
+  KEY  'Win while wearing Chaos Scale Crown, Dragonspine Cloak, Drakenstaff, and Wyrm Sp'
+       ['篷、德拉肯法杖与蟠龙之魂护甲获胜'→'篷、德拉肯法杖与龙灵护甲获胜'] ['德拉肯法杖与蟠龙之魂护甲获胜'→'、德拉肯法杖与龙灵护甲获胜']
+
+### 规则#77 scope='\\bBonus HP\\b' 命中 1 条
+  KEY  '\n{tag1}: {mastery1}\n{tag2}: {mastery2}\nBonus HP: {prod}'
+       ['stery2}\n额外生命：{prod'→'stery2}\n加成生命：{prod']
+
+### 规则#78 scope='\\bArcane Warding\\b' 命中 1 条
+  KEY  'When you cast this spell, the summoned Faeries cast your Arcane Warding on thems'
+       ['己施放你的奥术守卫'→'己施放你的奥术守护']
+
+### 规则#79 scope='\\bLifedrain\\b' 命中 1 条
+  KEY  '[Spider] allies gain the [Blood] tag and can cast your Lifedrain on a 4 turn coo'
+       ['并可施放你的生命汲取，冷却 4 回'→'并可施放你的生命吸取，冷却 4 回']
+
+### 规则#80 scope='\\bRot\\b' 命中 41 条
+  KEY  'Baby Rot Bolt'
+       ['幼年腐化弹'→'幼年腐烂弹']
+  KEY  'Baby Rot Imp'
+       ['幼年腐化小恶魔'→'幼年腐烂小恶魔']
+  KEY  'Chalice of Rot Bolt'
+       ['腐化弹圣杯'→'腐烂弹圣杯']
+  KEY  'Chalice of Rot Imp'
+       ['腐化小恶魔圣杯'→'腐烂小恶魔圣杯']
+  KEY  'Imp Swarm can also summon Rot, Void, and Insanity Imps'
+       ['魔蜂群还会召唤腐化、虚空和疯狂小恶'→'魔蜂群还会召唤腐烂、虚空和疯狂小恶']
+  KEY  'Multicast Rot Bolt'
+       ['多重施法：腐化弹'→'多重施法：腐烂弹']
+  KEY  'Multicast Rot Imp'
+       ['多重施法：腐化小恶魔'→'多重施法：腐烂小恶魔']
+  KEY  'Respawn As Rot Bolt'
+       ['重生为腐化弹'→'重生为腐烂弹']
+  KEY  'Respawn As Rot Imp'
+       ['重生为腐化小恶魔'→'重生为腐烂小恶魔']
+  KEY  'Robe of Rot Bolt'
+       ['腐化弹法袍'→'腐烂弹法袍']
+  KEY  'Robe of Rot Imp'
+       ['腐化小恶魔法袍'→'腐烂小恶魔法袍']
+  KEY  'Rot Bolt'
+       ['腐化弹'→'腐烂弹']
+  KEY  'Rot Bolt Curse Doll'
+       ['腐化弹咒术人偶'→'腐烂弹咒术人偶']
+  KEY  'Rot Bolt Egg'
+       ['腐化弹蛋'→'腐烂弹蛋']
+  KEY  "Rot Bolt Hunter's Sigil"
+       ['腐化弹猎手印记'→'腐烂弹猎手印记']
+  KEY  'Rot Bolt Oculus'
+       ['腐化弹魔眼'→'腐烂弹魔眼']
+  KEY  'Rot Bolt Queen'
+       ['腐化弹女王'→'腐烂弹女王']
+  KEY  'Rot Bolt Repeater'
+       ['腐化弹连发'→'腐烂弹连发']
+  KEY  'Rot Bolt Spawner'
+       ['腐化弹生成器'→'腐烂弹生成器']
+  KEY  'Rot Bolt Swarm Summon'
+       ['腐化弹虫群召唤'→'腐烂弹虫群召唤']
+  KEY  'Rot Imp'
+       ['腐化小恶魔'→'腐烂小恶魔']
+  KEY  'Rot Imp Curse Doll'
+       ['腐化小恶魔咒术人偶'→'腐烂小恶魔咒术人偶']
+  KEY  'Rot Imp Egg'
+       ['腐化小恶魔蛋'→'腐烂小恶魔蛋']
+  KEY  "Rot Imp Hunter's Sigil"
+       ['腐化小恶魔猎手印记'→'腐烂小恶魔猎手印记']
+  KEY  'Rot Imp Oculus'
+       ['腐化小恶魔魔眼'→'腐烂小恶魔魔眼']
+  KEY  'Rot Imp Queen'
+       ['腐化小恶魔女王'→'腐烂小恶魔女王']
+  KEY  'Rot Imp Repeater'
+       ['腐化小恶魔连发'→'腐烂小恶魔连发']
+  KEY  'Rot Imp Spawner'
+       ['腐化小恶魔生成器'→'腐烂小恶魔生成器']
+  KEY  'Rot Imp Swarm Summon'
+       ['腐化小恶魔虫群召唤'→'腐烂小恶魔虫群召唤']
+  KEY  'Skeletal Rot Bolt'
+       ['骸骨腐化弹'→'骸骨腐烂弹']
+  KEY  'Skeletal Rot Imp'
+       ['骸骨腐化小恶魔'→'骸骨腐烂小恶魔']
+  KEY  'Slimy Rot Bolt'
+       ['黏滑腐化弹'→'黏滑腐烂弹']
+  KEY  'Slimy Rot Imp'
+       ['黏滑腐化小恶魔'→'黏滑腐烂小恶魔']
+  KEY  'Summon Rot Bolt'
+       ['召唤腐化弹'→'召唤腐烂弹']
+  KEY  'Summon Rot Bolts'
+       ['召唤腐化弹'→'召唤腐烂弹']
+  KEY  'Summon Rot Imp'
+       ['召唤腐化小恶魔'→'召唤腐烂小恶魔']
+  KEY  'Summon Rot Imps'
+       ['召唤腐化小恶魔'→'召唤腐烂小恶魔']
+  KEY  'Touched by Rot Bolt'
+       ['腐化弹之触'→'腐烂弹之触']
+  KEY  'Touched by Rot Imp'
+       ['腐化小恶魔之触'→'腐烂小恶魔之触']
+  KEY  'temporary Rot Bolt'
+       ['临时腐化弹'→'临时腐烂弹']
+  KEY  'temporary Rot Imp'
+       ['临时腐化小恶魔'→'临时腐烂小恶魔']
+
+### 规则#81 scope='\\bMelt\\b' 命中 85 条
+  KEY  'Acid Melt Walls Bonus'
+       ['酸液熔化墙壁加成'→'酸液熔解墙壁加成']
+  KEY  'Any Melt Walls Bonus'
+       ['任意熔化墙壁加成'→'任意熔解墙壁加成']
+  KEY  'Arcane Melt Walls Bonus'
+       ['奥术熔化墙壁加成'→'奥术熔解墙壁加成']
+  KEY  'Arrow Melt Walls Bonus'
+       ['箭熔化墙壁加成'→'箭熔解墙壁加成']
+  KEY  'Baby Melt Walls'
+       ['幼年熔化墙壁'→'幼年熔解墙壁']
+  KEY  'Baby Melt walls adjacent to the blast'
+       ['幼年熔化爆炸相邻的墙壁'→'幼年熔解爆炸相邻的墙壁']
+  KEY  'Blood Melt Walls Bonus'
+       ['血熔化墙壁加成'→'血熔解墙壁加成']
+  KEY  'Chalice of Melt Walls'
+       ['熔化墙壁圣杯'→'熔解墙壁圣杯']
+  KEY  'Chalice of Melt walls adjacent to the blast'
+       ['熔化爆炸相邻的墙壁圣'→'熔解爆炸相邻的墙壁圣']
+  KEY  'Chaos Melt Walls Bonus'
+       ['混沌熔化墙壁加成'→'混沌熔解墙壁加成']
+  KEY  'Conjuration Melt Walls Bonus'
+       ['咒法熔化墙壁加成'→'咒法熔解墙壁加成']
+  KEY  'Construct Melt Walls Bonus'
+       ['构装体熔化墙壁加成'→'构装体熔解墙壁加成']
+  KEY  'Consumable Melt Walls Bonus'
+       ['消耗品熔化墙壁加成'→'消耗品熔解墙壁加成']
+  KEY  'Dark Melt Walls Bonus'
+       ['黑暗熔化墙壁加成'→'黑暗熔解墙壁加成']
+  KEY  'Demon Melt Walls Bonus'
+       ['恶魔熔化墙壁加成'→'恶魔熔解墙壁加成']
+  KEY  'Dragon Melt Walls Bonus'
+       ['龙熔化墙壁加成'→'龙熔解墙壁加成']
+  KEY  'Elemental Melt Walls Bonus'
+       ['元素熔化墙壁加成'→'元素熔解墙壁加成']
+  KEY  'Enchantment Melt Walls Bonus'
+       ['附魔熔化墙壁加成'→'附魔熔解墙壁加成']
+  KEY  'Eye Melt Walls Bonus'
+       ['眼魔熔化墙壁加成'→'眼魔熔解墙壁加成']
+  KEY  'Fang Melt Walls Bonus'
+       ['利齿熔化墙壁加成'→'利齿熔解墙壁加成']
+  KEY  'Fire Melt Walls Bonus'
+       ['火熔化墙壁加成'→'火熔解墙壁加成']
+  KEY  'Glass Melt Walls Bonus'
+       ['玻璃熔化墙壁加成'→'玻璃熔解墙壁加成']
+  KEY  'Glassification Melt Walls Bonus'
+       ['玻璃化熔化墙壁加成'→'玻璃化熔解墙壁加成']
+  KEY  'Heal Melt Walls Bonus'
+       ['治疗熔化墙壁加成'→'治疗熔解墙壁加成']
+  KEY  'Holy Melt Walls Bonus'
+       ['神圣熔化墙壁加成'→'神圣熔解墙壁加成']
+  KEY  'Ice Melt Walls Bonus'
+       ['冰熔化墙壁加成'→'冰熔解墙壁加成']
+  KEY  'Immolate Melt Walls Bonus'
+       ['焚烧熔化墙壁加成'→'焚烧熔解墙壁加成']
+  KEY  'Leap Melt Walls Bonus'
+       ['跃击熔化墙壁加成'→'跃击熔解墙壁加成']
+  KEY  'Lightning Melt Walls Bonus'
+       ['闪电熔化墙壁加成'→'闪电熔解墙壁加成']
+  KEY  'Living Melt Walls Bonus'
+       ['活物熔化墙壁加成'→'活物熔解墙壁加成']
+  KEY  'Melt Walls'
+       ['熔化墙壁'→'熔解墙壁']
+  KEY  'Melt Walls Curse Doll'
+       ['熔化墙壁咒术人偶'→'熔解墙壁咒术人偶']
+  KEY  'Melt Walls Egg'
+       ['熔化墙壁蛋'→'熔解墙壁蛋']
+  KEY  "Melt Walls Hunter's Sigil"
+       ['熔化墙壁猎手印记'→'熔解墙壁猎手印记']
+  KEY  'Melt Walls Oculus'
+       ['熔化墙壁魔眼'→'熔解墙壁魔眼']
+  KEY  'Melt Walls Queen'
+       ['熔化墙壁女王'→'熔解墙壁女王']
+  KEY  'Melt Walls Repeater'
+       ['熔化墙壁连发'→'熔解墙壁连发']
+  KEY  'Melt Walls Spawner'
+       ['熔化墙壁生成器'→'熔解墙壁生成器']
+  KEY  'Melt Walls Swarm Summon'
+       ['熔化墙壁虫群召唤'→'熔解墙壁虫群召唤']
+  KEY  'Melt walls adjacen..'
+       ['熔化爆炸相邻的墙壁'→'熔解爆炸相邻的墙壁']
+  KEY  'Melt walls adjacent to the blast'
+       ['熔化爆炸相邻的墙壁'→'熔解爆炸相邻的墙壁']
+  KEY  'Melt walls adjacent to the blast Curse Doll'
+       ['熔化爆炸相邻的墙壁咒'→'熔解爆炸相邻的墙壁咒']
+  KEY  'Melt walls adjacent to the blast Egg'
+       ['熔化爆炸相邻的墙壁蛋'→'熔解爆炸相邻的墙壁蛋']
+  KEY  "Melt walls adjacent to the blast Hunter's Sigil"
+       ['熔化爆炸相邻的墙壁猎'→'熔解爆炸相邻的墙壁猎']
+  KEY  'Melt walls adjacent to the blast Oculus'
+       ['熔化爆炸相邻的墙壁魔'→'熔解爆炸相邻的墙壁魔']
+  KEY  'Melt walls adjacent to the blast Queen'
+       ['熔化爆炸相邻的墙壁女'→'熔解爆炸相邻的墙壁女']
+  KEY  'Melt walls adjacent to the blast Repeater'
+       ['熔化爆炸相邻的墙壁连'→'熔解爆炸相邻的墙壁连']
+  KEY  'Melt walls adjacent to the blast Spawner'
+       ['熔化爆炸相邻的墙壁生'→'熔解爆炸相邻的墙壁生']
+  KEY  'Melt walls adjacent to the blast Swarm Summon'
+       ['熔化爆炸相邻的墙壁虫'→'熔解爆炸相邻的墙壁虫']
+  KEY  'Metallic Melt Walls Bonus'
+       ['金属熔化墙壁加成'→'金属熔解墙壁加成']
+  KEY  'Multicast Melt Walls'
+       ['多重施法：熔化墙壁'→'多重施法：熔解墙壁']
+  KEY  'Multicast Melt walls adjacent to the blast'
+       ['多重施法：熔化爆炸相邻的墙壁'→'多重施法：熔解爆炸相邻的墙壁']
+  KEY  'Music Melt Walls Bonus'
+       ['音乐熔化墙壁加成'→'音乐熔解墙壁加成']
+  KEY  'Nature Melt Walls Bonus'
+       ['自然熔化墙壁加成'→'自然熔解墙壁加成']
+  KEY  'Orb Melt Walls Bonus'
+       ['宝珠熔化墙壁加成'→'宝珠熔解墙壁加成']
+  KEY  'Petrification Melt Walls Bonus'
+       ['石化熔化墙壁加成'→'石化熔解墙壁加成']
+  KEY  'Physical Melt Walls Bonus'
+       ['物理熔化墙壁加成'→'物理熔解墙壁加成']
+  KEY  'Poison Melt Walls Bonus'
+       ['中毒熔化墙壁加成'→'中毒熔解墙壁加成']
+  KEY  'Respawn As Melt Walls'
+       ['重生为熔化墙壁'→'重生为熔解墙壁']
+  KEY  'Respawn As Melt walls adjacent to the blast'
+       ['重生为熔化爆炸相邻的墙壁'→'重生为熔解爆炸相邻的墙壁']
+  KEY  'Ritual Melt Walls Bonus'
+       ['仪式熔化墙壁加成'→'仪式熔解墙壁加成']
+  KEY  'Robe of Melt Walls'
+       ['熔化墙壁法袍'→'熔解墙壁法袍']
+  KEY  'Robe of Melt walls adjacent to the blast'
+       ['熔化爆炸相邻的墙壁法'→'熔解爆炸相邻的墙壁法']
+  KEY  'Shield Melt Walls Bonus'
+       ['护盾熔化墙壁加成'→'护盾熔解墙壁加成']
+  KEY  'Skeletal Melt Walls'
+       ['骸骨熔化墙壁'→'骸骨熔解墙壁']
+  KEY  'Skeletal Melt walls adjacent to the blast'
+       ['骸骨熔化爆炸相邻的墙壁'→'骸骨熔解爆炸相邻的墙壁']
+  KEY  'Slime Melt Walls Bonus'
+       ['黏液熔化墙壁加成'→'黏液熔解墙壁加成']
+  KEY  'Slimy Melt Walls'
+       ['黏滑熔化墙壁'→'黏滑熔解墙壁']
+  KEY  'Slimy Melt walls adjacent to the blast'
+       ['黏滑熔化爆炸相邻的墙壁'→'黏滑熔解爆炸相邻的墙壁']
+  KEY  'Sorcery Melt Walls Bonus'
+       ['巫术熔化墙壁加成'→'巫术熔解墙壁加成']
+  KEY  'Spider Melt Walls Bonus'
+       ['蛛类熔化墙壁加成'→'蛛类熔解墙壁加成']
+  KEY  'Summon Melt Walls'
+       ['召唤熔化墙壁'→'召唤熔解墙壁']
+  KEY  'Summon Melt Wallss'
+       ['召唤熔化墙壁'→'召唤熔解墙壁']
+  KEY  'Summon Melt walls adjacent to the blast'
+       ['召唤熔化爆炸相邻的墙壁'→'召唤熔解爆炸相邻的墙壁']
+  KEY  'Summon Melt walls adjacent to the blasts'
+       ['召唤熔化爆炸相邻的墙壁'→'召唤熔解爆炸相邻的墙壁']
+  KEY  'Thunderstrike Melt Walls Bonus'
+       ['雷袭熔化墙壁加成'→'雷袭熔解墙壁加成']
+  KEY  'Tongue Melt Walls Bonus'
+       ['巨舌熔化墙壁加成'→'巨舌熔解墙壁加成']
+  KEY  'Touched by Melt Walls'
+       ['熔化墙壁之触'→'熔解墙壁之触']
+  KEY  'Touched by Melt walls adjacent to the blast'
+       ['熔化爆炸相邻的墙壁之'→'熔解爆炸相邻的墙壁之']
+  KEY  'Translocation Melt Walls Bonus'
+       ['移转熔化墙壁加成'→'移转熔解墙壁加成']
+  KEY  'Undead Melt Walls Bonus'
+       ['不死熔化墙壁加成'→'不死熔解墙壁加成']
+  KEY  'Water Melt Walls Bonus'
+       ['水熔化墙壁加成'→'水熔解墙壁加成']
+  KEY  'Word Melt Walls Bonus'
+       ['言灵熔化墙壁加成'→'言灵熔解墙壁加成']
+  KEY  'temporary Melt Walls'
+       ['临时熔化墙壁'→'临时熔解墙壁']
+  KEY  'temporary Melt walls adjacent to the blast'
+       ['临时熔化爆炸相邻的墙壁'→'临时熔解爆炸相邻的墙壁']
+
+### 规则#82 scope='\\bWolves\\b' 命中 1 条
+  KEY  'Wolves gain [quickstep:translocation]'
+       ['狼获得[疾步:tr'→'狼群获得[疾步:tr']
+
+### 规则#83 scope='\\bGoatia\\b' 命中 23 条
+  KEY  'Baby The Goatia reincarnates once upon death'
+       ['幼年献祭山羊死亡时会转生'→'幼年山羊魔死亡时会转'] ['幼年献祭山羊死亡时会转生一次'→'幼年山羊魔死亡时会转生一次']
+  KEY  'Chalice of The Goatia reincarnates once upon death'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'Multicast The Goatia reincarnates once upon death'
+       ['多重施法：献祭山羊死亡时会转生'→'多重施法：山羊魔死亡时会转'] ['重施法：献祭山羊死亡时会转生一次'→'多重施法：山羊魔死亡时会转生一次']
+  KEY  'On death, the Goatia summons [{num_summons}:num_summons] Mind Maggots'
+       ['死亡时，献祭山羊会召唤 [{'→'死亡时，山羊魔会召唤 ['] ['死亡时，献祭山羊会召唤 [{nu'→'死亡时，山羊魔会召唤 [{nu']
+  KEY  'Respawn As The Goatia reincarnates once upon death'
+       ['重生为献祭山羊死亡时会转生'→'重生为山羊魔死亡时会转'] ['重生为献祭山羊死亡时会转生一次'→'重生为山羊魔死亡时会转生一次']
+  KEY  'Robe of The Goatia reincarnates once upon death'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'Skeletal The Goatia reincarnates once upon death'
+       ['骸骨献祭山羊死亡时会转生'→'骸骨山羊魔死亡时会转'] ['骸骨献祭山羊死亡时会转生一次'→'骸骨山羊魔死亡时会转生一次']
+  KEY  'Slimy The Goatia reincarnates once upon death'
+       ['黏滑献祭山羊死亡时会转生'→'黏滑山羊魔死亡时会转'] ['黏滑献祭山羊死亡时会转生一次'→'黏滑山羊魔死亡时会转生一次']
+  KEY  'Summon The Goatia reincarnates once upon death'
+       ['召唤献祭山羊死亡时会转生'→'召唤山羊魔死亡时会转'] ['召唤献祭山羊死亡时会转生一次'→'召唤山羊魔死亡时会转生一次']
+  KEY  'Summon The Goatia reincarnates once upon deaths'
+       ['召唤献祭山羊死亡时会转生'→'召唤山羊魔死亡时会转'] ['召唤献祭山羊死亡时会转生一次'→'召唤山羊魔死亡时会转生一次']
+  KEY  'The Goatia deals [{minion_damage}:minion_damage] [Dark] damage to enemies that d'
+       ['献祭山羊对伤害它的敌'→'山羊魔对伤害它的'] ['献祭山羊对伤害它的敌人造'→'山羊魔对伤害它的敌人造']
+  KEY  'The Goatia reincar..'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death Curse Doll'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death Egg'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  "The Goatia reincarnates once upon death Hunter's Sigil"
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death Oculus'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death Queen'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death Repeater'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death Spawner'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'The Goatia reincarnates once upon death Swarm Summon'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'Touched by The Goatia reincarnates once upon death'
+       ['献祭山羊死亡时会转生'→'山羊魔死亡时会转'] ['献祭山羊死亡时会转生一次'→'山羊魔死亡时会转生一次']
+  KEY  'temporary The Goatia reincarnates once upon death'
+       ['临时献祭山羊死亡时会转生'→'临时山羊魔死亡时会转'] ['临时献祭山羊死亡时会转生一次'→'临时山羊魔死亡时会转生一次']
+
+### 规则#84 scope='\\bGolden Bull\\b' 命中 1 条
+  KEY  'Minos, The Golden Bull'
+       ['米诺斯，黄金之牛'→'米诺斯，黄金公牛']
+
+### 规则#85 scope='\\bBeam' 命中 325 条
+  KEY  'Acid Beam Bonus'
+       ['酸液射线加成'→'酸液光束加成']
+  KEY  'Any Beam Bonus'
+       ['任意射线加成'→'任意光束加成']
+  KEY  'Arcane Beam Bonus'
+       ['奥术射线加成'→'奥术光束加成']
+  KEY  'Arrow Beam Bonus'
+       ['箭射线加成'→'箭光束加成']
+  KEY  'At the beginning of each level, gain the [Devastation:arcane] buff for [{duratio'
+       ['随机敌人施放虚空射线'→'随机敌人施放虚空光束']
+  KEY  'Baby Beam'
+       ['幼年射线'→'幼年光束']
+  KEY  'Baby Physical Beam'
+       ['幼年物理射线'→'幼年物理光束']
+  KEY  'Baby Poison Beam'
+       ['幼年毒素射线'→'幼年毒素光束']
+  KEY  'Baby Ritual Beam'
+       ['幼年仪式射线'→'幼年仪式光束']
+  KEY  'Baby Shield Beam'
+       ['幼年护盾射线'→'幼年护盾光束']
+  KEY  'Baby Slime Beam'
+       ['幼年黏液射线'→'幼年黏液光束']
+  KEY  'Baby Sorcery Beam'
+       ['幼年巫术射线'→'幼年巫术光束']
+  KEY  'Baby Spider Beam'
+       ['幼年蛛类射线'→'幼年蛛类光束']
+  KEY  'Baby Thunderstrike Beam'
+       ['幼年雷袭射线'→'幼年雷袭光束']
+  KEY  'Baby Tongue Beam'
+       ['幼年巨舌射线'→'幼年巨舌光束']
+  KEY  'Baby Translocation Beam'
+       ['幼年移转射线'→'幼年移转光束']
+  KEY  'Baby Undead Beam'
+       ['幼年不死射线'→'幼年不死光束']
+  KEY  'Baby Water Beam'
+       ['幼年水射线'→'幼年水光束']
+  KEY  'Baby Word Beam'
+       ['幼年言灵射线'→'幼年言灵光束']
+  KEY  'Beam Curse Doll'
+       ['射线咒术人偶'→'光束咒术人偶']
+  KEY  'Beam Egg'
+       ['射线蛋'→'光束蛋']
+  KEY  "Beam Hunter's Sigil"
+       ['射线猎手印记'→'光束猎手印记']
+  KEY  'Beam Oculus'
+       ['射线魔眼'→'光束魔眼']
+  KEY  'Beam Queen'
+       ['射线女王'→'光束女王']
+  KEY  'Beam Repeater'
+       ['射线连发'→'光束连发']
+  KEY  'Beam Spawner'
+       ['射线生成器'→'光束生成器']
+  KEY  'Beam Swarm Summon'
+       ['射线虫群召唤'→'光束虫群召唤']
+  KEY  'Blood Beam Bonus'
+       ['血射线加成'→'血光束加成']
+  KEY  'Chalice of Beam'
+       ['射线圣杯'→'光束圣杯']
+  KEY  'Chalice of Physical Beam'
+       ['物理射线圣杯'→'物理光束圣杯']
+  KEY  'Chalice of Poison Beam'
+       ['毒素射线圣杯'→'毒素光束圣杯']
+  KEY  'Chalice of Ritual Beam'
+       ['仪式射线圣杯'→'仪式光束圣杯']
+  KEY  'Chalice of Shield Beam'
+       ['护盾射线圣杯'→'护盾光束圣杯']
+  KEY  'Chalice of Slime Beam'
+       ['黏液射线圣杯'→'黏液光束圣杯']
+  KEY  'Chalice of Sorcery Beam'
+       ['巫术射线圣杯'→'巫术光束圣杯']
+  KEY  'Chalice of Spider Beam'
+       ['蛛类射线圣杯'→'蛛类光束圣杯']
+  KEY  'Chalice of Thunderstrike Beam'
+       ['雷袭射线圣杯'→'雷袭光束圣杯']
+  KEY  'Chalice of Tongue Beam'
+       ['巨舌射线圣杯'→'巨舌光束圣杯']
+  KEY  'Chalice of Translocation Beam'
+       ['移转射线圣杯'→'移转光束圣杯']
+  KEY  'Chalice of Undead Beam'
+       ['不死射线圣杯'→'不死光束圣杯']
+  KEY  'Chalice of Water Beam'
+       ['水射线圣杯'→'水光束圣杯']
+  KEY  'Chalice of Word Beam'
+       ['言灵射线圣杯'→'言灵光束圣杯']
+  KEY  'Chaos Beam Bonus'
+       ['混沌射线加成'→'混沌光束加成']
+  KEY  'Conjuration Beam Bonus'
+       ['咒法射线加成'→'咒法光束加成']
+  KEY  'Construct Beam Bonus'
+       ['构装体射线加成'→'构装体光束加成']
+  KEY  'Consumable Beam Bonus'
+       ['消耗品射线加成'→'消耗品光束加成']
+  KEY  'Dark Beam Bonus'
+       ['黑暗射线加成'→'黑暗光束加成']
+  KEY  'Demon Beam Bonus'
+       ['恶魔射线加成'→'恶魔光束加成']
+  KEY  'Dragon Beam Bonus'
+       ['龙射线加成'→'龙光束加成']
+  KEY  'Each turn, cast Void Beam on up to [{num}:num_targets] random enemies'
+       ['随机敌人施放虚空射线'→'随机敌人施放虚空光束']
+  KEY  'Elemental Beam Bonus'
+       ['元素射线加成'→'元素光束加成']
+  KEY  'Enchantment Beam Bonus'
+       ['附魔射线加成'→'附魔光束加成']
+  KEY  'Eye Beam Bonus'
+       ['眼魔射线加成'→'眼魔光束加成']
+  KEY  'Fang Beam Bonus'
+       ['利齿射线加成'→'利齿光束加成']
+  KEY  'Fire Beam Bonus'
+       ['火射线加成'→'火光束加成']
+  KEY  'Glass Beam Bonus'
+       ['玻璃射线加成'→'玻璃光束加成']
+  KEY  'Glassification Beam Bonus'
+       ['玻璃化射线加成'→'玻璃化光束加成']
+  KEY  'Heal Beam Bonus'
+       ['治疗射线加成'→'治疗光束加成']
+  KEY  'Holy Beam Bonus'
+       ['神圣射线加成'→'神圣光束加成']
+  KEY  'Ice Beam Bonus'
+       ['冰射线加成'→'冰光束加成']
+  KEY  'Immolate Beam Bonus'
+       ['焚烧射线加成'→'焚烧光束加成']
+  KEY  'Leap Beam Bonus'
+       ['跃击射线加成'→'跃击光束加成']
+  KEY  'Lightning Beam Bonus'
+       ['闪电射线加成'→'闪电光束加成']
+  KEY  'Living Beam Bonus'
+       ['活物射线加成'→'活物光束加成']
+  KEY  'Metallic Beam Bonus'
+       ['金属射线加成'→'金属光束加成']
+  KEY  'Multicast Beam'
+       ['多重施法：射线'→'多重施法：光束']
+  KEY  'Multicast Physical Beam'
+       ['多重施法：物理射线'→'多重施法：物理光束']
+  KEY  'Multicast Poison Beam'
+       ['多重施法：毒素射线'→'多重施法：毒素光束']
+  KEY  'Multicast Ritual Beam'
+       ['多重施法：仪式射线'→'多重施法：仪式光束']
+  KEY  'Multicast Shield Beam'
+       ['多重施法：护盾射线'→'多重施法：护盾光束']
+  KEY  'Multicast Slime Beam'
+       ['多重施法：黏液射线'→'多重施法：黏液光束']
+  KEY  'Multicast Sorcery Beam'
+       ['多重施法：巫术射线'→'多重施法：巫术光束']
+  KEY  'Multicast Spider Beam'
+       ['多重施法：蛛类射线'→'多重施法：蛛类光束']
+  KEY  'Multicast Thunderstrike Beam'
+       ['多重施法：雷袭射线'→'多重施法：雷袭光束']
+  KEY  'Multicast Tongue Beam'
+       ['多重施法：巨舌射线'→'多重施法：巨舌光束']
+  KEY  'Multicast Translocation Beam'
+       ['多重施法：移转射线'→'多重施法：移转光束']
+  KEY  'Multicast Undead Beam'
+       ['多重施法：不死射线'→'多重施法：不死光束']
+  KEY  'Multicast Water Beam'
+       ['多重施法：水射线'→'多重施法：水光束']
+  KEY  'Multicast Word Beam'
+       ['多重施法：言灵射线'→'多重施法：言灵光束']
+  KEY  'Music Beam Bonus'
+       ['音乐射线加成'→'音乐光束加成']
+  KEY  'Nature Beam Bonus'
+       ['自然射线加成'→'自然光束加成']
+  KEY  'Orb Beam Bonus'
+       ['宝珠射线加成'→'宝珠光束加成']
+  KEY  'Petrification Beam Bonus'
+       ['石化射线加成'→'石化光束加成']
+  KEY  'Physical Beam'
+       ['物理射线'→'物理光束']
+  KEY  'Physical Beam Bonus'
+       ['物理射线加成'→'物理光束加成']
+  KEY  'Physical Beam Curse Doll'
+       ['物理射线咒术人偶'→'物理光束咒术人偶']
+  KEY  'Physical Beam Egg'
+       ['物理射线蛋'→'物理光束蛋']
+  KEY  "Physical Beam Hunter's Sigil"
+       ['物理射线猎手印记'→'物理光束猎手印记']
+  KEY  'Physical Beam Oculus'
+       ['物理射线魔眼'→'物理光束魔眼']
+  KEY  'Physical Beam Queen'
+       ['物理射线女王'→'物理光束女王']
+  KEY  'Physical Beam Repeater'
+       ['物理射线连发'→'物理光束连发']
+  KEY  'Physical Beam Spawner'
+       ['物理射线生成器'→'物理光束生成器']
+  KEY  'Physical Beam Swarm Summon'
+       ['物理射线虫群召唤'→'物理光束虫群召唤']
+  KEY  'Poison Beam'
+       ['毒素射线'→'毒素光束']
+  KEY  'Poison Beam Bonus'
+       ['中毒射线加成'→'中毒光束加成']
+  KEY  'Poison Beam Curse Doll'
+       ['毒素射线咒术人偶'→'毒素光束咒术人偶']
+  KEY  'Poison Beam Egg'
+       ['毒素射线蛋'→'毒素光束蛋']
+  KEY  "Poison Beam Hunter's Sigil"
+       ['毒素射线猎手印记'→'毒素光束猎手印记']
+  KEY  'Poison Beam Oculus'
+       ['毒素射线魔眼'→'毒素光束魔眼']
+  KEY  'Poison Beam Queen'
+       ['毒素射线女王'→'毒素光束女王']
+  KEY  'Poison Beam Repeater'
+       ['毒素射线连发'→'毒素光束连发']
+  KEY  'Poison Beam Spawner'
+       ['毒素射线生成器'→'毒素光束生成器']
+  KEY  'Poison Beam Swarm Summon'
+       ['毒素射线虫群召唤'→'毒素光束虫群召唤']
+  KEY  'Respawn As Beam'
+       ['重生为射线'→'重生为光束']
+  KEY  'Respawn As Physical Beam'
+       ['重生为物理射线'→'重生为物理光束']
+  KEY  'Respawn As Poison Beam'
+       ['重生为毒素射线'→'重生为毒素光束']
+  KEY  'Respawn As Ritual Beam'
+       ['重生为仪式射线'→'重生为仪式光束']
+  KEY  'Respawn As Shield Beam'
+       ['重生为护盾射线'→'重生为护盾光束']
+  KEY  'Respawn As Slime Beam'
+       ['重生为黏液射线'→'重生为黏液光束']
+  KEY  'Respawn As Sorcery Beam'
+       ['重生为巫术射线'→'重生为巫术光束']
+  KEY  'Respawn As Spider Beam'
+       ['重生为蛛类射线'→'重生为蛛类光束']
+  KEY  'Respawn As Thunderstrike Beam'
+       ['重生为雷袭射线'→'重生为雷袭光束']
+  KEY  'Respawn As Tongue Beam'
+       ['重生为巨舌射线'→'重生为巨舌光束']
+  KEY  'Respawn As Translocation Beam'
+       ['重生为移转射线'→'重生为移转光束']
+  KEY  'Respawn As Undead Beam'
+       ['重生为不死射线'→'重生为不死光束']
+  KEY  'Respawn As Water Beam'
+       ['重生为水射线'→'重生为水光束']
+  KEY  'Respawn As Word Beam'
+       ['重生为言灵射线'→'重生为言灵光束']
+  KEY  'Ritual Beam'
+       ['仪式射线'→'仪式光束']
+  KEY  'Ritual Beam Bonus'
+       ['仪式射线加成'→'仪式光束加成']
+  KEY  'Ritual Beam Curse Doll'
+       ['仪式射线咒术人偶'→'仪式光束咒术人偶']
+  KEY  'Ritual Beam Egg'
+       ['仪式射线蛋'→'仪式光束蛋']
+  KEY  "Ritual Beam Hunter's Sigil"
+       ['仪式射线猎手印记'→'仪式光束猎手印记']
+  KEY  'Ritual Beam Oculus'
+       ['仪式射线魔眼'→'仪式光束魔眼']
+  KEY  'Ritual Beam Queen'
+       ['仪式射线女王'→'仪式光束女王']
+  KEY  'Ritual Beam Repeater'
+       ['仪式射线连发'→'仪式光束连发']
+  KEY  'Ritual Beam Spawner'
+       ['仪式射线生成器'→'仪式光束生成器']
+  KEY  'Ritual Beam Swarm Summon'
+       ['仪式射线虫群召唤'→'仪式光束虫群召唤']
+  KEY  'Robe of Beam'
+       ['射线法袍'→'光束法袍']
+  KEY  'Robe of Physical Beam'
+       ['物理射线法袍'→'物理光束法袍']
+  KEY  'Robe of Poison Beam'
+       ['毒素射线法袍'→'毒素光束法袍']
+  KEY  'Robe of Ritual Beam'
+       ['仪式射线法袍'→'仪式光束法袍']
+  KEY  'Robe of Shield Beam'
+       ['护盾射线法袍'→'护盾光束法袍']
+  KEY  'Robe of Slime Beam'
+       ['黏液射线法袍'→'黏液光束法袍']
+  KEY  'Robe of Sorcery Beam'
+       ['巫术射线法袍'→'巫术光束法袍']
+  KEY  'Robe of Spider Beam'
+       ['蛛类射线法袍'→'蛛类光束法袍']
+  KEY  'Robe of Thunderstrike Beam'
+       ['雷袭射线法袍'→'雷袭光束法袍']
+  KEY  'Robe of Tongue Beam'
+       ['巨舌射线法袍'→'巨舌光束法袍']
+  KEY  'Robe of Translocation Beam'
+       ['移转射线法袍'→'移转光束法袍']
+  KEY  'Robe of Undead Beam'
+       ['不死射线法袍'→'不死光束法袍']
+  KEY  'Robe of Water Beam'
+       ['水射线法袍'→'水光束法袍']
+  KEY  'Robe of Word Beam'
+       ['言灵射线法袍'→'言灵光束法袍']
+  KEY  'Shield Beam'
+       ['护盾射线'→'护盾光束']
+  KEY  'Shield Beam Bonus'
+       ['护盾射线加成'→'护盾光束加成']
+  KEY  'Shield Beam Curse Doll'
+       ['护盾射线咒术人偶'→'护盾光束咒术人偶']
+  KEY  'Shield Beam Egg'
+       ['护盾射线蛋'→'护盾光束蛋']
+  KEY  "Shield Beam Hunter's Sigil"
+       ['护盾射线猎手印记'→'护盾光束猎手印记']
+  KEY  'Shield Beam Oculus'
+       ['护盾射线魔眼'→'护盾光束魔眼']
+  KEY  'Shield Beam Queen'
+       ['护盾射线女王'→'护盾光束女王']
+  KEY  'Shield Beam Repeater'
+       ['护盾射线连发'→'护盾光束连发']
+  KEY  'Shield Beam Spawner'
+       ['护盾射线生成器'→'护盾光束生成器']
+  KEY  'Shield Beam Swarm Summon'
+       ['护盾射线虫群召唤'→'护盾光束虫群召唤']
+  KEY  'Skeletal Beam'
+       ['骸骨射线'→'骸骨光束']
+  KEY  'Skeletal Physical Beam'
+       ['骸骨物理射线'→'骸骨物理光束']
+  KEY  'Skeletal Poison Beam'
+       ['骸骨毒素射线'→'骸骨毒素光束']
+  KEY  'Skeletal Ritual Beam'
+       ['骸骨仪式射线'→'骸骨仪式光束']
+  KEY  'Skeletal Shield Beam'
+       ['骸骨护盾射线'→'骸骨护盾光束']
+  KEY  'Skeletal Slime Beam'
+       ['骸骨黏液射线'→'骸骨黏液光束']
+  KEY  'Skeletal Sorcery Beam'
+       ['骸骨巫术射线'→'骸骨巫术光束']
+  KEY  'Skeletal Spider Beam'
+       ['骸骨蛛类射线'→'骸骨蛛类光束']
+  KEY  'Skeletal Thunderstrike Beam'
+       ['骸骨雷袭射线'→'骸骨雷袭光束']
+  KEY  'Skeletal Tongue Beam'
+       ['骸骨巨舌射线'→'骸骨巨舌光束']
+  KEY  'Skeletal Translocation Beam'
+       ['骸骨移转射线'→'骸骨移转光束']
+  KEY  'Skeletal Undead Beam'
+       ['骸骨不死射线'→'骸骨不死光束']
+  KEY  'Skeletal Water Beam'
+       ['骸骨水射线'→'骸骨水光束']
+  KEY  'Skeletal Word Beam'
+       ['骸骨言灵射线'→'骸骨言灵光束']
+  KEY  'Slime Beam'
+       ['黏液射线'→'黏液光束']
+  KEY  'Slime Beam Bonus'
+       ['黏液射线加成'→'黏液光束加成']
+  KEY  'Slime Beam Curse Doll'
+       ['黏液射线咒术人偶'→'黏液光束咒术人偶']
+  KEY  'Slime Beam Egg'
+       ['黏液射线蛋'→'黏液光束蛋']
+  KEY  "Slime Beam Hunter's Sigil"
+       ['黏液射线猎手印记'→'黏液光束猎手印记']
+  KEY  'Slime Beam Oculus'
+       ['黏液射线魔眼'→'黏液光束魔眼']
+  KEY  'Slime Beam Queen'
+       ['黏液射线女王'→'黏液光束女王']
+  KEY  'Slime Beam Repeater'
+       ['黏液射线连发'→'黏液光束连发']
+  KEY  'Slime Beam Spawner'
+       ['黏液射线生成器'→'黏液光束生成器']
+  KEY  'Slime Beam Swarm Summon'
+       ['黏液射线虫群召唤'→'黏液光束虫群召唤']
+  KEY  'Slimy Beam'
+       ['黏滑射线'→'黏滑光束']
+  KEY  'Slimy Physical Beam'
+       ['黏滑物理射线'→'黏滑物理光束']
+  KEY  'Slimy Poison Beam'
+       ['黏滑毒素射线'→'黏滑毒素光束']
+  KEY  'Slimy Ritual Beam'
+       ['黏滑仪式射线'→'黏滑仪式光束']
+  KEY  'Slimy Shield Beam'
+       ['黏滑护盾射线'→'黏滑护盾光束']
+  KEY  'Slimy Slime Beam'
+       ['黏滑黏液射线'→'黏滑黏液光束']
+  KEY  'Slimy Sorcery Beam'
+       ['黏滑巫术射线'→'黏滑巫术光束']
+  KEY  'Slimy Spider Beam'
+       ['黏滑蛛类射线'→'黏滑蛛类光束']
+  KEY  'Slimy Thunderstrike Beam'
+       ['黏滑雷袭射线'→'黏滑雷袭光束']
+  KEY  'Slimy Tongue Beam'
+       ['黏滑巨舌射线'→'黏滑巨舌光束']
+  KEY  'Slimy Translocation Beam'
+       ['黏滑移转射线'→'黏滑移转光束']
+  KEY  'Slimy Undead Beam'
+       ['黏滑不死射线'→'黏滑不死光束']
+  KEY  'Slimy Water Beam'
+       ['黏滑水射线'→'黏滑水光束']
+  KEY  'Slimy Word Beam'
+       ['黏滑言灵射线'→'黏滑言灵光束']
+  KEY  'Sorcery Beam'
+       ['巫术射线'→'巫术光束']
+  KEY  'Sorcery Beam Bonus'
+       ['巫术射线加成'→'巫术光束加成']
+  KEY  'Sorcery Beam Curse Doll'
+       ['巫术射线咒术人偶'→'巫术光束咒术人偶']
+  KEY  'Sorcery Beam Egg'
+       ['巫术射线蛋'→'巫术光束蛋']
+  KEY  "Sorcery Beam Hunter's Sigil"
+       ['巫术射线猎手印记'→'巫术光束猎手印记']
+  KEY  'Sorcery Beam Oculus'
+       ['巫术射线魔眼'→'巫术光束魔眼']
+  KEY  'Sorcery Beam Queen'
+       ['巫术射线女王'→'巫术光束女王']
+  KEY  'Sorcery Beam Repeater'
+       ['巫术射线连发'→'巫术光束连发']
+  KEY  'Sorcery Beam Spawner'
+       ['巫术射线生成器'→'巫术光束生成器']
+  KEY  'Sorcery Beam Swarm Summon'
+       ['巫术射线虫群召唤'→'巫术光束虫群召唤']
+  KEY  'Spider Beam'
+       ['蛛类射线'→'蛛类光束']
+  KEY  'Spider Beam Bonus'
+       ['蛛类射线加成'→'蛛类光束加成']
+  KEY  'Spider Beam Curse Doll'
+       ['蛛类射线咒术人偶'→'蛛类光束咒术人偶']
+  KEY  'Spider Beam Egg'
+       ['蛛类射线蛋'→'蛛类光束蛋']
+  KEY  "Spider Beam Hunter's Sigil"
+       ['蛛类射线猎手印记'→'蛛类光束猎手印记']
+  KEY  'Spider Beam Oculus'
+       ['蛛类射线魔眼'→'蛛类光束魔眼']
+  KEY  'Spider Beam Queen'
+       ['蛛类射线女王'→'蛛类光束女王']
+  KEY  'Spider Beam Repeater'
+       ['蛛类射线连发'→'蛛类光束连发']
+  KEY  'Spider Beam Spawner'
+       ['蛛类射线生成器'→'蛛类光束生成器']
+  KEY  'Spider Beam Swarm Summon'
+       ['蛛类射线虫群召唤'→'蛛类光束虫群召唤']
+  KEY  'Summon Beam'
+       ['召唤射线'→'召唤光束']
+  KEY  'Summon Beams'
+       ['召唤射线'→'召唤光束']
+  KEY  'Summon Physical Beam'
+       ['召唤物理射线'→'召唤物理光束']
+  KEY  'Summon Physical Beams'
+       ['召唤物理射线'→'召唤物理光束']
+  KEY  'Summon Poison Beam'
+       ['召唤毒素射线'→'召唤毒素光束']
+  KEY  'Summon Poison Beams'
+       ['召唤毒素射线'→'召唤毒素光束']
+  KEY  'Summon Ritual Beam'
+       ['召唤仪式射线'→'召唤仪式光束']
+  KEY  'Summon Ritual Beams'
+       ['召唤仪式射线'→'召唤仪式光束']
+  KEY  'Summon Shield Beam'
+       ['召唤护盾射线'→'召唤护盾光束']
+  KEY  'Summon Shield Beams'
+       ['召唤护盾射线'→'召唤护盾光束']
+  KEY  'Summon Slime Beam'
+       ['召唤黏液射线'→'召唤黏液光束']
+  KEY  'Summon Slime Beams'
+       ['召唤黏液射线'→'召唤黏液光束']
+  KEY  'Summon Sorcery Beam'
+       ['召唤巫术射线'→'召唤巫术光束']
+  KEY  'Summon Sorcery Beams'
+       ['召唤巫术射线'→'召唤巫术光束']
+  KEY  'Summon Spider Beam'
+       ['召唤蛛类射线'→'召唤蛛类光束']
+  KEY  'Summon Spider Beams'
+       ['召唤蛛类射线'→'召唤蛛类光束']
+  KEY  'Summon Thunderstrike Beam'
+       ['召唤雷袭射线'→'召唤雷袭光束']
+  KEY  'Summon Thunderstrike Beams'
+       ['召唤雷袭射线'→'召唤雷袭光束']
+  KEY  'Summon Tongue Beam'
+       ['召唤巨舌射线'→'召唤巨舌光束']
+  KEY  'Summon Tongue Beams'
+       ['召唤巨舌射线'→'召唤巨舌光束']
+  KEY  'Summon Translocation Beam'
+       ['召唤移转射线'→'召唤移转光束']
+  KEY  'Summon Translocation Beams'
+       ['召唤移转射线'→'召唤移转光束']
+  KEY  'Summon Undead Beam'
+       ['召唤不死射线'→'召唤不死光束']
+  KEY  'Summon Undead Beams'
+       ['召唤不死射线'→'召唤不死光束']
+  KEY  'Summon Water Beam'
+       ['召唤水射线'→'召唤水光束']
+  KEY  'Summon Water Beams'
+       ['召唤水射线'→'召唤水光束']
+  KEY  'Summon Word Beam'
+       ['召唤言灵射线'→'召唤言灵光束']
+  KEY  'Summon Word Beams'
+       ['召唤言灵射线'→'召唤言灵光束']
+  KEY  'Thunderstrike Beam'
+       ['雷袭射线'→'雷袭光束']
+  KEY  'Thunderstrike Beam Bonus'
+       ['雷袭射线加成'→'雷袭光束加成']
+  KEY  'Thunderstrike Beam Curse Doll'
+       ['雷袭射线咒术人偶'→'雷袭光束咒术人偶']
+  KEY  'Thunderstrike Beam Egg'
+       ['雷袭射线蛋'→'雷袭光束蛋']
+  KEY  "Thunderstrike Beam Hunter's Sigil"
+       ['雷袭射线猎手印记'→'雷袭光束猎手印记']
+  KEY  'Thunderstrike Beam Oculus'
+       ['雷袭射线魔眼'→'雷袭光束魔眼']
+  KEY  'Thunderstrike Beam Queen'
+       ['雷袭射线女王'→'雷袭光束女王']
+  KEY  'Thunderstrike Beam Repeater'
+       ['雷袭射线连发'→'雷袭光束连发']
+  KEY  'Thunderstrike Beam Spawner'
+       ['雷袭射线生成器'→'雷袭光束生成器']
+  KEY  'Thunderstrike Beam Swarm Summon'
+       ['雷袭射线虫群召唤'→'雷袭光束虫群召唤']
+  KEY  'Tongue Beam'
+       ['巨舌射线'→'巨舌光束']
+  KEY  'Tongue Beam Bonus'
+       ['巨舌射线加成'→'巨舌光束加成']
+  KEY  'Tongue Beam Curse Doll'
+       ['巨舌射线咒术人偶'→'巨舌光束咒术人偶']
+  KEY  'Tongue Beam Egg'
+       ['巨舌射线蛋'→'巨舌光束蛋']
+  KEY  "Tongue Beam Hunter's Sigil"
+       ['巨舌射线猎手印记'→'巨舌光束猎手印记']
+  KEY  'Tongue Beam Oculus'
+       ['巨舌射线魔眼'→'巨舌光束魔眼']
+  KEY  'Tongue Beam Queen'
+       ['巨舌射线女王'→'巨舌光束女王']
+  KEY  'Tongue Beam Repeater'
+       ['巨舌射线连发'→'巨舌光束连发']
+  KEY  'Tongue Beam Spawner'
+       ['巨舌射线生成器'→'巨舌光束生成器']
+  KEY  'Tongue Beam Swarm Summon'
+       ['巨舌射线虫群召唤'→'巨舌光束虫群召唤']
+  KEY  'Touched by Beam'
+       ['射线之触'→'光束之触']
+  KEY  'Touched by Physical Beam'
+       ['物理射线之触'→'物理光束之触']
+  KEY  'Touched by Poison Beam'
+       ['毒素射线之触'→'毒素光束之触']
+  KEY  'Touched by Ritual Beam'
+       ['仪式射线之触'→'仪式光束之触']
+  KEY  'Touched by Shield Beam'
+       ['护盾射线之触'→'护盾光束之触']
+  KEY  'Touched by Slime Beam'
+       ['黏液射线之触'→'黏液光束之触']
+  KEY  'Touched by Sorcery Beam'
+       ['巫术射线之触'→'巫术光束之触']
+  KEY  'Touched by Spider Beam'
+       ['蛛类射线之触'→'蛛类光束之触']
+  KEY  'Touched by Thunderstrike Beam'
+       ['雷袭射线之触'→'雷袭光束之触']
+  KEY  'Touched by Tongue Beam'
+       ['巨舌射线之触'→'巨舌光束之触']
+  KEY  'Touched by Translocation Beam'
+       ['移转射线之触'→'移转光束之触']
+  KEY  'Touched by Undead Beam'
+       ['不死射线之触'→'不死光束之触']
+  KEY  'Touched by Water Beam'
+       ['水射线之触'→'水光束之触']
+  KEY  'Touched by Word Beam'
+       ['言灵射线之触'→'言灵光束之触']
+  KEY  'Translocation Beam'
+       ['移转射线'→'移转光束']
+  KEY  'Translocation Beam Bonus'
+       ['移转射线加成'→'移转光束加成']
+  KEY  'Translocation Beam Curse Doll'
+       ['移转射线咒术人偶'→'移转光束咒术人偶']
+  KEY  'Translocation Beam Egg'
+       ['移转射线蛋'→'移转光束蛋']
+  KEY  "Translocation Beam Hunter's Sigil"
+       ['移转射线猎手印记'→'移转光束猎手印记']
+  KEY  'Translocation Beam Oculus'
+       ['移转射线魔眼'→'移转光束魔眼']
+  KEY  'Translocation Beam Queen'
+       ['移转射线女王'→'移转光束女王']
+  KEY  'Translocation Beam Repeater'
+       ['移转射线连发'→'移转光束连发']
+  KEY  'Translocation Beam Spawner'
+       ['移转射线生成器'→'移转光束生成器']
+  KEY  'Translocation Beam Swarm Summon'
+       ['移转射线虫群召唤'→'移转光束虫群召唤']
+  KEY  'Undead Beam'
+       ['不死射线'→'不死光束']
+  KEY  'Undead Beam Bonus'
+       ['不死射线加成'→'不死光束加成']
+  KEY  'Undead Beam Curse Doll'
+       ['不死射线咒术人偶'→'不死光束咒术人偶']
+  KEY  'Undead Beam Egg'
+       ['不死射线蛋'→'不死光束蛋']
+  KEY  "Undead Beam Hunter's Sigil"
+       ['不死射线猎手印记'→'不死光束猎手印记']
+  KEY  'Undead Beam Oculus'
+       ['不死射线魔眼'→'不死光束魔眼']
+  KEY  'Undead Beam Queen'
+       ['不死射线女王'→'不死光束女王']
+  KEY  'Undead Beam Repeater'
+       ['不死射线连发'→'不死光束连发']
+  KEY  'Undead Beam Spawner'
+       ['不死射线生成器'→'不死光束生成器']
+  KEY  'Undead Beam Swarm Summon'
+       ['不死射线虫群召唤'→'不死光束虫群召唤']
+  KEY  'Water Beam'
+       ['水射线'→'水光束']
+  KEY  'Water Beam Bonus'
+       ['水射线加成'→'水光束加成']
+  KEY  'Water Beam Curse Doll'
+       ['水射线咒术人偶'→'水光束咒术人偶']
+  KEY  'Water Beam Egg'
+       ['水射线蛋'→'水光束蛋']
+  KEY  "Water Beam Hunter's Sigil"
+       ['水射线猎手印记'→'水光束猎手印记']
+  KEY  'Water Beam Oculus'
+       ['水射线魔眼'→'水光束魔眼']
+  KEY  'Water Beam Queen'
+       ['水射线女王'→'水光束女王']
+  KEY  'Water Beam Repeater'
+       ['水射线连发'→'水光束连发']
+  KEY  'Water Beam Spawner'
+       ['水射线生成器'→'水光束生成器']
+  KEY  'Water Beam Swarm Summon'
+       ['水射线虫群召唤'→'水光束虫群召唤']
+  KEY  'Word Beam'
+       ['言灵射线'→'言灵光束']
+  KEY  'Word Beam Bonus'
+       ['言灵射线加成'→'言灵光束加成']
+  KEY  'Word Beam Curse Doll'
+       ['言灵射线咒术人偶'→'言灵光束咒术人偶']
+  KEY  'Word Beam Egg'
+       ['言灵射线蛋'→'言灵光束蛋']
+  KEY  "Word Beam Hunter's Sigil"
+       ['言灵射线猎手印记'→'言灵光束猎手印记']
+  KEY  'Word Beam Oculus'
+       ['言灵射线魔眼'→'言灵光束魔眼']
+  KEY  'Word Beam Queen'
+       ['言灵射线女王'→'言灵光束女王']
+  KEY  'Word Beam Repeater'
+       ['言灵射线连发'→'言灵光束连发']
+  KEY  'Word Beam Spawner'
+       ['言灵射线生成器'→'言灵光束生成器']
+  KEY  'Word Beam Swarm Summon'
+       ['言灵射线虫群召唤'→'言灵光束虫群召唤']
+  KEY  'temporary Beam'
+       ['临时射线'→'临时光束']
+  KEY  'temporary Physical Beam'
+       ['临时物理射线'→'临时物理光束']
+  KEY  'temporary Poison Beam'
+       ['临时毒素射线'→'临时毒素光束']
+  KEY  'temporary Ritual Beam'
+       ['临时仪式射线'→'临时仪式光束']
+  KEY  'temporary Shield Beam'
+       ['临时护盾射线'→'临时护盾光束']
+  KEY  'temporary Slime Beam'
+       ['临时黏液射线'→'临时黏液光束']
+  KEY  'temporary Sorcery Beam'
+       ['临时巫术射线'→'临时巫术光束']
+  KEY  'temporary Spider Beam'
+       ['临时蛛类射线'→'临时蛛类光束']
+  KEY  'temporary Thunderstrike Beam'
+       ['临时雷袭射线'→'临时雷袭光束']
+  KEY  'temporary Tongue Beam'
+       ['临时巨舌射线'→'临时巨舌光束']
+  KEY  'temporary Translocation Beam'
+       ['临时移转射线'→'临时移转光束']
+  KEY  'temporary Undead Beam'
+       ['临时不死射线'→'临时不死光束']
+  KEY  'temporary Water Beam'
+       ['临时水射线'→'临时水光束']
+  KEY  'temporary Word Beam'
+       ['临时言灵射线'→'临时言灵光束']
+
+### 规则#86 scope='Faeries' 命中 19 条
+  KEY  'Baby Faeries'
+       ['幼年仙灵群'→'幼年仙灵']
+  KEY  'Chalice of Faeries'
+       ['仙灵群圣杯'→'仙灵圣杯']
+  KEY  'Faeries Curse Doll'
+       ['仙灵群咒术人偶'→'仙灵咒术人偶']
+  KEY  'Faeries Egg'
+       ['仙灵群蛋'→'仙灵蛋']
+  KEY  "Faeries Hunter's Sigil"
+       ['仙灵群猎手印记'→'仙灵猎手印记']
+  KEY  'Faeries Oculus'
+       ['仙灵群魔眼'→'仙灵魔眼']
+  KEY  'Faeries Queen'
+       ['仙灵群女王'→'仙灵女王']
+  KEY  'Faeries Repeater'
+       ['仙灵群连发'→'仙灵连发']
+  KEY  'Faeries Spawner'
+       ['仙灵群生成器'→'仙灵生成器']
+  KEY  'Faeries Swarm Summon'
+       ['仙灵群虫群召唤'→'仙灵虫群召唤']
+  KEY  'Multicast Faeries'
+       ['多重施法：仙灵群'→'多重施法：仙灵']
+  KEY  'Respawn As Faeries'
+       ['重生为仙灵群'→'重生为仙灵']
+  KEY  'Robe of Faeries'
+       ['仙灵群法袍'→'仙灵法袍']
+  KEY  'Skeletal Faeries'
+       ['骸骨仙灵群'→'骸骨仙灵']
+  KEY  'Slimy Faeries'
+       ['黏滑仙灵群'→'黏滑仙灵']
+  KEY  'Summon Faeries'
+       ['召唤仙灵群'→'召唤仙灵']
+  KEY  'Summon Faeriess'
+       ['召唤仙灵群'→'召唤仙灵']
+  KEY  'Touched by Faeries'
+       ['仙灵群之触'→'仙灵之触']
+  KEY  'temporary Faeries'
+       ['临时仙灵群'→'临时仙灵']
+
+### 规则#87 scope='\\bPain\\b' 命中 62 条
+  KEY  'Acid Pain Bonus'
+       ['酸液痛楚加成'→'酸液痛苦魔加成']
+  KEY  'Any Pain Bonus'
+       ['任意痛楚加成'→'任意痛苦魔加成']
+  KEY  'Arcane Pain Bonus'
+       ['奥术痛楚加成'→'奥术痛苦魔加成']
+  KEY  'Arrow Pain Bonus'
+       ['箭痛楚加成'→'箭痛苦魔加成']
+  KEY  'Baby Pain'
+       ['幼年痛楚'→'幼年痛苦魔']
+  KEY  'Blood Pain Bonus'
+       ['血痛楚加成'→'血痛苦魔加成']
+  KEY  'Chalice of Pain'
+       ['痛楚圣杯'→'痛苦魔圣杯']
+  KEY  'Chaos Pain Bonus'
+       ['混沌痛楚加成'→'混沌痛苦魔加成']
+  KEY  'Conjuration Pain Bonus'
+       ['咒法痛楚加成'→'咒法痛苦魔加成']
+  KEY  'Construct Pain Bonus'
+       ['构装体痛楚加成'→'构装体痛苦魔加成']
+  KEY  'Consumable Pain Bonus'
+       ['消耗品痛楚加成'→'消耗品痛苦魔加成']
+  KEY  'Dark Pain Bonus'
+       ['黑暗痛楚加成'→'黑暗痛苦魔加成']
+  KEY  'Demon Pain Bonus'
+       ['恶魔痛楚加成'→'恶魔痛苦魔加成']
+  KEY  'Dragon Pain Bonus'
+       ['龙痛楚加成'→'龙痛苦魔加成']
+  KEY  'Elemental Pain Bonus'
+       ['元素痛楚加成'→'元素痛苦魔加成']
+  KEY  'Enchantment Pain Bonus'
+       ['附魔痛楚加成'→'附魔痛苦魔加成']
+  KEY  'Eye Pain Bonus'
+       ['眼魔痛楚加成'→'眼魔痛苦魔加成']
+  KEY  'Fang Pain Bonus'
+       ['利齿痛楚加成'→'利齿痛苦魔加成']
+  KEY  'Fire Pain Bonus'
+       ['火痛楚加成'→'火痛苦魔加成']
+  KEY  'Glass Pain Bonus'
+       ['玻璃痛楚加成'→'玻璃痛苦魔加成']
+  KEY  'Glassification Pain Bonus'
+       ['玻璃化痛楚加成'→'玻璃化痛苦魔加成']
+  KEY  'Heal Pain Bonus'
+       ['治疗痛楚加成'→'治疗痛苦魔加成']
+  KEY  'Holy Pain Bonus'
+       ['神圣痛楚加成'→'神圣痛苦魔加成']
+  KEY  'Ice Pain Bonus'
+       ['冰痛楚加成'→'冰痛苦魔加成']
+  KEY  'Immolate Pain Bonus'
+       ['焚烧痛楚加成'→'焚烧痛苦魔加成']
+  KEY  'Leap Pain Bonus'
+       ['跃击痛楚加成'→'跃击痛苦魔加成']
+  KEY  'Lightning Pain Bonus'
+       ['闪电痛楚加成'→'闪电痛苦魔加成']
+  KEY  'Living Pain Bonus'
+       ['活物痛楚加成'→'活物痛苦魔加成']
+  KEY  'Metallic Pain Bonus'
+       ['金属痛楚加成'→'金属痛苦魔加成']
+  KEY  'Multicast Pain'
+       ['多重施法：痛楚'→'多重施法：痛苦魔']
+  KEY  'Music Pain Bonus'
+       ['音乐痛楚加成'→'音乐痛苦魔加成']
+  KEY  'Nature Pain Bonus'
+       ['自然痛楚加成'→'自然痛苦魔加成']
+  KEY  'Orb Pain Bonus'
+       ['宝珠痛楚加成'→'宝珠痛苦魔加成']
+  KEY  'Pain Curse Doll'
+       ['痛楚咒术人偶'→'痛苦魔咒术人偶']
+  KEY  'Pain Egg'
+       ['痛楚蛋'→'痛苦魔蛋']
+  KEY  "Pain Hunter's Sigil"
+       ['痛楚猎手印记'→'痛苦魔猎手印记']
+  KEY  'Pain Oculus'
+       ['痛楚魔眼'→'痛苦魔魔眼']
+  KEY  'Pain Queen'
+       ['痛楚女王'→'痛苦魔女王']
+  KEY  'Pain Repeater'
+       ['痛楚连发'→'痛苦魔连发']
+  KEY  'Pain Spawner'
+       ['痛楚生成器'→'痛苦魔生成器']
+  KEY  'Pain Swarm Summon'
+       ['痛楚虫群召唤'→'痛苦魔虫群召唤']
+  KEY  'Petrification Pain Bonus'
+       ['石化痛楚加成'→'石化痛苦魔加成']
+  KEY  'Physical Pain Bonus'
+       ['物理痛楚加成'→'物理痛苦魔加成']
+  KEY  'Poison Pain Bonus'
+       ['中毒痛楚加成'→'中毒痛苦魔加成']
+  KEY  'Respawn As Pain'
+       ['重生为痛楚'→'重生为痛苦魔']
+  KEY  'Ritual Pain Bonus'
+       ['仪式痛楚加成'→'仪式痛苦魔加成']
+  KEY  'Robe of Pain'
+       ['痛楚法袍'→'痛苦魔法袍']
+  KEY  'Shield Pain Bonus'
+       ['护盾痛楚加成'→'护盾痛苦魔加成']
+  KEY  'Skeletal Pain'
+       ['骸骨痛楚'→'骸骨痛苦魔']
+  KEY  'Slime Pain Bonus'
+       ['黏液痛楚加成'→'黏液痛苦魔加成']
+  KEY  'Slimy Pain'
+       ['黏滑痛楚'→'黏滑痛苦魔']
+  KEY  'Sorcery Pain Bonus'
+       ['巫术痛楚加成'→'巫术痛苦魔加成']
+  KEY  'Spider Pain Bonus'
+       ['蛛类痛楚加成'→'蛛类痛苦魔加成']
+  KEY  'Summon Pain'
+       ['召唤痛楚'→'召唤痛苦魔']
+  KEY  'Thunderstrike Pain Bonus'
+       ['雷袭痛楚加成'→'雷袭痛苦魔加成']
+  KEY  'Tongue Pain Bonus'
+       ['巨舌痛楚加成'→'巨舌痛苦魔加成']
+  KEY  'Touched by Pain'
+       ['痛楚之触'→'痛苦魔之触']
+  KEY  'Translocation Pain Bonus'
+       ['移转痛楚加成'→'移转痛苦魔加成']
+  KEY  'Undead Pain Bonus'
+       ['不死痛楚加成'→'不死痛苦魔加成']
+  KEY  'Water Pain Bonus'
+       ['水痛楚加成'→'水痛苦魔加成']
+  KEY  'Word Pain Bonus'
+       ['言灵痛楚加成'→'言灵痛苦魔加成']
+  KEY  'temporary Pain'
+       ['临时痛楚'→'临时痛苦魔']
+
+### 规则#88 scope='\\bPale Rider' 命中 19 条
+  KEY  'Baby Pale Rider'
+       ['幼年灰骑士'→'幼年苍白骑士']
+  KEY  'Chalice of Pale Rider'
+       ['灰骑士圣杯'→'苍白骑士圣杯']
+  KEY  'Multicast Pale Rider'
+       ['多重施法：灰骑士'→'多重施法：苍白骑士']
+  KEY  'Pale Rider Curse Doll'
+       ['灰骑士咒术人偶'→'苍白骑士咒术人偶']
+  KEY  'Pale Rider Egg'
+       ['灰骑士蛋'→'苍白骑士蛋']
+  KEY  "Pale Rider Hunter's Sigil"
+       ['灰骑士猎手印记'→'苍白骑士猎手印记']
+  KEY  'Pale Rider Oculus'
+       ['灰骑士魔眼'→'苍白骑士魔眼']
+  KEY  'Pale Rider Queen'
+       ['灰骑士女王'→'苍白骑士女王']
+  KEY  'Pale Rider Repeater'
+       ['灰骑士连发'→'苍白骑士连发']
+  KEY  'Pale Rider Spawner'
+       ['灰骑士生成器'→'苍白骑士生成器']
+  KEY  'Pale Rider Swarm Summon'
+       ['灰骑士虫群召唤'→'苍白骑士虫群召唤']
+  KEY  'Respawn As Pale Rider'
+       ['重生为灰骑士'→'重生为苍白骑士']
+  KEY  'Robe of Pale Rider'
+       ['灰骑士法袍'→'苍白骑士法袍']
+  KEY  'Skeletal Pale Rider'
+       ['骸骨灰骑士'→'骸骨苍白骑士']
+  KEY  'Slimy Pale Rider'
+       ['黏滑灰骑士'→'黏滑苍白骑士']
+  KEY  'Summon Pale Rider'
+       ['召唤灰骑士'→'召唤苍白骑士']
+  KEY  'Summon Pale Riders'
+       ['召唤灰骑士'→'召唤苍白骑士']
+  KEY  'Touched by Pale Rider'
+       ['灰骑士之触'→'苍白骑士之触']
+  KEY  'temporary Pale Rider'
+       ['临时灰骑士'→'临时苍白骑士']
+
+### 规则#89 scope='\\bCastellan Clogs\\b' 命中 18 条
+  KEY  'Baby Castellan Clogs'
+       ['幼年城主木鞋'→'幼年城主木屐']
+  KEY  'Castellan Clogs Curse Doll'
+       ['城主木鞋咒术人偶'→'城主木屐咒术人偶']
+  KEY  'Castellan Clogs Egg'
+       ['城主木鞋蛋'→'城主木屐蛋']
+  KEY  "Castellan Clogs Hunter's Sigil"
+       ['城主木鞋猎手印记'→'城主木屐猎手印记']
+  KEY  'Castellan Clogs Oculus'
+       ['城主木鞋魔眼'→'城主木屐魔眼']
+  KEY  'Castellan Clogs Queen'
+       ['城主木鞋女王'→'城主木屐女王']
+  KEY  'Castellan Clogs Repeater'
+       ['城主木鞋连发'→'城主木屐连发']
+  KEY  'Castellan Clogs Spawner'
+       ['城主木鞋生成器'→'城主木屐生成器']
+  KEY  'Castellan Clogs Swarm Summon'
+       ['城主木鞋虫群召唤'→'城主木屐虫群召唤']
+  KEY  'Chalice of Castellan Clogs'
+       ['城主木鞋圣杯'→'城主木屐圣杯']
+  KEY  'Multicast Castellan Clogs'
+       ['多重施法：城主木鞋'→'多重施法：城主木屐']
+  KEY  'Respawn As Castellan Clogs'
+       ['重生为城主木鞋'→'重生为城主木屐']
+  KEY  'Robe of Castellan Clogs'
+       ['城主木鞋法袍'→'城主木屐法袍']
+  KEY  'Skeletal Castellan Clogs'
+       ['骸骨城主木鞋'→'骸骨城主木屐']
+  KEY  'Slimy Castellan Clogs'
+       ['黏滑城主木鞋'→'黏滑城主木屐']
+  KEY  'Summon Castellan Clogs'
+       ['召唤城主木鞋'→'召唤城主木屐']
+  KEY  'Touched by Castellan Clogs'
+       ['城主木鞋之触'→'城主木屐之触']
+  KEY  'temporary Castellan Clogs'
+       ['临时城主木鞋'→'临时城主木屐']
+
+### 规则#90 scope='\\bSeal of Searing' 命中 19 条
+  KEY  'Baby Seal of Searing'
+       ['幼年炙烤之印'→'幼年灼热封印']
+  KEY  'Chalice of Seal of Searing'
+       ['炙烤之印圣杯'→'灼热封印圣杯']
+  KEY  'Multicast Seal of Searing'
+       ['多重施法：炙烤之印'→'多重施法：灼热封印']
+  KEY  'Respawn As Seal of Searing'
+       ['重生为炙烤之印'→'重生为灼热封印']
+  KEY  'Robe of Seal of Searing'
+       ['炙烤之印法袍'→'灼热封印法袍']
+  KEY  'Seal of Searing Curse Doll'
+       ['炙烤之印咒术人偶'→'灼热封印咒术人偶']
+  KEY  'Seal of Searing Egg'
+       ['炙烤之印蛋'→'灼热封印蛋']
+  KEY  "Seal of Searing Hunter's Sigil"
+       ['炙烤之印猎手印记'→'灼热封印猎手印记']
+  KEY  'Seal of Searing Oculus'
+       ['炙烤之印魔眼'→'灼热封印魔眼']
+  KEY  'Seal of Searing Queen'
+       ['炙烤之印女王'→'灼热封印女王']
+  KEY  'Seal of Searing Repeater'
+       ['炙烤之印连发'→'灼热封印连发']
+  KEY  'Seal of Searing Spawner'
+       ['炙烤之印生成器'→'灼热封印生成器']
+  KEY  'Seal of Searing Swarm Summon'
+       ['炙烤之印虫群召唤'→'灼热封印虫群召唤']
+  KEY  'Skeletal Seal of Searing'
+       ['骸骨炙烤之印'→'骸骨灼热封印']
+  KEY  'Slimy Seal of Searing'
+       ['黏滑炙烤之印'→'黏滑灼热封印']
+  KEY  'Summon Seal of Searing'
+       ['召唤炙烤之印'→'召唤灼热封印']
+  KEY  'Summon Seal of Searings'
+       ['召唤炙烤之印'→'召唤灼热封印']
+  KEY  'Touched by Seal of Searing'
+       ['炙烤之印之触'→'灼热封印之触']
+  KEY  'temporary Seal of Searing'
+       ['临时炙烤之印'→'临时灼热封印']
+
+### 规则#91 scope='\\bChanneling' 命中 19 条
+  KEY  'Baby Channeling'
+       ['幼年引导中'→'幼年引导']
+  KEY  'Chalice of Channeling'
+       ['引导中圣杯'→'引导圣杯']
+  KEY  'Channeling Curse Doll'
+       ['引导中咒术人偶'→'引导咒术人偶']
+  KEY  'Channeling Egg'
+       ['引导中蛋'→'引导蛋']
+  KEY  "Channeling Hunter's Sigil"
+       ['引导中猎手印记'→'引导猎手印记']
+  KEY  'Channeling Oculus'
+       ['引导中魔眼'→'引导魔眼']
+  KEY  'Channeling Queen'
+       ['引导中女王'→'引导女王']
+  KEY  'Channeling Repeater'
+       ['引导中连发'→'引导连发']
+  KEY  'Channeling Spawner'
+       ['引导中生成器'→'引导生成器']
+  KEY  'Channeling Swarm Summon'
+       ['引导中虫群召唤'→'引导虫群召唤']
+  KEY  'Multicast Channeling'
+       ['多重施法：引导中'→'多重施法：引导']
+  KEY  'Respawn As Channeling'
+       ['重生为引导中'→'重生为引导']
+  KEY  'Robe of Channeling'
+       ['引导中法袍'→'引导法袍']
+  KEY  'Skeletal Channeling'
+       ['骸骨引导中'→'骸骨引导']
+  KEY  'Slimy Channeling'
+       ['黏滑引导中'→'黏滑引导']
+  KEY  'Summon Channeling'
+       ['召唤引导中'→'召唤引导']
+  KEY  'Summon Channelings'
+       ['召唤引导中'→'召唤引导']
+  KEY  'Touched by Channeling'
+       ['引导中之触'→'引导之触']
+  KEY  'temporary Channeling'
+       ['临时引导中'→'临时引导']
+
+### 规则#92 scope='Each bolt bounces' 命中 1 条
+  KEY  'Each bolt bounces once to an enemy in line of sight of its target'
+       ['每道射线会反弹一次，射向'→'每道弹矢会反弹一次，射向']
+
+### 规则#93 scope='\\bClogs' 命中 41 条
+  KEY  'Baby Cantrip Clogs'
+       ['幼年戏法木鞋'→'幼年戏法木屐']
+  KEY  'Baby Kobold Clogs'
+       ['幼年狗头人木鞋'→'幼年狗头人木屐']
+  KEY  'Cantrip Clogs'
+       ['戏法木鞋'→'戏法木屐']
+  KEY  'Cantrip Clogs Curse Doll'
+       ['戏法木鞋咒术人偶'→'戏法木屐咒术人偶']
+  KEY  'Cantrip Clogs Egg'
+       ['戏法木鞋蛋'→'戏法木屐蛋']
+  KEY  "Cantrip Clogs Hunter's Sigil"
+       ['戏法木鞋猎手印记'→'戏法木屐猎手印记']
+  KEY  'Cantrip Clogs Oculus'
+       ['戏法木鞋魔眼'→'戏法木屐魔眼']
+  KEY  'Cantrip Clogs Queen'
+       ['戏法木鞋女王'→'戏法木屐女王']
+  KEY  'Cantrip Clogs Repeater'
+       ['戏法木鞋连发'→'戏法木屐连发']
+  KEY  'Cantrip Clogs Spawner'
+       ['戏法木鞋生成器'→'戏法木屐生成器']
+  KEY  'Cantrip Clogs Swarm Summon'
+       ['戏法木鞋虫群召唤'→'戏法木屐虫群召唤']
+  KEY  'Chalice of Cantrip Clogs'
+       ['戏法木鞋圣杯'→'戏法木屐圣杯']
+  KEY  'Chalice of Kobold Clogs'
+       ['狗头人木鞋圣杯'→'狗头人木屐圣杯']
+  KEY  'Kobold Clogs'
+       ['狗头人木鞋'→'狗头人木屐']
+  KEY  'Kobold Clogs Curse Doll'
+       ['狗头人木鞋咒术人偶'→'狗头人木屐咒术人偶']
+  KEY  'Kobold Clogs Egg'
+       ['狗头人木鞋蛋'→'狗头人木屐蛋']
+  KEY  "Kobold Clogs Hunter's Sigil"
+       ['狗头人木鞋猎手印记'→'狗头人木屐猎手印记']
+  KEY  'Kobold Clogs Oculus'
+       ['狗头人木鞋魔眼'→'狗头人木屐魔眼']
+  KEY  'Kobold Clogs Queen'
+       ['狗头人木鞋女王'→'狗头人木屐女王']
+  KEY  'Kobold Clogs Repeater'
+       ['狗头人木鞋连发'→'狗头人木屐连发']
+  KEY  'Kobold Clogs Spawner'
+       ['狗头人木鞋生成器'→'狗头人木屐生成器']
+  KEY  'Kobold Clogs Swarm Summon'
+       ['狗头人木鞋虫群召唤'→'狗头人木屐虫群召唤']
+  KEY  'Multicast Cantrip Clogs'
+       ['多重施法：戏法木鞋'→'多重施法：戏法木屐']
+  KEY  'Multicast Kobold Clogs'
+       ['重施法：狗头人木鞋'→'重施法：狗头人木屐']
+  KEY  'Respawn As Cantrip Clogs'
+       ['重生为戏法木鞋'→'重生为戏法木屐']
+  KEY  'Respawn As Kobold Clogs'
+       ['重生为狗头人木鞋'→'重生为狗头人木屐']
+  KEY  'Robe of Cantrip Clogs'
+       ['戏法木鞋法袍'→'戏法木屐法袍']
+  KEY  'Robe of Kobold Clogs'
+       ['狗头人木鞋法袍'→'狗头人木屐法袍']
+  KEY  'Skeletal Cantrip Clogs'
+       ['骸骨戏法木鞋'→'骸骨戏法木屐']
+  KEY  'Skeletal Kobold Clogs'
+       ['骸骨狗头人木鞋'→'骸骨狗头人木屐']
+  KEY  'Slimy Cantrip Clogs'
+       ['黏滑戏法木鞋'→'黏滑戏法木屐']
+  KEY  'Slimy Kobold Clogs'
+       ['黏滑狗头人木鞋'→'黏滑狗头人木屐']
+  KEY  'Summon Cantrip Clogs'
+       ['召唤戏法木鞋'→'召唤戏法木屐']
+  KEY  'Summon Cantrip Clogss'
+       ['召唤戏法木鞋'→'召唤戏法木屐']
+  KEY  'Summon Castellan Clogss'
+       ['召唤城主木鞋'→'召唤城主木屐']
+  KEY  'Summon Kobold Clogs'
+       ['召唤狗头人木鞋'→'召唤狗头人木屐']
+  KEY  'Summon Kobold Clogss'
+       ['召唤狗头人木鞋'→'召唤狗头人木屐']
+  KEY  'Touched by Cantrip Clogs'
+       ['戏法木鞋之触'→'戏法木屐之触']
+  KEY  'Touched by Kobold Clogs'
+       ['狗头人木鞋之触'→'狗头人木屐之触']
+  KEY  'temporary Cantrip Clogs'
+       ['临时戏法木鞋'→'临时戏法木屐']
+  KEY  'temporary Kobold Clogs'
+       ['临时狗头人木鞋'→'临时狗头人木屐']
+
+### 规则#94 scope='\\bVenom Bear\\b' 命中 20 条
+  KEY  'Baby Summons a Venom Bear instead'
+       ['年改为召唤一头毒液熊'→'年改为召唤一头毒熊']
+  KEY  'Chalice of Summons a Venom Bear instead'
+       ['改为召唤一头毒液熊圣杯'→'改为召唤一头毒熊圣杯']
+  KEY  'Multicast Summons a Venom Bear instead'
+       ['：改为召唤一头毒液熊'→'：改为召唤一头毒熊']
+  KEY  'Respawn As Summons a Venom Bear instead'
+       ['为改为召唤一头毒液熊'→'为改为召唤一头毒熊']
+  KEY  'Robe of Summons a Venom Bear instead'
+       ['改为召唤一头毒液熊法袍'→'改为召唤一头毒熊法袍']
+  KEY  'Skeletal Summons a Venom Bear instead'
+       ['骨改为召唤一头毒液熊'→'骨改为召唤一头毒熊']
+  KEY  'Slimy Summons a Venom Bear instead'
+       ['滑改为召唤一头毒液熊'→'滑改为召唤一头毒熊']
+  KEY  'Summon Summons a Venom Bear instead'
+       ['唤改为召唤一头毒液熊'→'唤改为召唤一头毒熊']
+  KEY  'Summon Summons a Venom Bear insteads'
+       ['唤改为召唤一头毒液熊'→'唤改为召唤一头毒熊']
+  KEY  'Summons a Venom Bear instead'
+       ['改为召唤一头毒液熊'→'改为召唤一头毒熊']
+  KEY  'Summons a Venom Bear instead Curse Doll'
+       ['改为召唤一头毒液熊咒术人偶'→'改为召唤一头毒熊咒术人偶']
+  KEY  'Summons a Venom Bear instead Egg'
+       ['改为召唤一头毒液熊蛋'→'改为召唤一头毒熊蛋']
+  KEY  "Summons a Venom Bear instead Hunter's Sigil"
+       ['改为召唤一头毒液熊猎手印记'→'改为召唤一头毒熊猎手印记']
+  KEY  'Summons a Venom Bear instead Oculus'
+       ['改为召唤一头毒液熊魔眼'→'改为召唤一头毒熊魔眼']
+  KEY  'Summons a Venom Bear instead Queen'
+       ['改为召唤一头毒液熊女王'→'改为召唤一头毒熊女王']
+  KEY  'Summons a Venom Bear instead Repeater'
+       ['改为召唤一头毒液熊连发'→'改为召唤一头毒熊连发']
+  KEY  'Summons a Venom Bear instead Spawner'
+       ['改为召唤一头毒液熊生成器'→'改为召唤一头毒熊生成器']
+  KEY  'Summons a Venom Bear instead Swarm Summon'
+       ['改为召唤一头毒液熊虫群召唤'→'改为召唤一头毒熊虫群召唤']
+  KEY  'Touched by Summons a Venom Bear instead'
+       ['改为召唤一头毒液熊之触'→'改为召唤一头毒熊之触']
+  KEY  'temporary Summons a Venom Bear instead'
+       ['时改为召唤一头毒液熊'→'时改为召唤一头毒熊']
+
+### 规则#95 scope='\\bPsychic Seedling\\b' 命中 1 条
+  KEY  'Faeries can cast your Psychic Seedling spell on a 10 turn cool down'
+       ['可以施放你的心灵种籽法术，冷却 10'→'可以施放你的心灵幼苗法术，冷却 10']
+
+### 规则#96 scope='\\bDragon Claw\\b' 命中 1 条
+  KEY  'When you take a step, cast Dragon Claw on a random adjacent enemy'
+       ['相邻敌人施放龙爪'→'相邻敌人施放龙爪术']
+
+### 规则#97 scope='\\bRain of Fire\\b' 命中 1 条
+  KEY  'Casting Volcanic Eruption also casts a single turn of your Rain of Fire spell'
+       ['施放一回合你的火焰之雨'→'施放一回合你的火雨']
+
+### 规则#98 scope='\\bScuttler\\b' 命中 1 条
+  KEY  'If you complete the ritual, summon a Scuttler in each unoccupied affected floor '
+       ['地板格上召唤一只横行蟹'→'地板格上召唤一只疾爬者']
+
+### 规则#99 scope='\\bAllied\\b' 命中 1 条
+  KEY  'Allied Constructs take 3 turns in a row'
+       ['我方构装体连续行动'→'友方构装体连续行动']
+
+### 规则#100 scope='\\bRot Sprout' 命中 20 条
+  KEY  'Baby Rot Sprouts'
+       ['幼年腐朽抽芽'→'幼年腐朽苗芽']
+  KEY  'Chalice of Rot Sprouts'
+       ['腐朽抽芽圣杯'→'腐朽苗芽圣杯']
+  KEY  'Multicast Rot Sprouts'
+       ['多重施法：腐朽抽芽'→'多重施法：腐朽苗芽']
+  KEY  'Respawn As Rot Sprouts'
+       ['重生为腐朽抽芽'→'重生为腐朽苗芽']
+  KEY  'Robe of Rot Sprouts'
+       ['腐朽抽芽法袍'→'腐朽苗芽法袍']
+  KEY  'Rot Sprouts'
+       ['腐朽抽芽'→'腐朽苗芽']
+  KEY  'Rot Sprouts Curse Doll'
+       ['腐朽抽芽咒术人偶'→'腐朽苗芽咒术人偶']
+  KEY  'Rot Sprouts Egg'
+       ['腐朽抽芽蛋'→'腐朽苗芽蛋']
+  KEY  "Rot Sprouts Hunter's Sigil"
+       ['腐朽抽芽猎手印记'→'腐朽苗芽猎手印记']
+  KEY  'Rot Sprouts Oculus'
+       ['腐朽抽芽魔眼'→'腐朽苗芽魔眼']
+  KEY  'Rot Sprouts Queen'
+       ['腐朽抽芽女王'→'腐朽苗芽女王']
+  KEY  'Rot Sprouts Repeater'
+       ['腐朽抽芽连发'→'腐朽苗芽连发']
+  KEY  'Rot Sprouts Spawner'
+       ['腐朽抽芽生成器'→'腐朽苗芽生成器']
+  KEY  'Rot Sprouts Swarm Summon'
+       ['腐朽抽芽虫群召唤'→'腐朽苗芽虫群召唤']
+  KEY  'Skeletal Rot Sprouts'
+       ['骸骨腐朽抽芽'→'骸骨腐朽苗芽']
+  KEY  'Slimy Rot Sprouts'
+       ['黏滑腐朽抽芽'→'黏滑腐朽苗芽']
+  KEY  'Summon Rot Sprouts'
+       ['召唤腐朽抽芽'→'召唤腐朽苗芽']
+  KEY  'Summon Rot Sproutss'
+       ['召唤腐朽抽芽'→'召唤腐朽苗芽']
+  KEY  'Touched by Rot Sprouts'
+       ['腐朽抽芽之触'→'腐朽苗芽之触']
+  KEY  'temporary Rot Sprouts'
+       ['临时腐朽抽芽'→'临时腐朽苗芽']
+
+### 规则#101 scope='\\bWyrm' 命中 19 条
+  KEY  'Baby Wyrm'
+       ['幼年蟠龙'→'幼年蛟龙']
+  KEY  'Chalice of Wyrm'
+       ['蟠龙圣杯'→'蛟龙圣杯']
+  KEY  'Multicast Wyrm'
+       ['多重施法：蟠龙'→'多重施法：蛟龙']
+  KEY  'Respawn As Wyrm'
+       ['重生为蟠龙'→'重生为蛟龙']
+  KEY  'Robe of Wyrm'
+       ['蟠龙法袍'→'蛟龙法袍']
+  KEY  'Skeletal Wyrm'
+       ['骸骨蟠龙'→'骸骨蛟龙']
+  KEY  'Slimy Wyrm'
+       ['黏滑蟠龙'→'黏滑蛟龙']
+  KEY  'Summon Wyrm'
+       ['召唤蟠龙'→'召唤蛟龙']
+  KEY  'Summon Wyrms'
+       ['召唤蟠龙'→'召唤蛟龙']
+  KEY  'Touched by Wyrm'
+       ['蟠龙之触'→'蛟龙之触']
+  KEY  'Wyrm Curse Doll'
+       ['蟠龙咒术人偶'→'蛟龙咒术人偶']
+  KEY  'Wyrm Egg'
+       ['蟠龙蛋'→'蛟龙蛋']
+  KEY  "Wyrm Hunter's Sigil"
+       ['蟠龙猎手印记'→'蛟龙猎手印记']
+  KEY  'Wyrm Oculus'
+       ['蟠龙魔眼'→'蛟龙魔眼']
+  KEY  'Wyrm Queen'
+       ['蟠龙女王'→'蛟龙女王']
+  KEY  'Wyrm Repeater'
+       ['蟠龙连发'→'蛟龙连发']
+  KEY  'Wyrm Spawner'
+       ['蟠龙生成器'→'蛟龙生成器']
+  KEY  'Wyrm Swarm Summon'
+       ['蟠龙虫群召唤'→'蛟龙虫群召唤']
+  KEY  'temporary Wyrm'
+       ['临时蟠龙'→'临时蛟龙']
+
+### 规则#102 scope='\\bAura' 命中 145 条
+  KEY  'Acid Crackling Aura Bonus'
+       ['酸液爆鸣灵气加成'→'酸液爆鸣光环加成']
+  KEY  'Any Crackling Aura Bonus'
+       ['任意爆鸣灵气加成'→'任意爆鸣光环加成']
+  KEY  'Arcane Crackling Aura Bonus'
+       ['奥术爆鸣灵气加成'→'奥术爆鸣光环加成']
+  KEY  'Arrow Crackling Aura Bonus'
+       ['箭爆鸣灵气加成'→'箭爆鸣光环加成']
+  KEY  'Aura of Undeath'
+       ['不死灵气'→'不死光环']
+  KEY  'Aura of Undeath Curse Doll'
+       ['不死灵气咒术人偶'→'不死光环咒术人偶']
+  KEY  'Aura of Undeath Egg'
+       ['不死灵气蛋'→'不死光环蛋']
+  KEY  "Aura of Undeath Hunter's Sigil"
+       ['不死灵气猎手印记'→'不死光环猎手印记']
+  KEY  'Aura of Undeath Oculus'
+       ['不死灵气魔眼'→'不死光环魔眼']
+  KEY  'Aura of Undeath Queen'
+       ['不死灵气女王'→'不死光环女王']
+  KEY  'Aura of Undeath Repeater'
+       ['不死灵气连发'→'不死光环连发']
+  KEY  'Aura of Undeath Spawner'
+       ['不死灵气生成器'→'不死光环生成器']
+  KEY  'Aura of Undeath Swarm Summon'
+       ['不死灵气虫群召唤'→'不死光环虫群召唤']
+  KEY  'Baby Aura of Undeath'
+       ['幼年不死灵气'→'幼年不死光环']
+  KEY  'Baby Crackling Aura'
+       ['幼年爆鸣灵气'→'幼年爆鸣光环']
+  KEY  'Baby Holy Aura'
+       ['幼年神圣灵气'→'幼年神圣光环']
+  KEY  'Baby Polar Aura'
+       ['幼年极地灵气'→'幼年极地光环']
+  KEY  'Baby Withering Aura'
+       ['幼年枯萎灵气'→'幼年枯萎光环']
+  KEY  'Blood Crackling Aura Bonus'
+       ['血爆鸣灵气加成'→'血爆鸣光环加成']
+  KEY  'Chalice of Aura of Undeath'
+       ['不死灵气圣杯'→'不死光环圣杯']
+  KEY  'Chalice of Crackling Aura'
+       ['爆鸣灵气圣杯'→'爆鸣光环圣杯']
+  KEY  'Chalice of Holy Aura'
+       ['神圣灵气圣杯'→'神圣光环圣杯']
+  KEY  'Chalice of Polar Aura'
+       ['极地灵气圣杯'→'极地光环圣杯']
+  KEY  'Chalice of Withering Aura'
+       ['枯萎灵气圣杯'→'枯萎光环圣杯']
+  KEY  'Chaos Crackling Aura Bonus'
+       ['混沌爆鸣灵气加成'→'混沌爆鸣光环加成']
+  KEY  'Conjuration Crackling Aura Bonus'
+       ['咒法爆鸣灵气加成'→'咒法爆鸣光环加成']
+  KEY  'Construct Crackling Aura Bonus'
+       ['构装体爆鸣灵气加成'→'构装体爆鸣光环加成']
+  KEY  'Consumable Crackling Aura Bonus'
+       ['消耗品爆鸣灵气加成'→'消耗品爆鸣光环加成']
+  KEY  'Crackling Aura'
+       ['爆鸣灵气'→'爆鸣光环']
+  KEY  'Crackling Aura Curse Doll'
+       ['爆鸣灵气咒术人偶'→'爆鸣光环咒术人偶']
+  KEY  'Crackling Aura Egg'
+       ['爆鸣灵气蛋'→'爆鸣光环蛋']
+  KEY  "Crackling Aura Hunter's Sigil"
+       ['爆鸣灵气猎手印记'→'爆鸣光环猎手印记']
+  KEY  'Crackling Aura Oculus'
+       ['爆鸣灵气魔眼'→'爆鸣光环魔眼']
+  KEY  'Crackling Aura Queen'
+       ['爆鸣灵气女王'→'爆鸣光环女王']
+  KEY  'Crackling Aura Repeater'
+       ['爆鸣灵气连发'→'爆鸣光环连发']
+  KEY  'Crackling Aura Spawner'
+       ['爆鸣灵气生成器'→'爆鸣光环生成器']
+  KEY  'Crackling Aura Swarm Summon'
+       ['爆鸣灵气虫群召唤'→'爆鸣光环虫群召唤']
+  KEY  'Dark Crackling Aura Bonus'
+       ['黑暗爆鸣灵气加成'→'黑暗爆鸣光环加成']
+  KEY  'Demon Crackling Aura Bonus'
+       ['恶魔爆鸣灵气加成'→'恶魔爆鸣光环加成']
+  KEY  'Dragon Crackling Aura Bonus'
+       ['龙爆鸣灵气加成'→'龙爆鸣光环加成']
+  KEY  'Elemental Crackling Aura Bonus'
+       ['元素爆鸣灵气加成'→'元素爆鸣光环加成']
+  KEY  'Enchantment Crackling Aura Bonus'
+       ['附魔爆鸣灵气加成'→'附魔爆鸣光环加成']
+  KEY  'Eye Crackling Aura Bonus'
+       ['眼魔爆鸣灵气加成'→'眼魔爆鸣光环加成']
+  KEY  'Fang Crackling Aura Bonus'
+       ['利齿爆鸣灵气加成'→'利齿爆鸣光环加成']
+  KEY  'Fire Crackling Aura Bonus'
+       ['火爆鸣灵气加成'→'火爆鸣光环加成']
+  KEY  'Glass Crackling Aura Bonus'
+       ['玻璃爆鸣灵气加成'→'玻璃爆鸣光环加成']
+  KEY  'Glassification Crackling Aura Bonus'
+       ['玻璃化爆鸣灵气加成'→'玻璃化爆鸣光环加成']
+  KEY  'Heal Crackling Aura Bonus'
+       ['治疗爆鸣灵气加成'→'治疗爆鸣光环加成']
+  KEY  'Holy Aura'
+       ['神圣灵气'→'神圣光环']
+  KEY  'Holy Aura Curse Doll'
+       ['神圣灵气咒术人偶'→'神圣光环咒术人偶']
+  KEY  'Holy Aura Egg'
+       ['神圣灵气蛋'→'神圣光环蛋']
+  KEY  "Holy Aura Hunter's Sigil"
+       ['神圣灵气猎手印记'→'神圣光环猎手印记']
+  KEY  'Holy Aura Oculus'
+       ['神圣灵气魔眼'→'神圣光环魔眼']
+  KEY  'Holy Aura Queen'
+       ['神圣灵气女王'→'神圣光环女王']
+  KEY  'Holy Aura Repeater'
+       ['神圣灵气连发'→'神圣光环连发']
+  KEY  'Holy Aura Spawner'
+       ['神圣灵气生成器'→'神圣光环生成器']
+  KEY  'Holy Aura Swarm Summon'
+       ['神圣灵气虫群召唤'→'神圣光环虫群召唤']
+  KEY  'Holy Crackling Aura Bonus'
+       ['神圣爆鸣灵气加成'→'神圣爆鸣光环加成']
+  KEY  'Ice Crackling Aura Bonus'
+       ['冰爆鸣灵气加成'→'冰爆鸣光环加成']
+  KEY  'Immolate Crackling Aura Bonus'
+       ['焚烧爆鸣灵气加成'→'焚烧爆鸣光环加成']
+  KEY  'Leap Crackling Aura Bonus'
+       ['跃击爆鸣灵气加成'→'跃击爆鸣光环加成']
+  KEY  'Lightning Crackling Aura Bonus'
+       ['闪电爆鸣灵气加成'→'闪电爆鸣光环加成']
+  KEY  'Living Crackling Aura Bonus'
+       ['活物爆鸣灵气加成'→'活物爆鸣光环加成']
+  KEY  'Metallic Crackling Aura Bonus'
+       ['金属爆鸣灵气加成'→'金属爆鸣光环加成']
+  KEY  'Multicast Aura of Undeath'
+       ['多重施法：不死灵气'→'多重施法：不死光环']
+  KEY  'Multicast Crackling Aura'
+       ['多重施法：爆鸣灵气'→'多重施法：爆鸣光环']
+  KEY  'Multicast Holy Aura'
+       ['多重施法：神圣灵气'→'多重施法：神圣光环']
+  KEY  'Multicast Polar Aura'
+       ['多重施法：极地灵气'→'多重施法：极地光环']
+  KEY  'Multicast Withering Aura'
+       ['多重施法：枯萎灵气'→'多重施法：枯萎光环']
+  KEY  'Music Crackling Aura Bonus'
+       ['音乐爆鸣灵气加成'→'音乐爆鸣光环加成']
+  KEY  'Nature Crackling Aura Bonus'
+       ['自然爆鸣灵气加成'→'自然爆鸣光环加成']
+  KEY  'Orb Crackling Aura Bonus'
+       ['宝珠爆鸣灵气加成'→'宝珠爆鸣光环加成']
+  KEY  'Petrification Crackling Aura Bonus'
+       ['石化爆鸣灵气加成'→'石化爆鸣光环加成']
+  KEY  'Physical Crackling Aura Bonus'
+       ['物理爆鸣灵气加成'→'物理爆鸣光环加成']
+  KEY  'Poison Crackling Aura Bonus'
+       ['中毒爆鸣灵气加成'→'中毒爆鸣光环加成']
+  KEY  'Polar Aura'
+       ['极地灵气'→'极地光环']
+  KEY  'Polar Aura Curse Doll'
+       ['极地灵气咒术人偶'→'极地光环咒术人偶']
+  KEY  'Polar Aura Egg'
+       ['极地灵气蛋'→'极地光环蛋']
+  KEY  "Polar Aura Hunter's Sigil"
+       ['极地灵气猎手印记'→'极地光环猎手印记']
+  KEY  'Polar Aura Oculus'
+       ['极地灵气魔眼'→'极地光环魔眼']
+  KEY  'Polar Aura Queen'
+       ['极地灵气女王'→'极地光环女王']
+  KEY  'Polar Aura Repeater'
+       ['极地灵气连发'→'极地光环连发']
+  KEY  'Polar Aura Spawner'
+       ['极地灵气生成器'→'极地光环生成器']
+  KEY  'Polar Aura Swarm Summon'
+       ['极地灵气虫群召唤'→'极地光环虫群召唤']
+  KEY  'Respawn As Aura of Undeath'
+       ['重生为不死灵气'→'重生为不死光环']
+  KEY  'Respawn As Crackling Aura'
+       ['重生为爆鸣灵气'→'重生为爆鸣光环']
+  KEY  'Respawn As Holy Aura'
+       ['重生为神圣灵气'→'重生为神圣光环']
+  KEY  'Respawn As Polar Aura'
+       ['重生为极地灵气'→'重生为极地光环']
+  KEY  'Respawn As Withering Aura'
+       ['重生为枯萎灵气'→'重生为枯萎光环']
+  KEY  'Ritual Crackling Aura Bonus'
+       ['仪式爆鸣灵气加成'→'仪式爆鸣光环加成']
+  KEY  'Robe of Aura of Undeath'
+       ['不死灵气法袍'→'不死光环法袍']
+  KEY  'Robe of Crackling Aura'
+       ['爆鸣灵气法袍'→'爆鸣光环法袍']
+  KEY  'Robe of Holy Aura'
+       ['神圣灵气法袍'→'神圣光环法袍']
+  KEY  'Robe of Polar Aura'
+       ['极地灵气法袍'→'极地光环法袍']
+  KEY  'Robe of Withering Aura'
+       ['枯萎灵气法袍'→'枯萎光环法袍']
+  KEY  'Shield Crackling Aura Bonus'
+       ['护盾爆鸣灵气加成'→'护盾爆鸣光环加成']
+  KEY  'Skeletal Aura of Undeath'
+       ['骸骨不死灵气'→'骸骨不死光环']
+  KEY  'Skeletal Crackling Aura'
+       ['骸骨爆鸣灵气'→'骸骨爆鸣光环']
+  KEY  'Skeletal Holy Aura'
+       ['骸骨神圣灵气'→'骸骨神圣光环']
+  KEY  'Skeletal Polar Aura'
+       ['骸骨极地灵气'→'骸骨极地光环']
+  KEY  'Skeletal Withering Aura'
+       ['骸骨枯萎灵气'→'骸骨枯萎光环']
+  KEY  'Slime Crackling Aura Bonus'
+       ['黏液爆鸣灵气加成'→'黏液爆鸣光环加成']
+  KEY  'Slimy Aura of Undeath'
+       ['黏滑不死灵气'→'黏滑不死光环']
+  KEY  'Slimy Crackling Aura'
+       ['黏滑爆鸣灵气'→'黏滑爆鸣光环']
+  KEY  'Slimy Holy Aura'
+       ['黏滑神圣灵气'→'黏滑神圣光环']
+  KEY  'Slimy Polar Aura'
+       ['黏滑极地灵气'→'黏滑极地光环']
+  KEY  'Slimy Withering Aura'
+       ['黏滑枯萎灵气'→'黏滑枯萎光环']
+  KEY  'Sorcery Crackling Aura Bonus'
+       ['巫术爆鸣灵气加成'→'巫术爆鸣光环加成']
+  KEY  'Spider Crackling Aura Bonus'
+       ['蛛类爆鸣灵气加成'→'蛛类爆鸣光环加成']
+  KEY  'Summon Aura of Undeath'
+       ['召唤不死灵气'→'召唤不死光环']
+  KEY  'Summon Aura of Undeaths'
+       ['召唤不死灵气'→'召唤不死光环']
+  KEY  'Summon Crackling Aura'
+       ['召唤爆鸣灵气'→'召唤爆鸣光环']
+  KEY  'Summon Crackling Auras'
+       ['召唤爆鸣灵气'→'召唤爆鸣光环']
+  KEY  'Summon Holy Aura'
+       ['召唤神圣灵气'→'召唤神圣光环']
+  KEY  'Summon Holy Auras'
+       ['召唤神圣灵气'→'召唤神圣光环']
+  KEY  'Summon Polar Aura'
+       ['召唤极地灵气'→'召唤极地光环']
+  KEY  'Summon Polar Auras'
+       ['召唤极地灵气'→'召唤极地光环']
+  KEY  'Summon Withering Aura'
+       ['召唤枯萎灵气'→'召唤枯萎光环']
+  KEY  'Summon Withering Auras'
+       ['召唤枯萎灵气'→'召唤枯萎光环']
+  KEY  'The Ice Phoenix can cast your Regeneration Aura on a 12 turn cooldown'
+       ['可以施放你的再生灵气，冷却 12 回'→'可以施放你的再生光环，冷却 12 回']
+  KEY  'Thunderstrike Crackling Aura Bonus'
+       ['雷袭爆鸣灵气加成'→'雷袭爆鸣光环加成']
+  KEY  'Tongue Crackling Aura Bonus'
+       ['巨舌爆鸣灵气加成'→'巨舌爆鸣光环加成']
+  KEY  'Touched by Aura of Undeath'
+       ['不死灵气之触'→'不死光环之触']
+  KEY  'Touched by Crackling Aura'
+       ['爆鸣灵气之触'→'爆鸣光环之触']
+  KEY  'Touched by Holy Aura'
+       ['神圣灵气之触'→'神圣光环之触']
+  KEY  'Touched by Polar Aura'
+       ['极地灵气之触'→'极地光环之触']
+  KEY  'Touched by Withering Aura'
+       ['枯萎灵气之触'→'枯萎光环之触']
+  KEY  'Translocation Crackling Aura Bonus'
+       ['移转爆鸣灵气加成'→'移转爆鸣光环加成']
+  KEY  'Undead Crackling Aura Bonus'
+       ['不死爆鸣灵气加成'→'不死爆鸣光环加成']
+  KEY  'Water Crackling Aura Bonus'
+       ['水爆鸣灵气加成'→'水爆鸣光环加成']
+  KEY  'Withering Aura'
+       ['枯萎灵气'→'枯萎光环']
+  KEY  'Withering Aura Curse Doll'
+       ['枯萎灵气咒术人偶'→'枯萎光环咒术人偶']
+  KEY  'Withering Aura Egg'
+       ['枯萎灵气蛋'→'枯萎光环蛋']
+  KEY  "Withering Aura Hunter's Sigil"
+       ['枯萎灵气猎手印记'→'枯萎光环猎手印记']
+  KEY  'Withering Aura Oculus'
+       ['枯萎灵气魔眼'→'枯萎光环魔眼']
+  KEY  'Withering Aura Queen'
+       ['枯萎灵气女王'→'枯萎光环女王']
+  KEY  'Withering Aura Repeater'
+       ['枯萎灵气连发'→'枯萎光环连发']
+  KEY  'Withering Aura Spawner'
+       ['枯萎灵气生成器'→'枯萎光环生成器']
+  KEY  'Withering Aura Swarm Summon'
+       ['枯萎灵气虫群召唤'→'枯萎光环虫群召唤']
+  KEY  'Word Crackling Aura Bonus'
+       ['言灵爆鸣灵气加成'→'言灵爆鸣光环加成']
+  KEY  'temporary Aura of Undeath'
+       ['临时不死灵气'→'临时不死光环']
+  KEY  'temporary Crackling Aura'
+       ['临时爆鸣灵气'→'临时爆鸣光环']
+  KEY  'temporary Holy Aura'
+       ['临时神圣灵气'→'临时神圣光环']
+  KEY  'temporary Polar Aura'
+       ['临时极地灵气'→'临时极地光环']
+  KEY  'temporary Withering Aura'
+       ['临时枯萎灵气'→'临时枯萎光环']
+
+### 规则#103 scope='\\bBone Knight' 命中 22 条
+  KEY  'Baby Summon Bone Knights'
+       ['幼年召唤白骨骑士'→'幼年召唤骸骨骑士']
+  KEY  'Chalice of Summon Bone Knights'
+       ['召唤白骨骑士圣杯'→'召唤骸骨骑士圣杯']
+  KEY  'Multicast Summon Bone Knights'
+       ['多重施法：召唤白骨骑士'→'多重施法：召唤骸骨骑士']
+  KEY  'Respawn As Summon Bone Knights'
+       ['重生为召唤白骨骑士'→'重生为召唤骸骨骑士']
+  KEY  'Robe of Summon Bone Knights'
+       ['召唤白骨骑士法袍'→'召唤骸骨骑士法袍']
+  KEY  'Skeletal Summon Bone Knights'
+       ['骸骨召唤白骨骑士'→'骸骨召唤骸骨骑士']
+  KEY  'Slimy Summon Bone Knights'
+       ['黏滑召唤白骨骑士'→'黏滑召唤骸骨骑士']
+  KEY  'Summon Bone Knights'
+       ['召唤白骨骑士'→'召唤骸骨骑士']
+  KEY  'Summon Bone Knights Curse Doll'
+       ['召唤白骨骑士咒术人偶'→'召唤骸骨骑士咒术人偶']
+  KEY  'Summon Bone Knights Egg'
+       ['召唤白骨骑士蛋'→'召唤骸骨骑士蛋']
+  KEY  "Summon Bone Knights Hunter's Sigil"
+       ['召唤白骨骑士猎手印记'→'召唤骸骨骑士猎手印记']
+  KEY  'Summon Bone Knights Oculus'
+       ['召唤白骨骑士魔眼'→'召唤骸骨骑士魔眼']
+  KEY  'Summon Bone Knights Queen'
+       ['召唤白骨骑士女王'→'召唤骸骨骑士女王']
+  KEY  'Summon Bone Knights Repeater'
+       ['召唤白骨骑士连发'→'召唤骸骨骑士连发']
+  KEY  'Summon Bone Knights Spawner'
+       ['召唤白骨骑士生成器'→'召唤骸骨骑士生成器']
+  KEY  'Summon Bone Knights Swarm Summon'
+       ['召唤白骨骑士虫群召唤'→'召唤骸骨骑士虫群召唤']
+  KEY  'Summon Summon Bone Knights'
+       ['召唤召唤白骨骑士'→'召唤召唤骸骨骑士']
+  KEY  'Summon Summon Bone Knightss'
+       ['召唤召唤白骨骑士'→'召唤召唤骸骨骑士']
+  KEY  'Summon [{num_summons}:num_summons] Bone Knights nearby'
+       ['mmons] 名白骨骑士'→'mmons] 名骸骨骑士']
+  KEY  'Summon half as many Bone Knight Archers to accompany the Bone Knights'
+       ['召唤一半数量的白骨骑士弓手伴随白'→'召唤一半数量的骸骨骑士弓手伴随骸'] ['白骨骑士弓手伴随白骨骑士'→'骸骨骑士弓手伴随骸骨骑士']
+  KEY  'Touched by Summon Bone Knights'
+       ['召唤白骨骑士之触'→'召唤骸骨骑士之触']
+  KEY  'temporary Summon Bone Knights'
+       ['临时召唤白骨骑士'→'临时召唤骸骨骑士']
+
+### 规则#104 scope='(全局)' 命中 41 条
+  KEY  '\nEnemies in range take [{damage}:damage] [Poison] damage each turn'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  '\nEnemies inside the halo take [{damage}:damage] [Poison] damage and are [poisone'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'Afflict the target with Mercurized for [{duration}:duration] turns\nMercurized un'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'Applies [Acidified:poison] to the target, reducing [Poison] resist by 100%'
+       ['son]，使其[毒素:poiso'→'son]，使其[中毒:poison'] ['on]，使其[毒素:poison]'→'n]，使其[中毒:poison]']
+  KEY  'Bloodshift also deals [Poison] damage'
+       ['血液转移还造成[毒素:poiso'→'血液转移还造成[中毒:poison'] ['液转移还造成[毒素:poison]'→'转移还造成[中毒:poison]']
+  KEY  'Create an expanding area of miasma in a [{radius}:radius] tile burst at the targ'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'Deal [{damage}:damage] [Dark] and [Poison] damage in a [{radius} tile:radius] bu'
+       [':dark]和[毒素:poiso'→':dark]和[中毒:poison'] ['dark]和[毒素:poison]'→'ark]和[中毒:poison]']
+  KEY  'Deal [{damage}:damage] [Poison] damage in a [{radius}:radius] tile burst\nIf the '
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'Death Chill also deals [Poison] damage each turn'
+       ['回合还会造成 [毒素:poiso'→'回合还会造成 [中毒:poison'] ['合还会造成 [毒素:poison]'→'还会造成 [中毒:poison]']
+  KEY  'Each turn spent channeling this spell inflicts [{duration}:duration] turns of a '
+       ['下顺序施加：\n[毒素:poiso'→'下顺序施加：\n[中毒:poison'] ['顺序施加：\n[毒素:poison]'→'序施加：\n[中毒:poison]']
+  KEY  'Each turn, a random enemy is acidified\nAcidified units lose 100 [Poison] resist'
+       ['去 100 点[毒素:poiso'→'去 100 点[中毒:poison'] [' 100 点[毒素:poison]'→'100 点[中毒:poison]']
+  KEY  'Each turn, deal [{damage}:damage] [Dark] and [Poison] damage'
+       ['dark]和 [毒素:poiso'→'dark]和 [中毒:poison'] ['ark]和 [毒素:poison]'→'rk]和 [中毒:poison]']
+  KEY  'Each turn, the nearest [{num_targets}:num_targets] enemies take [Dark] damage\nTh'
+       ['以来所造成全部[毒素:poiso'→'以来所造成全部[中毒:poison'] ['来所造成全部[毒素:poison]'→'所造成全部[中毒:poison]']
+  KEY  'Enemies inside the halo take [Poison] damage and are [poisoned] for [{duration}:'
+       ['环内的敌人受到[毒素:poiso'→'环内的敌人受到[中毒:poison'] ['内的敌人受到[毒素:poison]'→'的敌人受到[中毒:poison]']
+  KEY  'Enemies receive -10% [Dark] and [Poison] resistance before the spell deals damag'
+       [':dark]和[毒素:poiso'→':dark]和[中毒:poison'] ['dark]和[毒素:poison]'→'ark]和[中毒:poison]']
+  KEY  'Icicle also deals [Poison] and [Dark] damage to the target\nReduces a random resi'
+       ['还对目标造成 [毒素:poiso'→'还对目标造成 [中毒:poison'] ['对目标造成 [毒素:poison]'→'目标造成 [中毒:poison]']
+  KEY  'If the ritual is completed, all [poisoned] enemies on the level take [{damage}:d'
+       [':dark]和[毒素:poiso'→':dark]和[中毒:poison'] ['dark]和[毒素:poison]'→'ark]和[中毒:poison]']
+  KEY  'If you would receive the [poison] status or take [Poison] damage, you instead ga'
+       ['n]状态或受到[毒素:poiso'→'n]状态或受到[中毒:poison'] [']状态或受到[毒素:poison]'→'状态或受到[中毒:poison]']
+  KEY  'Inflict [{damage}:damage] [Poison] damage and [{duration}:duration] turns of [po'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  "Lowers an enemy's or raises an ally's [Lightning] and [Arcane] resistances by 75"
+       ['内所有敌人造成[毒素:poiso'→'内所有敌人造成[中毒:poison'] ['所有敌人造成[毒素:poison]'→'有敌人造成[中毒:poison]']
+  KEY  'On Craft:\nIf the crafted equipment has the [Nature] or [Metallic] tag, it gains '
+       ['sical]与[毒素:poiso'→'sical]与[中毒:poison'] ['ical]与[毒素:poison]'→'cal]与[中毒:poison]']
+  KEY  'On Pickup:\nGain 100% resistance to [Dark] and [Poison] damage for the remainder '
+       [':dark]与[毒素:poiso'→':dark]与[中毒:poison'] ['dark]与[毒素:poison]'→'ark]与[中毒:poison]']
+  KEY  'On hit, inflict a stacking aura that deals 3 [Dark] or [Poison] damage within 3 '
+       [':dark]或[毒素:poiso'→':dark]或[中毒:poison'] ['dark]或[毒素:poison]'→'ark]或[中毒:poison]']
+  KEY  'Other [Living] units take [{damage}:damage] [Poison] damage'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'Redeal all non-[Poison] damage dealt to enemies as [Poison] damage'
+       ['人受到的所有非[毒素:poiso'→'人受到的所有非[中毒:poison'] ['受到的所有非[毒素:poison]'→'到的所有非[中毒:poison]'] ['on]伤害转为[毒素:poiso'→'on]伤害转为[中毒:poison'] ['n]伤害转为[毒素:poison]'→']伤害转为[中毒:poison]']
+  KEY  'Redeal damage dealt to enemies by [Demon] allies as [Poison] damage'
+       ['造成的伤害作为[毒素:poiso'→'造成的伤害作为[中毒:poison'] ['成的伤害作为[毒素:poison]'→'的伤害作为[中毒:poison]']
+  KEY  'Redeal non-[Poison] damage you deal as [Poison] damage'
+       ['你造成的非[毒素:poiso'→'你造成的非[中毒:poison'] ['你造成的非[毒素:poison]'→'你造成的非[中毒:poison]'] ['n]伤害会作为[毒素:poiso'→'n]伤害会作为[中毒:poison'] [']伤害会作为[毒素:poison]'→'伤害会作为[中毒:poison]']
+  KEY  'Swap the resistances of units in a [{radius}:radius] tile burst\n[Fire] swaps wit'
+       ['oly]互换\n[毒素:poiso'→'oly]互换\n[中毒:poison'] ['ly]互换\n[毒素:poison]'→'y]互换\n[中毒:poison]']
+  KEY  'Take 1 [Poison] damage each turn\nCannot heal'
+       ['合受到 1 点[毒素:poiso'→'合受到 1 点[中毒:poison'] ['受到 1 点[毒素:poison]'→'到 1 点[中毒:poison]']
+  KEY  'The [Rain Clouds:nature] created by this spell deal [{damage}:damage] [Poison] d'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'Vampiric Gaze also deals [Poison] damage'
+       ['吸血凝视还造成[毒素:poiso'→'吸血凝视还造成[中毒:poison'] ['血凝视还造成[毒素:poison]'→'凝视还造成[中毒:poison]']
+  KEY  'Wave of Dread also deals [Poison] damage and inflicts [{duration}:duration] turn'
+       ['惧之波还会造成[毒素:poiso'→'惧之波还会造成[中毒:poison'] ['之波还会造成[毒素:poison]'→'波还会造成[中毒:poison]']
+  KEY  'When a [poisoned] unit dies, enemies within [{radius}:radius] tiles are [poisone'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'When a unit takes [Poison] damage, heal for that much'
+       ['当单位受到 [毒素:poiso'→'当单位受到 [中毒:poison'] ['当单位受到 [毒素:poison]'→'单位受到 [中毒:poison]']
+  KEY  'When an enemy dies to [Poison] damage, summon a Giant Spider nearby'
+       ['敌人死于[毒素:poiso'→'敌人死于[中毒:poison'] ['敌人死于[毒素:poison]'→'敌人死于[中毒:poison]']
+  KEY  'When an enemy is unfrozen, they take [{damage}:damage] [Poison] damage and are ['
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  'When your allies heal, up to [{num_targets}:num_targets] enemies in line of sigh'
+       ['的敌人受到等量[毒素:poiso'→'的敌人受到等量[中毒:poison'] ['敌人受到等量[毒素:poison]'→'人受到等量[中毒:poison]']
+  KEY  '[Living] and [Nature] allies learn Venom Spit\nVenom Spit deals [{minion_damage}:'
+       ['mage] 点[毒素:poiso'→'mage] 点[中毒:poison'] ['age] 点[毒素:poison]'→'ge] 点[中毒:poison]']
+  KEY  '[Poisoned:poison] units take 1 [Poison] damage each turn and cannot heal'
+       ['合受到 1 点[毒素:poiso'→'合受到 1 点[中毒:poison'] ['受到 1 点[毒素:poison]'→'到 1 点[中毒:poison]']
+  KEY  '[Poisoned] enemies take [{damage}:poison] additional [Poison] damage each turn'
+       ['ison] 点[毒素:poiso'→'ison] 点[中毒:poison'] ['son] 点[毒素:poison]'→'on] 点[中毒:poison]']
+  KEY  '[poison]'
+       ['[毒素:poiso'→'[中毒:poison'] ['[毒素:poison]'→'[中毒:poison]']
